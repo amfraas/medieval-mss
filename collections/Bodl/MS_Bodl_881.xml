@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1869">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1869">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_881-item1" n="1">
+                  <msItem xml:id="MS_Bodl_881-item1" n="1" key="work_2307">
                      <author key="person_14802130">
                         
                         Jacobus de Cessolis
@@ -61,7 +58,7 @@
                      <title>Liber de scacchis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_881-item2" n="2">
+                  <msItem xml:id="MS_Bodl_881-item2" n="2" key="work_4091">
                      <author key="person_303814984">
                         
                         Ps.-Plato
@@ -71,7 +68,7 @@
                      <note>(Latin translation)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_881-item3" n="3">
+                  <msItem xml:id="MS_Bodl_881-item3" n="3" key="work_3711">
                      <author key="person_268955446">
                         
                         Plutarch
@@ -81,7 +78,7 @@
                      <note>(Latin translation)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_881-item4" n="4">
+                  <msItem xml:id="MS_Bodl_881-item4" n="4" key="work_2775">
                      <author key="person_316874550">
                         
                         John Waleys
@@ -90,7 +87,7 @@
                      <title>Breuiloquium de uirtutibus antiquorum principum et philosophorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_881-item5" n="5">
+                  <msItem xml:id="MS_Bodl_881-item5" n="5" key="work_4986">
                      <author key="person_41951136">
                         
                         Willelmus Peraldus
@@ -99,7 +96,7 @@
                      <title>De eruditione principum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_881-item6" n="6">
+                  <msItem xml:id="MS_Bodl_881-item6" n="6" key="work_2231">
                      <author key="person_121674480">
                         
                         Iohannes de Tambaco
@@ -112,7 +109,7 @@
                      <title type="desc">Treatise on the sacraments</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_881-item8" n="8">
+                  <msItem xml:id="MS_Bodl_881-item8" n="8" key="work_1075">
                      <author key="person_88800528">
                         
                         Bernardus Silvestris

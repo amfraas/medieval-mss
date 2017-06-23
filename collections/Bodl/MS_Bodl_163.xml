@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1224">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1224">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_163-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_163-part1-item1" n="1" key="work_968">
                         <author key="person_61539765">
                            
                            Bede
@@ -84,7 +81,7 @@
                         <title>Ecclesiastical history</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_163-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_163-part1-item2" n="2" key="work_281">
                         <author key="person_264407238">
                            
                            Aethelwulf
@@ -122,7 +119,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_163-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_163-part2-item1" n="1" key="work_3227">
                         <author key="person_24618588">
                            
                            Nennius
@@ -131,7 +128,7 @@
                         <title>Historia Britonum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_163-part2-item2" n="2">
+                     <msItem xml:id="MS_Bodl_163-part2-item2" n="2" key="work_4073">
                         <author key="person_2337">
                            
                            Ps.-Methodius

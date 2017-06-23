@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3306">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3306">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -62,7 +59,7 @@
                         <title>Sentences</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_284-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_284-item2" n="2" key="work_1149">
                      <author key="person_89657091">
                         
                         Bonaventure
@@ -71,7 +68,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_284-item3" n="3">
+                  <msItem xml:id="MS_Canon_Misc_284-item3" n="3" key="work_541">
                      <author key="person_100187025">
                         
                         Anselm (?)
@@ -80,7 +77,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_284-item4" n="4">
+                  <msItem xml:id="MS_Canon_Misc_284-item4" n="4" key="work_1057">
                      <author key="person_59875293">
                         
                         Bernard of Clairvaux
@@ -89,7 +86,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_284-item5" n="5">
+                  <msItem xml:id="MS_Canon_Misc_284-item5" n="5" key="work_3988">
                      <author key="person_106211622">
                         
                         Ps.-Dionysius

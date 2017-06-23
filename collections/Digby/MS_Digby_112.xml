@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4235">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4235">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -118,7 +115,7 @@
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_112-part2-item2" n="2">
+                     <msItem xml:id="MS_Digby_112-part2-item2" n="2" key="work_1801">
                         <author key="person_63726052">
                            
                            Godfrey of Winchester
@@ -127,7 +124,7 @@
                         <title>Liber prouerbiorum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_112-part2-item3" n="3">
+                     <msItem xml:id="MS_Digby_112-part2-item3" n="3" key="work_1800">
                         <author key="person_63726052">
                            
                            Godfrey of Winchester

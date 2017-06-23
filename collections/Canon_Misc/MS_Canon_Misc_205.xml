@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3225">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3225">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_205-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_205-item1" n="1" key="work_4218">
                      <author key="person_59251025">
                         
                         Raymond of Capua
@@ -61,7 +58,7 @@
                      <title>Legenda S. Catharinae Senensis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_205-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_205-item2" n="2" key="work_4752">
                      <author key="person_89256025">
                         
                         Thomas Antonii Naccii de Senis
@@ -85,7 +82,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_205-item5" n="5">
+                  <msItem xml:id="MS_Canon_Misc_205-item5" n="5" key="work_1214">
                      <author key="person_90633132">
                         
                         Catherine of Siena
@@ -100,7 +97,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_205-item7" n="7">
+                  <msItem xml:id="MS_Canon_Misc_205-item7" n="7" key="work_4751">
                      <author key="person_89256025">
                         
                         Thomas Antonii Naccii de Senis

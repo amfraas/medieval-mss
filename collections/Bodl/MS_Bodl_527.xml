@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1551">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1551">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_527-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_527-part1-item1" n="1" key="work_2287">
                         <author key="person_56655396">
                            
                            Iuuencus
@@ -117,7 +114,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_527-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_527-part2-item1" n="1" key="work_3806">
                         <author key="person_52485706">
                            
                            Prosper of Aquitaine
@@ -126,7 +123,7 @@
                         <title>Epigrammata ex sententiis S. Augustini</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_527-part2-item2" n="2">
+                     <msItem xml:id="MS_Bodl_527-part2-item2" n="2" key="work_415">
                         <author key="person_12543979">
                            
                            Alexander of Ashby
@@ -160,7 +157,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_527-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_527-part3-item1" n="1" key="work_4969">
                         <author key="person_100212859">
                            
                            Walter of Châtillon

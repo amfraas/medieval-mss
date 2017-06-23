@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3356">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3356">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_333-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_333-item1" n="1" key="work_2469">
                      <author key="person_268286342">
                         
                         Johannes Climacus
@@ -62,7 +59,7 @@
                      <note>(Latin tr.)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_333-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_333-item2" n="2" key="work_3498">
                      <author key="person_50018008">
                         
                         Peter Damian
@@ -72,7 +69,7 @@
                      <note>(Dominus uobiscum, c. xix, here attrib. Basil the Great)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_333-item3" n="3">
+                  <msItem xml:id="MS_Canon_Misc_333-item3" n="3" key="work_3960">
                      <author key="person_289681963">
                         
                         Ps.-Bonaventure

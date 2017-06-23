@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3599">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3599">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_554-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_554-item1" n="1" key="work_3800">
                      <author key="person_79129869">Prosdocimus de Beldemandis</author>
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_554-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_554-item2" n="2" key="work_4095">
                      <author key="person_31816106">Ps.-Ptolemy</author>
                      <title>Centiloquium</title>
                      <textLang mainLang="la">Latin</textLang>

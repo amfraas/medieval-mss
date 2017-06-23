@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4083">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4083">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_DOrville_146-item1" n="1">
+                  <msItem xml:id="MS_DOrville_146-item1" n="1" key="work_3003">
                      <author key="person_100218901">
                         Lucian
                      </author>
@@ -60,7 +57,7 @@
                      <note>Latin translation</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_146-item2" n="2">
+                  <msItem xml:id="MS_DOrville_146-item2" n="2" key="work_4740">
                      <author key="person_265397758">
                         Theophrastus
                      </author>
@@ -68,7 +65,7 @@
                      <note>Latin translation</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_146-item3" n="3">
+                  <msItem xml:id="MS_DOrville_146-item3" n="3" key="work_1334">
                      <author key="person_100219060">
                         Cornelius Nepos
                      </author>
@@ -76,21 +73,21 @@
                      <note>(Timoleon, Hamilcar, Hannibal, and extract from Gracchus)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_146-item4" n="4">
+                  <msItem xml:id="MS_DOrville_146-item4" n="4" key="work_3916">
                      <author key="person_117740548">
                         Ps.-Aurelius Victor (Ps.-Pliny the Younger)
                      </author>
                      <title>De uiris illustribus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_146-item5" n="5">
+                  <msItem xml:id="MS_DOrville_146-item5" n="5" key="work_4523">
                      <author key="person_79076696">
                         Sextus Rufus
                      </author>
                      <title>Breuiarium rerum gestarum populi Romani</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_146-item6" n="6">
+                  <msItem xml:id="MS_DOrville_146-item6" n="6" key="work_1002">
                      <author key="person_69731706">
                          	
                         Benvenutus de Imola

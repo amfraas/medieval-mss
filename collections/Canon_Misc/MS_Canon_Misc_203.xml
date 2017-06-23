@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3223">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3223">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_203-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_203-item1" n="1" key="work_608">
                      <author key="person_308211590">
                         
                         Antonius de Scarparia
@@ -68,7 +65,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_203-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_203-item2" n="2" key="work_5067">
                      <author key="person_91729017">
                         
                         William Heytesbury
@@ -78,7 +75,7 @@
                      <note>(with commentary)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_203-item3" n="3">
+                  <msItem xml:id="MS_Canon_Misc_203-item3" n="3" key="work_2322">
                      <author key="person_2074">
                         
                         Jacobus de Utino (?)

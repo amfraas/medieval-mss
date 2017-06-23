@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4222">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4222">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,12 +51,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_100-item1" n="1">
+                  <msItem xml:id="MS_Digby_100-item1" n="1" key="work_959">
                      <author key="person_61539765">Bede</author>
                      <title>De arte metrica</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item2" n="2">
+                  <msItem xml:id="MS_Digby_100-item2" n="2" key="work_3071">
                      <author key="person_241082057">Marbod of Rennes</author>
                      <title>De ornamentis uerborum</title>
                      <textLang mainLang="la">Latin</textLang>
@@ -69,7 +66,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item4" n="4">
+                  <msItem xml:id="MS_Digby_100-item4" n="4" key="work_962">
                      <author key="person_61539765">Bede</author>
                      <title>De schematibus et tropis</title>
                      <textLang mainLang="la">Latin</textLang>
@@ -78,7 +75,7 @@
                      <title>Treatises on metre and prosody</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item6" n="6">
+                  <msItem xml:id="MS_Digby_100-item6" n="6" key="work_239">
                      <author key="person_172789293">Adam of Nutzard (attrib.)</author>
                      <title>Neutrale</title>
                      <textLang mainLang="la">Latin</textLang>
@@ -97,13 +94,13 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item10" n="10">
+                  <msItem xml:id="MS_Digby_100-item10" n="10" key="work_4733">
                      <author key="person_56961813">Theodulus</author>
                      <title>Ecloga</title>
                      <note>(with commentary)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item11" n="11">
+                  <msItem xml:id="MS_Digby_100-item11" n="11" key="work_3286">
                      <author key="person_316463658">Nicholas de Breckendale</author>
                      <title>Deponentiale</title>
                      <textLang mainLang="la">Latin</textLang>
@@ -117,7 +114,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item13" n="13">
+                  <msItem xml:id="MS_Digby_100-item13" n="13" key="work_4138">
                      <author key="person_301124571">Ps.-Virgil</author>
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
@@ -126,18 +123,18 @@
                      <title>Disticha Catonis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item15" n="15">
+                  <msItem xml:id="MS_Digby_100-item15" n="15" key="work_2095">
                      <author key="person_100227522">Horace</author>
                      <title>Epistolae </title>
                      <note>(book i)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item16" n="16">
+                  <msItem xml:id="MS_Digby_100-item16" n="16" key="work_4748">
                      <author key="person_120906504">Thierry of Saint-Trond (Ps.-Ovid)</author>
                      <title>De mirabilibus mundi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item17" n="17">
+                  <msItem xml:id="MS_Digby_100-item17" n="17" key="work_280">
                      <author key="person_64013451">Aesop</author>
                      <title>Fables</title>
                      <note>(part)</note>

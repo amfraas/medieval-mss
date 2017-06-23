@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_951">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_951">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -65,7 +62,7 @@
                      <textLang xml:lang="grc">Greek</textLang>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item1" n="1a">
+                     <msItem xml:id="MS_Barocci_126-item1-item1" n="1a" key="work_89 work_1813">
                      
                         <locus>(fol. iii recto)</locus> 
                         <author key="person_108675755"/>
@@ -78,7 +75,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item2" n="1b">
+                     <msItem xml:id="MS_Barocci_126-item1-item2" n="1b" key="work_16">
                      
                         <locus>(fols. iii verso–2v)</locus>
                         <author key="person_108675755"/> 
@@ -90,7 +87,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item3" n="1c">
+                     <msItem xml:id="MS_Barocci_126-item1-item3" n="1c" key="work_93">
                      
                         <locus>(fols. 2v–4r)</locus>
                         <author key="person_108675755"/> 
@@ -102,7 +99,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item4" n="1d">
+                     <msItem xml:id="MS_Barocci_126-item1-item4" n="1d" key="work_17">
                      
                         <locus>(fols. 4r–33r)</locus>
                         <author key="person_108675755"/>
@@ -113,7 +110,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item5" n="1e">
+                     <msItem xml:id="MS_Barocci_126-item1-item5" n="1e" key="work_3">
                      
                         <locus>(fols. 33r–35r)</locus>
                         <author key="person_108675755"/> 
@@ -124,7 +121,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item6" n="1f">
+                     <msItem xml:id="MS_Barocci_126-item1-item6" n="1f" key="work_72">
                      
                         <locus>(fols. 35r–43v)</locus>
                         <author key="person_108675755"/>
@@ -138,7 +135,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item7" n="1g">
+                     <msItem xml:id="MS_Barocci_126-item1-item7" n="1g" key="work_73">
                      
                         <locus>(fols. 43v–50r)</locus>
                         <author key="person_108675755"/> 
@@ -150,7 +147,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item8" n="1h">
+                     <msItem xml:id="MS_Barocci_126-item1-item8" n="1h" key="work_74">
                      
                         <locus>(fols. 50v–64v)</locus> 
                         <author key="person_108675755"/>
@@ -162,7 +159,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item9" n="1i">
+                     <msItem xml:id="MS_Barocci_126-item1-item9" n="1i" key="work_8">
                      
                         <locus>(fols. 64v–90r)</locus>
                         <author key="person_108675755"/> 
@@ -173,7 +170,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item10" n="1j">
+                     <msItem xml:id="MS_Barocci_126-item1-item10" n="1j" key="work_9">
                      
                         <locus>(fols. 90r–101r)</locus>
                         <author key="person_108675755"/>
@@ -184,7 +181,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item11" n="1k">
+                     <msItem xml:id="MS_Barocci_126-item1-item11" n="1k" key="work_88">
                      
                         <locus>(fols. 101v–107v)</locus>
                         <author key="person_108675755"/> 
@@ -195,7 +192,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item12" n="1l">
+                     <msItem xml:id="MS_Barocci_126-item1-item12" n="1l" key="work_7">
                      
                         <locus>(fols. 107v–110r)</locus>
                         <author key="person_108675755"/> 
@@ -207,7 +204,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item13" n="1m">
+                     <msItem xml:id="MS_Barocci_126-item1-item13" n="1m" key="work_137">
                      
                         <locus>(fols. 110r–120r)</locus> 
                         <author key="person_108675755"/>
@@ -219,7 +216,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item14" n="1n">
+                     <msItem xml:id="MS_Barocci_126-item1-item14" n="1n" key="work_138">
                      
                         <locus>(fols. 120r–126v)</locus> 
                         <author key="person_108675755"/>
@@ -230,7 +227,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item15" n="1o">
+                     <msItem xml:id="MS_Barocci_126-item1-item15" n="1o" key="work_135">
                      
                         <locus>(fols. 126v–133r)</locus>
                         <author key="person_108675755"/> 
@@ -241,7 +238,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item16" n="1p">
+                     <msItem xml:id="MS_Barocci_126-item1-item16" n="1p" key="work_136">
                      
                         <locus>(fols. 133r–141v)</locus> 
                         <author key="person_108675755"/>
@@ -252,7 +249,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item17" n="1q">
+                     <msItem xml:id="MS_Barocci_126-item1-item17" n="1q" key="work_6">
                      
                         <locus>(fols. 142r–146r)</locus>
                         <author key="person_108675755"/> 
@@ -263,7 +260,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item18" n="1r">
+                     <msItem xml:id="MS_Barocci_126-item1-item18" n="1r" key="work_37">
                      
                         <locus>(fols. 146v–149r)</locus>
                         <author key="person_108675755"/> 
@@ -274,7 +271,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item19" n="1s">
+                     <msItem xml:id="MS_Barocci_126-item1-item19" n="1s" key="work_129">
                      
                         <locus>(fols. 149v–153v)</locus>
                         <author key="person_108675755"/> 
@@ -286,7 +283,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item20" n="1t">
+                     <msItem xml:id="MS_Barocci_126-item1-item20" n="1t" key="work_44">
                      
                         <locus>(fols. 153v–161v)</locus>
                         <author key="person_108675755"/>
@@ -297,7 +294,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item21" n="1u">
+                     <msItem xml:id="MS_Barocci_126-item1-item21" n="1u" key="work_92">
                      
                         <locus>(fols. 161v–167r)</locus>
                         <author key="person_108675755"/> 
@@ -308,7 +305,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item22" n="1v">
+                     <msItem xml:id="MS_Barocci_126-item1-item22" n="1v" key="work_52">
                      
                         <locus>(fols. 167r–170v)</locus>
                         <author key="person_108675755"/> 
@@ -319,7 +316,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item23" n="1w">
+                     <msItem xml:id="MS_Barocci_126-item1-item23" n="1w" key="work_5">
                      
                         <locus>(fols. 170v–172r)</locus>
                         <author key="person_108675755"/> 
@@ -329,7 +326,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item24" n="1x">
+                     <msItem xml:id="MS_Barocci_126-item1-item24" n="1x" key="work_86">
                      
                         <locus>(fols. 172r–178r)</locus>
                         <author key="person_108675755"/> 
@@ -341,7 +338,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item25" n="1y">
+                     <msItem xml:id="MS_Barocci_126-item1-item25" n="1y" key="work_121">
                      
                         <locus>(fols. 178r–179r)</locus>
                         <author key="person_108675755"/>  
@@ -352,7 +349,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item26" n="1z">
+                     <msItem xml:id="MS_Barocci_126-item1-item26" n="1z" key="work_120">
                      
                         <locus>(fol. 179r)</locus> 
                         <author key="person_108675755"/> 
@@ -365,7 +362,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item27" n="1aa">
+                     <msItem xml:id="MS_Barocci_126-item1-item27" n="1aa" key="work_76">
                      
                         <locus>(fols. 179r–180r)</locus>
                         <author key="person_108675755"/>
@@ -376,7 +373,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item28" n="1bb">
+                     <msItem xml:id="MS_Barocci_126-item1-item28" n="1bb" key="work_58">
                      
                         <locus>(fols. 180r–181v)</locus>
                         <author key="person_108675755"/> 
@@ -389,7 +386,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item29" n="1cc">
+                     <msItem xml:id="MS_Barocci_126-item1-item29" n="1cc" key="work_130">
                      
                         <locus>(fols. 181v–182v)</locus>
                         <author key="person_108675755"/>  
@@ -400,7 +397,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item30" n="1dd">
+                     <msItem xml:id="MS_Barocci_126-item1-item30" n="1dd" key="work_60">
                      
                         <locus>(fols. 182v–185r)</locus>
                         <author key="person_108675755"/> 
@@ -410,7 +407,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item31" n="1ee">
+                     <msItem xml:id="MS_Barocci_126-item1-item31" n="1ee" key="work_61">
                      
                         <locus>(fols. 185v–187r)</locus>
                         <author key="person_108675755"/> 
@@ -420,7 +417,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item32" n="1ff">
+                     <msItem xml:id="MS_Barocci_126-item1-item32" n="1ff" key="work_63">
                      
                         <locus>(fols. 187r–188r)</locus>
                         <author key="person_108675755"/> 
@@ -430,7 +427,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item33" n="1gg">
+                     <msItem xml:id="MS_Barocci_126-item1-item33" n="1gg" key="work_82">
                      
                         <locus>(fols. 188r–191v)</locus>
                         <author key="person_108675755"/> 
@@ -441,7 +438,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item34" n="1hh">
+                     <msItem xml:id="MS_Barocci_126-item1-item34" n="1hh" key="work_2">
                      
                         <locus>(fols. 191v–195r)</locus>
                         <author key="person_108675755"/> 
@@ -452,7 +449,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item35" n="1ii">
+                     <msItem xml:id="MS_Barocci_126-item1-item35" n="1ii" key="work_123">
                      
                         <locus>(fols. 195r–202v)</locus>
                         <author key="person_108675755"/>
@@ -464,7 +461,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item36" n="1jj">
+                     <msItem xml:id="MS_Barocci_126-item1-item36" n="1jj" key="work_134">
                      
                         <locus>(fols. 202v–206v)</locus> 
                         <author key="person_108675755"/>
@@ -489,7 +486,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_126-item1-item38" n="1ll">
+                     <msItem xml:id="MS_Barocci_126-item1-item38" n="1ll" key="work_122">
                      
                         <locus>(fol. 216rv)</locus> 
                         <author key="person_108675755"/>

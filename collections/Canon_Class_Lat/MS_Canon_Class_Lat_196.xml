@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2214">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2214">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Class_Lat_196-item1" n="1">
+                  <msItem xml:id="MS_Canon_Class_Lat_196-item1" n="1" key="work_3977">
                      <author key="person_280852896">
                         
                         Ps.-Cicero
@@ -61,7 +58,7 @@
                      <title>Synonyma</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_196-item2" n="2">
+                  <msItem xml:id="MS_Canon_Class_Lat_196-item2" n="2" key="work_1263">
                      <author key="person_78769600">
                         
                         Cicero
@@ -70,7 +67,7 @@
                      <title>Paradoxa</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_196-item3" n="3">
+                  <msItem xml:id="MS_Canon_Class_Lat_196-item3" n="3" key="work_1271">
                      <author key="person_78769600">
                         
                         Cicero
@@ -79,7 +76,7 @@
                      <title>Somnium Scipionis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_196-item4" n="4">
+                  <msItem xml:id="MS_Canon_Class_Lat_196-item4" n="4" key="work_3819">
                      <author key="person_305360068">
                         
                         Ps.(?)-Cicero

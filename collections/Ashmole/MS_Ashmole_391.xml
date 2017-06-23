@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_339">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_339">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -94,9 +91,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_391-part1-item1"
-                             n="1"
-                             class="#medica #astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_391-part1-item1" n="1" class="#medica #astrologia_astronomia">
                         <title type="desc">Medical and astrological treatises</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
@@ -166,7 +161,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_391-part3-item1" n="1">
+                     <msItem xml:id="MS_Ashmole_391-part3-item1" n="1" key="work_2497">
                         <author key="person_303843361">
                            
                            Johannes Lichtenberger
@@ -201,9 +196,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_391-part4-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_391-part4-item1" n="1" class="#astrologia_astronomia">
                         <title>The
               Nativity of Sir Robert Holborne of Lincolnes Inn.</title>
                         <textLang mainLang="en">English</textLang>
@@ -233,7 +226,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_391-part5-item1" n="1">
+                     <msItem xml:id="MS_Ashmole_391-part5-item1" n="1" key="work_3309">
                         <author key="person_93439642">
                            
                            Nicholas of Lynn
@@ -271,7 +264,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_391-part6-item1" n="1">
+                     <msItem xml:id="MS_Ashmole_391-part6-item1" n="1" key="work_1228">
                         <author key="person_100185203">
                            
                            Geoffrey Chaucer

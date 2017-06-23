@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_462">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_462">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -116,7 +113,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_D_4_12-part2-item1" n="1">
+                     <msItem xml:id="MS_Auct_D_4_12-part2-item1" n="1" key="work_1917">
                         <author key="person_41951136">
                            
               Guillaume Perault
@@ -124,7 +121,7 @@
                         <title>Summa de vitiis et virtutibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_D_4_12-part2-item2" n="2">
+                     <msItem xml:id="MS_Auct_D_4_12-part2-item2" n="2" key="work_3485">
                         <author key="person_63741243">
                            Peregrinus Polonus
                         </author>

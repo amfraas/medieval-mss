@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1544">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1544">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_52-item1" n="1">
+                  <msItem xml:id="MS_Bodl_52-item1" n="1" key="work_4295">
                      <author key="person_2465074">
                         
                         Richard Rolle
@@ -65,7 +62,7 @@
                      <title type="desc">Treatise on buying, selling and usury</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_52-item3" n="3">
+                  <msItem xml:id="MS_Bodl_52-item3" n="3" key="work_2790">
                      <author key="person_68939042">
                         
                         John Wycliffe
@@ -74,7 +71,7 @@
                      <title>De dissensione paparum siue De schismate</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_52-item4" n="4">
+                  <msItem xml:id="MS_Bodl_52-item4" n="4" key="work_4542">
                      <author key="person_171573392">
                         
                         Simon Alcock
@@ -91,7 +88,7 @@
                      <title type="desc">Treatises on mendicant friars</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_52-item7" n="7">
+                  <msItem xml:id="MS_Bodl_52-item7" n="7" key="work_4362">
                      <author key="person_86920837">
                         
                         Robert Grosseteste
@@ -100,7 +97,7 @@
                      <title>De confessione</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_52-item8" n="8">
+                  <msItem xml:id="MS_Bodl_52-item8" n="8" key="work_471">
                      <author key="person_100227669">
                         
                         Ambrose
@@ -109,7 +106,7 @@
                      <title>De uinae Naboth</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_52-item9" n="9">
+                  <msItem xml:id="MS_Bodl_52-item9" n="9" key="work_469">
                      <author key="person_100227669">
                         
                         Ambrose
@@ -119,7 +116,7 @@
                      <note>(part)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_52-item10" n="10">
+                  <msItem xml:id="MS_Bodl_52-item10" n="10" key="work_2536">
                      <author key="person_34597960">
                         
                         Johannes de Annosis
@@ -128,7 +125,7 @@
                      <title>Tractatus contra fratres mendicantes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_52-item11" n="11">
+                  <msItem xml:id="MS_Bodl_52-item11" n="11" key="work_3996">
                      <author key="person_2294">
                         
                         Ps.-Edward

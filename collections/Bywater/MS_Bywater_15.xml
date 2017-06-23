@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2012">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2012">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -62,7 +59,7 @@
                            sentenciosiora pro pueris</title>, Strasburg, 1505 (printed book)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_15-item4">
+                  <msItem xml:id="MS_Bywater_15-item4" key="work_3489">
                      <locus>(fol.145)</locus>
                      <author key="person_100198157">
                         Persius
@@ -83,7 +80,7 @@
                      <colophon>E.K.</colophon>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_15-item6">
+                  <msItem xml:id="MS_Bywater_15-item6" key="work_2098">
                      <locus> (fol.163) </locus>
                      <author key="person_100227522">
                         Horace
@@ -102,7 +99,7 @@
                         suscipe lector opus</explicit>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_15-item8">
+                  <msItem xml:id="MS_Bywater_15-item8" key="work_4137">
                      <locus>(fol.176)</locus>
                      <author key="person_301124571">Ps.-Virgil</author>
                      <title>De septem viciis</title>
@@ -110,7 +107,7 @@
                      <note>As printed.</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_15-item9">
+                  <msItem xml:id="MS_Bywater_15-item9" key="work_2097">
                      <locus>(fol.179)</locus>
                      <author key="person_100227522">
                         Horace
@@ -148,7 +145,7 @@
                      <rubric>Zoilus vel Emulus</rubric>
                      <note>A dialogue on poetry, pr. Speier, n.d. (Proctor 2427), preceded as in
                         the edition by:</note>
-                     <msItem xml:id="MS_Bywater_15-item12-item1">
+                     <msItem xml:id="MS_Bywater_15-item12-item1" key="work_2182">
                         <author key="person_23206634">
                            Iacobus Barinus
                         </author>
@@ -157,7 +154,7 @@
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
                      <note>Followed by:</note>
-                     <msItem xml:id="MS_Bywater_15-item12-item2">
+                     <msItem xml:id="MS_Bywater_15-item12-item2" key="work_2224">
                         <locus>(fol.203v)</locus>
                         <author key="person_23310522">
                            Iohannes Lantzberger
@@ -189,7 +186,7 @@
                      <rubric>Flores excerpti ex Ovidii operibus</rubric>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_15-item15">
+                  <msItem xml:id="MS_Bywater_15-item15" key="work_1338">
                      <locus>(fol.207v)</locus>
                      <author key="person_807154">
                         Crates
@@ -207,7 +204,7 @@
                      </msItem>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_15-item16">
+                  <msItem xml:id="MS_Bywater_15-item16" key="work_4471">
                      <locus>(fol.208) </locus>
                     
                      <author key="person_20829792">
@@ -270,7 +267,7 @@
                      <incipit>Omnes letiferis corruimus malis</incipit>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_15-item21">
+                  <msItem xml:id="MS_Bywater_15-item21" key="work_2758">
                      <locus>(fol.234)</locus>
                      <author key="person_66542815">
                         John Reuchlin

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1342">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1342">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_292-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_292-part1-item1" n="1" key="work_3277">
                         <author key="person_71433906">
                            
                            Nicholas Trevet
@@ -90,7 +87,7 @@
                         </bibl>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_292-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_292-part1-item2" n="2" key="work_3276">
                         <author key="person_71433906">
                            
                            Nicholas Trevet
@@ -133,7 +130,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_292-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_292-part2-item1" n="1" key="work_4121">
                         <author key="person_294784551">
                            
                            Ps.-Seneca
@@ -148,7 +145,7 @@
                         <note>(with commentary)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_292-part2-item2" n="2">
+                     <msItem xml:id="MS_Bodl_292-part2-item2" n="2" key="work_4496">
                         <author key="person_90637919">
                            
                            Seneca
@@ -206,7 +203,7 @@
                            <title>Politics</title>
                         </bibl>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_292-part3-item2" n="2">
+                     <msItem xml:id="MS_Bodl_292-part3-item2" n="2" key="work_418">
                         <author key="person_95294006">
                            
                            Alexander of Hales
@@ -217,7 +214,7 @@
                         </title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_292-part3-item3" n="3">
+                     <msItem xml:id="MS_Bodl_292-part3-item3" n="3" key="work_5046">
                         <author key="person_95179953">
                            
                            William of Auvergne

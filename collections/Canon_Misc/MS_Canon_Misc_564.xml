@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3610">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3610">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_564-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_564-item1" n="1" key="work_1716">
                      <author key="person_2086">
                         
                         Gerard of Montpellier
@@ -77,7 +74,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_564-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_564-item2" n="2" key="work_2069">
                      <author key="person_287984736">
                         
                         Hippocrates
@@ -86,7 +83,7 @@
                      <title>Prognostica</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_564-item3" n="3">
+                  <msItem xml:id="MS_Canon_Misc_564-item3" n="3" key="work_3589">
                      <author key="person_87227886">
                         
                         Petrus Hispanus

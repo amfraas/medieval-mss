@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4389">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4389">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,58 +51,56 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_51-item1" n="1">
+                  <msItem xml:id="MS_Digby_51-item1" n="1" key="work_316">
                      <author key="person_97655156">Albategni</author>
                      <title>De scientia astrorum</title>
                      <note>(part)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item2" n="2">
+                  <msItem xml:id="MS_Digby_51-item2" n="2" key="work_2018">
                      <author key="person_51879186">Hermannus Contractus</author>
                      <title>Compositio astrolabii</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item3" n="3">
+                  <msItem xml:id="MS_Digby_51-item3" n="3" key="work_2019">
                      <author key="person_51879186">Hermannus Contractus (?)</author>
                      <title>De utilitatibus astrolabii</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item4" n="4">
+                  <msItem xml:id="MS_Digby_51-item4" n="4" key="work_4468">
                      <author key="person_295837815">Rudolf of Bruges</author>
                      <title>De compositione astrolabii</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item5"
-                          n="5"
-                          class="#astrologia_astronomia #scientifica">
+                  <msItem xml:id="MS_Digby_51-item5" n="5" class="#astrologia_astronomia #scientifica">
 						               <title type="desc">Astronomical and scientific texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item6" n="6">
+                  <msItem xml:id="MS_Digby_51-item6" n="6" key="work_367">
                      <author key="person_17355947">Albumasar</author>
                      <title>Flores astrorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item7" n="7">
+                  <msItem xml:id="MS_Digby_51-item7" n="7" key="work_441">
                      <author key="person_90634457">Alkindus</author>
                      <title>Iudicia</title>
                      <note>(tr. <persName role="translator" key="person_296465262">Robert of Ketton</persName>)</note>
                      <!-- to be distinguished from Robert of Chester: VIAF entry 32794419 confuses the two men -->
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item8" n="8">
+                  <msItem xml:id="MS_Digby_51-item8" n="8" key="work_4152">
                      <author key="person_54152998">Ptolemy</author>
                      <title>Quadripartitum</title>
                      <note>(tr. <persName role="translator" key="person_71106329">Plato of Tivoli</persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item9" n="9">
+                  <msItem xml:id="MS_Digby_51-item9" n="9" key="work_357">
                      <author key="person_89375986">Albohali</author>
                      <title>Liber de iudiciis natiuitatum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item10" n="10">
+                  <msItem xml:id="MS_Digby_51-item10" n="10" key="work_4228">
                      <author key="person_95154093">Razes</author>
                      <title>Capitula Almansoris</title>
                      <note>(tr. <persName role="translator" key="person_71106329">Plato of Tivoli</persName>)</note>
@@ -116,17 +111,17 @@
                      <title>De cogitatione ('Precepit Messahala')</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item12" n="12">
+                  <msItem xml:id="MS_Digby_51-item12" n="12" key="work_3180">
                      <author key="person_37256856">Messahala</author>
                      <title>Libellus interpretationum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item13" n="13">
+                  <msItem xml:id="MS_Digby_51-item13" n="13" key="work_1426">
                      <author key="person_2051">Dorotheus<!-- not found --></author>
                      <title>De occultis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item14" n="14">
+                  <msItem xml:id="MS_Digby_51-item14" n="14" key="work_3179">
                      <author key="person_37256856">Messahala</author>
                      <title>Epistola de rebus eclipsium et coniunctionibus</title>
                      <textLang mainLang="la">Latin</textLang>

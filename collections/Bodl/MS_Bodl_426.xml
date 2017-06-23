@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1459">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1459">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_426-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_426-part1-item1" n="1" key="work_3643">
                         <author key="person_22480843">
                            
                            Philippus Presbyter
@@ -113,7 +110,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_426-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_426-part2-item1" n="1" key="work_3525">
                         <author key="person_24572572">
                            
                            Peter of Blois
@@ -122,7 +119,7 @@
                         <title>Epistolae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_426-part2-item2" n="2">
+                     <msItem xml:id="MS_Bodl_426-part2-item2" n="2" key="work_3519">
                         <author key="person_24572572">
                            
                            Peter of Blois
@@ -131,7 +128,7 @@
                         <title>Compendium in Iob</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_426-part2-item3" n="3">
+                     <msItem xml:id="MS_Bodl_426-part2-item3" n="3" key="work_3523">
                         <author key="person_24572572">
                            
                            Peter of Blois
@@ -140,7 +137,7 @@
                         <title>De transfiguratione domini</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_426-part2-item4" n="4">
+                     <msItem xml:id="MS_Bodl_426-part2-item4" n="4" key="work_4084">
                         <author key="person_2305">
                            
                            Ps.-Peter of Blois

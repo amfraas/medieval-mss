@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_688">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_688">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_17-part1-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_5_17-part1-item1" n="1" key="work_4500">
                         <author key="person_90637919">
                            Seneca
                         </author>
@@ -84,7 +81,7 @@
                         <note>1-88</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_17-part1-item2" n="2">
+                     <msItem xml:id="MS_Auct_F_5_17-part1-item2" n="2" key="work_1250">
                         <author key="person_78769600">
                            
                         Cicero
@@ -99,14 +96,14 @@
                         <title type="desc">Epistolae Senecae ad Paulum et Pauli ad Senecam</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_17-part1-item4" n="4">
+                     <msItem xml:id="MS_Auct_F_5_17-part1-item4" n="4" key="work_2905">
                         <author key="person_90637919">
                            Seneca
                         </author>
                         <title>De beneficiis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_17-part1-item5" n="5">
+                     <msItem xml:id="MS_Auct_F_5_17-part1-item5" n="5" key="work_3110">
                         <author key="person_67710985">
                            Martin of Braga
                         </author>
@@ -154,7 +151,7 @@
                         <title type="desc">Letters</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_17-part2-item2" n="2">
+                     <msItem xml:id="MS_Auct_F_5_17-part2-item2" n="2" key="work_4118">
                         <author key="person_294784551">
                            Ps.-Seneca
                         </author>

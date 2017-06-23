@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3554">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3554">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_512-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_512-item1" n="1" key="work_2300">
                      <locus>(fols. 1-10)</locus>
                      <author key="person_2004">
                         
@@ -68,7 +65,7 @@
                      
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_512-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_512-item2" n="2" key="work_585">
                      <author key="person_29645472">
                         
                         Antonio de Butrio
@@ -96,7 +93,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_512-item4" n="4">
+                  <msItem xml:id="MS_Canon_Misc_512-item4" n="4" key="work_524">
                      <author key="person_100191926">
                         
                         Angelus de Ubaldis
@@ -112,7 +109,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_512-item5" n="5">
+                  <msItem xml:id="MS_Canon_Misc_512-item5" n="5" key="work_914">
                      <author key="person_66498105">
                         
                         Bartolus de Saxoferrato

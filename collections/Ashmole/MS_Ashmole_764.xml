@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_369">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_369">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -64,7 +61,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_764-item1" n="1">
+                  <msItem xml:id="MS_Ashmole_764-item1" n="1" key="work_271">
                      <author key="person_100571068">
                         
                         Aeneas Sylvius
@@ -82,7 +79,7 @@
                      <title type="desc">Texts on heraldry</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_764-item4" n="4">
+                  <msItem xml:id="MS_Ashmole_764-item4" n="4" key="work_2091">
                      <author key="person_88854910">
                         
                         Honoré Bouvet
@@ -92,7 +89,7 @@
                      <note>(extracts)</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_764-item5" n="5">
+                  <msItem xml:id="MS_Ashmole_764-item5" n="5" key="work_1522">
                      <author key="person_47495827">Evrart de Trémaugon (?)</author> 
                      <title>Le Songe du Vergier</title>
                      <note>(extracts)</note>

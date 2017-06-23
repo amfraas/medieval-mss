@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1771">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1771">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -56,7 +53,7 @@
                      <title type="desc">Calendar</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_786-item2" n="2">
+                  <msItem xml:id="MS_Bodl_786-item2" n="2" key="work_3133">
                      <author key="person_14780021">
                         
                         Matthaeus Platearius
@@ -65,7 +62,7 @@
                      <title>De simplicibus medicinae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_786-item3" n="3">
+                  <msItem xml:id="MS_Bodl_786-item3" n="3" key="work_1325">
                      <author key="person_305230031">
                         
                         Constantinus Africanus
@@ -83,7 +80,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_786-item4" n="4">
+                  <msItem xml:id="MS_Bodl_786-item4" n="4" key="work_4453">
                      <author key="person_4371360">
                         
                         Roger de Baron
@@ -92,7 +89,7 @@
                      <title>Practica</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_786-item5" n="5">
+                  <msItem xml:id="MS_Bodl_786-item5" n="5" key="work_3754">
                      <author key="person_256792336">
                         
                         Pontius de S. Aegidio

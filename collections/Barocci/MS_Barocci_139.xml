@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_965">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_965">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -66,7 +63,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item2" n="1a">
+                  <msItem xml:id="MS_Barocci_139-item2" n="1a" key="work_65">
                      
                      <locus>(fols. 1r–94r)</locus> 
                      <author key="person_102323982"/>
@@ -77,7 +74,7 @@
                         damaged.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item3" n="1b">
+                  <msItem xml:id="MS_Barocci_139-item3" n="1b" key="work_26">
                      
                      
                      <locus>(fols. 94v–97v)</locus> 
@@ -89,7 +86,7 @@
                            Cyrenensis opuscula</hi>, Rome 1944, pp. 285–93.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item4" n="1c">
+                  <msItem xml:id="MS_Barocci_139-item4" n="1c" key="work_25">
                      
                      <locus>(fols. 98r–99r)</locus> 
                      <author key="person_102323982"/>
@@ -97,7 +94,7 @@
                      <note>ibid., pp. 283–5.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item5" n="1d">
+                  <msItem xml:id="MS_Barocci_139-item5" n="1d" key="work_77">
                      
                      <locus>(fol. 99r)</locus> 
                      <author key="person_102323982"/>
@@ -106,7 +103,7 @@
                         pp. 279–80.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item6" n="1e">
+                  <msItem xml:id="MS_Barocci_139-item6" n="1e" key="work_78">
                      
                      <locus>(fols. 99v–100v)</locus> 
                      <author key="person_102323982"/>
@@ -114,7 +111,7 @@
                      <note>ibid., pp. 281–2.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item7" n="1f">
+                  <msItem xml:id="MS_Barocci_139-item7" n="1f" key="work_10">
                      
                      <locus>(fols. 100v–130r)</locus>
                      <author key="person_102323982"/>
@@ -123,7 +120,7 @@
                         pp. 63–131.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item8" n="1g">
+                  <msItem xml:id="MS_Barocci_139-item8" n="1g" key="work_4">
                      
                      
                      <locus>(fols. 130r–134v)</locus> 
@@ -133,7 +130,7 @@
                      <note>ibid., pp. 132–42.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item9" n="1h">
+                  <msItem xml:id="MS_Barocci_139-item9" n="1h" key="work_21">
                      
                      <locus>(fols. 134v–152v)</locus> 
                      <author key="person_102323982"/>
@@ -150,7 +147,7 @@
                      <note>ibid., pp. 5–62.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item11" n="1j">
+                  <msItem xml:id="MS_Barocci_139-item11" n="1j" key="work_54">
                      
                      <locus>(fols. 175v–194v) </locus>
                      <author key="person_102323982"/>
@@ -159,7 +156,7 @@
                         233–78.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item12" n="1k">
+                  <msItem xml:id="MS_Barocci_139-item12" n="1k" key="work_42">
                      
                      <locus>(fols. 195r–213r)</locus> 
                      <author key="person_102323982"/>
@@ -167,7 +164,7 @@
                      <note>with the προθεωρία, ibid., pp. 143–89.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item13" n="1l">
+                  <msItem xml:id="MS_Barocci_139-item13" n="1l" key="work_79">
                      
                      
                      <locus> (fols. 213v–216v)</locus> 
@@ -178,7 +175,7 @@
                         xiii).</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item14" n="2">
+                  <msItem xml:id="MS_Barocci_139-item14" n="2" key="work_3031">
                      
                      <locus>(fols. 217r–225v)</locus> 
                      <author key="person_183417170">
@@ -191,7 +188,7 @@
                         fol. 217 is damaged.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_139-item15" n="3">
+                  <msItem xml:id="MS_Barocci_139-item15" n="3" key="work_1379">
                      
                      <locus>(fols. 225v–231v)</locus> 
                      <author key="person_268302412">

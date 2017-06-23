@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4232">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4232">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -91,7 +88,7 @@
                            </persName>; extracts)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_11-part1-item3" n="3">
+                     <msItem xml:id="MS_Digby_11-part1-item3" n="3" key="work_3370">
                         <author key="person_106967420">
                            
                            Odoricus de Portu Naonis
@@ -100,7 +97,7 @@
                         <title>Relatio de mirabilibus orientalium Tatarorum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_11-part1-item4" n="4">
+                     <msItem xml:id="MS_Digby_11-part1-item4" n="4" key="work_2610">
                         <author key="person_239502727">
                            
                            Johannis de Plano Carpini
@@ -148,7 +145,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_11-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_11-part2-item1" n="1" key="work_3856">
                         <author key="person_2581859">
                            
                            Ps.-Aristotle

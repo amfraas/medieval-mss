@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_325">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_325">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -99,9 +96,7 @@
                         <title type="desc">Text on the Holy Land</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_342-part1-item2"
-                             n="2"
-                             class="#prognostica #computistica">
+                     <msItem xml:id="MS_Ashmole_342-part1-item2" n="2" class="#prognostica #computistica">
                         <title type="desc">Treatises on prognostication and compotus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -131,9 +126,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_342-part2-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_342-part2-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Astronomical tables.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -189,9 +182,7 @@
                         <title type="desc">Calendar.</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_342-part4-item2"
-                             n="2"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_342-part4-item2" n="2" class="#astrologia_astronomia">
                        
                         <title>Astronomical treatises, notes and tables</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
@@ -218,9 +209,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_342-part5-item1"
-                             n="1"
-                             class="#astrologia_astronomia #medica">
+                     <msItem xml:id="MS_Ashmole_342-part5-item1" n="1" class="#astrologia_astronomia #medica">
                      
                         <title>Medical, astronomical and
               astrological treatises and notes</title>
@@ -248,9 +237,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_342-part6-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_342-part6-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Astronomical tables</title>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>

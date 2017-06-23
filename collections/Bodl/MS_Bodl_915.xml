@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1879">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1879">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_915-item1" n="1">
+                  <msItem xml:id="MS_Bodl_915-item1" n="1" key="work_3732">
                      <author key="person_19722038">
                         
                         Poggio Bracciolini
@@ -61,7 +58,7 @@
                      <title>Dialogus contra auaritiam</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_915-item2" n="2">
+                  <msItem xml:id="MS_Bodl_915-item2" n="2" key="work_3730">
                      <author key="person_19722038">
                         
                         Poggio Bracciolini
@@ -70,7 +67,7 @@
                      <title>De nobilitate uera</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_915-item3" n="3">
+                  <msItem xml:id="MS_Bodl_915-item3" n="3" key="work_3729">
                      <author key="person_19722038">
                         
                         Poggio Bracciolini
@@ -79,7 +76,7 @@
                      <title>de infelicitate principum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_915-item4" n="4">
+                  <msItem xml:id="MS_Bodl_915-item4" n="4" key="work_3739 work_3740">
                      <author key="person_19722038"> 
                         
                         Poggio Bracciolini

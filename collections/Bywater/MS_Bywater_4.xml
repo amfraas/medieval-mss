@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2020">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2020">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -42,7 +39,7 @@
                </msIdentifier>
 
                <msContents>
-                  <msItem xml:id="MS_Bywater_4-item1">
+                  <msItem xml:id="MS_Bywater_4-item1" key="work_669">
                      <locus>(fols. 4r-105r)</locus>
                      <author key="person_7524651">
                         Aristotle
@@ -50,7 +47,7 @@
                      <title>Physica</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_4-item2">
+                  <msItem xml:id="MS_Bywater_4-item2" key="work_646">
                      <locus>(fols. 108r-152v)</locus>
                      <author key="person_7524651">
                         Aristotle
@@ -59,7 +56,7 @@
                      <note>(ends at iii.304b4)</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_4-item3">
+                  <msItem xml:id="MS_Bywater_4-item3" key="work_648">
                      <locus>(fols. 155r-186v)</locus>
                      <author key="person_7524651">
                         Aristotle

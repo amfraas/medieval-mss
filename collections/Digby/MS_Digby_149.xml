@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4265">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4265">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,9 +77,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_149-part1-item1"
-                             n="1"
-                             class="#biblia #commentarii">
+                     <msItem xml:id="MS_Digby_149-part1-item1" n="1" class="#biblia #commentarii">
 						                  <title type="desc">Commentary on Genesis</title>
                         
                         <note>(incomplete)</note>
@@ -113,7 +108,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_149-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_149-part2-item1" n="1" key="work_4622">
                         <author key="person_7385506">
                            
                            Stephen Langton
@@ -144,7 +139,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_149-part3-item1" n="1">
+                     <msItem xml:id="MS_Digby_149-part3-item1" n="1" key="work_3146">
                         <author key="person_88627694">
                            
                            Maurice of Sully
@@ -175,7 +170,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_149-part4-item1" n="1">
+                     <msItem xml:id="MS_Digby_149-part4-item1" n="1" key="work_4387">
                         <author key="person_86920837">
                            
                            Robert Grosseteste
@@ -206,9 +201,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_149-part5-item1"
-                             n="1"
-                             class="#theologica #historica">
+                     <msItem xml:id="MS_Digby_149-part5-item1" n="1" class="#theologica #historica">
 						                  <title type="desc">Theological and historical notes</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -245,7 +238,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_149-part6-item1" n="1">
+                     <msItem xml:id="MS_Digby_149-part6-item1" n="1" key="work_2191">
                         <author key="person_16017787">
                            
                            Innocent III
@@ -276,7 +269,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_149-part7-item1" n="1">
+                     <msItem xml:id="MS_Digby_149-part7-item1" n="1" key="work_818">
                         <author key="person_66806872">
                            
                            Augustine
@@ -334,16 +327,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_149-part9-item1"
-                             n="1"
-                             class="#computistica #liturgica">
+                     <msItem xml:id="MS_Digby_149-part9-item1" n="1" class="#computistica #liturgica">
 						                  <title type="desc">Calendar</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_149-part9-item2"
-                             n="2"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_149-part9-item2" n="2" class="#astrologia_astronomia">
 						                  <title type="desc">Astrological tables</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -370,14 +359,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_149-part10-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_149-part10-item1" n="1" class="#astrologia_astronomia">
 						                  <title type="desc">Astrological texts and tables</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_149-part10-item2" n="2">
+                     <msItem xml:id="MS_Digby_149-part10-item2" n="2" key="work_373">
                         <author key="person_263751917">
                            
                            Alcabitius
@@ -386,7 +373,7 @@
                         <title>Liber introductorius</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_149-part10-item3" n="3">
+                     <msItem xml:id="MS_Digby_149-part10-item3" n="3" key="work_4457">
                         <author key="person_39784406">
                            
                            Roger of Hereford
@@ -404,7 +391,7 @@
                         <title>Liber de intentionibus ('Cum astrorum scientia')</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_149-part10-item5" n="5">
+                     <msItem xml:id="MS_Digby_149-part10-item5" n="5" key="work_3180">
                         <author key="person_37256856">
                            
                            Messahala

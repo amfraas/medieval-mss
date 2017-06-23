@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1517">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1517">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,7 +84,7 @@
                         </bibl>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_484-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_484-part1-item2" n="2" key="work_356">
                         <author key="person_2244">
                            
                            Albertus de Zanchariis
@@ -126,7 +123,7 @@
                         <title>De spermate</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_484-part2-item2" n="2">
+                     <msItem xml:id="MS_Bodl_484-part2-item2" n="2" key="work_1001">
                         <author key="person_2250">
                            
                            Benvenutus Graphaeus
@@ -305,7 +302,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_484-part8-item1" n="1">
+                     <msItem xml:id="MS_Bodl_484-part8-item1" n="1" key="work_3605">
                         <author key="person_39358071">
                            
                            Petrus de Abano

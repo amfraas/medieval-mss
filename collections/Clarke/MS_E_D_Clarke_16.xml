@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3980">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3980">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_E_D_Clarke_16-item1" n="1">
+                  <msItem xml:id="MS_E_D_Clarke_16-item1" n="1" key="work_3069">
                      <author key="person_7433097">
                         Manuel Philes
                      </author>
@@ -63,21 +60,21 @@
                      <title type="desc">Glossaries</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_E_D_Clarke_16-item3" n="3">
+                  <msItem xml:id="MS_E_D_Clarke_16-item3" n="3" key="work_1613">
                      <author key="person_44299175">
                         Galen
                      </author>
                      <title>De pulsibus</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_E_D_Clarke_16-item4" n="4">
+                  <msItem xml:id="MS_E_D_Clarke_16-item4" n="4" key="work_2067">
                      <author key="person_287984736">
                         Hippocrates
                      </author>
                      <title>De sanitate tuenda</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_E_D_Clarke_16-item5" n="5">
+                  <msItem xml:id="MS_E_D_Clarke_16-item5" n="5" key="work_3244">
                      <author key="person_100905484">
                         Nicephorus Chartophylax
                      </author>

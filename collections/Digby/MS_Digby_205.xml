@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4326">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4326">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_205-item1" n="1">
+                  <msItem xml:id="MS_Digby_205-item1" n="1" key="work_3112">
                      <author key="person_2614028">
                         
                         Martinus Polonus
@@ -69,7 +66,7 @@
                      
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_205-item3" n="3">
+                  <msItem xml:id="MS_Digby_205-item3" n="3" key="work_4410">
                      <author key="person_27867583">
                         
                         Robert of Gloucester

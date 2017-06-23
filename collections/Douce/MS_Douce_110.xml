@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4488">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4488">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -66,14 +63,13 @@
                         <title rend="roman">Bible, Ecclesiastes</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Douce_110-item3" n="3">
                      <author key="person_2290">
                         Ps.-Ambrose<!-- not in VIAF -->
                      </author>
                      <title>De dignitate humanae conditionis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_110-item4" n="4">
+                  <msItem xml:id="MS_Douce_110-item4" n="4" key="work_3831">
                      <author key="person_2290">
                         
                         Ps.-Ambrose

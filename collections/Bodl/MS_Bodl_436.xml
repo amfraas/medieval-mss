@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1469">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1469">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_436-item1" n="1">
+                  <msItem xml:id="MS_Bodl_436-item1" n="1" key="work_2648">
                      <author key="person_297475745">
                         
                         John Chrysostom
@@ -61,7 +58,7 @@
                      <title>De eo quod nemo laeditur nisi a semet ipso</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_436-item2" n="2">
+                  <msItem xml:id="MS_Bodl_436-item2" n="2" key="work_2647">
                      <author key="person_297475745">
                         
                         John Chrysostom
@@ -70,7 +67,7 @@
                      <title>De compunctione</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_436-item3" n="3">
+                  <msItem xml:id="MS_Bodl_436-item3" n="3" key="work_2670">
                      <author key="person_297475745">
                         
                         John Chrysostom
@@ -79,7 +76,7 @@
                      <title>Homilies on Psalm 50</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_436-item4" n="4">
+                  <msItem xml:id="MS_Bodl_436-item4" n="4" key="work_2653">
                      <author key="person_297475745">
                         
                         John Chrysostom
@@ -88,7 +85,7 @@
                      <title>De reparatione lapsi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_436-item5" n="5">
+                  <msItem xml:id="MS_Bodl_436-item5" n="5" key="work_528">
                      <author key="person_100187025">
                         
                         Anselm
@@ -97,7 +94,7 @@
                      <title>De casu diaboli</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_436-item6" n="6">
+                  <msItem xml:id="MS_Bodl_436-item6" n="6" key="work_538">
                      <author key="person_100187025">
                         
                         Anselm
@@ -106,7 +103,7 @@
                      <title>Proslogion</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_436-item7" n="7">
+                  <msItem xml:id="MS_Bodl_436-item7" n="7" key="work_532">
                      <author key="person_100187025">
                         
                         Anselm
@@ -115,7 +112,7 @@
                      <title>De ueritate</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_436-item8" n="8">
+                  <msItem xml:id="MS_Bodl_436-item8" n="8" key="work_529">
                      <author key="person_100187025">
                         
                         Anselm

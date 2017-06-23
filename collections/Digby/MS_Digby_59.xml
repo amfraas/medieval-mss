@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4397">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4397">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_59-item1" n="1">
+                  <msItem xml:id="MS_Digby_59-item1" n="1" key="work_977">
                      <author key="person_61539765">Bede</author>
                      <title>Life of St. Cuthbert</title>
                      <textLang mainLang="la">Latin</textLang>
@@ -67,12 +64,12 @@
                      <title type="desc">Life of Bede</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_59-item4" n="4">
+                  <msItem xml:id="MS_Digby_59-item4" n="4" key="work_293">
                      <author key="person_39386818">Ailred of Rievaulx</author>
                      <title>Vita S. Edwardi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_59-item5" n="5">
+                  <msItem xml:id="MS_Digby_59-item5" n="5" key="work_968">
                      <author key="person_61539765">Bede</author>
                      <title>Historia ecclesiastica</title>
                      <note>(extracts relating to visions)</note>

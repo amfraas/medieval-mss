@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_940">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_940">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -98,7 +95,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_116-part1-item1" n="1">
+                     <msItem xml:id="MS_Barocci_116-part1-item1" n="1" key="work_631">
                         
                         <locus>(fols. 1r–7v)</locus> 
                         <author key="person_89043754">
@@ -110,7 +107,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_116-part1-item2" n="2">
+                     <msItem xml:id="MS_Barocci_116-part1-item2" n="2" key="work_3008">
                         
                         <locus>(fols. 7v–8r)</locus> 
                         <author key="person_100218901">
@@ -161,7 +158,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_116-part2-item1" n="1">
+                     <msItem xml:id="MS_Barocci_116-part2-item1" n="1" key="work_1964">
                         
                         <locus>(fols. 10r–20v)</locus> 
                         <author key="person_40170189">
@@ -179,7 +176,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_116-part2-item2" n="2">
+                     <msItem xml:id="MS_Barocci_116-part2-item2" n="2" key="work_3761">
                         
                         <locus>(fols. 21r–27r)</locus> 
                         <author key="person_64016141">Porphyrius</author>
@@ -191,7 +188,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_116-part2-item3" n="3">
+                     <msItem xml:id="MS_Barocci_116-part2-item3" n="3" key="work_1699">
                         
                         <locus>(fol. 27rv)</locus> 
                         <author key="person_34444948">Georgius
@@ -218,7 +215,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_116-part2-item5" n="5">
+                     <msItem xml:id="MS_Barocci_116-part2-item5" n="5" key="work_5146">
                         
                         <locus>(fols. 41r–42v)</locus> 
                         <author key="person_309687221"> †Theodosius</author> 
@@ -284,7 +281,7 @@
                         <textLang xml:lang="grc">Greek</textLang>
                         
                         
-                        <msItem xml:id="MS_Barocci_116-part2-item10-item1" n="10a">
+                        <msItem xml:id="MS_Barocci_116-part2-item10-item1" n="10a" key="work_155 work_1405">
                            
                            <locus>(fol. 44r)</locus>
                            <author key="person_41977022"/>
@@ -297,7 +294,7 @@
                         </msItem>
                         
                         
-                        <msItem xml:id="MS_Barocci_116-part2-item10-item2" n="10b">
+                        <msItem xml:id="MS_Barocci_116-part2-item10-item2" n="10b" key="work_157">
                            
                            <locus>(fol. 44rv)</locus>
                            <author key="person_41977022"/>
@@ -309,7 +306,7 @@
                         </msItem>
                         
                         
-                        <msItem xml:id="MS_Barocci_116-part2-item10-item3" n="10c">
+                        <msItem xml:id="MS_Barocci_116-part2-item10-item3" n="10c" key="work_152">
                            
                            <locus>(fols. 44v–47r)</locus>
                            <author key="person_41977022"/>
@@ -320,7 +317,7 @@
                         </msItem>
                         
                         
-                        <msItem xml:id="MS_Barocci_116-part2-item10-item4" n="10d">
+                        <msItem xml:id="MS_Barocci_116-part2-item10-item4" n="10d" key="work_158">
                            
                            <locus>(fols. 47r–48v)</locus>
                            <author key="person_41977022"/>
@@ -331,7 +328,7 @@
                         </msItem>
                      </msItem>
                      
-                     <msItem xml:id="MS_Barocci_116-part2-item11" n="11">
+                     <msItem xml:id="MS_Barocci_116-part2-item11" n="11" key="work_4722">
                         
                         <locus>(fols. 48v–49r)</locus> 
                         <author key="person_309687221">
@@ -440,7 +437,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_116-part3-item1" n="1">
+                     <msItem xml:id="MS_Barocci_116-part3-item1" n="1" key="work_1698">
                         
                         <author key="person_34444948">
                            Georgius Choeroboscus
@@ -510,7 +507,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_116-part4-item1" n="1">
+                     <msItem xml:id="MS_Barocci_116-part4-item1" n="1" key="work_2212">
                         
                         <locus>(fols. 211r–212r)</locus> 
                         <author key="person_98118283">Ioannes
@@ -558,7 +555,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_116-part4-item5" n="5">
+                     <msItem xml:id="MS_Barocci_116-part4-item5" n="5" key="work_1700">
                         
                         <locus>(fols. 223r–225v)</locus> 
                         <author key="person_34444948">Georgius

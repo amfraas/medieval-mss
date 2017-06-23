@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4384">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4384">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_47-item1" n="1">
+                  <msItem xml:id="MS_Digby_47-item1" n="1" key="work_1713">
                      <author key="person_84814786">
                         
                         Gerard of Cremona (tr.)
@@ -63,7 +60,7 @@
                      <title>Liber omnium sperarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item2" n="2">
+                  <msItem xml:id="MS_Digby_47-item2" n="2" key="work_4937">
                      <author key="person_77138678">
                         
                         Walter Brit
@@ -72,7 +69,7 @@
                      <title>Commentary on Theorica planetarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item3" n="3">
+                  <msItem xml:id="MS_Digby_47-item3" n="3" key="work_5120">
                      <author key="person_69361583">
                         
                         Zahel
@@ -81,7 +78,7 @@
                      <title>Introductorius</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item4" n="4">
+                  <msItem xml:id="MS_Digby_47-item4" n="4" key="work_373">
                      <author key="person_263751917">
                         
                         Alcabitius
@@ -95,7 +92,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item6" n="6">
+                  <msItem xml:id="MS_Digby_47-item6" n="6" key="work_1712">
                      <author key="person_84814786">
                         
                         Gerard of Cremona (tr.)
@@ -104,7 +101,7 @@
                      <title>Liber coequationis planetarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item7" n="7">
+                  <msItem xml:id="MS_Digby_47-item7" n="7" key="work_5121">
                      <author key="person_69361583">
                         
                         Zahel
@@ -113,7 +110,7 @@
                      <title>Liber electionum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item8" n="8">
+                  <msItem xml:id="MS_Digby_47-item8" n="8" key="work_435">
                      <author key="person_90634457">
                         
                         Alkindi
@@ -122,7 +119,7 @@
                      <title>De creticis diebus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item9" n="9">
+                  <msItem xml:id="MS_Digby_47-item9" n="9" key="work_3178">
                      <author key="person_37256856">
                         
                         Messahala
@@ -131,7 +128,7 @@
                      <title>De xiv proprietatibus stellarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item10" n="10">
+                  <msItem xml:id="MS_Digby_47-item10" n="10" key="work_5123">
                      <author key="person_69361583">
                         
                         Zahel
@@ -145,7 +142,7 @@
                      <note>(part)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item12" n="12">
+                  <msItem xml:id="MS_Digby_47-item12" n="12" key="work_357">
                      <author key="person_89375986">
                         
                         Albohali
@@ -155,7 +152,7 @@
                      <note>(tr. <persName role="translator" key="person_71106329">Plato of Tivoli</persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item13" n="13">
+                  <msItem xml:id="MS_Digby_47-item13" n="13" key="work_3180">
                      <author key="person_37256856">
                         
                         Messahala

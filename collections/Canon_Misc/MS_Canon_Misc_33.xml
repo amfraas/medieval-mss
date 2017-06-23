@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3352">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3352">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_33-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_33-item1" n="1" key="work_2996">
                      <author key="person_29541502">
                         
                         Lorenzo Valla
@@ -70,7 +67,7 @@
                      <title type="desc">Geographical treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_33-item4" n="4">
+                  <msItem xml:id="MS_Canon_Misc_33-item4" n="4" key="work_880">
                      <author key="person_44430547">
                         
                         Bartholomaeus Facius
@@ -79,7 +76,7 @@
                      <title>De differentiis uocabulorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_33-item5" n="5">
+                  <msItem xml:id="MS_Canon_Misc_33-item5" n="5" key="work_881">
                      <author key="person_44430547">
                         
                         Bartholomaeus Facius

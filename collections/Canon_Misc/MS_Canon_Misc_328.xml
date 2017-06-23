@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3350">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3350">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_328-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_328-item1" n="1" key="work_1145">
                      <author key="person_89657091">
                         
                         Bonaventure
@@ -61,7 +58,7 @@
                      <title>Lignum uitae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_328-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_328-item2" n="2" key="work_4632">
                      <author key="person_30332452">
                         
                         Sulpicius Severus
@@ -75,7 +72,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_328-item4" n="4">
+                  <msItem xml:id="MS_Canon_Misc_328-item4" n="4" key="work_1576">
                      <author key="person_191026298">
                         
                         Francois de Meyronnes
@@ -89,7 +86,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_328-item5" n="5">
+                  <msItem xml:id="MS_Canon_Misc_328-item5" n="5" key="work_378">
                      <author key="person_96533523">
                         
                         Alcuin

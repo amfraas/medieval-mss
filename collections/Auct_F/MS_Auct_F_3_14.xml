@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_636">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_636">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_3_14-part1-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_3_14-part1-item1" n="1" key="work_2265">
                         <author key="person_803890">
                            Isidore
                         </author>
@@ -110,28 +107,28 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_3_14-part2-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_3_14-part2-item1" n="1" key="work_960">
                         <author key="person_61539765">
                            Bede
                         </author>
                         <title>De natura rerum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_3_14-part2-item2" n="2">
+                     <msItem xml:id="MS_Auct_F_3_14-part2-item2" n="2" key="work_965">
                         <author key="person_61539765">
                            Bede
                         </author>
                         <title>De temporibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_3_14-part2-item3" n="3">
+                     <msItem xml:id="MS_Auct_F_3_14-part2-item3" n="3" key="work_966">
                         <author key="person_61539765">
                            Bede
                         </author>
                         <title>De temporum ratione</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_3_14-part2-item4" n="4">
+                     <msItem xml:id="MS_Auct_F_3_14-part2-item4" n="4" key="work_1965">
                         <author key="person_56964113">
                            Helperic of Auxerre
                         </author>
@@ -196,16 +193,14 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_3_14-part4-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_3_14-part4-item1" n="1" key="work_4402">
                         <author key="person_295217781">
                            Robert the Lotharingian
                         </author>
                         <title>Excerptio de chronica Mariani</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_3_14-part4-item2"
-                             n="2"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Auct_F_3_14-part4-item2" n="2" class="#astrologia_astronomia">
                         <title type="desc">Astronomical treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

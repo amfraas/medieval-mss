@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1007">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1007">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -56,7 +53,7 @@
                   13th cent.</head>
                <msContents>
                   <textLang mainLang="grc">Greek</textLang>
-                  <msItem xml:id="MS_Barocci_177-item1" n="1">
+                  <msItem xml:id="MS_Barocci_177-item1" n="1" key="work_3763">
                      
                      <locus>(fols. 1r–8v)</locus> 
                      <author key="person_64016141">
@@ -76,7 +73,7 @@
                      </note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_177-item3" n="2a">
+                  <msItem xml:id="MS_Barocci_177-item3" n="2a" key="work_643">
                      
                      <locus>(fols. 9r–23v)</locus>
                      <author key="person_7524651"/> 
@@ -86,7 +83,7 @@
                      <note>with scholia</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_177-item4" n="2b">
+                  <msItem xml:id="MS_Barocci_177-item4" n="2b" key="work_43">
                      
                      <locus>(fols. 24r–33r)</locus> 
                      <author key="person_7524651"/>
@@ -95,7 +92,7 @@
                      <note>with scholia</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_177-item5" n="2c">
+                  <msItem xml:id="MS_Barocci_177-item5" n="2c" key="work_13">
                      
                      <locus>(fols. 33r–83r)</locus>
                      <author key="person_7524651"/>
@@ -104,7 +101,7 @@
                         πλὴν ὡϲ κατὰ ϲυμ- 43a34</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_177-item6" n="2d">
+                  <msItem xml:id="MS_Barocci_177-item6" n="2d" key="work_12">
                      
                      <locus>(fols. 83v–117v)</locus>
                      <author key="person_7524651"/>
@@ -113,14 +110,14 @@
                      <note>with scholia</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_177-item7" n="2e">
+                  <msItem xml:id="MS_Barocci_177-item7" n="2e" key="work_139">
                      
                      <locus>(fols. 118r–161r)</locus> 
                      <author key="person_7524651"/>
                      <title>topica</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_177-item8" n="2f">
+                  <msItem xml:id="MS_Barocci_177-item8" n="2f" key="work_132">
                      
                      <locus>(fols. 161r–167v)</locus> 
                      <author key="person_7524651"/>

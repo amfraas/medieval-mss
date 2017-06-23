@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1852">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1852">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_861-item1" n="1">
+                  <msItem xml:id="MS_Bodl_861-item1" n="1" key="work_4279">
                      <author key="person_2465074">
                         
                         Richard Rolle
@@ -64,7 +61,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_861-item2" n="2">
+                  <msItem xml:id="MS_Bodl_861-item2" n="2" key="work_4292">
                      <author key="person_2465074">
                         
                         Richard Rolle
@@ -73,7 +70,7 @@
                      <title>Melos amoris</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_861-item3" n="3">
+                  <msItem xml:id="MS_Bodl_861-item3" n="3" key="work_4281">
                      <author key="person_2465074">
                         
                         Richard Rolle
@@ -85,7 +82,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_861-item4" n="4">
+                  <msItem xml:id="MS_Bodl_861-item4" n="4" key="work_4275">
                      <author key="person_2465074">
                         
                         Richard Rolle
@@ -97,7 +94,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_861-item5" n="5">
+                  <msItem xml:id="MS_Bodl_861-item5" n="5" key="work_4290">
                      <author key="person_2465074">
                         
                         Richard Rolle
@@ -106,7 +103,7 @@
                      <title>Liber de amore dei</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_861-item6" n="6">
+                  <msItem xml:id="MS_Bodl_861-item6" n="6" key="work_4288">
                      <author key="person_2465074">
                         
                         Richard Rolle
@@ -115,7 +112,7 @@
                      <title>Incendium amoris</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_861-item7" n="7">
+                  <msItem xml:id="MS_Bodl_861-item7" n="7" key="work_4276">
                      <author key="person_2465074">
                         
                         Richard Rolle
@@ -127,7 +124,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_861-item8" n="8">
+                  <msItem xml:id="MS_Bodl_861-item8" n="8" key="work_4286">
                      <author key="person_2465074">
                         
                         Richard Rolle
@@ -136,7 +133,7 @@
                      <title>Emendatio uitae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_861-item9" n="9">
+                  <msItem xml:id="MS_Bodl_861-item9" n="9" key="work_4103">
                      <author key="person_2183">
                         
                         Ps.-Richard Rolle
@@ -152,7 +149,7 @@
                      <title type="desc">Theological pieces</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_861-item11" n="11">
+                  <msItem xml:id="MS_Bodl_861-item11" n="11" key="work_4295">
                      <author key="person_2465074">
                         
                         Richard Rolle

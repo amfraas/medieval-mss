@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1499">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1499">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_464-item1" n="1">
+                  <msItem xml:id="MS_Bodl_464-item1" n="1" key="work_3797">
                      <author key="person_314797824">
                         
                         Profatius Iudaeus
@@ -65,7 +62,7 @@
                      <title type="desc">Astrological and astronomical treatises and tables</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_464-item3" n="3">
+                  <msItem xml:id="MS_Bodl_464-item3" n="3" key="work_3620">
                      <author key="person_35249090">
                         
                         Petrus de Dacia
@@ -74,7 +71,7 @@
                      <title>Tabula de medio motu lunae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_464-item4" n="4">
+                  <msItem xml:id="MS_Bodl_464-item4" n="4" key="work_3599">
                      <author key="person_33343877">
                         
                         Petrus Peregrinus
@@ -83,7 +80,7 @@
                      <title>Epistola de magnete</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_464-item5" n="5">
+                  <msItem xml:id="MS_Bodl_464-item5" n="5" key="work_1200">
                      <author key="person_29636378">
                         
                         Campanus of Novara
@@ -92,7 +89,7 @@
                      <title>De quadrante</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_464-item6" n="6">
+                  <msItem xml:id="MS_Bodl_464-item6" n="6" key="work_4674">
                      <author key="person_55563658">
                         
                         Thebit ben Corat
@@ -101,7 +98,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_464-item7" n="7">
+                  <msItem xml:id="MS_Bodl_464-item7" n="7" key="work_373">
                      <author key="person_263751917">
                         
                         Alcabitius
@@ -110,7 +107,7 @@
                      <title>Liber introductorius</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_464-item8" n="8">
+                  <msItem xml:id="MS_Bodl_464-item8" n="8" key="work_3174">
                      <author key="person_37256856">
                         
                         Messahala
@@ -119,7 +116,7 @@
                      <title>Astrolabium</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_464-item9" n="9">
+                  <msItem xml:id="MS_Bodl_464-item9" n="9" key="work_2360">
                      <author key="person_2235">
                         
                         Japhar

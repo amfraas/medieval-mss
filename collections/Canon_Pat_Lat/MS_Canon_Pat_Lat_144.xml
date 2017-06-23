@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3717">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3717">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,13 +49,13 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_144-item1" n="1">
+                  <msItem xml:id="MS_Canon_Pat_Lat_144-item1" n="1" key="work_2196">
                      <author key="person_100162520">Innocent IV</author>
                      <title>Constitutiones nouellae</title>
                      <note>(with gloss of <persName role="author" key="person_66856693">Bernard of Compostella junior</persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_144-item2" n="2">
+                  <msItem xml:id="MS_Canon_Pat_Lat_144-item2" n="2" key="work_1842">
                      <author key="person_78778341">Gregory X</author>
                      <title>Constitutions (1274)</title>
                      <note>(with gloss of <persName role="author" key="person_30275525">Iohannes Garsias Hispanus</persName>)</note>

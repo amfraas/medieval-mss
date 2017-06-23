@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1568">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1568">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_549-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_549-part1-item1" n="1" key="work_1972">
                         <author key="person_17218027">
                            
                            Henricus Suso
@@ -117,7 +114,7 @@
                         <title type="desc">Treatises on the <orgName key="org_129184449">Carthusian</orgName> order</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_549-part2-item2" n="2">
+                     <msItem xml:id="MS_Bodl_549-part2-item2" n="2" key="work_2600">
                         <author key="person_120608461">
                            
                            Johannes de Toleto
@@ -126,7 +123,7 @@
                         <title>De conseruanda sanitate</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_549-part2-item3" n="3">
+                     <msItem xml:id="MS_Bodl_549-part2-item3" n="3" key="work_2622">
                         <author key="person_310755300">
                            
                            John Barton
@@ -135,7 +132,7 @@
                         <title>Symbolum contra Lollardos</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_549-part2-item4" n="4">
+                     <msItem xml:id="MS_Bodl_549-part2-item4" n="4" key="work_4278">
                         <author key="person_2465074">
                            
                            Richard Rolle
@@ -144,7 +141,7 @@
                         <title>Commentary on the Lord's Prayer</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_549-part2-item5" n="5">
+                     <msItem xml:id="MS_Bodl_549-part2-item5" n="5" key="work_4277">
                         <author key="person_2465074">
                            
                            Richard Rolle
@@ -153,7 +150,7 @@
                         <title>Commentary on the Apostles' Creed</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_549-part2-item6" n="6">
+                     <msItem xml:id="MS_Bodl_549-part2-item6" n="6" key="work_3894">
                         <author key="person_7386286">
                            
                            Ps.-Augustine
@@ -162,7 +159,7 @@
                         <title>Manuale</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_549-part2-item7" n="7">
+                     <msItem xml:id="MS_Bodl_549-part2-item7" n="7" key="work_2745">
                         <author key="person_10428840">
                            
                            John Mirk
@@ -171,13 +168,11 @@
                         <title>Manuale sacerdotis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_549-part2-item8"
-                             n="8"
-                             class="#contemplationes #oratio">
+                     <msItem xml:id="MS_Bodl_549-part2-item8" n="8" class="#contemplationes #oratio">
                         <title type="desc">Prayers and meditations</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_549-part2-item9" n="9">
+                     <msItem xml:id="MS_Bodl_549-part2-item9" n="9" key="work_3949">
                         <author key="person_306415749">
                            
                            Ps.-Bernard of Clairvaux

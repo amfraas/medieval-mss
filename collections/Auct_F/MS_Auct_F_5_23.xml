@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_694">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_694">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,7 +76,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_23-part1-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_5_23-part1-item1" n="1" key="work_4309">
                         <author key="person_29492236">
                            Richard of Billingham
                         </author>
@@ -114,7 +111,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_23-part2-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_5_23-part2-item1" n="1" key="work_401">
                         <author key="person_71420958">
                            Alexander Nequam
                         </author>
@@ -152,7 +149,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_23-part3-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_5_23-part3-item1" n="1" key="work_3861">
                         <author key="person_2581859">
                            Ps.-Aristotle
                         </author>
@@ -186,7 +183,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_23-part4-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_5_23-part4-item1" n="1" key="work_3434">
                         <author key="person_54143112">
                            Palladius
                         </author>
@@ -290,7 +287,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_23-part7-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_5_23-part7-item1" n="1" key="work_3826">
                         <author key="person_104113324">
                            Ps.-Albertus Magnus
                         </author>
@@ -325,7 +322,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_23-part8-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_5_23-part8-item1" n="1" key="work_2592">
                         <author key="person_84975906">
                            Johannes de Sacro Bosco
                         </author>

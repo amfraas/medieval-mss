@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1638">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1638">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,12 +72,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_633-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_633-part1-item1" n="1" key="work_1030">
                         <author key="person_59875293">Bernard of Clairvaux</author>
                         <title>De praecepto et dispensatione</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_633-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_633-part1-item2" n="2" key="work_1041">
                         <author key="person_59875293">Bernard of Clairvaux</author>
                         <title>Letters</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -150,9 +147,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_633-part3-item1"
-                             n="1"
-                             class="#oratio #monastica #liturgica">
+                     <msItem xml:id="MS_Bodl_633-part3-item1" n="1" class="#oratio #monastica #liturgica">
                         <title type="desc">Hymns and private prayers for use of <orgName key="org_169327258">Benedictine</orgName> monks</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -185,12 +180,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_633-part4-item1" n="1">
+                     <msItem xml:id="MS_Bodl_633-part4-item1" n="1" key="work_2253">
                         <author key="person_803890">Isidore</author>
                         <title>De ordine creaturarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_633-part4-item2" n="2">
+                     <msItem xml:id="MS_Bodl_633-part4-item2" n="2" key="work_867">
                         <author key="person_88663747">Bachiarius</author>
                         <title>De lapso</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -221,7 +216,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_633-part5-item1" n="1">
+                     <msItem xml:id="MS_Bodl_633-part5-item1" n="1" key="work_1027">
                         <author key="person_59875293">Bernard of Clairvaux</author>
                         <title>De gratia et libero arbitrio</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -252,7 +247,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_633-part6-item1" n="1">
+                     <msItem xml:id="MS_Bodl_633-part6-item1" n="1" key="work_4495">
                         <author key="person_27803630">
                            
                            Senatus, prior of Worcester
@@ -287,7 +282,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_633-part7-item1" n="1">
+                     <msItem xml:id="MS_Bodl_633-part7-item1" n="1" key="work_4494">
                         <author key="person_27803630">
                            
                            Senatus, prior of Worcester

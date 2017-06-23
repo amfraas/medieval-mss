@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_948">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_948">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +52,7 @@
                   <hi rend="smallcaps">Theodoretus</hi>
                   12th cent.</head>
                <msContents>
-                  <msItem xml:id="MS_Barocci_123-item1" n="">
+                  <msItem xml:id="MS_Barocci_123-item1" n="" key="work_4694">
                      <locus>(fols. 1r–69v, 94v–102v, 86r–93v, 78r–85v, 70r–77v, 103r–108v)</locus> 
                      <author key="person_77111352">Theodoretus</author>
                      <title>Quaestiones in Octateuchum</title> 

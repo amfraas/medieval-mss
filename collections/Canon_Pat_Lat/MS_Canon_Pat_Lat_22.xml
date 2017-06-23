@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3801">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3801">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -56,7 +53,7 @@
                      <title type="desc">Treatises and notes on canon and civil law</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_22-item2" n="2">
+                  <msItem xml:id="MS_Canon_Pat_Lat_22-item2" n="2" key="work_2515">
                      <author key="person_2091">
                         
                         Johannes Pratensis (c. 1420-55)
@@ -66,7 +63,7 @@
                      <title>Summula contractuum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_22-item3" n="3">
+                  <msItem xml:id="MS_Canon_Pat_Lat_22-item3" n="3" key="work_522">
                      <author key="person_285932400">
                         
                         Angelus de Periglis
@@ -75,7 +72,7 @@
                      <title>De societatibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_22-item4" n="4">
+                  <msItem xml:id="MS_Canon_Pat_Lat_22-item4" n="4" key="work_572">
                      <author key="person_89209643">
                         
                         Antoninus, archbishop of Florence
@@ -84,7 +81,7 @@
                      <title>Tractatus de simonia</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_22-item5" n="5">
+                  <msItem xml:id="MS_Canon_Pat_Lat_22-item5" n="5" key="work_571">
                      <author key="person_89209643">
                         
                         Antoninus, archbishop of Florence
@@ -93,7 +90,7 @@
                      <title>Tractatus de restitutione</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_22-item6" n="6">
+                  <msItem xml:id="MS_Canon_Pat_Lat_22-item6" n="6" key="work_570">
                      <author key="person_89209643">
                         
                         Antoninus, archbishop of Florence
@@ -102,7 +99,7 @@
                      <title>Tractatus de matrimonio</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_22-item7" n="7">
+                  <msItem xml:id="MS_Canon_Pat_Lat_22-item7" n="7" key="work_2452">
                      <author key="person_24629057">
                         
                         Johannes Andreae
@@ -111,16 +108,12 @@
                      <title>Super arboribus consanguinitatis et affinitatis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_22-item8"
-                          n="8"
-                          class="#documenta #ecclesiastica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_22-item8" n="8" class="#documenta #ecclesiastica">
                      <title type="desc">
                         <orgName key="org_137124612">Papal</orgName> bulls and grants</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_22-item9"
-                          n="9"
-                          class="#monastica #documenta">
+                  <msItem xml:id="MS_Canon_Pat_Lat_22-item9" n="9" class="#monastica #documenta">
                      <title type="desc">
                         <orgName key="org_123669614">Franciscan</orgName> statutes and documents</title>
                      <textLang mainLang="la">Latin</textLang>

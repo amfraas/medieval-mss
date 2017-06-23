@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_324">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_324">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,17 +73,17 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_341-part1-item1" n="1">
+                     <msItem xml:id="MS_Ashmole_341-part1-item1" n="1" key="work_1750">
                         <author key="person_305406727">Giles de Lessines</author>
                         <title>Summa de temporibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_341-part1-item2" n="2">
+                     <msItem xml:id="MS_Ashmole_341-part1-item2" n="2" key="work_1749">
                         <author key="person_305406727">Giles de Lessines</author>
                         <title>De essentia motu et significatione cometarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_341-part1-item3" n="3">
+                     <msItem xml:id="MS_Ashmole_341-part1-item3" n="3" key="work_433">
                         <author key="person_90038995">Alhazen</author>
                         <title>De crepusculis</title>
                         <note>(tr. <persName role="translator" key="person_84814786">
@@ -94,9 +91,7 @@
                            </persName>)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_341-part1-item4"
-                             n="4"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_341-part1-item4" n="4" class="#astrologia_astronomia">
                         <title type="desc">Astronomical treatises and tables</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -104,22 +99,22 @@
                         <title type="desc">Mathematical treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_341-part1-item6" n="6">
+                     <msItem xml:id="MS_Ashmole_341-part1-item6" n="6" key="work_2753">
                         <author key="person_88794405">John Pecham</author>
                         <title>Perspectiva</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_341-part1-item7" n="7">
+                     <msItem xml:id="MS_Ashmole_341-part1-item7" n="7" key="work_181">
                         <author key="person_2241"><!-- not found -->'Hermes'</author>
                         <title>De quindecim stellis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_341-part1-item8" n="8">
+                     <msItem xml:id="MS_Ashmole_341-part1-item8" n="8" key="work_4311">
                         <author key="person_2311"><!-- not found -->Richard of Geddinge (?)</author>
                         <title>Ars minutiarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_341-part1-item9" n="9">
+                     <msItem xml:id="MS_Ashmole_341-part1-item9" n="9" key="work_409">
                         <author key="person_2583890">Alexander de Villa Dei</author>
                         <title>Algorismus</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -149,7 +144,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_341-part2-item1" n="1">
+                     <msItem xml:id="MS_Ashmole_341-part2-item1" n="1" key="work_3104">
                         <author key="person_95152094">
                            
                            Martianus Capella

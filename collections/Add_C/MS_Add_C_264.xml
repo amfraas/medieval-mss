@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_138">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_138">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,21 +49,21 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_C_264-item1" n="1">
+                  <msItem xml:id="MS_Add_C_264-item1" n="1" key="work_2904">
                      <author key="person_23497389">
                         L. Annaeus Seneca (the elder)
                      </author>
                      <title>Controversiae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_C_264-item2" n="2">
+                  <msItem xml:id="MS_Add_C_264-item2" n="2" key="work_2905">
                      <author key="person_90637919">
                         L. Annaeus Seneca (the younger)
                      </author>
                      <title>De Beneficiis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_C_264-item3" n="3">
+                  <msItem xml:id="MS_Add_C_264-item3" n="3" key="work_3851">
                      <author key="person_2581859">
                         Ps.-Aristotle
                      </author>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1640">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1640">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_636-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_636-part1-item1" n="1" key="work_4915">
                         <author key="person_105133420">
                            
                            Vincent de Beauvais
@@ -114,7 +111,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_636-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_636-part2-item1" n="1" key="work_237">
                         <author key="person_65413892">
                            
                            Adam of Eynsham
@@ -123,9 +120,7 @@
                         <title>Visio Eadmundi</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_636-part2-item2"
-                             n="2"
-                             class="#christologia #devotiones">
+                     <msItem xml:id="MS_Bodl_636-part2-item2" n="2" class="#christologia #devotiones">
                         <title type="desc">Treatise on the Passion</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -153,7 +148,7 @@
                         <title type="desc" rend="italic">Ars moriendi</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_636-part2-item8" n="8">
+                     <msItem xml:id="MS_Bodl_636-part2-item8" n="8" key="work_2269">
                         <author key="person_803890">
                            
                            Isidore of Seville
@@ -162,7 +157,7 @@
                         <title>Synonyma</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_636-part2-item9" n="9">
+                     <msItem xml:id="MS_Bodl_636-part2-item9" n="9" key="work_3305">
                         <author key="person_291628297">
                            
                            Nicholas of Amiens

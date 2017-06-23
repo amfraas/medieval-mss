@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4266">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4266">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -59,7 +56,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_15-item2" n="2">
+                  <msItem xml:id="MS_Digby_15-item2" n="2" key="work_409">
                      <author key="person_2583890">
                         
                         Alexander de Villa Dei
@@ -68,7 +65,7 @@
                      <title>Algorismus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_15-item3" n="3">
+                  <msItem xml:id="MS_Digby_15-item3" n="3" key="work_2592">
                      <author key="person_84975906">
                         
                         Johannes de Sacro Bosco
@@ -77,7 +74,7 @@
                      <title>Tractatus de sphaera</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_15-item4" n="4">
+                  <msItem xml:id="MS_Digby_15-item4" n="4" key="work_4937">
                      <author key="person_77138678">
                         
                         Walter Brit (?)
@@ -99,7 +96,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_15-item7" n="7">
+                  <msItem xml:id="MS_Digby_15-item7" n="7" key="work_2865">
                      <author key="person_31966811">
                         
                         Jordanus de Nemore

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_931">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_931">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barocci_108-item1" n="1">
+                  <msItem xml:id="MS_Barocci_108-item1" n="1" key="work_1822">
                      <author key="person_103646160">
                         
                         Gregory of Nyssa
@@ -61,7 +58,7 @@
                      <title>Orationes VIII de beatitudinibus</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_108-item2" n="2">
+                  <msItem xml:id="MS_Barocci_108-item2" n="2" key="work_1851">
                      <author key="person_103646160">
                         
                         Gregory of Nyssa
@@ -70,7 +67,7 @@
                      <title>De oratione dominica orationes V</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_108-item3" n="3">
+                  <msItem xml:id="MS_Barocci_108-item3" n="3" key="work_1820">
                      <author key="person_103646160">
                         
                         Gregory of Nyssa
@@ -79,7 +76,7 @@
                      <title>De opificio hominis</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_108-item4" n="4">
+                  <msItem xml:id="MS_Barocci_108-item4" n="4" key="work_1856">
                      <author key="person_103646160">
                         
                         Gregory of Nyssa
@@ -88,7 +85,7 @@
                      <title>Oratio catechetica magna</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_108-item5" n="5">
+                  <msItem xml:id="MS_Barocci_108-item5" n="5" key="work_4590">
                      <author key="person_88967224">
                         
                         Basil of Caesarea
@@ -98,7 +95,7 @@
                      <note>(extract)</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_108-item6" n="6">
+                  <msItem xml:id="MS_Barocci_108-item6" n="6" key="work_1852">
                      <author key="person_103646160">
                         
                         Gregory of Nyssa
@@ -107,7 +104,7 @@
                      <title>De professione Christiana ad Harmonium</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_108-item7" n="7">
+                  <msItem xml:id="MS_Barocci_108-item7" n="7" key="work_4537">
                      <author key="person_59877333">
                         
                         Simeon Novus Theologus
@@ -117,7 +114,7 @@
                      <note>(cat. 25)</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_108-item8" n="8">
+                  <msItem xml:id="MS_Barocci_108-item8" n="8" key="work_1853">
                      <author key="person_103646160">
                         
                         Gregory of Nyssa
@@ -126,7 +123,7 @@
                      <title>De tridui spatio</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_108-item9" n="9">
+                  <msItem xml:id="MS_Barocci_108-item9" n="9" key="work_2656">
                      <author key="person_297475745">
                         
                         John Chrysostom
@@ -135,7 +132,7 @@
                      <title>De virginitate</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_108-item10" n="10">
+                  <msItem xml:id="MS_Barocci_108-item10" n="10" key="work_3194">
                      <author key="person_9856247">
                         
                         Michael Psellus

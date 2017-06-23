@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_833">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_833">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,25 +49,25 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_T_5_13-item1" n="1">
+                  <msItem xml:id="MS_Auct_T_5_13-item1" n="1" key="work_1705">
                      <author key="person_39429158">Georgius Pachymeres</author>
                      <title>Epitome in
               Aristotelis philosophiam universam</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_T_5_13-item2" n="2">
+                  <msItem xml:id="MS_Auct_T_5_13-item2" n="2" key="work_4782">
                      <author key="person_264344179">Thomas Aquinas</author>
                      <title>works</title>
                      <note>Greek translation</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_T_5_13-item3">
+                  <msItem xml:id="MS_Auct_T_5_13-item3" key="work_3585">
                      <author key="person_87227886">Petrus Hispanus</author>
                      <title>Dialectica seu summulae logicales </title>
                      <note>Greek translation</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_T_5_13-item4">
+                  <msItem xml:id="MS_Auct_T_5_13-item4" key="work_1132">
                      <author key="person_100218964">Boethius</author>
                      <title>works</title>
                      <note>Greek translation</note>

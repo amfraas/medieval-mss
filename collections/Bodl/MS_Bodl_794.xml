@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1780">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1780">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_794-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_794-part1-item1" n="1" key="work_3411">
                         <author key="person_2347">
                            Otto de Monteferrato
                         </author>
@@ -86,7 +83,7 @@
                         <note>(with commentary of <persName role="author" key="person_5357362">John de Acton</persName>)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_794-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_794-part1-item2" n="2" key="work_3414">
                         <author key="person_93573791">
                            Ottobuono Fieschi
                         </author>

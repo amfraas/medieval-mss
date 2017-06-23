@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1609">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1609">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,15 +77,11 @@
                         <title type="desc">Life of Adam</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_596-part1-item2"
-                             n="2"
-                             class="#theologica #devotiones">
+                     <msItem xml:id="MS_Bodl_596-part1-item2" n="2" class="#theologica #devotiones">
                         <title type="desc">Religious texts</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_596-part1-item3"
-                             n="3"
-                             class="#documenta #monastica">
+                     <msItem xml:id="MS_Bodl_596-part1-item3" n="3" class="#documenta #monastica">
                         <title type="desc">Petition of <orgName key="org_132460849">Westminster Abbey</orgName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>
@@ -101,9 +94,7 @@
                         <title type="desc">Coronation order</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_596-part1-item6"
-                             n="6"
-                             class="#historica #documenta">
+                     <msItem xml:id="MS_Bodl_596-part1-item6" n="6" class="#historica #documenta">
                         <title type="desc">Deposition of <persName key="person_262479505">Richard II</persName>
                         </title>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
@@ -137,7 +128,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_596-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_596-part2-item1" n="1" key="work_2725">
                         <author key="person_22158282">
                            
                            John Lydgate
@@ -174,7 +165,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_596-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_596-part3-item1" n="1" key="work_977">
                         <author key="person_61539765">
                            
                            Bede
@@ -183,7 +174,7 @@
                         <title>Vita S. Cuthberti</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_596-part3-item2" n="2">
+                     <msItem xml:id="MS_Bodl_596-part3-item2" n="2" key="work_976">
                         <author key="person_61539765">
                            
                            Bede
@@ -197,7 +188,7 @@
                         <title>Historia de sancto Cuthberto</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_596-part3-item4" n="4">
+                     <msItem xml:id="MS_Bodl_596-part3-item4" n="4" key="work_2973">
                         <author key="person_79428879">
                            
                            Lethaldus Miciacensis

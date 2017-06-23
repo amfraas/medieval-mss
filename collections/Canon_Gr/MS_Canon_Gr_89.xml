@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2520">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2520">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Gr_89-item1" n="1">
+                  <msItem xml:id="MS_Canon_Gr_89-item1" n="1" key="work_3189">
                      <author key="person_37073375">
                         
                         Michael Glycas
@@ -61,7 +58,7 @@
                      <title>Annales</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_89-item2" n="2">
+                  <msItem xml:id="MS_Canon_Gr_89-item2" n="2" key="work_4061">
                      <author key="person_2176"><!-- not found -->
                         
                         Ps.-John
@@ -71,7 +68,7 @@
                      <title>Barlaam et Iosaphat</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_89-item3" n="3">
+                  <msItem xml:id="MS_Canon_Gr_89-item3" n="3" key="work_2819">
                      <author key="person_44435485">
                         
                         John
@@ -81,7 +78,7 @@
                      <title>Dialectica</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_89-item4" n="4">
+                  <msItem xml:id="MS_Canon_Gr_89-item4" n="4" key="work_4692">
                      <author key="person_77111352">
                         
                         Theodoretus of Cyrus
@@ -90,7 +87,7 @@
                      <title>Religiosa historia</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_89-item5" n="5">
+                  <msItem xml:id="MS_Canon_Gr_89-item5" n="5" key="work_4696">
                      <author key="person_77111352">
                         
                         Theodoretus of Cyrus

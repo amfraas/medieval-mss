@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1779">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1779">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,9 +74,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_793-part1-item1"
-                             n="1"
-                             class="#vitae_sanctorum #miracula">
+                     <msItem xml:id="MS_Bodl_793-part1-item1" n="1" class="#vitae_sanctorum #miracula">
                         <title type="desc">Lives and miracles of St Germain of Auxerre</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -108,7 +103,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_793-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_793-part2-item1" n="1" key="work_4632">
                         <author key="person_30332452">
                            
                            Sulpicius Severus
@@ -173,7 +168,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_793-part4-item1" n="1">
+                     <msItem xml:id="MS_Bodl_793-part4-item1" n="1" key="work_4250">
                         <author key="person_225759315">
                            
                            Rhygyfarch ap Sulien

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1220">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1220">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_16-item1" n="1">
+                  <msItem xml:id="MS_Bodl_16-item1" n="1" key="work_3962">
                      <author key="person_289681963">
                         
                         Ps.-Bonaventure
@@ -62,7 +59,7 @@
                      <note>(Meditationes uitae Christi, cc. 73-85)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_16-item2" n="2">
+                  <msItem xml:id="MS_Bodl_16-item2" n="2" key="work_3952">
                      <author key="person_306415749">
                         
                         Ps.-Bernard
@@ -71,7 +68,7 @@
                      <title>Meditationes piissimae de cognitione humanae conditionis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_16-item3" n="3">
+                  <msItem xml:id="MS_Bodl_16-item3" n="3" key="work_4286">
                      <author key="person_2465074">
                         
                         Richard Rolle
@@ -84,7 +81,7 @@
                      <title type="desc">Theological treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_16-item5" n="5">
+                  <msItem xml:id="MS_Bodl_16-item5" n="5" key="work_4288">
                      <author key="person_2465074">
                         
                         Richard Rolle
@@ -94,7 +91,7 @@
                      <note>(abridgement)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_16-item6" n="6">
+                  <msItem xml:id="MS_Bodl_16-item6" n="6" key="work_2426">
                      <author key="person_95147024">
                         
                         Jerome

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1528">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1528">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_494-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_494-part1-item1" n="1" key="work_3492">
                         <author key="person_40175167">
                            
                            Peter Comestor
@@ -112,7 +109,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_494-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_494-part2-item1" n="1" key="work_3493">
                         <author key="person_40175167">
                            
                            Peter Comestor
@@ -149,7 +146,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_494-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_494-part3-item1" n="1" key="work_1166">
                         <author key="person_282832607">
                            
                            Bruno Carthusiensis
@@ -186,7 +183,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_494-part4-item1" n="1">
+                     <msItem xml:id="MS_Bodl_494-part4-item1" n="1" key="work_4331">
                         <author key="person_98148813">
                            
                            Richard of St.-Victor

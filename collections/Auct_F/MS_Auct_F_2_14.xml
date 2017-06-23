@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_610">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_610">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_F_2_14-item1" n="1">
+                  <msItem xml:id="MS_Auct_F_2_14-item1" n="1" key="work_5109">
                      <author key="person_15575215">
                         Wulfstan of Winchester
                      </author>
@@ -66,21 +63,21 @@
                      <title type="desc">Biblical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_2_14-item3" n="3">
+                  <msItem xml:id="MS_Auct_F_2_14-item3" n="3" key="work_854">
                      <author key="person_41836105">
                         Avianus
                      </author>
                      <title>Fabulae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_2_14-item4" n="4">
+                  <msItem xml:id="MS_Auct_F_2_14-item4" n="4" key="work_3489">
                      <author key="person_100198157">
                         Persius
                      </author>
                      <title>Satires</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_2_14-item5" n="5">
+                  <msItem xml:id="MS_Auct_F_2_14-item5" n="5" key="work_3662">
                      <author key="person_264079000">
                         Phocas
                      </author>
@@ -98,21 +95,21 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_2_14-item7" n="7">
+                  <msItem xml:id="MS_Auct_F_2_14-item7" n="7" key="work_4512">
                      <author key="person_74208088">
                         Serlo of Bayeux
                      </author>
                      <title>Quae monachi quaerunt</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_2_14-item8" n="8">
+                  <msItem xml:id="MS_Auct_F_2_14-item8" n="8" key="work_4601">
                      <author key="person_100904338">
                         Statius
                      </author>
                      <title>Achilleis</title> 
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_2_14-item9" n="9">
+                  <msItem xml:id="MS_Auct_F_2_14-item9" n="9" key="work_2907">
                      <author key="person_100198064">
                         Lactantius
                      </author>

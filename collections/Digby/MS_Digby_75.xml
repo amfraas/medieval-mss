@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4414">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4414">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -92,7 +89,7 @@
                         <title>Trotula</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part1-item4" n="4">
+                     <msItem xml:id="MS_Digby_75-part1-item4" n="4" key="work_3599">
                         <author key="person_33343877">
                            
                            Petrus Peregrinus de Maricourt
@@ -107,7 +104,7 @@
                         
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part1-item6" n="6">
+                     <msItem xml:id="MS_Digby_75-part1-item6" n="6" key="work_4096">
                         <author key="person_31816106">
                            
                            Ps.-Ptolemy
@@ -116,9 +113,7 @@
                         <title>Centiloquium</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part1-item7"
-                             n="7"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_75-part1-item7" n="7" class="#astrologia_astronomia">
 						                  <title type="desc">Astrological treatise</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -148,14 +143,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_75-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_75-part2-item1" n="1" key="work_4852">
                         <author key="person_15126909">Thomas of Wilton</author>
                         <title>De ualidis mendicantibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part2-item2"
-                             n="2"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_75-part2-item2" n="2" class="#astrologia_astronomia">
 						                  <title type="desc">Astrological treatise</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -169,7 +162,7 @@
                         <title>Disputacio corporis et animae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part2-item5" n="5">
+                     <msItem xml:id="MS_Digby_75-part2-item5" n="5" key="work_230">
                         <author key="person_282716748">Adam of Aldersbach</author>
                         <!-- two relevant entries in PDNB -->
                         <title>Summula Raymundi</title>
@@ -200,7 +193,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_75-part3-item1" n="1">
+                     <msItem xml:id="MS_Digby_75-part3-item1" n="1" key="work_2745">
                         <author key="person_10428840">
                            
                            John Mirk
@@ -218,7 +211,7 @@
                            <title>South English Legendary</title>
                         </bibl>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part3-item3" n="3">
+                     <msItem xml:id="MS_Digby_75-part3-item3" n="3" key="work_3996">
                         <author key="person_2294">
                            
                            Ps.-Edward the Confessor

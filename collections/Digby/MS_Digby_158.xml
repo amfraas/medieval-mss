@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4275">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4275">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_158-item1" n="1">
+                  <msItem xml:id="MS_Digby_158-item1" n="1" key="work_200">
                      <author key="person_190763522">
                         
                         Johannes Presbyter
@@ -63,7 +60,7 @@
                      <title>Epistola Manueli Comneno imperatori Graecorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_158-item2" n="2">
+                  <msItem xml:id="MS_Digby_158-item2" n="2" key="work_1376">
                      <author key="person_281346627">
                         
                         Defensor

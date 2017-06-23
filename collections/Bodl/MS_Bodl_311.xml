@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1358">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1358">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -61,7 +58,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_311-item2" n="2">
+                  <msItem xml:id="MS_Bodl_311-item2" n="2" key="work_1874">
                      <author key="person_100184667">
                         
                         Gregory the Great
@@ -80,7 +77,7 @@
                      <note>(penitential)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_311-item4" n="4">
+                  <msItem xml:id="MS_Bodl_311-item4" n="4" key="work_4041">
                      <author key="person_291862125">
                         
                         Ps.-Jerome

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1160">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1160">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -96,7 +93,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                      <msItem xml:id="MS_Barocci_96-part1-item1" n="A1">
+                      <msItem xml:id="MS_Barocci_96-part1-item1" n="A1" key="work_1817">
                         
                          <locus>(fols. 1r–160r)</locus> 
                         <author key="person_108675755">Gregorius
@@ -498,7 +495,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_96-part1-item48" n="A2">
+                     <msItem xml:id="MS_Barocci_96-part1-item48" n="A2" key="work_2947">
                         
                         <locus>(fol. 160rv)</locus> 
                         <author key="person_44580354">
@@ -513,7 +510,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_96-part1-item49" n="A3">
+                     <msItem xml:id="MS_Barocci_96-part1-item49" n="A3" key="work_4585">
                         
                         <locus>(fol. 160v)</locus> 
                         <author key="person_20473427">Sophronius</author> 
@@ -524,7 +521,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_96-part1-item50" n="A4">
+                     <msItem xml:id="MS_Barocci_96-part1-item50" n="A4" key="work_4506">
                         
                             <locus>(fol. 160v)</locus> 
                         <author key="person_2475">Seneca
@@ -537,7 +534,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_96-part1-item51" n="A5">
+                     <msItem xml:id="MS_Barocci_96-part1-item51" n="A5" key="work_5151">
                         
                         <locus>(fols. 160v–162v)</locus>  
                         <author key="person_98118283">‡ Ioannes

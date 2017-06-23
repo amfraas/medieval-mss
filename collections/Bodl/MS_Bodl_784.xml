@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1769">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1769">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_784-item1" n="1">
+                  <msItem xml:id="MS_Bodl_784-item1" n="1" key="work_4056">
                      <author key="person_9961331">
                         
                         Ps.-John Chrysostom
@@ -71,13 +68,13 @@
                      <title type="desc">Anti-fraternal extracts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_784-item4" n="4">
+                  <msItem xml:id="MS_Bodl_784-item4" n="4" key="work_5087">
                      <author key="person_217200604">William of Pagula</author>
                      <title>Summa summarum</title>
                      <note>(extracts)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_784-item5" n="5">
+                  <msItem xml:id="MS_Bodl_784-item5" n="5" key="work_1986">
                      <author key="person_100181882">
                         
                         Henricus de Segusio

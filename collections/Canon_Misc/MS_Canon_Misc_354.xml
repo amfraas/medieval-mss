@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3379">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3379">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,17 +49,17 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_354-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_354-item1" n="1" key="work_2954">
                      <author key="person_95283478">Leonardo Bruni</author>
                      <title>De primo bello punico</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_354-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_354-item2" n="2" key="work_4523">
                      <author key="person_79076696">Rufus Festus</author>
                      <title>Breuiarium rerum gestarum populi Romani</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_354-item3" n="3">
+                  <msItem xml:id="MS_Canon_Misc_354-item3" n="3" key="work_1002">
                      <author key="person_69731706">Benvenutus de Imola</author>
                      <title>Augustalis libellus</title>
                      <textLang mainLang="la">Latin</textLang>

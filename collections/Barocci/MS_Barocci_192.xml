@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1024">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1024">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -253,7 +250,7 @@
                         pr. <title>PG</title> 116. 609–52.</note>
                            <textLang mainLang="grc">Greek</textLang>
                         </msItem>
-                        <msItem xml:id="MS_Barocci_192-part1-item1-item11" n="1k">
+                        <msItem xml:id="MS_Barocci_192-part1-item1-item11" n="1k" key="work_1827">
                      
                            <locus>(fols. 100v–102r)</locus> 
                            <author key="person_103646160">
@@ -268,7 +265,7 @@
                         pr. <title>PG</title> 46. 1128–49; breaks off at 1132A <hi rend="italic">ad fin.</hi>, ὅτι οὔπω τῆϲ Ϲοδο[μιτικῆϲ. Fol. 102v blank.</note>
                            <textLang mainLang="grc">Greek</textLang>
                         </msItem>
-                        <msItem xml:id="MS_Barocci_192-part1-item1-item12" n="1l">
+                        <msItem xml:id="MS_Barocci_192-part1-item1-item12" n="1l" key="work_939">
                      
                            <locus>(fols. 103r–107v)</locus> 
                            <author key="person_88967224">
@@ -283,7 +280,7 @@
                     φι[λανθρωπίαν.</note>
                            <textLang mainLang="grc">Greek</textLang>
                         </msItem>
-                        <msItem xml:id="MS_Barocci_192-part1-item1-item13" n="1m">
+                        <msItem xml:id="MS_Barocci_192-part1-item1-item13" n="1m" key="work_5147">
                      
                            <locus>(fols. 108r–112v)</locus> 
                            <author key="person_105155222">
@@ -298,7 +295,7 @@
                     1161k, pr. <title>PG</title> 28. 944–57.</note>
                            <textLang mainLang="grc">Greek</textLang>
                         </msItem>
-                        <msItem xml:id="MS_Barocci_192-part1-item1-item14" n="1n">
+                        <msItem xml:id="MS_Barocci_192-part1-item1-item14" n="1n" key="work_1828">
                      
                            <locus>(fols. 112v–118v)</locus> 
                            <author key="person_103646160">
@@ -353,7 +350,7 @@
                     1028, pr. <title>PG</title> 116. 705–45.</note>
                            <textLang mainLang="grc">Greek</textLang>
                         </msItem>
-                        <msItem xml:id="MS_Barocci_192-part1-item1-item18" n="1r">
+                        <msItem xml:id="MS_Barocci_192-part1-item1-item18" n="1r" key="work_5150">
                      
                            <locus> (fols. 151v–152b recto)</locus> 
                            <author key="person_204677613">
@@ -377,7 +374,7 @@
                         pr. <title>PG</title> 116. 753–93.</note>
                            <textLang mainLang="grc">Greek</textLang>
                         </msItem>
-                        <msItem xml:id="MS_Barocci_192-part1-item1-item20" n="1t">
+                        <msItem xml:id="MS_Barocci_192-part1-item1-item20" n="1t" key="work_716">
                      
                            <locus>(fol. 163rv)</locus> 
                            <author key="person_100383944">
@@ -405,7 +402,7 @@
                      
                            <textLang mainLang="grc">Greek</textLang>
                         </msItem>
-                        <msItem xml:id="MS_Barocci_192-part1-item1-item22" n="1v">
+                        <msItem xml:id="MS_Barocci_192-part1-item1-item22" n="1v" key="work_1464">
                      
                            <locus>(fols. 169r–184v)</locus> 
                            <author key="person_100177778">
@@ -479,7 +476,7 @@
                               <hi rend="superscript">3</hi> 723, pr. <title>PG</title> 114. 981–1000.</note>
                            <textLang mainLang="grc">Greek</textLang>
                         </msItem>
-                        <msItem xml:id="MS_Barocci_192-part1-item2-item6" n="2f">
+                        <msItem xml:id="MS_Barocci_192-part1-item2-item6" n="2f" key="work_1825">
                      
                            <locus>(fols. 271v–286v)</locus> 
                            <author key="person_307484301">
@@ -524,7 +521,7 @@
                               <hi rend="superscript">3</hi> 584, pr. <title>PG</title> 114. 1253–68.</note>
                            <textLang mainLang="grc">Greek</textLang>
                         </msItem>
-                        <msItem xml:id="MS_Barocci_192-part1-item2-item10" n="2j">
+                        <msItem xml:id="MS_Barocci_192-part1-item2-item10" n="2j" key="work_2217">
                      
                            <locus>(fols. 306r–315r)</locus> 
                            <author key="person_100971730">

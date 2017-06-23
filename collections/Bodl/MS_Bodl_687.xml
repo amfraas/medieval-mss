@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1679">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1679">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -56,7 +53,7 @@
                      <title>Fasciculus morum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_687-item2" n="2">
+                  <msItem xml:id="MS_Bodl_687-item2" n="2" key="work_2772">
                      <author key="person_224090554">
                         
                         John Waldeby
@@ -65,7 +62,7 @@
                      <title>Nouum opus dominicale</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_687-item3" n="3">
+                  <msItem xml:id="MS_Bodl_687-item3" n="3" key="work_3574">
                      <author key="person_5087740">
                         
                         Petrus de Aureoli

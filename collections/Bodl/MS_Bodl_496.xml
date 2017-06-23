@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1530">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1530">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_496-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_496-part1-item1" n="1" key="work_4158">
                         <author key="person_25900069">
                            
                            Quilichinus de Spoleto
@@ -89,7 +86,7 @@
                         <title>Apocalypsis Goliae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_496-part1-item3" n="3">
+                     <msItem xml:id="MS_Bodl_496-part1-item3" n="3" key="work_3349">
                         <author key="person_36950880">
                            
                            Nigel Witeker
@@ -98,7 +95,7 @@
                         <title>Speculum stultorum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_496-part1-item4" n="4">
+                     <msItem xml:id="MS_Bodl_496-part1-item4" n="4" key="work_4979">
                         <author key="person_79253969">
                            
                            Walter the Englishman
@@ -107,7 +104,7 @@
                         <title>Fabulae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_496-part1-item5" n="5">
+                     <msItem xml:id="MS_Bodl_496-part1-item5" n="5" key="work_4455">
                         <author key="person_2205">
                            
                            Roger of Caen (?)
@@ -117,7 +114,7 @@
                         <note>(with prologue by <persName role="author" key="person_712">John Matthew, monk of Glastonbury</persName>, 1431)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_496-part1-item6" n="6">
+                     <msItem xml:id="MS_Bodl_496-part1-item6" n="6" key="work_2768">
                         <author key="person_2272">
                            
                            John Stone (d. 1434-5)
@@ -162,7 +159,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_496-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_496-part2-item1" n="1" key="work_736">
                         <author key="person_66806872">
                            
                            Augustine

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1461">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1461">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_428-item1" n="1">
+                  <msItem xml:id="MS_Bodl_428-item1" n="1" key="work_898">
                      <author key="person_4532650">
                         
                         Bartholomew of Exeter
@@ -70,7 +67,7 @@
                      <title>Euangelium Nicodemi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_428-item4" n="4">
+                  <msItem xml:id="MS_Bodl_428-item4" n="4" key="work_530">
                      <author key="person_100187025">
                         
                         Anselm
@@ -79,7 +76,7 @@
                      <title>De concordia praescientiae et praedestinationis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_428-item5" n="5">
+                  <msItem xml:id="MS_Bodl_428-item5" n="5" key="work_527">
                      <author key="person_100187025">
                         
                         Anselm
@@ -88,7 +85,7 @@
                      <title>Cur deus homo</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_428-item6" n="6">
+                  <msItem xml:id="MS_Bodl_428-item6" n="6" key="work_537">
                      <author key="person_100187025">
                         
                         Anselm

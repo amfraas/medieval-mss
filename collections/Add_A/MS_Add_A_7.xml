@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_73">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_73">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,7 +74,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Add_A_7-part1-item1" n="1">
+                     <msItem xml:id="MS_Add_A_7-part1-item1" n="1" key="work_3335">
                         <author key="person_42197041">
                            Nicolaus Praepositus of Salerno
                         </author>
@@ -174,14 +171,14 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Add_A_7-part3-item1" n="1">
+                     <msItem xml:id="MS_Add_A_7-part3-item1" n="1" key="work_4454">
                         <author key="person_4371360">
                            Roger de Baron
                         </author>
                         <title>Rogerina major</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Add_A_7-part3-item2" n="2">
+                     <msItem xml:id="MS_Add_A_7-part3-item2" n="2" key="work_4452">
                         <author key="person_4371360">
                            Roger de Baron
                         </author>

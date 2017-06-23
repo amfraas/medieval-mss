@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1851">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1851">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,9 +74,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_860-part1-item1"
-                             n="1"
-                             class="#versus #biblia #commentarii">
+                     <msItem xml:id="MS_Bodl_860-part1-item1" n="1" class="#versus #biblia #commentarii">
                         <title rend="roman">Psalm i</title>
                         <note>(Latin hexameter version, with glosses)</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -113,7 +108,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_860-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_860-part2-item1" n="1" key="work_4487">
                         <author key="person_61956730">
                            
                            Samuel Priest
@@ -153,7 +148,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_860-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_860-part3-item1" n="1" key="work_4486">
                         <author key="person_61956730">
                            
                            Samuel Priest

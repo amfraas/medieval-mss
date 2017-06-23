@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4402">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4402">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -58,7 +55,7 @@
                      <title type="desc">Florilegium</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_64-item2" n="2">
+                  <msItem xml:id="MS_Digby_64-item2" n="2" key="work_1679">
                      <author key="person_82793219">
                         
                         Geoffrey de Vinsauf
@@ -73,7 +70,7 @@
                      <note>(incomplete)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_64-item4" n="4">
+                  <msItem xml:id="MS_Digby_64-item4" n="4" key="work_2228">
                      <author key="person_12354302">
                         
                         Johannes de Alta Villa
@@ -83,7 +80,7 @@
                      <note>(with commentary (imperfect) by <persName role="author" key="person_225105378">Hugh Legat</persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_64-item5" n="5">
+                  <msItem xml:id="MS_Digby_64-item5" n="5" key="work_2286">
                      <author key="person_310542219">
                         
                         Iupiter Monoculus

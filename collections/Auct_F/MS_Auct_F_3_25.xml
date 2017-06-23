@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_645">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_645">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -57,35 +54,35 @@
                      <note>(fragment)</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_25-item2" n="2">
+                  <msItem xml:id="MS_Auct_F_3_25-item2" n="2" key="work_4583">
                      <author key="person_101760867">
                         Sophocles
                      </author>
                      <title>Tragedies</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_25-item3" n="3">
+                  <msItem xml:id="MS_Auct_F_3_25-item3" n="3" key="work_1493">
                      <author key="person_265326651">
                         Euripides
                      </author>
                      <title>Tragedies</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_25-item4" n="4">
+                  <msItem xml:id="MS_Auct_F_3_25-item4" n="4" key="work_4682">
                      <author key="person_95161348">
                         Theocritus
                      </author>
                      <title>Idylls</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_25-item5" n="5">
+                  <msItem xml:id="MS_Auct_F_3_25-item5" n="5" key="work_2040">
                      <author key="person_122220717">
                         Hesiod
                      </author>
                      <title>Works and Days</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_25-item6" n="6">
+                  <msItem xml:id="MS_Auct_F_3_25-item6" n="6" key="work_3685">
                      <author key="person_100181310">
                         Pindar
                      </author>

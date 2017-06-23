@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4310">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4310">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,7 +78,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_190-part1-item1" n="1">
+                     <msItem xml:id="MS_Digby_190-part1-item1" n="1" key="work_343">
                         <author key="person_88125532">Albertus Magnus</author>
                         <title>Mineralia</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -108,7 +105,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_190-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_190-part2-item1" n="1" key="work_4438">
                         <author key="person_120688673">Roger Bacon (?)</author>
                         <title>De principiis naturae</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -135,7 +132,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_190-part3-item1" n="1">
+                     <msItem xml:id="MS_Digby_190-part3-item1" n="1" key="work_4437">
                         <author key="person_120688673">Roger Bacon (?)</author>
                         <title>Commentary on Aristotle, Meteora</title>
                         <bibl type="commentedOn">
@@ -195,7 +192,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_190-part5-item1" n="1">
+                     <msItem xml:id="MS_Digby_190-part5-item1" n="1" key="work_264">
                         <author key="person_39386818">Aelred of Rievaulx</author>
                         <title>De spirituali amicitia</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -222,17 +219,17 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_190-part6-item1" n="1">
+                     <msItem xml:id="MS_Digby_190-part6-item1" n="1" key="work_2578">
                         <author key="person_86449531">Johannes de Muris</author>
                         <title>De canonibus tabulae minutiarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_190-part6-item2" n="2">
+                     <msItem xml:id="MS_Digby_190-part6-item2" n="2" key="work_2583">
                         <author key="person_257717926">Johannes de Pulchro Rivo</author>
                         <title>Ars compoti manualis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_190-part6-item3" n="3">
+                     <msItem xml:id="MS_Digby_190-part6-item3" n="3" key="work_2575">
                         <author key="person_44658739">Johannes de Lineriis</author>
                         <title>Tractatus de minutiis</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -259,14 +256,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_190-part7-item1" n="1">
+                     <msItem xml:id="MS_Digby_190-part7-item1" n="1" key="work_4439">
                         <author key="person_120688673">Roger Bacon (?)</author>
                         <title>De somno et uigilia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_190-part7-item2"
-                             n="2"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_190-part7-item2" n="2" class="#astrologia_astronomia">
 						                  <title type="desc">Astronomical fragments</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -293,7 +288,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_190-part8-item1" n="1">
+                     <msItem xml:id="MS_Digby_190-part8-item1" n="1" key="work_4336">
                         <author key="person_7424114">Richard of Wallingford</author>
                         <title>Quadripartitum</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -330,17 +325,17 @@
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_190-part9-item2" n="2">
+                     <msItem xml:id="MS_Digby_190-part9-item2" n="2" key="work_2590">
                         <author key="person_84975906">Johannes de Sacro Bosco</author>
                         <title>Algorismus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_190-part9-item3" n="3">
+                     <msItem xml:id="MS_Digby_190-part9-item3" n="3" key="work_4365">
                         <author key="person_86920837">Robert Grosseteste</author>
                         <title>De iride</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_190-part9-item4" n="4">
+                     <msItem xml:id="MS_Digby_190-part9-item4" n="4" key="work_4360">
                         <author key="person_86920837">Robert Grosseteste</author>
                         <title>De colore</title>
                         <textLang mainLang="la">Latin</textLang>

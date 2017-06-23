@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3377">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3377">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_352-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_352-item1" n="1" key="work_3030">
                      <author key="person_183417170">
                         
                         Lysias
@@ -68,7 +65,7 @@
                      <title type="desc">Orations</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_352-item3" n="3">
+                  <msItem xml:id="MS_Canon_Misc_352-item3" n="3" key="work_1545">
                      <author key="person_10646727">
                         
                         Francescus Barbarus
@@ -77,7 +74,7 @@
                      <title>Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_352-item4" n="4">
+                  <msItem xml:id="MS_Canon_Misc_352-item4" n="4" key="work_3740">
                      <author key="person_19722038">
                         
                         Poggio Bracciolini
@@ -86,7 +83,7 @@
                      <title>Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_352-item5" n="5">
+                  <msItem xml:id="MS_Canon_Misc_352-item5" n="5" key="work_3560">
                      <author key="person_39382430">
                         
                         Petrarch
@@ -95,7 +92,7 @@
                      <title>Historia Griseldis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_352-item6" n="6">
+                  <msItem xml:id="MS_Canon_Misc_352-item6" n="6" key="work_2961">
                      <author key="person_95283478">
                         
                         Leonardo Bruni
@@ -104,7 +101,7 @@
                      <title>Oratio in hypocritas</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_352-item7" n="7">
+                  <msItem xml:id="MS_Canon_Misc_352-item7" n="7" key="work_3722">
                      <author key="person_268955446">
                         
                         Plutarch
@@ -116,7 +113,7 @@
                         </persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_352-item8" n="8">
+                  <msItem xml:id="MS_Canon_Misc_352-item8" n="8" key="work_5117">
                      <author key="person_89597697">
                         
                         Xenophon
@@ -128,7 +125,7 @@
                         </persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_352-item9" n="9">
+                  <msItem xml:id="MS_Canon_Misc_352-item9" n="9" key="work_2277">
                      <author key="person_36926979">
                         
                         Isocrates
@@ -140,7 +137,7 @@
                         </persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_352-item10" n="10">
+                  <msItem xml:id="MS_Canon_Misc_352-item10" n="10" key="work_4092">
                      <author key="person_310679909">
                         
                         Ps.-Plutarch
@@ -152,7 +149,7 @@
                         </persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_352-item11" n="11">
+                  <msItem xml:id="MS_Canon_Misc_352-item11" n="11" key="work_2951">
                      <author key="person_95283478">
                         
                         Leonardo Bruni

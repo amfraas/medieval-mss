@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4730">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4730">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_60-item1" n="1">
+                  <msItem xml:id="MS_Douce_60-item1" n="1" key="work_2743">
                      <author key="person_10428840">John Mirk</author>
                      <title>Festial</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_60-item2" n="2">
+                  <msItem xml:id="MS_Douce_60-item2" n="2" key="work_2744">
                      <author key="person_10428840">John Mirk</author>
                      <title>Instructions for parish priests</title>
                      <textLang mainLang="en">English</textLang>
@@ -66,7 +63,7 @@
                      <title type="desc">Sermon</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_60-item4" n="4">
+                  <msItem xml:id="MS_Douce_60-item4" n="4" key="work_4261">
                      <author key="person_35717526">Richard Lavynham</author>
                      <title>Treatise on the Seven
               Deadly Sins</title>

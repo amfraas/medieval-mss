@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_603">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_603">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,28 +49,28 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_F_1_8-item1" n="1">
+                  <msItem xml:id="MS_Auct_F_1_8-item1" n="1" key="work_2848">
                      <author key="person_71362351">
                         John of Salisbury
                      </author>
                      <title>Polycraticus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_1_8-item2" n="2">
+                  <msItem xml:id="MS_Auct_F_1_8-item2" n="2" key="work_702">
                      <author key="person_93259877">
                         Arnulphus of Lisieux
                      </author>
                      <title>Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_1_8-item3" n="3">
+                  <msItem xml:id="MS_Auct_F_1_8-item3" n="3" key="work_4651">
                      <author key="person_98247027">
                         Symmachus
                      </author>
                      <title>Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_1_8-item4" n="4">
+                  <msItem xml:id="MS_Auct_F_1_8-item4" n="4" key="work_3102">
                      <author key="person_8099277">
                         Martial
                      </author>

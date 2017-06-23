@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1234">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1234">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_177-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_177-part1-item1" n="1" key="work_2531">
                         <author key="person_2267">
                            
                            Johannes Viennensis
@@ -117,9 +114,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_177-part2-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Bodl_177-part2-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Astronomical tables</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -157,9 +152,7 @@
                            treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_177-part3-item2"
-                             n="2"
-                             class="#astrologia_astronomia #prognostica">
+                     <msItem xml:id="MS_Bodl_177-part3-item2" n="2" class="#astrologia_astronomia #prognostica">
                         <title type="desc">Astrological and chiromantic treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -192,7 +185,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_177-part4-item1" n="1">
+                     <msItem xml:id="MS_Bodl_177-part4-item1" n="1" key="work_4112">
                         <author key="person_2184">
                            
                            Ps.-Roger
@@ -206,7 +199,7 @@
                         <title type="desc">Alchemical texts</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_177-part4-item3" n="3">
+                     <msItem xml:id="MS_Bodl_177-part4-item3" n="3" key="work_3626">
                         <author key="person_22530463">
                            
                            Petrus de S. Audomaro

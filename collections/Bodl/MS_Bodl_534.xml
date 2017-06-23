@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1557">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1557">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -139,7 +136,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_534-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_534-part3-item1" n="1" key="work_1862">
                         <author key="person_100184667">
                            
                            Gregory the Great
@@ -177,7 +174,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_534-part4-item1" n="1">
+                     <msItem xml:id="MS_Bodl_534-part4-item1" n="1" key="work_3880">
                         <author key="person_7386286">
                            
                            Ps.-Augustine
@@ -186,7 +183,7 @@
                         <title>De spiritu et anima</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_534-part4-item2" n="2">
+                     <msItem xml:id="MS_Bodl_534-part4-item2" n="2" key="work_3952">
                         <author key="person_306415749">
                            
                            Ps.-Bernard

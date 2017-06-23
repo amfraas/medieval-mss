@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3895">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3895">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_96-item1" n="1">
+                  <msItem xml:id="MS_Canon_Pat_Lat_96-item1" n="1" key="work_1504">
                      <author key="person_4929593">
                         
                         Eusebius of Caesarea
@@ -61,7 +58,7 @@
                      <title>Chronicon</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_96-item2" n="2">
+                  <msItem xml:id="MS_Canon_Pat_Lat_96-item2" n="2" key="work_3074">
                      <author key="person_89594750">
                         
                         Marcellinus
@@ -70,7 +67,7 @@
                      <title>Chronicon</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_96-item3" n="3">
+                  <msItem xml:id="MS_Canon_Pat_Lat_96-item3" n="3" key="work_965">
                      <author key="person_61539765">
                         
                         Bede
@@ -79,7 +76,7 @@
                      <title>De temporibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_96-item4" n="4">
+                  <msItem xml:id="MS_Canon_Pat_Lat_96-item4" n="4" key="work_3314">
                      <author key="person_95296771">
                         
                         Nicholas of Lyre
@@ -88,7 +85,7 @@
                      <title>Contra Iudaeorum perfidiam</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_96-item5" n="5">
+                  <msItem xml:id="MS_Canon_Pat_Lat_96-item5" n="5" key="work_4485">
                      <author key="person_7785718">
                         
                         Samuel Israelita
@@ -97,7 +94,7 @@
                      <title>Epistola contra iudaeorum errores</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_96-item6" n="6">
+                  <msItem xml:id="MS_Canon_Pat_Lat_96-item6" n="6" key="work_2046">
                      <author key="person_24956782">
                         
                         Hieronymus de Sancta Fide

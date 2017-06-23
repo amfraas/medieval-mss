@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1260">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1260">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_201-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_201-part1-item1" n="1" key="work_4910">
                         <author key="person_31741624">
                            
                            Vigilius Thapsensis
@@ -83,7 +80,7 @@
                         <title>Contra Felicianum arianum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_201-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_201-part1-item2" n="2" key="work_824">
                         <author key="person_66806872">
                            
                            Augustine
@@ -121,7 +118,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_201-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_201-part2-item1" n="1" key="work_758">
                         <author key="person_66806872">
                            
                            Augustine
@@ -170,7 +167,7 @@
                         <title>De symbolo</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_201-part3-item2" n="2">
+                     <msItem xml:id="MS_Bodl_201-part3-item2" n="2" key="work_810">
                         <author key="person_66806872">
                            
                            Augustine

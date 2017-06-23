@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_998">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_998">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barocci_169-item1" n="1">
+                  <msItem xml:id="MS_Barocci_169-item1" n="1" key="work_1516">
                      
                      <author key="person_268702803">
                         Eutocius of Ascalon
@@ -72,7 +69,7 @@
                      </bibl>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_169-item2" n="2">
+                  <msItem xml:id="MS_Barocci_169-item2" n="2" key="work_2504">
                      
                      <author key="person_97934141">
                         Johannes Pediasimus
@@ -83,7 +80,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_169-item3" n="3">
+                  <msItem xml:id="MS_Barocci_169-item3" n="3" key="work_2502">
                      <author key="person_97934141">
                         Johannes Pediasimus
                      </author>
@@ -114,7 +111,7 @@
                      
                      <textLang mainLang="grc" otherLangs="la">Greek and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_169-item5" n="5">
+                  <msItem xml:id="MS_Barocci_169-item5" n="5" key="work_2029">
                      
                      <author key="person_22944086">
                         Hero of Alexandria
@@ -125,7 +122,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_169-item6" n="6">
+                  <msItem xml:id="MS_Barocci_169-item6" n="6" key="work_2026">
                      
                      <author key="person_22944086">
                         Hero of Alexandria

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3847">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3847">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item1" n="1">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item1" n="1" key="work_2081">
                      <author key="person_100201145">
                         
                         Honorius Augustodunensis (Ps.-Augustine)
@@ -61,7 +58,7 @@
                      <title>De cognitione uerae uitae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item2" n="2">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item2" n="2" key="work_3880">
                      <author key="person_7386286">
                         
                         Ps.-Augustine
@@ -70,7 +67,7 @@
                      <title>De spiritu et anima</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item3" n="3">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item3" n="3" key="work_4470">
                      <author key="person_5723585">
                         
                         Rudolf von Biberach (Ps.-Bonaventure)
@@ -79,13 +76,11 @@
                      <title>De septem donis spiritus sancti</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item4"
-                          n="4"
-                          class="#theologica #devotiones">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item4" n="4" class="#theologica #devotiones">
                      <title type="desc">Religious treatises, notes and extracts</title>
                      <textLang mainLang="la" otherLangs="de">Latin and German</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item5" n="5">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item5" n="5" key="work_4469">
                      <author key="person_5723585">
                         
                         Rudolf von Biberach (Ps.-Bonaventure)
@@ -94,7 +89,7 @@
                      <title>De septem itineribus aeternitatis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item6" n="6">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item6" n="6" key="work_1300">
                      <author key="person_265009565">
                         
                         Conrad Holtnicker
@@ -103,7 +98,7 @@
                      <title>Speculum beatae Mariae uirginis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item7" n="7">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item7" n="7" key="work_879">
                      <author key="person_84969145">
                         
                         Bartholomaeus Bononiensis
@@ -112,7 +107,7 @@
                      <title>De luce</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item8" n="8">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item8" n="8" key="work_2761">
                      <author key="person_52084579">
                         
                         John Russell (c. 1300)
@@ -124,7 +119,7 @@
                         <title>Bible, Song of Songs</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item9" n="9">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item9" n="9" key="work_4798">
                      <author key="person_298148103">
                         
                         Thomas Gallus
@@ -136,7 +131,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item10" n="10">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item10" n="10" key="work_4316">
                      <author key="person_98148813">
                         
                         Richard of St.-Victor
@@ -145,7 +140,7 @@
                      <title>Benjamin minor</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item11" n="11">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item11" n="11" key="work_3960">
                      <author key="person_289681963">
                         
                         Ps.-Bonaventure
@@ -154,7 +149,7 @@
                      <title>De septem gradibus contemplationis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item12" n="12">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item12" n="12" key="work_2125">
                      <author key="person_9865788">
                         
                         Hugh of St.-Victor
@@ -163,7 +158,7 @@
                      <title>Soliloquium de arra animae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item13" n="13">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item13" n="13" key="work_244">
                      <author key="person_100187638">
                         
                         Aegidius Romanus

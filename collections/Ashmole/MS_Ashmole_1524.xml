@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_299">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_299">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -89,7 +86,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1524-part1-item1" n="1">
+                     <msItem xml:id="MS_Ashmole_1524-part1-item1" n="1" key="work_1501">
                         <author key="person_84000827">
                            
                            Eusebius Gallicanus
@@ -98,7 +95,7 @@
                         <title>Homiliae X ad monachos</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1524-part1-item2" n="2">
+                     <msItem xml:id="MS_Ashmole_1524-part1-item2" n="2" key="work_3395">
                         <author key="person_95155322">
                            
                            Origen
@@ -142,7 +139,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1524-part2-item1" n="1">
+                     <msItem xml:id="MS_Ashmole_1524-part2-item1" n="1" key="work_3536">
                         <author key="person_17579848">
                            
                            Peter of Poitiers
@@ -179,7 +176,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1524-part3-item1" n="1">
+                     <msItem xml:id="MS_Ashmole_1524-part3-item1" n="1" key="work_1128">
                         <author key="person_100218964">
                            
                            Boethius
@@ -215,9 +212,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1524-part4-item1"
-                             n="1"
-                             class="#documenta #monastica">
+                     <msItem xml:id="MS_Ashmole_1524-part4-item1" n="1" class="#documenta #monastica">
                         <title type="desc">Register of <persName key="person_71829283">
                               John de Sautre, abbot of Ramsey
                            </persName>
@@ -283,7 +278,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1524-part6-item1" n="1">
+                     <msItem xml:id="MS_Ashmole_1524-part6-item1" n="1" key="work_4287">
                         <author key="person_2465074">
                            
                            Richard Rolle

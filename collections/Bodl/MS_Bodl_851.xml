@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1842">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1842">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_851-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_851-part1-item1" n="1" key="work_4963">
                         <author key="person_98031958">
                            
                            Walter Map
@@ -93,7 +90,7 @@
                         <title>De coniuge non ducenda</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_851-part1-item4" n="4">
+                     <msItem xml:id="MS_Bodl_851-part1-item4" n="4" key="work_3349">
                         <author key="person_36950880">
                            
                            Nigel Witeker
@@ -106,7 +103,7 @@
                         <title>Apocalypsis Goliae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_851-part1-item6" n="6">
+                     <msItem xml:id="MS_Bodl_851-part1-item6" n="6" key="work_4927">
                         <author key="person_26607670">
                            
                            Vitalis of Blois
@@ -143,7 +140,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_851-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_851-part2-item1" n="1" key="work_5016">
                         <author key="person_61560236">
                            
                            William Langland

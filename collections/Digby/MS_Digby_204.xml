@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4325">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4325">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,7 +77,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_204-part1-item1" n="1">
+                     <msItem xml:id="MS_Digby_204-part1-item1" n="1" key="work_4118">
                         <author key="person_294784551">
                            
                            Ps.-Seneca
@@ -89,7 +86,7 @@
                         <title>De paupertate</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_204-part1-item2" n="2">
+                     <msItem xml:id="MS_Digby_204-part1-item2" n="2" key="work_4497">
                         <author key="person_90637919">
                            
                            Seneca
@@ -98,7 +95,7 @@
                         <title>De clementia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_204-part1-item3" n="3">
+                     <msItem xml:id="MS_Digby_204-part1-item3" n="3" key="work_4120">
                         <author key="person_294784551">
                            
                            Ps.-Seneca
@@ -107,7 +104,7 @@
                         <title>De remediis fortuitorum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_204-part1-item4" n="4">
+                     <msItem xml:id="MS_Digby_204-part1-item4" n="4" key="work_4379">
                         <author key="person_86920837">
                            
                            Robert Grosseteste
@@ -138,7 +135,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_204-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_204-part2-item1" n="1" key="work_4396">
                         <author key="person_100188011">
                            
                            Robert Kilwardby
@@ -169,7 +166,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_204-part3-item1" n="1">
+                     <msItem xml:id="MS_Digby_204-part3-item1" n="1" key="work_4435">
                         <author key="person_120688673">
                            
                            Roger Bacon
@@ -178,7 +175,7 @@
                         <title>Summulae dialectices</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_204-part3-item2" n="2">
+                     <msItem xml:id="MS_Digby_204-part3-item2" n="2" key="work_4772">
                         <author key="person_264344179">
                            
                            Thomas Aquinas
@@ -187,7 +184,7 @@
                         <title>Fallaciae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_204-part3-item3" n="3">
+                     <msItem xml:id="MS_Digby_204-part3-item3" n="3" key="work_4841">
                         <author key="person_2328"><!-- not found; distinct from the chronicler -->
                            
                            Thomas de Wyk (?)
@@ -218,7 +215,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_204-part4-item1" n="1">
+                     <msItem xml:id="MS_Digby_204-part4-item1" n="1" key="work_4350">
                         <author key="person_66823074">
                            
                            Robert Bacon
@@ -249,7 +246,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_204-part5-item1" n="1">
+                     <msItem xml:id="MS_Digby_204-part5-item1" n="1" key="work_4167">
                         <author key="person_2308"><!-- not found -->
                            
                            R. de Stanington
@@ -287,7 +284,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_204-part6-item1" n="1">
+                     <msItem xml:id="MS_Digby_204-part6-item1" n="1" key="work_4999">
                         <author key="person_2859917">
                            
                            William Bonkes
@@ -302,7 +299,7 @@
                            <title>Meteora</title>
                         </bibl>
                      </msItem>
-                     <msItem xml:id="MS_Digby_204-part6-item2" n="2">
+                     <msItem xml:id="MS_Digby_204-part6-item2" n="2" key="work_4998">
                         <author key="person_2859917">
                            
                            William Bonkes

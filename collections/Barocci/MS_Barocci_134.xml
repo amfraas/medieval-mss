@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_960">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_960">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_134-part1-item1" n="1">
+                     <msItem xml:id="MS_Barocci_134-part1-item1" n="1" key="work_2467">
                         
                         <author key="person_268286342">
                            Johannes Climacus
@@ -86,7 +83,7 @@
                         
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_134-part1-item2" n="2">
+                     <msItem xml:id="MS_Barocci_134-part1-item2" n="2" key="work_2466">
                         
                         <author key="person_268286342">
                            Johannes Climacus
@@ -128,7 +125,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_134-part2-item1" n="1">
+                     <msItem xml:id="MS_Barocci_134-part2-item1" n="1" key="work_2517">
                         <locus>(fols.
               
                 1-2,

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1838">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1838">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,13 +75,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_848-part1-item1"
-                             n="1"
-                             class="#theologica #miscellanea">
+                     <msItem xml:id="MS_Bodl_848-part1-item1" n="1" class="#theologica #miscellanea">
                         <title type="desc">Theological and other notes and treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_848-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_848-part1-item2" n="2" key="work_4332">
                         <author key="person_54553752">
                            
                            Richard of Thetford
@@ -93,7 +88,7 @@
                         <title>Ars dilatandi sermones</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_848-part1-item3" n="3">
+                     <msItem xml:id="MS_Bodl_848-part1-item3" n="3" key="work_1032">
                         <author key="person_59875293">
                            
                            Bernard of Clairvaux
@@ -102,7 +97,7 @@
                         <title>De XII gradibus humilitatis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_848-part1-item4" n="4">
+                     <msItem xml:id="MS_Bodl_848-part1-item4" n="4" key="work_310">
                         <author key="person_29676447">
                            
                            Alanus ab Insula
@@ -111,7 +106,7 @@
                         <title>Summa de arte praedicandi</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_848-part1-item5" n="5">
+                     <msItem xml:id="MS_Bodl_848-part1-item5" n="5" key="work_1917">
                         <author key="person_41951136">
                            
                            Willelmus Peraldus
@@ -120,7 +115,7 @@
                         <title>Summa de uitiis et uirtutibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_848-part1-item6" n="6">
+                     <msItem xml:id="MS_Bodl_848-part1-item6" n="6" key="work_3880">
                         <author key="person_7386286">
                            
                            Ps.-Augustine
@@ -155,7 +150,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_848-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_848-part2-item1" n="1" key="work_4321">
                         <author key="person_98148813">
                            
                            Richard of St.-Victor

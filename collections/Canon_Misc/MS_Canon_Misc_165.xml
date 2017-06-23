@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3181">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3181">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_165-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_165-item1" n="1" key="work_1892">
                      <author key="person_78782481">
                         
                         Guarinus Veronensis
@@ -67,7 +64,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_165-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_165-item2" n="2" key="work_1637">
                      <author key="person_79253953">
                         
                         Gasparinus Barzizza
@@ -76,7 +73,7 @@
                      <title>Exordia</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_165-item3" n="3">
+                  <msItem xml:id="MS_Canon_Misc_165-item3" n="3" key="work_1638">
                      <author key="person_79253953">
                         
                         Gasparinus Barzizza

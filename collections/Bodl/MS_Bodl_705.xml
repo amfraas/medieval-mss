@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1695">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1695">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_705-item1" n="1">
+                  <msItem xml:id="MS_Bodl_705-item1" n="1" key="work_792">
                      <author key="person_66806872">
                         
                         Augustine
@@ -61,7 +58,7 @@
                      <title>Enchiridion</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_705-item2" n="2">
+                  <msItem xml:id="MS_Bodl_705-item2" n="2" key="work_3889">
                      <author key="person_7386286">
                         
                         Ps.-Augustine
@@ -70,7 +67,7 @@
                      <title>Hypomnesticon</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_705-item3" n="3">
+                  <msItem xml:id="MS_Bodl_705-item3" n="3" key="work_771">
                      <author key="person_66806872">
                         
                         Augustine
@@ -79,7 +76,7 @@
                      <title>De natura boni</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_705-item4" n="4">
+                  <msItem xml:id="MS_Bodl_705-item4" n="4" key="work_4911">
                      <author key="person_31741624">
                         
                         Vigilius Thapsensis
@@ -88,7 +85,7 @@
                      <title>Dialogus contra arianos</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_705-item5" n="5">
+                  <msItem xml:id="MS_Bodl_705-item5" n="5" key="work_1502">
                      <author key="person_84000827">
                         
                         Eusebius Gallicanus
@@ -98,7 +95,7 @@
                      <note>('Sermo de corpore et sanguine domini in pascha', here attrib. Isidore)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_705-item6" n="6">
+                  <msItem xml:id="MS_Bodl_705-item6" n="6" key="work_2826">
                      <author key="person_10203733">
                         
                         John of Ford
@@ -107,7 +104,7 @@
                      <title>Sermo dominica in ramis palmorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_705-item7" n="7">
+                  <msItem xml:id="MS_Bodl_705-item7" n="7" key="work_684">
                      <author key="person_55444954">
                         
                         Arnold of Bonneval

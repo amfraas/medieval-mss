@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1671">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1671">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,12 +72,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_68-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_68-part1-item1" n="1" key="work_4266">
                         <author key="person_93809061">Richard Maidstone (?)</author>
                         <title>Treatise on the 'Anulus'</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_68-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_68-part1-item2" n="2" key="work_1228">
                         <author key="person_100185203">
                            
                            Chaucer
@@ -117,9 +114,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_68-part2-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Bodl_68-part2-item1" n="1" class="#astrologia_astronomia">
                         <title>Tractatus ad faciendum astrolabium</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
@@ -151,9 +146,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_68-part3-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Bodl_68-part3-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Treatise on making an astronomical instrument 'Navicula de
                            venetiis'</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>

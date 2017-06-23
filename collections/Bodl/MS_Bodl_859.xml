@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1849">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1849">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_859-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_859-part1-item1" n="1" key="work_1736">
                         <author key="person_2234">
                            
                            
@@ -111,7 +108,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_859-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_859-part2-item1" n="1" key="work_2626">
                         <author key="person_100370763">
                            
                            John Bromyard
@@ -145,7 +142,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_859-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_859-part3-item1" n="1" key="work_3448">
                         <author key="person_100184512">
                            
                            Paschasius Radbertus
@@ -154,7 +151,7 @@
                         <title>De corpore et sanguine Domini</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_859-part3-item2" n="2">
+                     <msItem xml:id="MS_Bodl_859-part3-item2" n="2" key="work_2747">
                         <author key="person_2237">
                            
                            
@@ -224,9 +221,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_859-part5-item1"
-                             n="1"
-                             class="#sermones #miscellanea">
+                     <msItem xml:id="MS_Bodl_859-part5-item1" n="1" class="#sermones #miscellanea">
                         <title type="desc">Sermons and notes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -255,7 +250,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_859-part6-item1" n="1">
+                     <msItem xml:id="MS_Bodl_859-part6-item1" n="1" key="work_4059">
                         <author key="person_2301">
                            
                            Ps.-John Pecham

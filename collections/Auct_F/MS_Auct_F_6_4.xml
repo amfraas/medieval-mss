@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_719">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_719">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,7 +70,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_6_4-part1-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_6_4-part1-item1" n="1" key="work_1121">
                         <author key="person_100218964">
                            Boethius
                         </author>
@@ -109,7 +106,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_6_4-part2-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_6_4-part2-item1" n="1" key="work_3326">
                         <author key="person_71433906">
                            Nicolas Trivet
                         </author>

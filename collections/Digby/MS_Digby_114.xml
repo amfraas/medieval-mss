@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4237">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4237">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,9 +76,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_114-part1-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_114-part1-item1" n="1" class="#astrologia_astronomia">
 						                  <title type="desc">Astronomical tables and canons</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -108,7 +103,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_114-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_114-part2-item1" n="1" key="work_3796">
                         <author key="person_314797824">
                            
                            Profatius Iudaeus
@@ -117,14 +112,12 @@
                         <title>De utraque eclipsi</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_114-part2-item2"
-                             n="2"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_114-part2-item2" n="2" class="#astrologia_astronomia">
 						                  <title type="desc">Astronomical tables and canons</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_114-part2-item3" n="3">
+                     <msItem xml:id="MS_Digby_114-part2-item3" n="3" key="work_3797">
                         <author key="person_314797824">
                            
                            Profatius Iudaeus
@@ -133,7 +126,7 @@
                         <title>Almanach</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_114-part2-item4" n="4">
+                     <msItem xml:id="MS_Digby_114-part2-item4" n="4" key="work_360">
                         <author key="person_17355947">
                            
                            Albumasar
@@ -164,9 +157,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_114-part3-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_114-part3-item1" n="1" class="#astrologia_astronomia">
 						                  <title type="desc">Astrological texts</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -193,14 +184,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_114-part4-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_114-part4-item1" n="1" class="#astrologia_astronomia">
 						                  <title type="desc">Astrological treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_114-part4-item2" n="2">
+                     <msItem xml:id="MS_Digby_114-part4-item2" n="2" key="work_4152">
                         <author key="person_54152998">
                            
                            Ptolemy
@@ -212,7 +201,7 @@
                         </persName>, both in the Latin translation by <persName role="translator" key="person_50292125">Aegidius de Tebaldis</persName>)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_114-part4-item3" n="3">
+                     <msItem xml:id="MS_Digby_114-part4-item3" n="3" key="work_216">
                         <author key="person_90633023">
                            
                            Abraham ibn Ezra
@@ -224,7 +213,7 @@
                            </persName>)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_114-part4-item4" n="4">
+                     <msItem xml:id="MS_Digby_114-part4-item4" n="4" key="work_5119">
                         <author key="person_69361583">
                            
                            Zahel

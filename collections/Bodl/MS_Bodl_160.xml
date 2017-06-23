@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1221">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1221">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_160-item1" n="1">
+                  <msItem xml:id="MS_Bodl_160-item1" n="1" key="work_950">
                      <author key="person_61539765">
                         
                         Bede
@@ -61,7 +58,7 @@
                      <title>Commentary on Acts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_160-item2" n="2">
+                  <msItem xml:id="MS_Bodl_160-item2" n="2" key="work_2295">
                      <author key="person_84971682">
                         
                         Ivo of Chartres
@@ -70,7 +67,7 @@
                      <title>Treatise on the sacraments</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_160-item3" n="3">
+                  <msItem xml:id="MS_Bodl_160-item3" n="3" key="work_2294">
                      <author key="person_84971682">
                         
                         Ivo of Chartres

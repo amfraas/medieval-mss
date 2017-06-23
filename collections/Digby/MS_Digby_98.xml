@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4438">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4438">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,7 +80,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_98-part1-item1" n="1">
+                     <msItem xml:id="MS_Digby_98-part1-item1" n="1" key="work_4349">
                         <author key="person_2315">
                            
                            Robert Allington
@@ -98,7 +95,7 @@
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part1-item3" n="3">
+                     <msItem xml:id="MS_Digby_98-part1-item3" n="3" key="work_411">
                         <author key="person_2583890">
                            
                            Alexander de Villa Dei
@@ -107,7 +104,7 @@
                         <title>Massa compoti</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part1-item4" n="4">
+                     <msItem xml:id="MS_Digby_98-part1-item4" n="4" key="work_409">
                         <author key="person_2583890">
                            
                            Alexander de Villa Dei
@@ -121,14 +118,12 @@
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part1-item6"
-                             n="6"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_98-part1-item6" n="6" class="#astrologia_astronomia">
 						                  <title type="desc">Astrological treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part1-item7" n="7">
+                     <msItem xml:id="MS_Digby_98-part1-item7" n="7" key="work_4266">
                         <author key="person_93809061">
                            
                            Richard Maidstone (?)
@@ -137,7 +132,7 @@
                         <title>Treatise on the Anulus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part1-item8" n="8">
+                     <msItem xml:id="MS_Digby_98-part1-item8" n="8" key="work_4949">
                         <author key="person_86734224">
                            
                            Walter Burley
@@ -187,7 +182,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_98-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_98-part2-item1" n="1" key="work_1481">
                         <author key="person_176184097">
                            
                            Euclid
@@ -197,7 +192,7 @@
                         <note>(part)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part2-item2" n="2">
+                     <msItem xml:id="MS_Digby_98-part2-item2" n="2" key="work_1127">
                         <author key="person_100218964">
                            
                            Boethius
@@ -236,7 +231,7 @@
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part3-item2" n="2">
+                     <msItem xml:id="MS_Digby_98-part3-item2" n="2" key="work_4545">
                         <author key="person_96800842">
                            
                            Simon Bredon
@@ -251,7 +246,7 @@
                         </bibl>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part3-item3" n="3">
+                     <msItem xml:id="MS_Digby_98-part3-item3" n="3" key="work_2753">
                         <author key="person_88794405">
                            
                            John Pecham
@@ -260,7 +255,7 @@
                         <title>Perspectiva</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part3-item4" n="4">
+                     <msItem xml:id="MS_Digby_98-part3-item4" n="4" key="work_1481">
                         <author key="person_176184097">
                            
                            Euclid
@@ -294,7 +289,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_98-part4-item1" n="1">
+                     <msItem xml:id="MS_Digby_98-part4-item1" n="1" key="work_4937">
                         <author key="person_77138678">
                            
                            Walter Brit (?)
@@ -306,14 +301,12 @@
                         </bibl>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part4-item2"
-                             n="2"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_98-part4-item2" n="2" class="#astrologia_astronomia">
 						                  <title type="desc">Astrological treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part4-item3" n="3">
+                     <msItem xml:id="MS_Digby_98-part4-item3" n="3" key="work_4388">
                         <author key="person_86920837">
                            
                            Robert Grosseteste
@@ -346,14 +339,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_98-part5-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_98-part5-item1" n="1" class="#astrologia_astronomia">
 						                  <title type="desc">Astrological treatises and tables</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part5-item2" n="2">
+                     <msItem xml:id="MS_Digby_98-part5-item2" n="2" key="work_4373">
                         <author key="person_86920837">
                            
                            Robert Grosseteste
@@ -362,7 +353,7 @@
                         <title>De sphaera</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part5-item3" n="3">
+                     <msItem xml:id="MS_Digby_98-part5-item3" n="3" key="work_2592">
                         <author key="person_84975906">
                            
                            Johannes de Sacro Bosco
@@ -395,15 +386,13 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_98-part6-item1"
-                             n="1"
-                             class="#theologica #devotiones #ecclesiastica">
+                     <msItem xml:id="MS_Digby_98-part6-item1" n="1" class="#theologica #devotiones #ecclesiastica">
 						                  <title type="desc">Religious and ecclesiastical texts</title>
                         
                         <note>(several relating to friars)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part6-item2" n="2">
+                     <msItem xml:id="MS_Digby_98-part6-item2" n="2" key="work_2786">
                         <author key="person_2273">
                            
                            John Whitehead (d. after 1422)
@@ -441,7 +430,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_98-part7-item1" n="1">
+                     <msItem xml:id="MS_Digby_98-part7-item1" n="1" key="work_1446">
                         <author key="person_315944519">
                            
                            Edmund Rich

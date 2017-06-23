@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1087">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1087">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -114,7 +111,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_30-part1-item1" n="1">
+                     <msItem xml:id="MS_Barocci_30-part1-item1" n="1" key="work_492">
                         <locus>(fols. 1r-28v)</locus>
                         <author key="person_100172356">Ammonius</author>
                         <title>In Porphyrii Isagogen</title> 
@@ -177,7 +174,7 @@
                   </msIdentifier>
                   <msContents>
                      <textLang xml:lang="grc">Greek</textLang>
-                     <msItem xml:id="MS_Barocci_30-part2-item1" n="1">
+                     <msItem xml:id="MS_Barocci_30-part2-item1" n="1" key="work_1843">
                         
                         <locus>(fols. 29r–31v)</locus> 
                         <author key="person_24611065">
@@ -306,7 +303,7 @@
                         </msItem>
                         
                         
-                        <msItem xml:id="MS_Barocci_30-part2-item2-item8" n="2h">
+                        <msItem xml:id="MS_Barocci_30-part2-item2-item8" n="2h" key="work_496">
                            
                            <locus>(fol. 38v)</locus> 
                            <author key="person_163149811"><!-- ref points to Anastasius I Antiochenus: check? -->Anastasius
@@ -318,7 +315,7 @@
                         </msItem>
                         
                         
-                        <msItem xml:id="MS_Barocci_30-part2-item2-item9" n="2i">
+                        <msItem xml:id="MS_Barocci_30-part2-item2-item9" n="2i" key="work_723">
                            
                            <locus>(fol. 38v)</locus> 
                            <author key="person_105155222">Athanasius
@@ -343,7 +340,7 @@
                         </msItem>
                         
                         
-                        <msItem xml:id="MS_Barocci_30-part2-item2-item11" n="2k">
+                        <msItem xml:id="MS_Barocci_30-part2-item2-item11" n="2k" key="work_942">
                            
                            <locus>(fol. 38r)</locus> 
                            <author key="person_88967224">Basilius Magnus</author>
@@ -366,7 +363,7 @@
                         </msItem>
                         
                         
-                        <msItem xml:id="MS_Barocci_30-part2-item2-item13" n="2m">
+                        <msItem xml:id="MS_Barocci_30-part2-item2-item13" n="2m" key="work_940">
                            
                            <locus>(fol. 39v)</locus>  
                            <author key="person_88967224">Basilius
@@ -424,7 +421,7 @@
                         </msItem>
                         
                         
-                        <msItem xml:id="MS_Barocci_30-part2-item2-item18" n="2r">
+                        <msItem xml:id="MS_Barocci_30-part2-item2-item18" n="2r" key="work_1498">
                            
                            <locus>(fol. 40v)</locus> 
                            <author key="person_4929593">Eusebius</author> 
@@ -437,7 +434,7 @@
                         </msItem>
                      </msItem>
                      
-                     <msItem xml:id="MS_Barocci_30-part2-item3" n="3">
+                     <msItem xml:id="MS_Barocci_30-part2-item3" n="3" key="work_499">
                         
                         <locus>(fols. 41r–64r)</locus> 
                         <author key="person_13689964"><!-- another VIAF entry contains an incorrect merge -->Anastasius
@@ -482,7 +479,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_30-part2-item6" n="6">
+                     <msItem xml:id="MS_Barocci_30-part2-item6" n="6" key="work_553">
                         
                         <locus>(fols. 75r–106v)</locus> 
                         <author key="person_89050745">Antiochus monachus</author>

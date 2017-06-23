@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_561">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_561">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,21 +49,21 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_E_4_18-item1" n="1">
+                  <msItem xml:id="MS_Auct_E_4_18-item1" n="1" key="work_4690">
                      <author key="person_77111352">
                         Theodoret of Cyrus
                      </author>
                      <title>Historia ecclesiastica</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_E_4_18-item2" n="2">
+                  <msItem xml:id="MS_Auct_E_4_18-item2" n="2" key="work_3794">
                      <author key="person_102329138">
                         Proclus of Constantinople
                      </author>
                      <title>Epistola ad Armeniae episcopos</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_E_4_18-item3" n="3">
+                  <msItem xml:id="MS_Auct_E_4_18-item3" n="3" key="work_1508">
                      <author key="person_4929593">
                         Eusebius of
               Caesarea

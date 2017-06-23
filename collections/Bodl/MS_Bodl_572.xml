@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1591">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1591">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -110,7 +107,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_572-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_572-part2-item1" n="1" key="work_4731">
                         <author key="person_72751795">
                            
                            Theodulf of Orléans (?)
@@ -152,7 +149,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_572-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_572-part3-item1" n="1" key="work_796">
                         <author key="person_66806872">
                            
                            Augustine
@@ -202,9 +199,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_572-part4-item1"
-                             n="1"
-                             class="#grammatica #miscellanea">
+                     <msItem xml:id="MS_Bodl_572-part4-item1" n="1" class="#grammatica #miscellanea">
                         <title>De aliquibus raris fabulis </title>
                         <note>(colloquy, with glosses in Welsh, Cornish, etc.)</note>
                         <note>Additions including a strophe on <persName key="person_13667918">Augustine of Canterbury</persName> and two-part polyphony with letter-notation</note>
@@ -237,7 +232,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_572-part5-item1" n="1">
+                     <msItem xml:id="MS_Bodl_572-part5-item1" n="1" key="work_1340">
                         <author key="person_39766146">
                            
                            Cummianus
@@ -250,7 +245,7 @@
                         <title type="desc">Treatise on penitance</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_572-part5-item3" n="3">
+                     <msItem xml:id="MS_Bodl_572-part5-item3" n="3" key="work_1874">
                         <author key="person_100184667">
                            
                            Gregory the Great
@@ -264,7 +259,7 @@
                         <title>Libellus responsionum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_572-part5-item4" n="4">
+                     <msItem xml:id="MS_Bodl_572-part5-item4" n="4" key="work_1444">
                         <author key="person_193579739">
                            
                            Ecgberht of York

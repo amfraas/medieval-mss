@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1090">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1090">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barocci_33-item1" n="1">
+                  <msItem xml:id="MS_Barocci_33-item1" n="1" key="work_3123">
                      <author key="person_91438276">
                         
                         Matthaeus Blastares
@@ -61,7 +58,7 @@
                      <title>Contra Iudaeos</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_33-item2" n="2">
+                  <msItem xml:id="MS_Barocci_33-item2" n="2" key="work_1649">
                      <author key="person_316421957">
                         
                         Gennadius Scholarios
@@ -70,7 +67,7 @@
                      <title>Refutatio erroris Iudaeorum</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_33-item3" n="3">
+                  <msItem xml:id="MS_Barocci_33-item3" n="3" key="work_1644">
                      <author key="person_100222474">
                         
                         Gemistus Pletho
@@ -79,7 +76,7 @@
                      <title>Monodiae</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_33-item4" n="4">
+                  <msItem xml:id="MS_Barocci_33-item4" n="4" key="work_1643">
                      <author key="person_100222474">
                         
                         Gemistus Pletho
@@ -88,7 +85,7 @@
                      <title>De virtutibus</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_33-item5" n="5">
+                  <msItem xml:id="MS_Barocci_33-item5" n="5" key="work_2275">
                      <author key="person_36926979">
                         
                         Isocrates
@@ -97,7 +94,7 @@
                      <title>Ad Demonicum</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_33-item6" n="6">
+                  <msItem xml:id="MS_Barocci_33-item6" n="6" key="work_2871">
                      <author key="person_51682715">
                         
                         Joseph Plousiadenos

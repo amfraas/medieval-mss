@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4337">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4337">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_215-item1" n="1">
+                  <msItem xml:id="MS_Digby_215-item1" n="1" key="work_2592">
                      <author key="person_84975906">
                         
                         Johannes de Sacro Bosco
@@ -68,7 +65,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_215-item3" n="3">
+                  <msItem xml:id="MS_Digby_215-item3" n="3" key="work_1711">
                      <author key="person_84814786">
                         
                         Gerard of Cremona (attrib.)
@@ -77,7 +74,7 @@
                      <title>Theorica planetarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_215-item4" n="4">
+                  <msItem xml:id="MS_Digby_215-item4" n="4" key="work_1202">
                      <author key="person_29636378">
                         
                         Campanus of Novara
@@ -86,7 +83,7 @@
                      <title>Theorica planetarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_215-item5" n="5">
+                  <msItem xml:id="MS_Digby_215-item5" n="5" key="work_427">
                      <author key="person_64358682">
                         
                         Alfraganus
@@ -95,7 +92,7 @@
                      <title>Liber de aggregationibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_215-item6" n="6">
+                  <msItem xml:id="MS_Digby_215-item6" n="6" key="work_1199">
                      <author key="person_29636378">
                         
                         Campanus of Novara
@@ -104,7 +101,7 @@
                      <title>Compotus maior</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_215-item7" n="7">
+                  <msItem xml:id="MS_Digby_215-item7" n="7" key="work_433">
                      <author key="person_90038995">
                         
                         Alhazen

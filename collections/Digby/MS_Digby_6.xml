@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4398">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4398">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -58,7 +55,7 @@
                      <title type="desc">Florilegia</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_6-item2" n="2">
+                  <msItem xml:id="MS_Digby_6-item2" n="2" key="work_3172">
                      <author key="person_297103308">
                         
                         Menander
@@ -67,7 +64,7 @@
                      <title>Sententiae</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_6-item3" n="3">
+                  <msItem xml:id="MS_Digby_6-item3" n="3" key="work_1352">
                      <author key="person_2437490">
                         
                         Cyril of Jerusalem

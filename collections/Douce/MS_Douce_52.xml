@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4723">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4723">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,9 +75,7 @@
                         <title type="desc">Proverbs</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_52-part1-item2"
-                             n="2"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Douce_52-part1-item2" n="2" class="#astrologia_astronomia">
                         <title type="desc">Treatise on astronomy</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -142,14 +137,14 @@
                         <title type="desc">Treatise on metre</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_52-part3-item2" n="2">
+                     <msItem xml:id="MS_Douce_52-part3-item2" n="2" key="work_2625">
                         <author key="person_2343">
                            John Bridges<!-- not in VIAF -->
                         </author>
                         <title>Compilatio de arte dictandi</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_52-part3-item3" n="3">
+                     <msItem xml:id="MS_Douce_52-part3-item3" n="3" key="work_1060">
                         <author key="person_34844498">
                            Bernard of Meung
                         </author>

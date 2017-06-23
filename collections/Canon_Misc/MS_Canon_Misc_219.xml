@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3238">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3238">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,29 +49,29 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_219-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_219-item1" n="1" key="work_4967">
                      <author key="person_2222">Walter Segrave</author>
                      <!-- not found in VIAF -->
                      <title>De insolubilibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_219-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_219-item2" n="2" key="work_5010">
                      <author key="person_91729017">William Heytesbury</author>
                      <title>De sensu composito et diuiso</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_219-item3" n="3">
+                  <msItem xml:id="MS_Canon_Misc_219-item3" n="3" key="work_2716">
                      <author key="person_22309840">John Huntman</author>
                      <title>Insolubilia</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_219-item4" n="4">
+                  <msItem xml:id="MS_Canon_Misc_219-item4" n="4" key="work_2007">
                      <author key="person_2362">Henry the Englishman</author>
                      <!-- not found in VIAF -->
                      <title>Insolubilia</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_219-item5" n="5">
+                  <msItem xml:id="MS_Canon_Misc_219-item5" n="5" key="work_4186">
                      <author key="person_18781487">Ralph Strode</author>
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
@@ -83,7 +80,7 @@
                      <title type="desc">Treatise on logic.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_219-item7" n="7">
+                  <msItem xml:id="MS_Canon_Misc_219-item7" n="7" key="work_3607">
                      <author key="person_6453186">Petrus de Alboinis of Mantua</author>
                      <title>Logica</title>
                      <textLang mainLang="la">Latin</textLang>

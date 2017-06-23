@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4385">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4385">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,9 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_48-item1"
-                          n="1"
-                          class="#astrologia_astronomia #computistica #liturgica">
+                  <msItem xml:id="MS_Digby_48-item1" n="1" class="#astrologia_astronomia #computistica #liturgica">
 						               <title type="desc">Calendar and astronomical tables</title>
                      
                      <note>(including those of <persName role="author" key="person_79450930">
@@ -69,7 +64,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item3" n="3">
+                  <msItem xml:id="MS_Digby_48-item3" n="3" key="work_4416">
                      <author key="person_25981391">
                         
                         Robert the Englishman
@@ -89,7 +84,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item5" n="5">
+                  <msItem xml:id="MS_Digby_48-item5" n="5" key="work_4937">
                      <author key="person_77138678">
                         
                         Walter Brit
@@ -98,7 +93,7 @@
                      <title>Commentary on Theorica planetarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item6" n="6">
+                  <msItem xml:id="MS_Digby_48-item6" n="6" key="work_217">
                      <author key="person_90633023">
                         
                         Abraham ibn Ezra
@@ -107,7 +102,7 @@
                      <title>De natiuitatibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item7" n="7">
+                  <msItem xml:id="MS_Digby_48-item7" n="7" key="work_1967">
                      <author key="person_22192561">
                         
                         Henri Bate
@@ -116,7 +111,7 @@
                      <title>Treatise on the astrolabe</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item8" n="8">
+                  <msItem xml:id="MS_Digby_48-item8" n="8" key="work_1966">
                      <author key="person_22192561">
                         
                         Henri Bate
@@ -130,7 +125,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item10" n="10">
+                  <msItem xml:id="MS_Digby_48-item10" n="10" key="work_5026">
                      <author key="person_96298161">
                         
                         William Reed
@@ -139,7 +134,7 @@
                      <title>Tabulae Oxonienses cum canonibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item11" n="11">
+                  <msItem xml:id="MS_Digby_48-item11" n="11" key="work_4372">
                      <author key="person_86920837">
                         
                         Robert Grosseteste
@@ -148,7 +143,7 @@
                      <title>De prognosticatione</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item12" n="12">
+                  <msItem xml:id="MS_Digby_48-item12" n="12" key="work_372">
                      <author key="person_17355947">
                         
                         Albumasar (?)
@@ -157,7 +152,7 @@
                      <title>Flores de electionibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item13" n="13">
+                  <msItem xml:id="MS_Digby_48-item13" n="13" key="work_373">
                      <author key="person_263751917">
                         
                         Alcabitius
@@ -166,7 +161,7 @@
                      <title>Liber introductorius</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item14" n="14">
+                  <msItem xml:id="MS_Digby_48-item14" n="14" key="work_2480">
                      <author key="person_2085">
                         <!-- not found in VIAF -->
                         Johannes Danco de Saxonia

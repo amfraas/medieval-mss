@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3244">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3244">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_225-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_225-item1" n="1" key="work_1633">
                      <author key="person_79253953">
                         
                         Gasparinus Barzizius
@@ -61,7 +58,7 @@
                      <title>Epistolae familiares</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_225-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_225-item2" n="2" key="work_3971">
                      <author key="person_21483448">
                         
                         Ps.-Brutus
@@ -77,7 +74,7 @@
                      <title type="desc">Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_225-item4" n="4">
+                  <msItem xml:id="MS_Canon_Misc_225-item4" n="4" key="work_4088">
                      <author key="person_99955409">
                         
                         Ps.-Phalaris
@@ -89,7 +86,7 @@
                         </persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_225-item5" n="5">
+                  <msItem xml:id="MS_Canon_Misc_225-item5" n="5" key="work_3851">
                      <author key="person_2581859">
                         
                         Ps.-Aristotle

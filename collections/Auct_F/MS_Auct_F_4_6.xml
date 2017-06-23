@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_680">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_680">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,14 +49,14 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_F_4_6-item1" n="1">
+                  <msItem xml:id="MS_Auct_F_4_6-item1" n="1" key="work_3758">
                      <author key="person_64016141">
                         Porphyry
                      </author>
                      <title>De abstinentia ab animalium esu</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_4_6-item2" n="2">
+                  <msItem xml:id="MS_Auct_F_4_6-item2" n="2" key="work_3766">
                      <author key="person_64016141">
                         Porphyry
                      </author>
@@ -70,7 +67,7 @@
                      <title type="desc">Liber de Physiognomia.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_4_6-item4" n="4">
+                  <msItem xml:id="MS_Auct_F_4_6-item4" n="4" key="work_1847">
                      <author key="person_108675755">
                         Gregory of Nazianzus
                      </author>

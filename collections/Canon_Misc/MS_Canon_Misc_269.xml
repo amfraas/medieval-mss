@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3289">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3289">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,19 +57,19 @@
                      <title>Examinatorium peccatorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_269-item3" n="3">
+                  <msItem xml:id="MS_Canon_Misc_269-item3" n="3" key="work_523">
                      <author key="person_285932400">Angelus de Periglis</author>
                      <!-- d. 1492 DNB, d. 1446/66 mirabile. Not to be confused with A. de Ubaldis  -->
                      <title>Tractatus de societate</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_269-item4" n="4">
+                  <msItem xml:id="MS_Canon_Misc_269-item4" n="4" key="work_1279">
                      <author key="person_2049">Clarus de Florentia (Chiaro de Firenze)</author>
                      <!-- not found -->
                      <title>Casus determinati in curia papae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_269-item5" n="5">
+                  <msItem xml:id="MS_Canon_Misc_269-item5" n="5" key="work_4220">
                      <author key="person_79081365">Raymond of Pennafort</author>
                      <title>Dubitabilia</title>
                      <textLang mainLang="la">Latin</textLang>

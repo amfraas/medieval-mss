@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3126">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3126">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,14 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_109-item1"
-                          n="1"
-                          class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Canon_Misc_109-item1" n="1" class="#astrologia_astronomia">
 						               <title type="desc">Astronomical treatises.</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_109-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_109-item2" n="2" key="work_218">
                      <author key="person_90633023">
                         
                         Abraham ibn Ezra
@@ -68,7 +63,7 @@
                      <title>Liber quaestionum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_109-item3" n="3">
+                  <msItem xml:id="MS_Canon_Misc_109-item3" n="3" key="work_215">
                      <author key="person_90633023">
                         
                         Abraham ibn Ezra
@@ -77,7 +72,7 @@
                      <title>De luminaribus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_109-item4" n="4">
+                  <msItem xml:id="MS_Canon_Misc_109-item4" n="4" key="work_214">
                      <author key="person_90633023">
                         
                         Abraham ibn Ezra

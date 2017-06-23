@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1498">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1498">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_463-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_463-part1-item1" n="1" key="work_373">
                         <author key="person_263751917">
                            
                            Alcabitius
@@ -84,7 +81,7 @@
                         <title>Liber introductorius</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_463-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_463-part1-item2" n="2" key="work_2360">
                         <author key="person_2235">
                            
                            
@@ -95,7 +92,7 @@
                         <title>Liber imbrium</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_463-part1-item3" n="3">
+                     <msItem xml:id="MS_Bodl_463-part1-item3" n="3" key="work_4671">
                         <author key="person_55563658">
                            
                            Thebit ben Corat
@@ -104,13 +101,11 @@
                         <title>De hiis quae indigent expositione antequam legitur Almagestum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_463-part1-item4"
-                             n="4"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Bodl_463-part1-item4" n="4" class="#astrologia_astronomia">
                         <title type="desc">Astrological treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_463-part1-item5" n="5">
+                     <msItem xml:id="MS_Bodl_463-part1-item5" n="5" key="work_427">
                         <author key="person_64358682">
                            
                            Alfraganus
@@ -119,7 +114,7 @@
                         <title>Liber de aggregationibus scientiae stellarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_463-part1-item6" n="6">
+                     <msItem xml:id="MS_Bodl_463-part1-item6" n="6" key="work_4146">
                         <author key="person_54152998">
                            
                            Ptolemy
@@ -128,7 +123,7 @@
                         <title>Centiloquium</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_463-part1-item7" n="7">
+                     <msItem xml:id="MS_Bodl_463-part1-item7" n="7" key="work_4672">
                         <author key="person_55563658">
                            
                            Thebit ben Corat
@@ -141,7 +136,7 @@
                         <title type="desc">Lapidary</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_463-part1-item9" n="9">
+                     <msItem xml:id="MS_Bodl_463-part1-item9" n="9" key="work_3857">
                         <author key="person_2581859">
                            
                            Ps.-Aristotle
@@ -179,7 +174,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_463-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_463-part2-item1" n="1" key="work_857">
                         <author key="person_89770781">
                            
                            Avicenna
@@ -188,7 +183,7 @@
                         <title>De anima</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_463-part2-item2" n="2">
+                     <msItem xml:id="MS_Bodl_463-part2-item2" n="2" key="work_3917">
                         <author key="person_15145910984827060314">
                            
                            Ps.-Avicenna

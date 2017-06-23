@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4027">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4027">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -88,7 +85,7 @@
                            <title>Bible, John</title>
                         </bibl>
                      </msItem>
-                     <msItem xml:id="MS_Cromwell_13-part1-item2" n="2">
+                     <msItem xml:id="MS_Cromwell_13-part1-item2" n="2" key="work_2819">
                         <author key="person_44435485">
                            
                            Johannes Damascenus
@@ -97,7 +94,7 @@
                         <title>Dialectica</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Cromwell_13-part1-item3" n="3">
+                     <msItem xml:id="MS_Cromwell_13-part1-item3" n="3" key="work_2476">
                         <author key="person_44435485">
                            
                            Johannes Damascenus

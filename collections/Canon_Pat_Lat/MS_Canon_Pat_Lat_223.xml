@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3805">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3805">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_223-item1" n="1">
+                  <msItem xml:id="MS_Canon_Pat_Lat_223-item1" n="1" key="work_3519">
                      <author key="person_24572572">
                         
                         Peter of Blois
@@ -65,7 +62,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_223-item2" n="2">
+                  <msItem xml:id="MS_Canon_Pat_Lat_223-item2" n="2" key="work_4543">
                      <author key="person_167462075">
                         
                         Simon Athomanus
@@ -77,7 +74,7 @@
                         </persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_223-item3" n="3">
+                  <msItem xml:id="MS_Canon_Pat_Lat_223-item3" n="3" key="work_790">
                      <author key="person_66806872">
                         
                         Augustine
@@ -89,7 +86,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_223-item4" n="4">
+                  <msItem xml:id="MS_Canon_Pat_Lat_223-item4" n="4" key="work_2920">
                      <author key="person_88919080">
                         
                         Laudivius (fl. 1473)
@@ -98,7 +95,7 @@
                      <title>Vita S. Hieronymi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_223-item5" n="5">
+                  <msItem xml:id="MS_Canon_Pat_Lat_223-item5" n="5" key="work_3949">
                      <author key="person_306415749">
                         
                         Ps.-Bernard
@@ -111,21 +108,15 @@
                      <title type="desc">Poems</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_223-item7"
-                          n="7"
-                          class="#auctoritates #miscellanea">
+                  <msItem xml:id="MS_Canon_Pat_Lat_223-item7" n="7" class="#auctoritates #miscellanea">
                      <title type="desc">Classical extracts and letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_223-item8"
-                          n="8"
-                          class="#auctoritates #miscellanea #theologica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_223-item8" n="8" class="#auctoritates #miscellanea #theologica">
                      <title type="desc">Patristic extracts and letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_223-item9"
-                          n="9"
-                          class="#auctoritates #miscellanea">
+                  <msItem xml:id="MS_Canon_Pat_Lat_223-item9" n="9" class="#auctoritates #miscellanea">
                      <title type="desc">Letters of <persName role="author" key="person_95283478">
                            Leonardo Bruni
                         </persName> and others</title>

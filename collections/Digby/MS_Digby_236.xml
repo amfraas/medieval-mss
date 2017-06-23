@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4358">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4358">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_236-item1" n="1">
+                  <msItem xml:id="MS_Digby_236-item1" n="1" key="work_5121">
                      <author key="person_102369543">
                         
                         Proclus
@@ -69,7 +66,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_236-item2" n="2">
+                  <msItem xml:id="MS_Digby_236-item2" n="2" key="work_3787">
                      <author key="person_102369543">
                         
                         Proclus
@@ -78,7 +75,7 @@
                      <title>De prouidentia et fato</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_236-item3" n="3">
+                  <msItem xml:id="MS_Digby_236-item3" n="3" key="work_3784">
                      <author key="person_102369543">
                         
                         Proclus
@@ -87,7 +84,7 @@
                      <title>De decem dubitationibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_236-item4" n="4">
+                  <msItem xml:id="MS_Digby_236-item4" n="4" key="work_3785">
                      <author key="person_102369543">
                         
                         Proclus

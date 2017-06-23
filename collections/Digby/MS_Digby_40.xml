@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4377">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4377">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,7 +77,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_40-part1-item1" n="1">
+                     <msItem xml:id="MS_Digby_40-part1-item1" n="1" key="work_4097">
                         <author key="person_31816106">
                            
                            Ps.-Ptolemy
@@ -120,7 +117,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_40-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_40-part2-item1" n="1" key="work_3653">
                         <author key="person_287222223">
                            <!-- this VIAF entry joins two discrete PDNB entries -->
                            
@@ -130,7 +127,7 @@
                         <title>de ingeniis spiritualibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_40-part2-item2" n="2">
+                     <msItem xml:id="MS_Digby_40-part2-item2" n="2" key="work_4001">
                         <author key="person_2295"><!-- nto found -->
                            
                            Ps.-Euclid
@@ -139,7 +136,7 @@
                         <title>De speculis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_40-part2-item3" n="3">
+                     <msItem xml:id="MS_Digby_40-part2-item3" n="3" key="work_437">
                         <author key="person_90634457">
                            
                            Alkindi
@@ -173,7 +170,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_40-part3-item1" n="1">
+                     <msItem xml:id="MS_Digby_40-part3-item1" n="1" key="work_4456">
                         <author key="person_39784406">
                            
                            Roger of Hereford
@@ -207,7 +204,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_40-part4-item1" n="1">
+                     <msItem xml:id="MS_Digby_40-part4-item1" n="1" key="work_213">
                         <author key="person_90633023">
                            
                            Abraham ibn Ezra
@@ -241,7 +238,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_40-part5-item1" n="1">
+                     <msItem xml:id="MS_Digby_40-part5-item1" n="1" key="work_427">
                         <author key="person_64358682">
                            
                            Alfraganus
@@ -250,9 +247,7 @@
                         <title>Liber de aggregationibus scientiae stellarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_40-part5-item2"
-                             n="2"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_40-part5-item2" n="2" class="#astrologia_astronomia">
 						                  <title type="desc">Astronomical treatise</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -282,7 +277,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_40-part6-item1" n="1">
+                     <msItem xml:id="MS_Digby_40-part6-item1" n="1" key="work_316">
                         <author key="person_97655156">
                            
                            Albategni

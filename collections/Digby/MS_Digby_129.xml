@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4246">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4246">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_129-item1" n="1">
+                  <msItem xml:id="MS_Digby_129-item1" n="1" key="work_4157">
                      <author key="person_83157548">
                         
                         Q. Serenus
@@ -68,7 +65,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_129-item3" n="3">
+                  <msItem xml:id="MS_Digby_129-item3" n="3" key="work_3681">
                      <author key="person_22945978">
                         
                         Pietro da Eboli
@@ -77,7 +74,7 @@
                      <title>De balneis Puteolanis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_129-item4" n="4">
+                  <msItem xml:id="MS_Digby_129-item4" n="4" key="work_1751">
                      <author key="person_71543640">
                         
                         Giles of Corbeil
@@ -86,7 +83,7 @@
                      <title>De urinis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_129-item5" n="5">
+                  <msItem xml:id="MS_Digby_129-item5" n="5" key="work_1748">
                      <author key="person_71543640">
                         
                         Giles of Corbeil
@@ -95,7 +92,7 @@
                      <title>De pulsibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_129-item6" n="6">
+                  <msItem xml:id="MS_Digby_129-item6" n="6" key="work_3072">
                      <author key="person_241082057">
                         
                         Marbod of Rennes

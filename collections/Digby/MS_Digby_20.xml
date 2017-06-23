@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4320">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4320">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,7 +76,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_20-part1-item1" n="1">
+                     <msItem xml:id="MS_Digby_20-part1-item1" n="1" key="work_4673">
                         <author key="person_55563658">
                            
                            Thebit ben Corat
@@ -88,7 +85,7 @@
                         <title>De recta imaginatione spherae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part1-item2" n="2">
+                     <msItem xml:id="MS_Digby_20-part1-item2" n="2" key="work_711">
                         <author key="person_98323479">
                            
                            Arzachel
@@ -97,14 +94,12 @@
                         <title>Canons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part1-item3"
-                             n="3"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_20-part1-item3" n="3" class="#astrologia_astronomia">
 						                  <title type="desc">Astronomical texts.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part1-item4" n="4">
+                     <msItem xml:id="MS_Digby_20-part1-item4" n="4" key="work_712">
                         <author key="person_98323479">
                            
                            Arzachel
@@ -136,7 +131,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_20-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_20-part2-item1" n="1" key="work_1376">
                         <author key="person_281346627">
                            
                            Defensor
@@ -146,14 +141,12 @@
                         <note>(xvii.28 - end)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part2-item2"
-                             n="2"
-                             class="#theologica #pastoralia">
+                     <msItem xml:id="MS_Digby_20-part2-item2" n="2" class="#theologica #pastoralia">
 						                  <title type="desc">Theological and pastoral texts</title>
                         
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part2-item3" n="3">
+                     <msItem xml:id="MS_Digby_20-part2-item3" n="3" key="work_489">
                         <author key="person_85061732">
                            
                            Ambrosius Autpertus
@@ -162,7 +155,7 @@
                         <title>De conflictu uitiorum et uirtutum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part2-item4" n="4">
+                     <msItem xml:id="MS_Digby_20-part2-item4" n="4" key="work_1862">
                         <author key="person_100184667">
                            
                            Gregory the Great
@@ -172,7 +165,7 @@
                         <note>(extracts)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part2-item5" n="5">
+                     <msItem xml:id="MS_Digby_20-part2-item5" n="5" key="work_1290">
                         <author key="person_154144782727969775144">
                            
                            Clement of Llanthony
@@ -181,7 +174,7 @@
                         <title>De sex alis cherubim</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part2-item6" n="6">
+                     <msItem xml:id="MS_Digby_20-part2-item6" n="6" key="work_5039">
                         <author key="person_4136834">
                            
                            William de Montibus
@@ -199,7 +192,7 @@
                         </title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part2-item9" n="9">
+                     <msItem xml:id="MS_Digby_20-part2-item9" n="9" key="work_1446">
                         <author key="person_315944519">
                            
                            Edmund Rich
@@ -208,7 +201,7 @@
                         <title>Miroir de seinte eglise</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part2-item10" n="10">
+                     <msItem xml:id="MS_Digby_20-part2-item10" n="10" key="work_5043">
                         <author key="person_4136834">
                            
                            William de Montibus
@@ -243,7 +236,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_20-part3-item1" n="1">
+                     <msItem xml:id="MS_Digby_20-part3-item1" n="1" key="work_1928">
                         <author key="person_268851881">
                            
                            Guitmund
@@ -252,7 +245,7 @@
                         <title>De corporis et sanguinis domini ueritate</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part3-item2" n="2">
+                     <msItem xml:id="MS_Digby_20-part3-item2" n="2" key="work_977">
                         <author key="person_61539765">
                            
                            Bede

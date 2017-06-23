@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4267">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4267">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_150-item1" n="1">
+                  <msItem xml:id="MS_Digby_150-item1" n="1" key="work_3826">
                      <author key="person_104113324">
                         
                         Ps.-Albertus Magnus
@@ -63,7 +60,7 @@
                      <title>Summa naturalium</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_150-item2" n="2">
+                  <msItem xml:id="MS_Digby_150-item2" n="2" key="work_339">
                      <author key="person_88125532">
                         
                         Albertus Magnus
@@ -73,7 +70,7 @@
                      <note>(fragment)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_150-item3" n="3">
+                  <msItem xml:id="MS_Digby_150-item3" n="3" key="work_336">
                      <author key="person_88125532">
                         
                         Albertus Magnus
@@ -82,7 +79,7 @@
                      <title>De morte et uita</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_150-item4" n="4">
+                  <msItem xml:id="MS_Digby_150-item4" n="4" key="work_338">
                      <author key="person_88125532">
                         
                         Albertus Magnus
@@ -91,7 +88,7 @@
                      <title>De nutrimento et nutribili</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_150-item5" n="5">
+                  <msItem xml:id="MS_Digby_150-item5" n="5" key="work_2305">
                      <author key="person_14514065">
                         
                         Jacobus de Blanchis
@@ -110,7 +107,7 @@
                      <title type="desc">Texts on medicine and natural philosophy</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_150-item7" n="7">
+                  <msItem xml:id="MS_Digby_150-item7" n="7" key="work_1755">
                      <author key="person_100187638">
                         
                         Giles of Rome
@@ -125,7 +122,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_150-item8" n="8">
+                  <msItem xml:id="MS_Digby_150-item8" n="8" key="work_1756">
                      <author key="person_100187638">
                         
                         Giles of Rome
@@ -134,7 +131,7 @@
                      <title>De intellectus possibilis pluralitate contra Auerroistas</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_150-item9" n="9">
+                  <msItem xml:id="MS_Digby_150-item9" n="9" key="work_1753">
                      <author key="person_100187638">
                         
                         Giles of Rome
@@ -149,7 +146,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_150-item10" n="10">
+                  <msItem xml:id="MS_Digby_150-item10" n="10" key="work_1754">
                      <author key="person_100187638">
                         
                         Giles of Rome

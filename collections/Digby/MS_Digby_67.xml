@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4405">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4405">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,14 +77,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_67-part1-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_67-part1-item1" n="1" class="#astrologia_astronomia">
 						                  <title type="desc">Astrological treatises</title>
                         
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_67-part1-item2" n="2">
+                     <msItem xml:id="MS_Digby_67-part1-item2" n="2" key="work_4334">
                         <author key="person_7424114">
                            
                            Richard of Wallingford
@@ -122,9 +117,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_67-part2-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_67-part2-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Astrological treatises.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -212,7 +205,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_67-part5-item1" n="1">
+                     <msItem xml:id="MS_Digby_67-part5-item1" n="1" key="work_1677">
                         <author key="person_89028232">
                            
                            Geoffrey of Monmouth
@@ -244,14 +237,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_67-part6-item1"
-                             n="1"
-                             class="#mathematica #scientifica">
+                     <msItem xml:id="MS_Digby_67-part6-item1" n="1" class="#mathematica #scientifica">
 						                  <title type="desc">Scientific and arithmetical texts</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_67-part6-item2" n="2">
+                     <msItem xml:id="MS_Digby_67-part6-item2" n="2" key="work_4964">
                         <author key="person_98031958">
                            
                            Walter Map
@@ -286,7 +277,7 @@
                         <title type="desc">Philosophical texts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_67-part7-item2" n="2">
+                     <msItem xml:id="MS_Digby_67-part7-item2" n="2" key="work_331">
                         <author key="person_88125532">
                            
                            Albertus Magnus
@@ -295,7 +286,7 @@
                         <title>De intellectu et intelligencia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_67-part7-item3" n="3">
+                     <msItem xml:id="MS_Digby_67-part7-item3" n="3" key="work_333">
                         <author key="person_88125532">
                            
                            Albertus Magnus
@@ -332,7 +323,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_67-part8-item1" n="1">
+                     <msItem xml:id="MS_Digby_67-part8-item1" n="1" key="work_4434">
                         <author key="person_120688673">
                            
                            Roger Bacon

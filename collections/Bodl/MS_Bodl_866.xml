@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1857">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1857">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_866-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_866-part1-item1" n="1" key="work_780">
                         <author key="person_66806872">
                            
                            Augustine
@@ -84,7 +81,7 @@
                         <title>De sermone domini in monte</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_866-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_866-part1-item2" n="2" key="work_3447">
                         <author key="person_100184512">
                            
                            Paschasius Radbertus (Ps.-Jerome)
@@ -122,7 +119,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_866-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_866-part2-item1" n="1" key="work_464">
                         <author key="person_100227669">
                            
                            Ambrose
@@ -131,7 +128,7 @@
                         <title>De officiis ministrorum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_866-part2-item2" n="2">
+                     <msItem xml:id="MS_Bodl_866-part2-item2" n="2" key="work_3831">
                         <author key="person_2290">
                            
                            Ps.-Ambrose
@@ -140,7 +137,7 @@
                         <title>Libellus de dignitate sacerdotali</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_866-part2-item3" n="3">
+                     <msItem xml:id="MS_Bodl_866-part2-item3" n="3" key="work_458">
                         <author key="person_100227669">
                            
                            Ambrose
@@ -149,7 +146,7 @@
                         <title>De Helia et ieiunio</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_866-part2-item4" n="4">
+                     <msItem xml:id="MS_Bodl_866-part2-item4" n="4" key="work_456">
                         <author key="person_100227669">
                            
                            Ambrose
@@ -158,7 +155,7 @@
                         <title>De excessu fratris Satyri</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_866-part2-item5" n="5">
+                     <msItem xml:id="MS_Bodl_866-part2-item5" n="5" key="work_482">
                         <author key="person_100227669">
                            
                            Ambrose
@@ -196,7 +193,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_866-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_866-part3-item1" n="1" key="work_2053">
                         <author key="person_282035032">
                            
                            Hildebert of Lavardin
@@ -205,7 +202,7 @@
                         <title>De mysterio missae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_866-part3-item2" n="2">
+                     <msItem xml:id="MS_Bodl_866-part3-item2" n="2" key="work_2056">
                         <author key="person_282035032">
                            
                            Hilbert of Lavardin (?)

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1050">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1050">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -135,7 +132,7 @@
                   </msIdentifier>
                   <msContents>
                      <textLang mainLang="grc">Greek</textLang>
-                     <msItem xml:id="MS_Barocci_214-part1-item1" n="1">
+                     <msItem xml:id="MS_Barocci_214-part1-item1" n="1" key="work_4713">
                         
                         <locus>(fols. 1r–254v, 257r–300v)</locus> 
                         <author key="person_100213249">
@@ -216,7 +213,7 @@
                         </bibl>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_214-part1-item7" n="3">
+                     <msItem xml:id="MS_Barocci_214-part1-item7" n="3" key="work_2467">
                         
                         <locus>(fol. 303rv)</locus> 
                         <author key="person_268286342">
@@ -241,7 +238,7 @@
                         <explicit>τῆϲ χάριτοϲ βαϲιλευούϲηϲ ἐν αὐτῇ … ἀμήν</explicit>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_214-part1-item9" n="5">
+                     <msItem xml:id="MS_Barocci_214-part1-item9" n="5" key="work_497">
                         
                         <locus>(fol. 304r–326v, 328rv, 327rv)</locus> 
                         <author key="person_163149811">
@@ -293,7 +290,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_214-part2-item1" n="1">
+                     <msItem xml:id="MS_Barocci_214-part2-item1" n="1" key="work_4713">
                         
                         <author key="person_100213249">
                            Theodorus

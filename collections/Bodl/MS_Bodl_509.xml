@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1537">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1537">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_509-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_509-part1-item1" n="1" key="work_2849">
                         <author key="person_71362351">
                            
                            John of Salisbury
@@ -83,7 +80,7 @@
                         <title>Vita S. Thomae Becket</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_509-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_509-part1-item2" n="2" key="work_5061">
                         <author key="person_2333">
                            
                            William of Combe
@@ -124,7 +121,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_509-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_509-part2-item1" n="1" key="work_3152">
                         <author key="person_2282">
                            
                            Maurinus of Ford
@@ -133,7 +130,7 @@
                         <title>Vita et passio S. Thomae uersifice</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_509-part2-item2" n="2">
+                     <msItem xml:id="MS_Bodl_509-part2-item2" n="2" key="work_4786">
                         <author key="person_100187947">
                            
                            Thomas Becket
@@ -142,7 +139,7 @@
                         <title>Letters</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_509-part2-item3" n="3">
+                     <msItem xml:id="MS_Bodl_509-part2-item3" n="3" key="work_993">
                         <author key="person_12661210">
                            
                            Benedict of Peterborough
@@ -179,7 +176,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_509-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_509-part3-item1" n="1" key="work_313">
                         <author key="person_29676447">
                            
                            Alanus de Insulis
@@ -220,7 +217,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_509-part4-item1" n="1">
+                     <msItem xml:id="MS_Bodl_509-part4-item1" n="1" key="work_1942">
                         <author key="person_51780608">
                            <!-- the ref is for 'Henry of Sawtry' -->
                            

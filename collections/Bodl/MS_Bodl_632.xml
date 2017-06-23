@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1637">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1637">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,7 +74,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_632-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_632-part1-item1" n="1" key="work_761">
                         <author key="person_66806872">
                            
                            Augustine
@@ -141,7 +138,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_632-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_632-part3-item1" n="1" key="work_2745">
                         <author key="person_10428840">
                            
                            John Mirk
@@ -150,7 +147,7 @@
                         <title>Manuale sacerdotis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_632-part3-item2" n="2">
+                     <msItem xml:id="MS_Bodl_632-part3-item2" n="2" key="work_3996">
                         <author key="person_2294">
                            
                            Ps.-Edward the Confessor
@@ -159,7 +156,7 @@
                         <title>Speculum sacerdotis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_632-part3-item3" n="3">
+                     <msItem xml:id="MS_Bodl_632-part3-item3" n="3" key="work_4859">
                         <author key="person_59077661">
                            
                            Thomas à Kempis

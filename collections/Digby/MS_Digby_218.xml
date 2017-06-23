@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4340">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4340">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,7 +77,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_218-part1-item1" n="1">
+                     <msItem xml:id="MS_Digby_218-part1-item1" n="1" key="work_2753">
                         <author key="person_88794405">
                            
                            John Pecham
@@ -114,7 +111,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_218-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_218-part2-item1" n="1" key="work_2321">
                         <author key="person_59133273">
                            
                            Jacobus de Theramo
@@ -148,7 +145,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_218-part3-item1" n="1">
+                     <msItem xml:id="MS_Digby_218-part3-item1" n="1" key="work_4431">
                         <author key="person_120688673">
                            
                            Roger Bacon
@@ -182,7 +179,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_218-part4-item1" n="1">
+                     <msItem xml:id="MS_Digby_218-part4-item1" n="1" key="work_266">
                         <author key="person_39386818">
                            
                            Aelred of Rievaulx
@@ -192,7 +189,7 @@
                         <note>(abbreviated version: 'De vinculo perfectionis')</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_218-part4-item2" n="2">
+                     <msItem xml:id="MS_Digby_218-part4-item2" n="2" key="work_2633">
                         <author key="person_7408676">
                            
                            John Cassian
@@ -202,7 +199,7 @@
                         <note>(extracts)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_218-part4-item3" n="3">
+                     <msItem xml:id="MS_Digby_218-part4-item3" n="3" key="work_263">
                         <author key="person_39386818">
                            
                            Aelred of Rievaulx
@@ -211,7 +208,7 @@
                         <title>De institutione inclusarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_218-part4-item4" n="4">
+                     <msItem xml:id="MS_Digby_218-part4-item4" n="4" key="work_2420">
                         <author key="person_95147024">
                            
                            Jerome
@@ -245,7 +242,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_218-part5-item1" n="1">
+                     <msItem xml:id="MS_Digby_218-part5-item1" n="1" key="work_4376">
                         <author key="person_86920837">
                            
                            Robert Grosseteste
@@ -291,7 +288,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_218-part6-item1" n="1">
+                     <msItem xml:id="MS_Digby_218-part6-item1" n="1" key="work_4426">
                         <author key="person_120688673">
                            
                            Roger Bacon
@@ -354,9 +351,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_218-part8-item1"
-                             n="1"
-                             class="#ecclesiastica #documenta">
+                     <msItem xml:id="MS_Digby_218-part8-item1" n="1" class="#ecclesiastica #documenta">
                         <title type="desc">Ecclesiastical documents</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -414,7 +409,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_218-part10-item1" n="1">
+                     <msItem xml:id="MS_Digby_218-part10-item1" n="1" key="work_4214">
                         <author key="person_90633533">
                            
                            Ranulph Higden

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3118">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3118">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_101-item1" n="1">
+                  <msItem xml:id="MS_Canon_Misc_101-item1" n="1" key="work_3559">
                      <author key="person_39382430">
                         
                         Petrarch
@@ -61,7 +58,7 @@
                      <title>Epistolae metricae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_101-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_101-item2" n="2" key="work_1257">
                      <author key="person_78769600">
                         
                         Cicero
@@ -70,7 +67,7 @@
                      <title>Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_101-item3" n="3">
+                  <msItem xml:id="MS_Canon_Misc_101-item3" n="3" key="work_3557">
                      <author key="person_39382430">
                         
                         Petrarch
@@ -79,7 +76,7 @@
                      <title>De vita solitaria</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_101-item4" n="4">
+                  <msItem xml:id="MS_Canon_Misc_101-item4" n="4" key="work_1632">
                      <author key="person_79253953">
                         
                         Gasparino Barzizza
@@ -88,7 +85,7 @@
                      <title>Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_101-item5" n="5">
+                  <msItem xml:id="MS_Canon_Misc_101-item5" n="5" key="work_3563">
                      <author key="person_39382430">
                         
                         Petrarch
@@ -97,7 +94,7 @@
                      <title>Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_101-item6" n="6">
+                  <msItem xml:id="MS_Canon_Misc_101-item6" n="6" key="work_606">
                      <author key="person_265092902">
                         
                         Antonius de Romagno
@@ -106,7 +103,7 @@
                      <title>Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_101-item7" n="7">
+                  <msItem xml:id="MS_Canon_Misc_101-item7" n="7" key="work_3470">
                      <author key="person_2135">
                         
                         Paulus Picopassus

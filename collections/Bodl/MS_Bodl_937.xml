@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1889">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1889">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,14 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_937-item1"
-                          n="1"
-                          class="#documenta #vitae_sanctorum">
+                  <msItem xml:id="MS_Bodl_937-item1" n="1" class="#documenta #vitae_sanctorum">
                      <title type="desc">Documents relating to <persName key="person_100187947">Thomas Becket</persName>
                      </title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_937-item2" n="2">
+                  <msItem xml:id="MS_Bodl_937-item2" n="2" key="work_307">
                      <author key="person_69286128">
                         
                         Alan of Tewkesbury
@@ -68,7 +63,7 @@
                      <title>Vita S. Thomae Cantuariensis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_937-item3" n="3">
+                  <msItem xml:id="MS_Bodl_937-item3" n="3" key="work_2849">
                      <author key="person_71362351">
                         
                         John of Salisbury
@@ -77,7 +72,7 @@
                      <title>Vita S. Thomae Becket</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_937-item4" n="4">
+                  <msItem xml:id="MS_Bodl_937-item4" n="4" key="work_306">
                      <author key="person_69286128">
                         
                         Alan of Tewkesbury
@@ -86,7 +81,7 @@
                      <title>Collectio epistolarum S. Thomae Cantuariensis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_937-item5" n="5">
+                  <msItem xml:id="MS_Bodl_937-item5" n="5" key="work_4786">
                      <author key="person_100187947">
                         
                         Thomas Becket

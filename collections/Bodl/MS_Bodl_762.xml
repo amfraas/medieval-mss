@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1749">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1749">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_762-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_762-part1-item1" n="1" key="work_453">
                         <author key="person_100227669">
                            
                            Ambrose
@@ -87,7 +84,7 @@
                         <title>De Abraham</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_762-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_762-part1-item2" n="2" key="work_460">
                         <author key="person_100227669">
                            
                            Ambrose
@@ -96,7 +93,7 @@
                         <title>De Ioseph</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_762-part1-item3" n="3">
+                     <msItem xml:id="MS_Bodl_762-part1-item3" n="3" key="work_466">
                         <author key="person_100227669">
                            
                            Ambrose
@@ -105,7 +102,7 @@
                         <title>De patriarchis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_762-part1-item4" n="4">
+                     <msItem xml:id="MS_Bodl_762-part1-item4" n="4" key="work_456">
                         <author key="person_100227669">
                            
                            Ambrose
@@ -114,7 +111,7 @@
                         <title>De excessu fratris sui Satyri</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_762-part1-item5" n="5">
+                     <msItem xml:id="MS_Bodl_762-part1-item5" n="5" key="work_475">
                         <author key="person_100227669">
                            
                            Ambrose
@@ -148,7 +145,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_762-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_762-part2-item1" n="1" key="work_455">
                         <author key="person_100227669">
                            
                            Ambrose
@@ -157,7 +154,7 @@
                         <title>De bono mortis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_762-part2-item2" n="2">
+                     <msItem xml:id="MS_Bodl_762-part2-item2" n="2" key="work_758">
                         <author key="person_66806872">
                            
                            Augustine
@@ -190,7 +187,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_762-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_762-part3-item1" n="1" key="work_457">
                         <author key="person_100227669">
                            
                            Ambrose
@@ -199,7 +196,7 @@
                         <title>De fide</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_762-part3-item2" n="2">
+                     <msItem xml:id="MS_Bodl_762-part3-item2" n="2" key="work_469">
                         <author key="person_100227669">
                            
                            Ambrose
@@ -208,7 +205,7 @@
                         <title>De spiritu sancto</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_762-part3-item3" n="3">
+                     <msItem xml:id="MS_Bodl_762-part3-item3" n="3" key="work_459">
                         <author key="person_100227669">
                            
                            Ambrose

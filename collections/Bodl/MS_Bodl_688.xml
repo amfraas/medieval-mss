@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1680">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1680">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -56,7 +53,7 @@
                      <title type="desc">Biblical and other notes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_688-item2" n="2">
+                  <msItem xml:id="MS_Bodl_688-item2" n="2" key="work_4075">
                      <author key="person_2179">
                         
                         Ps.-Origen
@@ -65,7 +62,7 @@
                      <title>Homily on Maria stabat</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_688-item3" n="3">
+                  <msItem xml:id="MS_Bodl_688-item3" n="3" key="work_1862">
                      <author key="person_100184667">
                         
                         Gregory the Great
@@ -74,7 +71,7 @@
                      <title>De cura pastorali</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_688-item4" n="4">
+                  <msItem xml:id="MS_Bodl_688-item4" n="4" key="work_1863">
                      <author key="person_100184667">
                         
                         Gregory the Great
@@ -83,7 +80,7 @@
                      <title>Dialogi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_688-item5" n="5">
+                  <msItem xml:id="MS_Bodl_688-item5" n="5" key="work_1871">
                      <author key="person_100184667">
                         
                         Gregory the Great
@@ -92,7 +89,7 @@
                      <title>Homiliae XL in euangelia</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_688-item6" n="6">
+                  <msItem xml:id="MS_Bodl_688-item6" n="6" key="work_1869">
                      <author key="person_100184667">
                         
                         Gregory the Great
@@ -101,7 +98,7 @@
                      <title>Homiliae in Ezechielem</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_688-item7" n="7">
+                  <msItem xml:id="MS_Bodl_688-item7" n="7" key="work_3395">
                      <author key="person_95155322">
                         
                         Origen
@@ -111,7 +108,7 @@
                      <note>(tr. <persName role="translator" key="person_77679446">Rufinus</persName>, here attrib. Jerome)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_688-item8" n="8">
+                  <msItem xml:id="MS_Bodl_688-item8" n="8" key="work_2111">
                      <author key="person_306209520">
                         
                         Hugh of Fleury

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_954">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_954">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -64,7 +61,7 @@
                      <textLang xml:lang="grc">Greek</textLang>
                      
                      
-                     <msItem xml:id="MS_Barocci_129-item1-item1" n="1a">
+                     <msItem xml:id="MS_Barocci_129-item1-item1" n="1a" key="work_71 work_2216">
                         
                         <locus>(fols. 1r–7v, 9r–142v)</locus>
                         <author key="person_165059778"/>
@@ -82,7 +79,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_129-item1-item2" n="1b">
+                     <msItem xml:id="MS_Barocci_129-item1-item2" n="1b" key="work_49">
                         
                         <locus>(fols. 142v–146r)</locus> 
                         <author key="person_165059778"/>
@@ -121,7 +118,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_129-item2-item2" n="2b">
+                     <msItem xml:id="MS_Barocci_129-item2-item2" n="2b" key="work_3663">
                         
                         <locus>(fol. 7v)</locus> 
                         <author key="person_14775071">
@@ -232,7 +229,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_129-item2-item12" n="2l">
+                     <msItem xml:id="MS_Barocci_129-item2-item12" n="2l" key="work_500">
                         
                         <locus>(fols. 146r–147r)</locus> 
                         <author key="person_13689964">
@@ -248,7 +245,7 @@
                      
                      
                      
-                     <msItem xml:id="MS_Barocci_129-item2-item13" n="2n">
+                     <msItem xml:id="MS_Barocci_129-item2-item13" n="2n" key="work_718">
                         
                         <locus>(fols. 147v–148v)</locus>
                         <author key="person_105155222"> Athanasius
@@ -262,7 +259,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_129-item2-item14" n="2o">
+                     <msItem xml:id="MS_Barocci_129-item2-item14" n="2o" key="work_1473">
                         
                         <locus>(fols. 148v–149r)</locus> 
                         <author key="person_13651211">Epiphanius
@@ -276,7 +273,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_129-item2-item15" n="2p">
+                     <msItem xml:id="MS_Barocci_129-item2-item15" n="2p" key="work_2206">
                         
                         <locus>(fol. 149rv)</locus>  
                         <author key="person_297475745">

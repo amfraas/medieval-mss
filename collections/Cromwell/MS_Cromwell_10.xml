@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4024">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4024">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Cromwell_10-item1" n="1">
+                  <msItem xml:id="MS_Cromwell_10-item1" n="1" key="work_3135">
                      <author key="person_57003495">
                         
                         Mattheus Cantacuzenus
@@ -64,7 +61,7 @@
                      </bibl>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_10-item2" n="2">
+                  <msItem xml:id="MS_Cromwell_10-item2" n="2" key="work_1556">
                      <author key="person_2056"><!-- not found in VIAF, use Pinakes -->
                         
                         Franciscus OP
@@ -73,7 +70,7 @@
                      <title>Quesita ad Manuelem rhetorem</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_10-item3" n="3">
+                  <msItem xml:id="MS_Cromwell_10-item3" n="3" key="work_3058">
                      <author key="person_49367775">
                         
                         Manuel Corinthius rhetor
@@ -82,7 +79,7 @@
                      <title>Apologia ad Franciscum OP</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_10-item4" n="4">
+                  <msItem xml:id="MS_Cromwell_10-item4" n="4" key="work_2524">
                      <author key="person_17579713">
                         
                         Johannes Thessalonicensis
@@ -91,7 +88,7 @@
                      <title>Homilia in mulieres unguentiferas</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_10-item5" n="5">
+                  <msItem xml:id="MS_Cromwell_10-item5" n="5" key="work_4650">
                      <author key="person_100907299">
                         
                         Symeon Thessalonicensis
@@ -105,7 +102,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_10-item7" n="7">
+                  <msItem xml:id="MS_Cromwell_10-item7" n="7" key="work_4691">
                      <author key="person_77111352">
                         
                         Theodoret of Cyrus
@@ -114,7 +111,7 @@
                      <title>Quaestiones super Genesim</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_10-item8" n="8">
+                  <msItem xml:id="MS_Cromwell_10-item8" n="8" key="work_3573">
                      <author key="person_66823042">
                         
                         Petrus Antiochenus
@@ -123,7 +120,7 @@
                      <title>Epistula ad dominicum Gradensem</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_10-item9" n="9">
+                  <msItem xml:id="MS_Cromwell_10-item9" n="9" key="work_2511">
                      <author key="person_224310206">
                         
                         Johannes Philoponus

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4225">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4225">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_103-part1-item1" n="1">
+                     <msItem xml:id="MS_Digby_103-part1-item1" n="1" key="work_4302">
                         <author key="person_37314703">
                            
                            Richard of Wetheringsett
@@ -110,7 +107,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_103-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_103-part2-item1" n="1" key="work_3446">
                         <author key="person_37320228">
                            
                            Pascalis Romanus
@@ -119,7 +116,7 @@
                         <title>Liber thesauri occulti</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_103-part2-item2" n="2">
+                     <msItem xml:id="MS_Digby_103-part2-item2" n="2" key="work_290">
                         <author key="person_79112004">
                            
                            Ahmet ibn Sirin
@@ -129,7 +126,7 @@
                         <note>(tr. <persName role="translator" key="person_56968009">Leo Tuscus</persName>)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_103-part2-item3" n="3">
+                     <msItem xml:id="MS_Digby_103-part2-item3" n="3" key="work_652">
                         <author key="person_7524651">
                            
                            Aristotle
@@ -166,7 +163,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_103-part3-item1" n="1">
+                     <msItem xml:id="MS_Digby_103-part3-item1" n="1" key="work_1135">
                         <author key="person_73608041">
                            
                            Bonaguida of Arezzo

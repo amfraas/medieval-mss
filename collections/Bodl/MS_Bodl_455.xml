@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1489">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1489">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_455-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_455-part1-item1" n="1" key="work_804">
                         <author key="person_66806872">
                            
                            Augustine
@@ -105,7 +102,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_455-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_455-part2-item1" n="1" key="work_800">
                         <author key="person_66806872">
                            
                            Augustine
@@ -142,7 +139,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_455-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_455-part3-item1" n="1" key="work_376">
                         <author key="person_96533523">
                            
                            Alcuin

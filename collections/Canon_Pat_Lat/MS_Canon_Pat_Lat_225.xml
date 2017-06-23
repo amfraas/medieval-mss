@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3807">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3807">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_225-item1" n="1">
+                  <msItem xml:id="MS_Canon_Pat_Lat_225-item1" n="1" key="work_3896">
                      <author key="person_7386286">
                         
                         Ps.-Augustine
@@ -61,7 +58,7 @@
                      <title>Meditationes de spiritu sancto</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_225-item2" n="2">
+                  <msItem xml:id="MS_Canon_Pat_Lat_225-item2" n="2" key="work_3912">
                      <author key="person_7386286">
                         
                         Ps.-Augustine
@@ -70,7 +67,7 @@
                      <title>Speculum siue Manuale</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_225-item3" n="3">
+                  <msItem xml:id="MS_Canon_Pat_Lat_225-item3" n="3" key="work_1300">
                      <author key="person_265009565">
                         
                         Conrad Holtnicker
@@ -79,7 +76,7 @@
                      <title>Speculum beatae Mariae uirginis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_225-item4" n="4">
+                  <msItem xml:id="MS_Canon_Pat_Lat_225-item4" n="4" key="work_2125">
                      <author key="person_9865788">
                         
                         Hugh of St.-Victor
@@ -88,7 +85,7 @@
                      <title>Soliloquium de arra animae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_225-item5" n="5">
+                  <msItem xml:id="MS_Canon_Pat_Lat_225-item5" n="5" key="work_2394">
                      <author key="person_95147024">
                         
                         Jerome
@@ -97,7 +94,7 @@
                      <title>Aduersus Heluidium</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_225-item6" n="6">
+                  <msItem xml:id="MS_Canon_Pat_Lat_225-item6" n="6" key="work_3909">
                      <author key="person_7386286">
                         
                         Ps.-Augustine
@@ -106,7 +103,7 @@
                      <title>Soliloquia animae ad Deum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_225-item7" n="7">
+                  <msItem xml:id="MS_Canon_Pat_Lat_225-item7" n="7" key="work_2269">
                      <author key="person_803890">
                         
                         Isidore of Seville
@@ -115,7 +112,7 @@
                      <title>Synonyma</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_225-item8" n="8">
+                  <msItem xml:id="MS_Canon_Pat_Lat_225-item8" n="8" key="work_543">
                      <author key="person_100187025">
                         
                         Anselm
@@ -124,7 +121,7 @@
                      <title>Meditatio de redemptione humana</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_225-item9" n="9">
+                  <msItem xml:id="MS_Canon_Pat_Lat_225-item9" n="9" key="work_4075">
                      <author key="person_2179">
                         
                         Ps.-Origen

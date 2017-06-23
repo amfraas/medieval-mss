@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1748">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1748">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_761-item1" n="1">
+                  <msItem xml:id="MS_Bodl_761-item1" n="1" key="work_3589">
                      <author key="person_87227886">
                         
                         Petrus Hispanus
@@ -75,7 +72,7 @@
                      <title type="desc">Medical treatise</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_761-item4" n="4">
+                  <msItem xml:id="MS_Bodl_761-item4" n="4" key="work_3132">
                      <author key="person_14780021">
                         
                         Matthaeus Platearius
@@ -85,7 +82,7 @@
                      <note>(French translation)</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_761-item5" n="5">
+                  <msItem xml:id="MS_Bodl_761-item5" n="5" key="work_2846">
                      <author key="person_33876256">
                         
                         John of Saint-Paul
@@ -103,7 +100,7 @@
                      <textLang mainLang="la" otherLangs="fr en">Latin, French and English</textLang>
                   </msItem>
                  
-                  <msItem xml:id="MS_Bodl_761-item8" n="8">
+                  <msItem xml:id="MS_Bodl_761-item8" n="8" key="work_4464">
                      <author key="person_262717488">
                         
                         Roland of Parma
@@ -121,7 +118,7 @@
                      <title type="desc">Deed concerning award of a pension</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_761-item11" n="11">
+                  <msItem xml:id="MS_Bodl_761-item11" n="11" key="work_1672">
                      <author key="person_225881110">
                         
                         Geoffrey le Baker
@@ -130,7 +127,7 @@
                      <title>Chronicle</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_761-item12" n="12">
+                  <msItem xml:id="MS_Bodl_761-item12" n="12" key="work_3349">
                      <author key="person_36950880">
                         
                         Nigel Witeker
@@ -139,7 +136,7 @@
                      <title>Speculum stultorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_761-item13" n="13">
+                  <msItem xml:id="MS_Bodl_761-item13" n="13" key="work_3260">
                      <author key="person_73850586">
                         
                         Nicholas Bozon (?)
@@ -152,7 +149,7 @@
                      <title type="desc">Prophecies</title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_761-item15" n="15">
+                  <msItem xml:id="MS_Bodl_761-item15" n="15" key="work_2791">
                      <author key="person_32005351">
                         
                         John XXII
@@ -161,7 +158,7 @@
                      <title>Bullae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_761-item16" n="16">
+                  <msItem xml:id="MS_Bodl_761-item16" n="16" key="work_3081">
                      <author key="person_173430120">
                         
                         Marco Polo
@@ -171,7 +168,7 @@
                      <note>(extract)</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_761-item17" n="17">
+                  <msItem xml:id="MS_Bodl_761-item17" n="17" key="work_2388">
                      <author key="person_169562847">
                         
                         Jean de Vignay

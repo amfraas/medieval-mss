@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_944">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_944">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -90,7 +87,7 @@
                  
                      <msContents>
                      <textLang xml:lang="grc">Greek</textLang>
-                        <msItem xml:id="MS_Barocci_12-part1-item1" n="1">
+                        <msItem xml:id="MS_Barocci_12-part1-item1" n="1" key="work_2246">
                            
                            <locus>(fols. 1r–124r)</locus> 
                         <author key="person_401332">Isaac Syrus</author>
@@ -117,7 +114,7 @@
                               Magnus</author>
                            
                            
-                           <msItem xml:id="MS_Barocci_12-part1-item3-item1" n="3a">
+                           <msItem xml:id="MS_Barocci_12-part1-item3-item1" n="3a" key="work_18 work_938">
                               
                               <locus>(fols. 135v–143r)</locus>
                            <author key="person_88967224"/> 
@@ -128,7 +125,7 @@
                                     αὐτοῦ βαϲιλείαϲ ἐν Χριϲτῷ Ἰηϲοῦ τῷ Κυρίῳ ἡμῶν ᾧ ἡ δόξα κτλ.</explicit>
                            <textLang xml:lang="grc">Greek</textLang>
                         </msItem>
-                           <msItem xml:id="MS_Barocci_12-part1-item3-item2" n="3b">
+                           <msItem xml:id="MS_Barocci_12-part1-item3-item2" n="3b" key="work_67">
                               
                               <locus>(fols. 143r–146v)</locus>
                            <author key="person_88967224"/> 
@@ -164,7 +161,7 @@
                                  Psalms has been inserted, and on fol. 152r a similar piece from <persName role="author" key="person_4998806">Theodorus Studites</persName>.</note>
                             <textLang xml:lang="grc">Greek</textLang>
                      </msItem>
-                        <msItem xml:id="MS_Barocci_12-part1-item6" n="6">
+                        <msItem xml:id="MS_Barocci_12-part1-item6" n="6" key="work_2204">
                            
                            <locus>(fols. 153r–156r)</locus> 
                         <author key="person_268305530">
@@ -175,7 +172,7 @@
                         <explicit>πεϲεῖται πτῶμα ἐξαίϲιον</explicit>
                            <textLang xml:lang="grc">Greek</textLang>
                      </msItem>
-                        <msItem xml:id="MS_Barocci_12-part1-item7" n="7">
+                        <msItem xml:id="MS_Barocci_12-part1-item7" n="7" key="work_2245">
                            
                            <locus>(fols. 156v–161v)</locus>   
                         <author key="person_401332">Isaac Syrus</author>
@@ -239,7 +236,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_12-part2-item1" n="1">
+                     <msItem xml:id="MS_Barocci_12-part2-item1" n="1" key="work_2467">
                         <locus>(fols. 162r–172v)</locus>
                         <author key="person_268286342">
                            Johannes Climacus

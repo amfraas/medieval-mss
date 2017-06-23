@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1670">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1670">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -57,7 +54,7 @@
                   </summary>
                      
                   
-                  <msItem xml:id="MS_Bodl_679-item1" n="1">
+                  <msItem xml:id="MS_Bodl_679-item1" n="1" key="work_1420">
                      <author key="person_89659745">
                         
                         Dominicus Gundisalvi
@@ -70,7 +67,7 @@
                      <title type="desc">Alchemical treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_679-item3" n="3">
+                  <msItem xml:id="MS_Bodl_679-item3" n="3" key="work_3529">
                      <author key="person_2140">
                         
                         Peter of Blois of Chartres
@@ -83,7 +80,7 @@
                      <title type="desc">Treatise on arithmetic</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_679-item5" n="5">
+                  <msItem xml:id="MS_Bodl_679-item5" n="5" key="work_2592">
                      <author key="person_84975906">
                         
                         Johannes de Sacro Bosco
@@ -92,7 +89,7 @@
                      <title>Tractatus de sphaera</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_679-item6" n="6">
+                  <msItem xml:id="MS_Bodl_679-item6" n="6" key="work_4357">
                      <author key="person_86920837">
                         
                         Robert Grosseteste
@@ -101,7 +98,7 @@
                      <title>Compotus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_679-item7" n="7">
+                  <msItem xml:id="MS_Bodl_679-item7" n="7" key="work_5062">
                      <author key="person_29521941">
                         
                         William of Conches
@@ -114,7 +111,7 @@
                      <title type="desc">Scientific texts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_679-item9" n="9">
+                  <msItem xml:id="MS_Bodl_679-item9" n="9" key="work_240">
                      <author key="person_35253721">
                         
                         Adelard of Bath
@@ -123,7 +120,7 @@
                      <title>Quaestiones naturales</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_679-item10" n="10">
+                  <msItem xml:id="MS_Bodl_679-item10" n="10" key="work_2085">
                      <author key="person_100201145">
                         
                         Honorius Augustodunensis

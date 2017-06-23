@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1776">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1776">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,9 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_790-part1-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Bodl_790-part1-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Astronomical tables, 1336</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -106,9 +101,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_790-part2-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Bodl_790-part2-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Astronomical tables, 1408</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -137,7 +130,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_790-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_790-part3-item1" n="1" key="work_365">
                         <author key="person_17355947">
                            
                            Albumasar
@@ -146,9 +139,7 @@
                         <title>De XII capitulis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_790-part3-item2"
-                             n="2"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Bodl_790-part3-item2" n="2" class="#astrologia_astronomia">
                         <title type="desc">Astrological treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -177,9 +168,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_790-part4-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Bodl_790-part4-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Astrological notes</title>
                         <textLang mainLang="la" otherLangs="nl">Latin and Dutch</textLang>
                      </msItem>
@@ -208,7 +197,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_790-part5-item1" n="1">
+                     <msItem xml:id="MS_Bodl_790-part5-item1" n="1" key="work_4106">
                         <author key="person_2307">
                            
                            Ps.-Robert Grosseteste
@@ -242,9 +231,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_790-part6-item1"
-                             n="1"
-                             class="#versus #computistica">
+                     <msItem xml:id="MS_Bodl_790-part6-item1" n="1" class="#versus #computistica">
                         <title type="desc">Compotus (in verse)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

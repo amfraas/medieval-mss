@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4350">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4350">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -59,7 +56,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_228-item2" n="2">
+                  <msItem xml:id="MS_Digby_228-item2" n="2" key="work_411">
                      <author key="person_2583890">
                         
                         Alexander de Villa Dei
@@ -68,7 +65,7 @@
                      <title>Massa compoti</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_228-item3" n="3">
+                  <msItem xml:id="MS_Digby_228-item3" n="3" key="work_1957">
                      <author key="person_100198249">
                         
                         Haly ibn Ridwan
@@ -83,7 +80,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_228-item4" n="4">
+                  <msItem xml:id="MS_Digby_228-item4" n="4" key="work_1676">
                      <author key="person_96277830">
                         
                         Geoffrey of Meaux
@@ -92,7 +89,7 @@
                      <title>De stellis comatis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_228-item5" n="5">
+                  <msItem xml:id="MS_Digby_228-item5" n="5" key="work_367">
                      <author key="person_17355947">
                         
                         Albumasar
@@ -101,7 +98,7 @@
                      <title>Flores astrorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_228-item6" n="6">
+                  <msItem xml:id="MS_Digby_228-item6" n="6" key="work_4356">
                      <author key="person_86920837">
                         
                         Robert Grosseteste
@@ -110,7 +107,7 @@
                      <title>Compotus correctorius</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_228-item7" n="7">
+                  <msItem xml:id="MS_Digby_228-item7" n="7" key="work_3861">
                      <author key="person_2581859">
                         
                         Ps.-Aristotle
@@ -119,7 +116,7 @@
                      <title>Secreta secretorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_228-item8" n="8">
+                  <msItem xml:id="MS_Digby_228-item8" n="8" key="work_426">
                      <author key="person_64358682">
                         
                         Alfraganus
@@ -131,7 +128,7 @@
                         </persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_228-item9" n="9">
+                  <msItem xml:id="MS_Digby_228-item9" n="9" key="work_4789">
                      <author key="person_76375851">
                         
                         Thomas Bradwardine
@@ -140,7 +137,7 @@
                      <title>De proportione velocitatum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_228-item10" n="10">
+                  <msItem xml:id="MS_Digby_228-item10" n="10" key="work_2592">
                      <author key="person_84975906">
                         
                         Johannes de Sacro Bosco
@@ -150,7 +147,7 @@
                      <note>(with commentary)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_228-item11" n="11">
+                  <msItem xml:id="MS_Digby_228-item11" n="11" key="work_3179">
                      <author key="person_37256856">
                         
                         Messahala
@@ -159,7 +156,7 @@
                      <title>Epistola de rebus eclipsium et coniunctionibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_228-item12" n="12">
+                  <msItem xml:id="MS_Digby_228-item12" n="12" key="work_3825">
                      <author key="person_104113324">
                         
                         Ps.-Albertus Magnus

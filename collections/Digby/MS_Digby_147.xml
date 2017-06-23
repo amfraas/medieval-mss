@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4263">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4263">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -54,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_147-item1" n="1">
+                  <msItem xml:id="MS_Digby_147-item1" n="1" key="work_4972">
                      <author key="person_34341935">
                         
                         Walter of Henley
@@ -64,7 +61,7 @@
                      <note>(Latin translation)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_147-item2" n="2">
+                  <msItem xml:id="MS_Digby_147-item2" n="2" key="work_4304">
                      <author key="person_32352662">
                         
                         Richard of Bury
@@ -82,7 +79,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_147-item5" n="5">
+                  <msItem xml:id="MS_Digby_147-item5" n="5" key="work_4124">
                      <author key="person_294784551">
                         
                         Ps.-Seneca
@@ -91,7 +88,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_147-item6" n="6">
+                  <msItem xml:id="MS_Digby_147-item6" n="6" key="work_2738">
                      <author key="person_2102">
                         
                         John Malvern
@@ -106,7 +103,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_147-item8" n="8">
+                  <msItem xml:id="MS_Digby_147-item8" n="8" key="work_3599">
                      <author key="person_33343877">
                         
                         Petrus Peregrinus de Maricourt
@@ -120,7 +117,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_147-item10" n="10">
+                  <msItem xml:id="MS_Digby_147-item10" n="10" key="work_4545">
                      <author key="person_96800842">
                         
                         Simon Bredon
@@ -135,7 +132,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_147-item11" n="11">
+                  <msItem xml:id="MS_Digby_147-item11" n="11" key="work_5020">
                      <author key="person_311741246">
                         
                         William Merle
@@ -144,7 +141,7 @@
                      <title>De prognosticatione aeris</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_147-item12" n="12">
+                  <msItem xml:id="MS_Digby_147-item12" n="12" key="work_2000">
                      <author key="person_24602645">
                         
                         Henry de Mondeville
@@ -153,7 +150,7 @@
                      <title>De anatomia humani corporis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_147-item13" n="13">
+                  <msItem xml:id="MS_Digby_147-item13" n="13" key="work_312">
                      <author key="person_29676447">
                         
                         Alanus de Insulis
@@ -162,7 +159,7 @@
                      <title>De planctu naturae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_147-item14" n="14">
+                  <msItem xml:id="MS_Digby_147-item14" n="14" key="work_4964">
                      <author key="person_98031958">
                         
                         Walter Map

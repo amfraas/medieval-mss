@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1003">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1003">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -102,7 +99,7 @@
                   </msIdentifier>
                   <msContents>
                      <textLang mainLang="grc">Greek</textLang>
-                     <msItem xml:id="MS_Barocci_173-part1-item1" n="1">
+                     <msItem xml:id="MS_Barocci_173-part1-item1" n="1" key="work_2214">
                         
                         <locus>(fols. 1r–19v)</locus> 
                         <author key="person_21944814">
@@ -137,7 +134,7 @@
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
                      
-                     <msItem xml:id="MS_Barocci_173-part1-item4" n="4">
+                     <msItem xml:id="MS_Barocci_173-part1-item4" n="4" key="work_5152">
                         
                         <locus>(fols. 58v–97r)</locus> 
                         <author key="person_76342216">
@@ -156,7 +153,7 @@
                            <hi rend="italic">pr.</hi> as book 2 of the preceding, <title>PG</title> 138. 1228–49.</note> 
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_173-part1-item6" n="6">
+                     <msItem xml:id="MS_Barocci_173-part1-item6" n="6" key="work_724">
                         
                         <locus>(fols. 102r–124v)</locus>  
                         <author key="person_100370792">
@@ -168,7 +165,7 @@
                               vol. i, Leipzig 1838, pp. 1–49.</note>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_173-part1-item7" n="7">
+                     <msItem xml:id="MS_Barocci_173-part1-item7" n="7" key="work_2011">
                         
                         <locus>(fols. 124v–133r)</locus>  
                         <author key="person_268960974">Heraclius</author>
@@ -203,7 +200,7 @@
                         </msItem> 
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_173-part1-item8" n="8">
+                     <msItem xml:id="MS_Barocci_173-part1-item8" n="8" key="work_2210">
                         
                         <locus>(fols. 133r–150r)</locus> 
                         <author key="person_44435485">
@@ -216,7 +213,7 @@
                               Cyprius.</note>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_173-part1-item9" n="9">
+                     <msItem xml:id="MS_Barocci_173-part1-item9" n="9" key="work_4868">
                         
                         <locus>(fols. 150r–156v)</locus> 
                         <author key="person_34860484">Timotheus

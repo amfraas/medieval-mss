@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4394">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4394">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,7 +77,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_56-part1-item1" n="1">
+                     <msItem xml:id="MS_Digby_56-part1-item1" n="1" key="work_1020">
                         <author key="person_226497544">
                            
                            Bernard de Gordon
@@ -115,9 +112,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_56-part2-item1"
-                             n="1"
-                             class="#versus #biblia #commentarii">
+                     <msItem xml:id="MS_Digby_56-part2-item1" n="1" class="#versus #biblia #commentarii">
 						                  <title type="desc">Biblical commentary in verse</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -125,7 +120,7 @@
                            <title>Bible</title>
                         </bibl>
                      </msItem>
-                     <msItem xml:id="MS_Digby_56-part2-item2" n="2">
+                     <msItem xml:id="MS_Digby_56-part2-item2" n="2" key="work_3957">
                         <author key="person_21717206">
                            
                            Ps.-Boethius
@@ -134,7 +129,7 @@
                         <title>De disciplina scholarium</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_56-part2-item3" n="3">
+                     <msItem xml:id="MS_Digby_56-part2-item3" n="3" key="work_2094">
                         <author key="person_100227522">
                            
                            Horace
@@ -168,14 +163,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_56-part3-item1"
-                             n="1"
-                             class="#computistica #liturgica">
+                     <msItem xml:id="MS_Digby_56-part3-item1" n="1" class="#computistica #liturgica">
 						                  <title type="desc">Calendar and computistical tables.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_56-part3-item2" n="2">
+                     <msItem xml:id="MS_Digby_56-part3-item2" n="2" key="work_1724">
                         <author key="person_11566602">
                            
                            Gerland

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_249">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_249">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,7 +81,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1423-part1-item1" n="1">
+                     <msItem xml:id="MS_Ashmole_1423-part1-item1" n="1" key="work_1689">
                         <author key="person_2256"><!-- not found in VIAF -->
                            
                            George Marrowe
@@ -252,9 +249,7 @@
                         <title type="desc">Alchemical treatise (Liber Aureus)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1423-part6-item2"
-                             n="2"
-                             class="#alchimia #versus">
+                     <msItem xml:id="MS_Ashmole_1423-part6-item2" n="2" class="#alchimia #versus">
                         <title type="desc">Alchemical poems, recipes and notes</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>

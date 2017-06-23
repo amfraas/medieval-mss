@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4339">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4339">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,7 +77,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_217-part1-item1" n="1">
+                     <msItem xml:id="MS_Digby_217-part1-item1" n="1" key="work_857">
                         <author key="person_89770781">
                            
                            Avicenna
@@ -111,7 +108,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_217-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_217-part2-item1" n="1" key="work_862">
                         <author key="person_89770781">
                            
                            Avicenna
@@ -120,7 +117,7 @@
                         <title>Sufficentia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_217-part2-item2" n="2">
+                     <msItem xml:id="MS_Digby_217-part2-item2" n="2" key="work_4766">
                         <author key="person_264344179">
                            
                            Thomas Aquinas
@@ -155,7 +152,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_217-part3-item1" n="1">
+                     <msItem xml:id="MS_Digby_217-part3-item1" n="1" key="work_845">
                         <author key="person_316417930">
                            
                            Avendauth
@@ -164,7 +161,7 @@
                         <title>De universalibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_217-part3-item2" n="2">
+                     <msItem xml:id="MS_Digby_217-part3-item2" n="2" key="work_436">
                         <author key="person_90634457">
                            
                            Alkindi
@@ -173,7 +170,7 @@
                         <title>De quintis essentiis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_217-part3-item3" n="3">
+                     <msItem xml:id="MS_Digby_217-part3-item3" n="3" key="work_3700">
                         <author key="person_108159964">
                            
                            Plato
@@ -206,7 +203,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_217-part4-item1" n="1">
+                     <msItem xml:id="MS_Digby_217-part4-item1" n="1" key="work_2236">
                         <author key="person_34580662">
                            
                            Isaac Iudaeus
@@ -215,7 +212,7 @@
                         <title>Liber de diffinitionibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_217-part4-item2" n="2">
+                     <msItem xml:id="MS_Digby_217-part4-item2" n="2" key="work_438">
                         <author key="person_90634457">
                            
                            Alkindus
@@ -224,7 +221,7 @@
                         <title>De intellectu</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_217-part4-item3" n="3">
+                     <msItem xml:id="MS_Digby_217-part4-item3" n="3" key="work_413">
                         <author key="person_95239377">
                            
                            Alexander of Aphrodisias
@@ -233,7 +230,7 @@
                         <title>De intellectu et intellecto</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_217-part4-item4" n="4">
+                     <msItem xml:id="MS_Digby_217-part4-item4" n="4" key="work_430">
                         <author key="person_31996761">
                            
                            Algazel
@@ -246,7 +243,7 @@
                         <title type="desc">Treatise on logic</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_217-part4-item6" n="6">
+                     <msItem xml:id="MS_Digby_217-part4-item6" n="6" key="work_851">
                         <author key="person_19688718">
                            
                            Averroes
@@ -279,7 +276,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_217-part5-item1" n="1">
+                     <msItem xml:id="MS_Digby_217-part5-item1" n="1" key="work_861">
                         <author key="person_89770781">
                            
                            Avicenna
@@ -288,7 +285,7 @@
                         <title>Metaphysica</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_217-part5-item2" n="2">
+                     <msItem xml:id="MS_Digby_217-part5-item2" n="2" key="work_413">
                         <author key="person_95239377">
                            
                            Alexander of Aphrodisias
@@ -297,7 +294,7 @@
                         <title>De intellectu et intellecto</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_217-part5-item3" n="3">
+                     <msItem xml:id="MS_Digby_217-part5-item3" n="3" key="work_438">
                         <author key="person_90634457">
                            
                            Alkindus

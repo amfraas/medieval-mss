@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_321">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_321">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -91,9 +88,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_337-part1-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_337-part1-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Astrological treatise</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -122,14 +117,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_337-part2-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_337-part2-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Figures
               set on horary questions, 1564 - 1565.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_337-part2-item2" n="2">
+                     <msItem xml:id="MS_Ashmole_337-part2-item2" n="2" key="work_644">
                         <author key="person_7524651">
                            
                            Aristotle
@@ -164,9 +157,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_337-part3-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_337-part3-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Astrological treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -200,9 +191,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_337-part4-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_337-part4-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Astrological treatises</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
@@ -235,9 +224,7 @@
                         <title type="desc">Prophecies</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_337-part5-item2"
-                             n="2"
-                             class="#heraldica #pastoralia #devotiones">
+                     <msItem xml:id="MS_Ashmole_337-part5-item2" n="2" class="#heraldica #pastoralia #devotiones">
                         <title type="desc">Moral, religious and heraldic extracts</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

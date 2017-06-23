@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4145">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4145">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,35 +49,35 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_DOrville_3-item1" n="1">
+                  <msItem xml:id="MS_DOrville_3-item1" n="1" key="work_3385">
                      <author key="person_7440344">
                         Oribasius
                      </author>
                      <title>Synopsis ad Eustathium filium</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_3-item2" n="2">
+                  <msItem xml:id="MS_DOrville_3-item2" n="2" key="work_1618">
                      <author key="person_44299175">
                         Galen
                      </author>
                      <title>Linguarum seu dictionum exoletarum Hippocratis explicatio</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_3-item3" n="3">
+                  <msItem xml:id="MS_DOrville_3-item3" n="3" key="work_1477">
                      <author key="person_57423367">
                         Erotianus
                      </author>
                      <title>Vocum Hippocraticarum collectio</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_3-item4" n="4">
+                  <msItem xml:id="MS_DOrville_3-item4" n="4" key="work_1616">
                      <author key="person_44299175">
                         Galen
                      </author>
                      <title>Definitiones medicae</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_3-item5" n="5">
+                  <msItem xml:id="MS_DOrville_3-item5" n="5" key="work_1617">
                      <author key="person_44299175">
                         Galen
                      </author>

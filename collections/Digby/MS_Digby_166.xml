@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4284">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4284">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -120,7 +117,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_166-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_166-part2-item1" n="1" key="work_3618">
                         <author key="person_35249090">
                            
                            Petrus de Dacia
@@ -157,7 +154,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_166-part3-item1" n="1">
+                     <msItem xml:id="MS_Digby_166-part3-item1" n="1" key="work_2592">
                         <author key="person_84975906">
                            
                            Johannes de Sacro Bosco
@@ -171,7 +168,7 @@
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_166-part3-item3" n="3">
+                     <msItem xml:id="MS_Digby_166-part3-item3" n="3" key="work_1371">
                         <author key="person_55518848">
                            
                            'Dares Phrygius'
@@ -202,7 +199,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_166-part4-item1" n="1">
+                     <msItem xml:id="MS_Digby_166-part4-item1" n="1" key="work_3370">
                         <author key="person_106967420">
                            
                            Odoricus de Portu Naonis
@@ -238,7 +235,7 @@
                         <note>(with response)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_166-part5-item2" n="2">
+                     <msItem xml:id="MS_Digby_166-part5-item2" n="2" key="work_4964">
                         <author key="person_98031958">
                            
                            Walter Map
@@ -297,7 +294,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_166-part7-item1" n="1">
+                     <msItem xml:id="MS_Digby_166-part7-item1" n="1" key="work_2085">
                         <author key="person_100201145">
                            
                            Honorius Augustodunensis

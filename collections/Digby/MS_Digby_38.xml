@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4374">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4374">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -59,7 +56,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_38-item2" n="2">
+                  <msItem xml:id="MS_Digby_38-item2" n="2" key="work_3182">
                      <author key="person_37256856">
                         
                         Messahala
@@ -68,7 +65,7 @@
                      <title>Practica astrolabii</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_38-item3" n="3">
+                  <msItem xml:id="MS_Digby_38-item3" n="3" key="work_3853">
                      <author key="person_2581859">
                         
                         Ps.-Aristotle
@@ -77,7 +74,7 @@
                      <title>Liber iudiciorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_38-item4" n="4">
+                  <msItem xml:id="MS_Digby_38-item4" n="4" key="work_2852">
                      <author key="person_85061277">
                         
                         John of Seville
@@ -86,7 +83,7 @@
                      <title>Epitome totius astrologiae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_38-item5" n="5">
+                  <msItem xml:id="MS_Digby_38-item5" n="5" key="work_4457">
                      <author key="person_39784406">
                         
                         Roger of Hereford

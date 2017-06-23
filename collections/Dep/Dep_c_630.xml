@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4212">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4212">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -65,7 +62,7 @@
                      <note>The entry for each gospel ends as above ‘factum est … ’, giving its date and the year of Christ's age. Fols. 8–9v blank.</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="Dep_c_630-item3" n="2">
+                  <msItem xml:id="Dep_c_630-item3" n="2" key="work_2492">
                      <locus>(fols. 10-314)</locus>
                      <author key="person_66575485">Johannes Herolt</author>
                      <title>Sermones Discipuli</title>

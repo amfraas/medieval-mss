@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_94">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_94">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,14 +76,14 @@
               Asenath</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MSS_Add_C_108-10-item3" n="3">
+                  <msItem xml:id="MSS_Add_C_108-10-item3" n="3" key="work_4304">
                      <author key="person_32352662">
                         Richard de Bury
                      </author>
                      <title>Philobiblon</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MSS_Add_C_108-10-item4" n="4">
+                  <msItem xml:id="MSS_Add_C_108-10-item4" n="4" key="work_2370">
                      <author key="person_100160310">
                         Jean
               Gerson
@@ -94,23 +91,21 @@
                      <title>De laude scriptorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MSS_Add_C_108-10-item5" n="5">
+                  <msItem xml:id="MSS_Add_C_108-10-item5" n="5" key="work_4004">
                      <author key="person_976">
                         Ps.-Eusebius of Cremona
                      </author>
                      <title>Epistola de transitu beati Hieronymi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MSS_Add_C_108-10-item6" n="6">
+                  <msItem xml:id="MSS_Add_C_108-10-item6" n="6" key="work_2601">
                      <author key="person_9948377">
                         Johannes de Torquemada
                      </author>
                      <title>Flores sententiarum Thome de Aquino</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MSS_Add_C_108-10-item7"
-                          n="7"
-                          class="#commentarii #ecclesiastica">
+                  <msItem xml:id="MSS_Add_C_108-10-item7" n="7" class="#commentarii #ecclesiastica">
                      <title type="desc">Commentary on
               the <hi rend="italic">Stella clericorum</hi>
                      </title>

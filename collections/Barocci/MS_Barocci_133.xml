@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_959">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_959">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -156,7 +153,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_133-part2-item1" n="1">
+                     <msItem xml:id="MS_Barocci_133-part2-item1" n="1" key="work_2211">
                         
                         <locus>(fols. 2r–7v)</locus> 
                         <author key="person_69286417">
@@ -184,7 +181,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part2-item3" n="3">
+                     <msItem xml:id="MS_Barocci_133-part2-item3" n="3" key="work_3719">
                         
                         <locus>(fols. 8r–9v)</locus>   
                         <author key="person_268955446">Plutarchus</author> 
@@ -233,7 +230,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_133-part3-item1" n="1">
+                     <msItem xml:id="MS_Barocci_133-part3-item1" n="1" key="work_640">
                         
                         <locus>(fols. 10r–20v)</locus> 
                         <author key="person_7524651">
@@ -293,7 +290,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_133-part4-item1" n="">
+                     <msItem xml:id="MS_Barocci_133-part4-item1" n="" key="work_3241">
                         <locus>(fols. 21r–24v)</locus> 
                         <author key="person_32134390">Nicephorus Blemmydes</author> 
                         <title>περὶ ψυχῆϲ</title>
@@ -384,7 +381,7 @@
                         <textLang xml:lang="grc">Greek</textLang>
             
         
-                        <msItem xml:id="MS_Barocci_133-part6-item1-item1" n="Fa">
+                        <msItem xml:id="MS_Barocci_133-part6-item1-item1" n="Fa" key="work_68 work_3240">
                         
                            <locus>(fols. 26r–63v)</locus>
                            <author key="person_32134390"/> 
@@ -399,7 +396,7 @@
                         </msItem>
             
         
-                        <msItem xml:id="MS_Barocci_133-part6-item1-item2" n="Fb">
+                        <msItem xml:id="MS_Barocci_133-part6-item1-item2" n="Fb" key="work_69">
                         
                            <locus>(fols. 63v–96v, 112v, 97r–111v)</locus>
                            <author key="person_32134390"/> 
@@ -460,7 +457,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_133-part7-item1" n="">
+                     <msItem xml:id="MS_Barocci_133-part7-item1" n="" key="work_3581">
                         <locus>(fols. 113r–157v)</locus> 
                         <author key="person_190857974">Petrus Damascenus</author> 
                         <title>sympoticon</title> 
@@ -512,7 +509,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_133-part8-item1" n="1">
+                     <msItem xml:id="MS_Barocci_133-part8-item1" n="1" key="work_1811">
                         
                         <locus>(fols. 158r–161v)</locus> 
                         <author key="person_108675755">Gregorius
@@ -544,7 +541,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item2" n="2">
+                     <msItem xml:id="MS_Barocci_133-part8-item2" n="2" key="work_2283">
                         
                         <locus>(fol. 161v)</locus>  
                         <author key="person_57406701" cert="low">Iulianus
@@ -582,7 +579,7 @@
                         <textLang xml:lang="grc">Greek</textLang>
             
         
-                        <msItem xml:id="MS_Barocci_133-part8-item4-item1" n="4a">
+                        <msItem xml:id="MS_Barocci_133-part8-item4-item1" n="4a" key="work_14 work_5142">
                         
                             <locus>(fols. 162r–166v)</locus>
                            <author key="person_106970843"/>
@@ -593,7 +590,7 @@
                         </msItem>
             
         
-                        <msItem xml:id="MS_Barocci_133-part8-item4-item2" n="4b">
+                        <msItem xml:id="MS_Barocci_133-part8-item4-item2" n="4b" key="work_75">
                         
                             <locus>(fols. 166v–173v) (τοῦ αὐτοῦ MS. title)</locus>
                            <author key="person_106970843"/>
@@ -604,7 +601,7 @@
                         </msItem>
                      </msItem>
         
-                     <msItem xml:id="MS_Barocci_133-part8-item5" n="5">
+                     <msItem xml:id="MS_Barocci_133-part8-item5" n="5" key="work_1388">
                         
                         <locus>(fol. 174r)</locus> 
                         <author key="person_32806504">
@@ -620,7 +617,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item6" n="6">
+                     <msItem xml:id="MS_Barocci_133-part8-item6" n="6" key="work_3085">
                         
                         <locus>(fols. 174r–175v)</locus> 
                         <author key="person_164379448">Marcus
@@ -634,7 +631,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item7" n="7">
+                     <msItem xml:id="MS_Barocci_133-part8-item7" n="7" key="work_1330">
                         
                         <locus>(fols. 175v–176r)</locus> 
                         <author key="person_54503260">Constantinus
@@ -647,7 +644,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item8" n="8">
+                     <msItem xml:id="MS_Barocci_133-part8-item8" n="8" key="work_2936">
                         
                         <locus>(fols. 176r–177r)</locus> 
                         <author key="person_9873664">Leo
@@ -659,7 +656,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item9" n="9">
+                     <msItem xml:id="MS_Barocci_133-part8-item9" n="9" key="work_4634">
                         
                         <locus>(fol. 177rv)</locus> 
                         <author key="person_273004808">Symeon
@@ -670,7 +667,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item10" n="10">
+                     <msItem xml:id="MS_Barocci_133-part8-item10" n="10" key="work_1810">
                         
                         <locus>(fols. 177v–178v)</locus> 
                         <author key="person_108675755">Gregorius
@@ -723,7 +720,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item14" n="14">
+                     <msItem xml:id="MS_Barocci_133-part8-item14" n="14" key="work_2207">
                         
                         <locus>(fols. 211r–212r)</locus> 
                         <author key="person_297475745">Ioannes
@@ -747,7 +744,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item16" n="16">
+                     <msItem xml:id="MS_Barocci_133-part8-item16" n="16" key="work_727">
                         <locus>(fols. 212v–213v)</locus>  
                         <author key="person_105155222">Athanasius patr. Alexandrinus</author> 
                         <title>Encyclical, dated AD
@@ -768,7 +765,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item18" n="18">
+                     <msItem xml:id="MS_Barocci_133-part8-item18" n="18" key="work_2979">
                         
                         <locus>(fols. 219r–220r)</locus> 
                         <author key="person_17225859">Libanius</author>
@@ -808,7 +805,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item21" n="21">
+                     <msItem xml:id="MS_Barocci_133-part8-item21" n="21" key="work_4089">
                         
                         <locus>(fols. 222v–226r)</locus>  
                         <author key="person_99955409">Ps.-Phalaris</author> 
@@ -819,7 +816,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item22" n="22">
+                     <msItem xml:id="MS_Barocci_133-part8-item22" n="22" key="work_4142">
                         
                         <locus>(fols. 226r–227v)</locus> 
                         <author key="person_21483448">Pseudo-Brutus</author>

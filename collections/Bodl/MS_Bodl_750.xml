@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1737">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1737">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_750-item1" n="1">
+                  <msItem xml:id="MS_Bodl_750-item1" n="1" key="work_2131">
                      <author key="person_9865788">
                         
                         Hugh of Saint-Victor
@@ -61,7 +58,7 @@
                      <title>De archa Noe</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_750-item2" n="2">
+                  <msItem xml:id="MS_Bodl_750-item2" n="2" key="work_3952">
                      <author key="person_306415749">
                         
                         Ps.-Bernard
@@ -86,7 +83,7 @@
                      </title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_750-item6" n="6">
+                  <msItem xml:id="MS_Bodl_750-item6" n="6" key="work_3954">
                      <author key="person_306415749">
                         
                         Ps.-Bernard

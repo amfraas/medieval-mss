@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1382">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1382">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_345-item1" n="1">
+                  <msItem xml:id="MS_Bodl_345-item1" n="1" key="work_2134">
                      <author key="person_9865788">
                         
                         Hugh of St. Victor
@@ -61,7 +58,7 @@
                      <title>Homilies on Ecclesiastes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_345-item2" n="2">
+                  <msItem xml:id="MS_Bodl_345-item2" n="2" key="work_2128">
                      <author key="person_9865788">
                         
                         Hugh of St. Victor
@@ -70,7 +67,7 @@
                      <title>Adnotationes elucidatoriae in Threnos</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_345-item3" n="3">
+                  <msItem xml:id="MS_Bodl_345-item3" n="3" key="work_2130">
                      <author key="person_9865788">
                         
                         Hugh of St. Victor
@@ -79,7 +76,7 @@
                      <title>Commentary on Ps.-Dionysius, Hierarchia caelestis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_345-item4" n="4">
+                  <msItem xml:id="MS_Bodl_345-item4" n="4" key="work_2131">
                      <author key="person_9865788">
                         
                         Hugh of St. Victor

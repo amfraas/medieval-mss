@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1635">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1635">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_630-item1" n="1">
+                  <msItem xml:id="MS_Bodl_630-item1" n="1" key="work_824">
                      <author key="person_66806872">
                         
                         Augustine
@@ -61,7 +58,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item2" n="2">
+                  <msItem xml:id="MS_Bodl_630-item2" n="2" key="work_4317">
                      <author key="person_98148813">
                         
                         Richard of Saint-Victor
@@ -71,7 +68,7 @@
                      <note>(here attrib. Peter Comestor)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item3" n="3">
+                  <msItem xml:id="MS_Bodl_630-item3" n="3" key="work_4004">
                      <author key="person_976">
                         
                         Ps.-Eusebius
@@ -81,7 +78,7 @@
                      <note>(extract)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item4" n="4">
+                  <msItem xml:id="MS_Bodl_630-item4" n="4" key="work_3888">
                      <author key="person_7386286">
                         
                         Ps.-Augustine
@@ -90,7 +87,7 @@
                      <title>Epistula de transitu S. Hieronymi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item5" n="5">
+                  <msItem xml:id="MS_Bodl_630-item5" n="5" key="work_3985">
                      <author key="person_36598625">
                         
                         Ps.-Cyril of Jerusalem
@@ -99,7 +96,7 @@
                      <title>Epistula de transitu S. Hieronymi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item6" n="6">
+                  <msItem xml:id="MS_Bodl_630-item6" n="6" key="work_3954">
                      <author key="person_306415749">
                         
                         Ps.-Bernard of Clairvaux
@@ -108,7 +105,7 @@
                      <title>Planctus Mariae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item7" n="7">
+                  <msItem xml:id="MS_Bodl_630-item7" n="7" key="work_4075">
                      <author key="person_2179">
                         
                         Ps.-Origen
@@ -117,7 +114,7 @@
                      <title>Homily on Maria stabat</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item8" n="8">
+                  <msItem xml:id="MS_Bodl_630-item8" n="8" key="work_4023">
                      <author key="person_2169">
                         
                         Ps.-Hrabanus Maurus
@@ -126,7 +123,7 @@
                      <title>Vita SS. Mariae Magdalenae et Marthae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item9" n="9">
+                  <msItem xml:id="MS_Bodl_630-item9" n="9" key="work_3952">
                      <author key="person_306415749">
                         
                         Ps.-Bernard
@@ -135,7 +132,7 @@
                      <title>Meditationes piissimae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item10" n="10">
+                  <msItem xml:id="MS_Bodl_630-item10" n="10" key="work_3831">
                      <author key="person_2290">
                         
                         Ps.-Ambrose
@@ -144,7 +141,7 @@
                      <title>Libellus de dignitate sacerdotali</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item11" n="11">
+                  <msItem xml:id="MS_Bodl_630-item11" n="11" key="work_455">
                      <author key="person_100227669">
                         
                         Ambrose
@@ -153,7 +150,7 @@
                      <title>De bono mortis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item12" n="12">
+                  <msItem xml:id="MS_Bodl_630-item12" n="12" key="work_5007">
                      <author key="person_28731111">
                         
                         William Flete
@@ -162,7 +159,7 @@
                      <title>De remediis contra temptationes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item13" n="13">
+                  <msItem xml:id="MS_Bodl_630-item13" n="13" key="work_3924">
                      <author key="person_209749583">
                         
                         Ps.-Bede
@@ -171,7 +168,7 @@
                      <title>Scutum Bedae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item14" n="14">
+                  <msItem xml:id="MS_Bodl_630-item14" n="14" key="work_3837">
                      <author key="person_280344084">
                         
                         Ps.-Anselm
@@ -184,7 +181,7 @@
                      <title type="desc">Treatise on preaching</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item16" n="16">
+                  <msItem xml:id="MS_Bodl_630-item16" n="16" key="work_535">
                      <author key="person_100187025">
                         
                         Anselm

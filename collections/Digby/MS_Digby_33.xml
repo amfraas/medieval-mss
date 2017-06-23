@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4369">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4369">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,7 +76,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_33-part1-item1" n="1">
+                     <msItem xml:id="MS_Digby_33-part1-item1" n="1" key="work_4846">
                         <author key="person_3773493">
                            
                            Thomas of Ireland
@@ -88,7 +85,7 @@
                         <title>De triplici ierarchia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_33-part1-item2" n="2">
+                     <msItem xml:id="MS_Digby_33-part1-item2" n="2" key="work_4845">
                         <author key="person_3773493">
                            
                            Thomas of Ireland
@@ -97,7 +94,7 @@
                         <title>De tribus sensibus sacrae scripturae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_33-part1-item3" n="3">
+                     <msItem xml:id="MS_Digby_33-part1-item3" n="3" key="work_4957">
                         <author key="person_2597190">
                            
                            Walter Hilton
@@ -128,7 +125,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_33-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_33-part2-item1" n="1" key="work_1027">
                         <author key="person_59875293">
                            
                            Bernard of Clairvaux
@@ -137,7 +134,7 @@
                         <title>De gratia et libero arbitrio</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_33-part2-item2" n="2">
+                     <msItem xml:id="MS_Digby_33-part2-item2" n="2" key="work_1030">
                         <author key="person_59875293">
                            
                            Bernard of Clairvaux
@@ -185,7 +182,7 @@
                         </bibl>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_33-part3-item3" n="3">
+                     <msItem xml:id="MS_Digby_33-part3-item3" n="3" key="work_4992">
                         <author key="person_41951136">
                            
                            Guillaume Perault
@@ -242,7 +239,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_33-part5-item1" n="1">
+                     <msItem xml:id="MS_Digby_33-part5-item1" n="1" key="work_3937">
                         <author key="person_306415749">
                            
                            Ps.-Bernard
@@ -273,7 +270,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_33-part6-item1" n="1">
+                     <msItem xml:id="MS_Digby_33-part6-item1" n="1" key="work_538">
                         <author key="person_100187025">
                            
                            Anselm

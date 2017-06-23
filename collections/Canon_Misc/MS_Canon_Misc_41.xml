@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3441">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3441">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -56,7 +53,7 @@
                      <title type="desc">Grammatical treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_41-item2" n="2">
+                  <msItem xml:id="MS_Canon_Misc_41-item2" n="2" key="work_1895">
                      <author key="person_78782481">
                         
                         Guarinus Veronensis
@@ -65,13 +62,11 @@
                      <title>Regulae grammaticae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_41-item3"
-                          n="3"
-                          class="#grammatica #miscellanea">
+                  <msItem xml:id="MS_Canon_Misc_41-item3" n="3" class="#grammatica #miscellanea">
                      <title type="desc">Glossary</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_41-item4" n="4">
+                  <msItem xml:id="MS_Canon_Misc_41-item4" n="4" key="work_4921">
                      <author key="person_8194433">
                         
                         Virgil
@@ -85,7 +80,7 @@
                      <title type="desc">Grammatical treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_41-item6" n="6">
+                  <msItem xml:id="MS_Canon_Misc_41-item6" n="6" key="work_4133">
                      <author key="person_301124571">
                         
                         Ps.-Virgil

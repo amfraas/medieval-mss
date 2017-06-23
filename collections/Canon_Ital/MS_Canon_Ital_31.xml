@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2740">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2740">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_31-item1" n="1">
+                  <msItem xml:id="MS_Canon_Ital_31-item1" n="1" key="work_1164">
                      <author key="person_19680057">Brunetto Latini</author>
                      <title>Tresor</title>
                      <note>(partial Italian translation by <persName role="translator" key="person_22211055">Bono Giamboni</persName>)</note>
@@ -63,14 +60,12 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_31-item3"
-                          n="3"
-                          class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Canon_Ital_31-item3" n="3" class="#astrologia_astronomia">
 						               <title type="desc">Astronomical treatise</title>
                      
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_31-item4" n="4">
+                  <msItem xml:id="MS_Canon_Ital_31-item4" n="4" key="work_3855">
                      <author key="person_2581859">Ps.-Aristotle</author>
                      <title>Physiognomia</title>
                      <note>(Italian translation)</note>

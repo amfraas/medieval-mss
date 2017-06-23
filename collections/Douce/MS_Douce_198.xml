@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4562">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4562">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_198-item1" n="1">
+                  <msItem xml:id="MS_Douce_198-item1" n="1" key="work_748">
                      <author key="person_66806872">
                         
                         Augustine
@@ -62,7 +59,7 @@
                      <note>(fragment)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_198-item2" n="2">
+                  <msItem xml:id="MS_Douce_198-item2" n="2" key="work_729">
                      <author key="person_66806872">
                         
                         Augustine
@@ -71,7 +68,7 @@
                      <title>Collatio cum Maximino</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_198-item3" n="3">
+                  <msItem xml:id="MS_Douce_198-item3" n="3" key="work_744">
                      <author key="person_66806872">
                         
                         Augustine
@@ -80,7 +77,7 @@
                      <title>Contra Maximinum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_198-item4" n="4">
+                  <msItem xml:id="MS_Douce_198-item4" n="4" key="work_3871">
                      <author key="person_7386286">
                         
                         Ps.-Augustine
@@ -89,7 +86,7 @@
                      <title>Altercatio cum Pascentio ariano</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_198-item5" n="5">
+                  <msItem xml:id="MS_Douce_198-item5" n="5" key="work_2257">
                      <author key="person_803890">
                         
                         Isidore

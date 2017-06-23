@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_82">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_82">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,28 +49,28 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_B_119-item1" n="1">
+                  <msItem xml:id="MS_Add_B_119-item1" n="1" key="work_4490">
                      <author key="person_18636329">
                         Sedulius
                      </author>
                      <title>Carmen paschale</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_B_119-item2" n="2">
+                  <msItem xml:id="MS_Add_B_119-item2" n="2" key="work_4491">
                      <author key="person_18636329">
                         Sedulius
                      </author>
                      <title>Epistola ad Macedonium</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_B_119-item3" n="3">
+                  <msItem xml:id="MS_Add_B_119-item3" n="3" key="work_4492">
                      <author key="person_18636329">
                         Sedulius
                      </author>
                      <title>Hymn 'Cantemus Domino'</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_B_119-item4" n="4">
+                  <msItem xml:id="MS_Add_B_119-item4" n="4" key="work_760">
                      <author key="person_66806872">
                         Augustine
                      </author>

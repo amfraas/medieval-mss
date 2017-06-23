@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_945">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_945">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,7 +78,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_120-item1-item3" n="1c">
+                     <msItem xml:id="MS_Barocci_120-item1-item3" n="1c" key="work_1488">
                         
                         <locus>(fols. 2r–31r)</locus> 
                         <author key="person_265326651"/>
@@ -98,7 +95,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_120-item1-item5" n="1e">
+                     <msItem xml:id="MS_Barocci_120-item1-item5" n="1e" key="work_1491">
                         
                         <locus>(fols. 32r–68v)</locus> 
                         <author key="person_265326651"/>
@@ -115,7 +112,7 @@
                      </msItem>
                      
                      
-                     <msItem xml:id="MS_Barocci_120-item1-item7" n="1g">
+                     <msItem xml:id="MS_Barocci_120-item1-item7" n="1g" key="work_1492">
                         
                         <locus>(fols. 70r–109v)</locus> 
                         <author key="person_265326651"/>

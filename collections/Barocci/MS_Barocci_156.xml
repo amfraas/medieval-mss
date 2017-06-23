@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_984">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_984">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -55,7 +52,7 @@
                   <hi rend="smallcaps">Makarios Khrysokephalos</hi>
                   AD 1344, 22 December</head>
                <msContents>
-                  <msItem xml:id="MS_Barocci_156-item1" n="1">
+                  <msItem xml:id="MS_Barocci_156-item1" n="1" key="work_3049">
                      <locus>(fols. 3r–362r)</locus> 
                      <author key="person_8773643">Makarios Khrysokephalos (metropolitan
                         of Philadelphia)</author> 

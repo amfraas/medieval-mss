@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1393">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1393">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_360-item1" n="1">
+                  <msItem xml:id="MS_Bodl_360-item1" n="1" key="work_359">
                      <author key="person_56636061">
                         
                         Albucasis
@@ -63,7 +60,7 @@
                      </note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_360-item2" n="2">
+                  <msItem xml:id="MS_Bodl_360-item2" n="2" key="work_1620">
                      <author key="person_44299175">
                         
                         Galen
@@ -74,7 +71,7 @@
                      </note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_360-item3" n="3">
+                  <msItem xml:id="MS_Bodl_360-item3" n="3" key="work_4509">
                      <author key="person_32177434">
                         
                         Serapion the Elder

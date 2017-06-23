@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4399">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4399">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,7 +76,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_61-part1-item1" n="1">
+                     <msItem xml:id="MS_Digby_61-part1-item1" n="1" key="work_4063">
                         <author key="person_2302">
                            
                            Ps.-Jordanus de Nemore
@@ -88,7 +85,7 @@
                         <title>Algorismus de integris</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_61-part1-item2" n="2">
+                     <msItem xml:id="MS_Digby_61-part1-item2" n="2" key="work_4064">
                         <author key="person_2302">
                            
                            Ps.-Jordanus de Nemore
@@ -119,7 +116,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_61-part2-item1" n="1">
+                     <msItem xml:id="MS_Digby_61-part2-item1" n="1" key="work_4529">
                         <author key="person_89203537">
                            
                            Sidonius Apollinaris
@@ -128,7 +125,7 @@
                         <title>Epistolae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_61-part2-item2" n="2">
+                     <msItem xml:id="MS_Digby_61-part2-item2" n="2" key="work_4651">
                         <author key="person_98247027">
                            
                            Symmachus
@@ -138,7 +135,7 @@
                         <note>(selection, part)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_61-part2-item3" n="3">
+                     <msItem xml:id="MS_Digby_61-part2-item3" n="3" key="work_4528">
                         <author key="person_89203537">
                            
                            Sidonius Apollinaris
@@ -172,7 +169,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_61-part3-item1" n="1">
+                     <msItem xml:id="MS_Digby_61-part3-item1" n="1" key="work_1583">
                         <author key="person_215353956">
                            
                            Fulgentius Mythographus

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3811">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3811">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Pat_Lat_229-part1-item1" n="1">
+                     <msItem xml:id="MS_Canon_Pat_Lat_229-part1-item1" n="1" key="work_4777">
                         <author key="person_264344179">
                            
                            Thomas Aquinas
@@ -106,9 +103,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Pat_Lat_229-part2-item1"
-                             n="1"
-                             class="#liturgica #musica">
+                     <msItem xml:id="MS_Canon_Pat_Lat_229-part2-item1" n="1" class="#liturgica #musica">
                         <title type="desc">Hymns with music</title>
                         <note>(fragments; other fragments from the same book are in Padua Univ., MSS. 684, 1475)</note>
                         <textLang mainLang="la" otherLangs="it">Latin and Italian</textLang>
@@ -139,7 +134,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Pat_Lat_229-part3-item1" n="1">
+                     <msItem xml:id="MS_Canon_Pat_Lat_229-part3-item1" n="1" key="work_485">
                         <author key="person_100227669">
                            
                            Ambrose

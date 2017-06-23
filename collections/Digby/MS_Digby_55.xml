@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4393">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4393">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -69,7 +66,7 @@
                         </author>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Digby_55-item2" n="2">
+                  <msItem xml:id="MS_Digby_55-item2" n="2" key="work_853">
                      <author key="person_19688718">
                         
                         Averroes
@@ -78,7 +75,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_55-item3" n="3">
+                  <msItem xml:id="MS_Digby_55-item3" n="3" key="work_4124">
                      <author key="person_294784551">
                         
                         Ps.-Seneca
@@ -92,7 +89,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_55-item5" n="5">
+                  <msItem xml:id="MS_Digby_55-item5" n="5" key="work_332">
                      <author key="person_88125532">
                         
                         Albertus Magnus
@@ -101,7 +98,7 @@
                      <title>De intellectu et intelligibili</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_55-item6" n="6">
+                  <msItem xml:id="MS_Digby_55-item6" n="6" key="work_338">
                      <author key="person_88125532">
                         
                         Albertus Magnus
@@ -110,7 +107,7 @@
                      <title>De nutrimento et nutribili</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_55-item7" n="7">
+                  <msItem xml:id="MS_Digby_55-item7" n="7" key="work_4766">
                      <author key="person_264344179">
                         
                         Thomas Aquinas
@@ -119,7 +116,7 @@
                      <title>De ente et essentia</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_55-item8" n="8">
+                  <msItem xml:id="MS_Digby_55-item8" n="8" key="work_5027">
                      <author key="person_32100974">
                         
                         William Shirwood
@@ -128,7 +125,7 @@
                      <title>Syncategoremata</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_55-item9" n="9">
+                  <msItem xml:id="MS_Digby_55-item9" n="9" key="work_4428">
                      <author key="person_120688673">
                         
                         Roger Bacon
@@ -137,7 +134,7 @@
                      <title>De signis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_55-item10" n="10">
+                  <msItem xml:id="MS_Digby_55-item10" n="10" key="work_4767">
                      <author key="person_264344179">
                         
                         Thomas Aquinas

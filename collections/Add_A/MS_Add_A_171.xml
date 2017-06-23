@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_26">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_26">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,14 +49,14 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_A_171-item1" n="1">
+                  <msItem xml:id="MS_Add_A_171-item1" n="1" key="work_280">
                      <author key="person_64013451">
                         Aesop
                      </author>
                      <title>Fables</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_A_171-item2" n="2">
+                  <msItem xml:id="MS_Add_A_171-item2" n="2" key="work_3811">
                      <author key="person_100010336">
                         Prudentius
                      </author>
@@ -72,7 +69,7 @@
                         <citedRange unit="volume">184</citedRange>, <citedRange unit="column" from="1307" to="1314">1307-14</citedRange>)</bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>  
-                  <msItem xml:id="MS_Add_A_171-item4" n="4">
+                  <msItem xml:id="MS_Add_A_171-item4" n="4" key="work_4733">
                      <author key="person_56961813">
                         Theodulus
                      </author>

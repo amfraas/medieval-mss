@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2018">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2018">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -195,7 +192,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_37-part2-item1">
+                     <msItem xml:id="MS_Bywater_37-part2-item1" key="work_1525">
                         <locus>(fols. 32r-57r)</locus> 
                         <author key="person_71445653">
                            Felice Feliciano
@@ -271,7 +268,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_37-part3-item1">
+                     <msItem xml:id="MS_Bywater_37-part3-item1" key="work_1114">
                         <locus>(fols. 62r-115v)</locus> 
                         <author key="person_64002165">Boccaccio (?)</author>
                         <title>Urbano</title>
@@ -325,7 +322,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_37-part4-item1">
+                     <msItem xml:id="MS_Bywater_37-part4-item1" key="work_2983">
                         <locus>(fols. 119r-175r)</locus>
                         <author key="person_76619509">Livio Sanudo</author> 
                         <title>Account of visions seen at Venice, 1551-64</title>
@@ -382,7 +379,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_37-part5-item1">
+                     <msItem xml:id="MS_Bywater_37-part5-item1" key="work_1734">
                         <author key="person_198778233">Gian Carlo Persio</author>
                         <title>La nobilissima barriera della Canea</title>
                         <textLang mainLang="it">Italian</textLang>

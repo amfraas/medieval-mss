@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_922">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_922">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -92,7 +89,7 @@
                   </msIdentifier>
                   
                   <msContents>
-                     <msItem xml:id="MS_Barocci_10-part1-item1" n="1">
+                     <msItem xml:id="MS_Barocci_10-part1-item1" n="1" key="work_5155">
                         
                         <locus>(fols. 3r–25v)</locus> 
                         <author key="person_105155222">
@@ -106,7 +103,7 @@
                                  diverge considerably from the printed text.</note>
                         <textLang xml:lang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_10-part1-item2" n="2">
+                     <msItem xml:id="MS_Barocci_10-part1-item2" n="2" key="work_1651">
                         <locus>
                            (fols. 26r–64v)</locus> 
                         <author key="person_2420">Gennadius
@@ -164,7 +161,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_10-part2-item1" n="">
+                     <msItem xml:id="MS_Barocci_10-part2-item1" n="" key="work_2937">
                         <locus>(fols. 66r–69r)</locus> 
                         <author key="person_9873664">
                            <supplied>Leo Imperator</supplied>
@@ -218,7 +215,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_10-part3-item1" n="1">
+                     <msItem xml:id="MS_Barocci_10-part3-item1" n="1" key="work_5148">
                         
                         <locus>(fols. 70r–129v)</locus> 
                         <author key="person_71504671">
@@ -230,7 +227,7 @@
                            μνημονεύομεν – 793.</note>
                         <textLang xml:lang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_10-part3-item2" n="2">
+                     <msItem xml:id="MS_Barocci_10-part3-item2" n="2" key="work_5149">
                         
                         <locus>(fols. 130r–137r)</locus> 
                         <author key="person_287984736"> 
@@ -244,7 +241,7 @@
                               422–8; this MS. has a longer and divergent text.</note>
                         <textLang xml:lang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_10-part3-item3" n="3">
+                     <msItem xml:id="MS_Barocci_10-part3-item3" n="3" key="work_937">
                         
                         <locus>(fols. 137r–148r)</locus> 
                         <author key="person_14838284">Basilius
@@ -257,7 +254,7 @@
                                  8 ἀλλ’ ἐκ φύϲεωϲ.</note>
                         <textLang xml:lang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_10-part3-item4" n="4">
+                     <msItem xml:id="MS_Barocci_10-part3-item4" n="4" key="work_2209">
                         
                         <locus>(fols. 148r–149v)</locus> 
                         <author key="person_44435485">Ioannes
@@ -346,7 +343,7 @@
                            occasional items of different character).</note>
                         <textLang xml:lang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_10-part4-item4" n="4">
+                     <msItem xml:id="MS_Barocci_10-part4-item4" n="4" key="work_5155">
                         <locus>(fols. 233r–236v)</locus> 
                         <author key="person_105155222"> 
                            <supplied>‡ Athanasius ep. Alexandrinus</supplied>

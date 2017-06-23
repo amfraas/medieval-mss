@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4313">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4313">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -58,7 +55,7 @@
                      <title>Theorica planetarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_193-item2" n="2">
+                  <msItem xml:id="MS_Digby_193-item2" n="2" key="work_711">
                      <author key="person_98323479">
                         
                         Arzachel
@@ -68,7 +65,7 @@
                      <note>(part)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_193-item3" n="3">
+                  <msItem xml:id="MS_Digby_193-item3" n="3" key="work_3599">
                      <author key="person_33343877">
                         
                         Petrus Peregrinus de Maricourt
@@ -77,7 +74,7 @@
                      <title>Epistola de magnete</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_193-item4" n="4">
+                  <msItem xml:id="MS_Digby_193-item4" n="4" key="work_2592">
                      <author key="person_84975906">
                         
                         Johannes de Sacro Bosco
@@ -96,7 +93,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_193-item7" n="7">
+                  <msItem xml:id="MS_Digby_193-item7" n="7" key="work_4069">
                      <author key="person_2178"><!-- not found -->
                         
                         Ps.-Marbod of Rennes
@@ -105,7 +102,7 @@
                      <title>De sculpturis gemmarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_193-item8" n="8">
+                  <msItem xml:id="MS_Digby_193-item8" n="8" key="work_205">
                      <author key="person_2017"><!-- not found -->
                         
                         'Thetel'
@@ -114,7 +111,7 @@
                      <title>De lapidibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_193-item9" n="9">
+                  <msItem xml:id="MS_Digby_193-item9" n="9" key="work_2590">
                      <author key="person_84975906">
                         
                         Johannes de Sacro Bosco

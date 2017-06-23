@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_84">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_84">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -57,9 +54,7 @@
                         Manual of astrology</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_B_17-item2"
-                          n="2"
-                          class="#astrologia_astronomia #tabulae">
+                  <msItem xml:id="MS_Add_B_17-item2" n="2" class="#astrologia_astronomia #tabulae">
                      <title type="desc">Tables and notes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

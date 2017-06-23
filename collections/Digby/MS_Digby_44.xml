@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4381">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4381">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -68,7 +65,7 @@
                         <title>Physics</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Digby_44-item2" n="2">
+                  <msItem xml:id="MS_Digby_44-item2" n="2" key="work_2222">
                      <author key="person_120697851">
                         
                         John Duns Scotus (?)

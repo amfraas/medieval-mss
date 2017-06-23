@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1109">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1109">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -57,7 +54,7 @@
                 including:</title>
                      <textLang mainLang="grc">Greek</textLang>
                   
-                     <msItem xml:id="MS_Barocci_50-item1-item1" n="2">
+                     <msItem xml:id="MS_Barocci_50-item1-item1" n="2" key="work_3224">
                      
                         <author key="person_15581813">
                            Musaeus
@@ -68,7 +65,7 @@
                      
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_50-item1-item2" n="3">
+                     <msItem xml:id="MS_Barocci_50-item1-item2" n="3" key="work_4021">
                      
                         <author key="person_169155734">
                            

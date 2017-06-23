@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1751">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1751">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_765-item1" n="1">
+                  <msItem xml:id="MS_Bodl_765-item1" n="1" key="work_805">
                      <author key="person_66806872">
                         
                         Augustine
@@ -62,7 +59,7 @@
                      <note>('De poenitentiae medicina')</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_765-item2" n="2">
+                  <msItem xml:id="MS_Bodl_765-item2" n="2" key="work_770">
                      <author key="person_66806872">
                         
                         Augustine
@@ -71,7 +68,7 @@
                      <title>De mendacio</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_765-item3" n="3">
+                  <msItem xml:id="MS_Bodl_765-item3" n="3" key="work_745">
                      <author key="person_66806872">
                         
                         Augustine
@@ -80,7 +77,7 @@
                      <title>Contra mendacium</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_765-item4" n="4">
+                  <msItem xml:id="MS_Bodl_765-item4" n="4" key="work_758">
                      <author key="person_66806872">
                         
                         Augustine
@@ -89,7 +86,7 @@
                      <title>De cura pro mortuis gerenda</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_765-item5" n="5">
+                  <msItem xml:id="MS_Bodl_765-item5" n="5" key="work_1342">
                      <author key="person_100179090">
                         
                         Cyprian
@@ -98,7 +95,7 @@
                      <title>De dominica oratione</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_765-item6" n="6">
+                  <msItem xml:id="MS_Bodl_765-item6" n="6" key="work_475">
                      <author key="person_100227669">
                         
                         Ambrose

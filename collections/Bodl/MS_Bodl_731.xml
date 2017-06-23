@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1721">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1721">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -56,7 +53,7 @@
                      <title type="desc">Calendar, Use of Sarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_731-item2" n="2">
+                  <msItem xml:id="MS_Bodl_731-item2" n="2" key="work_4890">
                      <author key="person_264282437">
                         
                         Usuardus
@@ -65,7 +62,7 @@
                      <title>Martyrologium</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_731-item3" n="3">
+                  <msItem xml:id="MS_Bodl_731-item3" n="3" key="work_3996">
                      <author key="person_2294">
                         
                         Ps.-Edward the Confessor
@@ -74,7 +71,7 @@
                      <title>Speculum sacerdotis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_731-item4" n="4">
+                  <msItem xml:id="MS_Bodl_731-item4" n="4" key="work_3609">
                      <author key="person_36947428">
                         
                         Petrus de Alliaco

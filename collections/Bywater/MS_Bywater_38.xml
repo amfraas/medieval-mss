@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2019">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2019">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -146,7 +143,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part1-item1">
+                     <msItem xml:id="MS_Bywater_38-part1-item1" key="work_3716">
                         <locus>(fols. 2r-27av) </locus>
 				                    <author key="person_268955446">
                            
@@ -183,7 +180,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part2-item1">
+                     <msItem xml:id="MS_Bywater_38-part2-item1" key="work_3715">
                         <locus>(fol. 27br-55v) </locus>
 				                    <author key="person_268955446">
                            
@@ -224,7 +221,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part3-item1">
+                     <msItem xml:id="MS_Bywater_38-part3-item1" key="work_3706">
                         <locus>(fol. 63r-64v)</locus> 
 				                    <author key="person_268955446">
                            
@@ -242,7 +239,7 @@
 				same hand as the first text; fols. 65r-67ar are blank.</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bywater_38-part3-item2">
+                     <msItem xml:id="MS_Bywater_38-part3-item2" key="work_1889">
                         <locus>(fol. 67bv)</locus>
 				   
 				                    <author key="person_78782481">
@@ -277,7 +274,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part4-item1">
+                     <msItem xml:id="MS_Bywater_38-part4-item1" key="work_3736">
                         <locus>(fol. 68r-v)</locus> 
                         <author key="person_19722038">Poggio Bracciolini</author> 
                         <title>Letter to <persName role="addressee" key="person_10646727">Francesco Barbaro</persName>
@@ -286,7 +283,7 @@
 				  Tonelli, <title>Vita di Poggio</title> 1, 197).</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bywater_38-part4-item2">
+                     <msItem xml:id="MS_Bywater_38-part4-item2" key="work_3114">
 				                    <locus>(fols. 68v-74r)</locus>
                         <author key="person_2345"><!-- not found -->
                            Martino Rizzoni
@@ -301,7 +298,7 @@
 					 Veronensis.</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bywater_38-part4-item3">
+                     <msItem xml:id="MS_Bywater_38-part4-item3" key="work_4872">
                         <locus>(fols. 74r-83v)</locus> 
                         <author key="person_298933204">Tobias Veronensis</author>
                         <title>Oratio ad Franciscum Barbarum</title>
@@ -312,7 +309,7 @@
 					 <title>Francesco Barbaro</title> (Berlin: 1932), 402-4).</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bywater_38-part4-item4">
+                     <msItem xml:id="MS_Bywater_38-part4-item4" key="work_2928">
 				                    <locus>(fols. 83v-87r)</locus> 
                         <author key="person_90319040">Lauro Quirini</author>
                         <!-- Not two persons, as PND supposes. see Oxford Bibliographies -->
@@ -340,7 +337,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part5-item1">
+                     <msItem xml:id="MS_Bywater_38-part5-item1" key="work_3582">
                         <locus>(fol. 92r-99r)</locus>
                         <author key="person_57529656">
                            Petrus Donatus
@@ -372,7 +369,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part6-item1">
+                     <msItem xml:id="MS_Bywater_38-part6-item1" key="work_3707">
                         <locus>(fols. 100r-128r)</locus> 
 				                    <author key="person_268955446">Plutarch</author> 
                         <title>De amico et assentore</title> 
@@ -402,7 +399,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part7-item1"> 
+                     <msItem xml:id="MS_Bywater_38-part7-item1" key="work_2278"> 
                         <locus>(fols. 134r-146r)</locus> 
 				                    <author key="person_36926979">
                            
@@ -442,7 +439,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part8-item1"> 
+                     <msItem xml:id="MS_Bywater_38-part8-item1" key="work_3003"> 
                         <locus>(fols. 148r-156v)</locus> 
 				                    <author key="person_100218901">
                            
@@ -487,7 +484,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part9-item1"> 
+                     <msItem xml:id="MS_Bywater_38-part9-item1" key="work_3720"> 
                         <locus>(fols. 158r-165v)</locus> 
 				                    <author key="person_268955446">
                            
@@ -503,7 +500,7 @@
                            </persName>.</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bywater_38-part9-item2">
+                     <msItem xml:id="MS_Bywater_38-part9-item2" key="work_1884">
 				                    <locus>(fols. 166r-182v)</locus> 
                         <author key="person_78782481">
                            
@@ -534,7 +531,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part10-item1">
+                     <msItem xml:id="MS_Bywater_38-part10-item1" key="work_3738">
                         <locus>(fols. 188r-196v)</locus>   
 				                    <author key="person_19722038">
                            
@@ -565,7 +562,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part11-item1">
+                     <msItem xml:id="MS_Bywater_38-part11-item1" key="work_1885">
                         <locus>(fols. 198r-223r)</locus>   
                         <author key="person_78782481">
                            
@@ -599,7 +596,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part12-item1"> 
+                     <msItem xml:id="MS_Bywater_38-part12-item1" key="work_3717"> 
                         <locus>(fols. 228r-242v)</locus> 
 				                    <author key="person_268955446">
                            
@@ -640,7 +637,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_38-part13-item1">
+                     <msItem xml:id="MS_Bywater_38-part13-item1" key="work_2966">
                         <locus>(fols. 244r-250r)</locus> 
                         <author key="person_89090417">
                            
@@ -652,7 +649,7 @@
 						pontificum etc.</title> (Hanover, 1613), 140-9).</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bywater_38-part13-item2"> 
+                     <msItem xml:id="MS_Bywater_38-part13-item2" key="work_581"> 
                         <locus>(fols.
 				  250r-255v)</locus> 
                         <author key="person_45650167">
@@ -675,7 +672,7 @@
                      </msItem>
                      
 				  
-                     <msItem xml:id="MS_Bywater_38-part13-item3"> 
+                     <msItem xml:id="MS_Bywater_38-part13-item3" key="work_582"> 
                         <locus>(fols. 255v-257v)</locus>
                         <author key="person_45650167">
                            
@@ -690,7 +687,7 @@
 					 1826), 7.</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bywater_38-part13-item4"> 
+                     <msItem xml:id="MS_Bywater_38-part13-item4" key="work_582"> 
                         <locus>(fols. 257v-259r)</locus> 
                         <author key="person_45650167">
                            

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1674">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1674">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,7 +76,7 @@
                         <title type="desc">Medical treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_682-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_682-part1-item2" n="2" key="work_2593">
                         <author key="person_1653145857004422920822">
                            
                            Johannes de Sancto Amando
@@ -142,7 +139,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_682-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_682-part3-item1" n="1" key="work_4839">
                         <author key="person_2327">
                            
                            Thomas de Monte Auium
@@ -205,7 +202,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_682-part5-item1" n="1">
+                     <msItem xml:id="MS_Bodl_682-part5-item1" n="1" key="work_3118">
                         <author key="person_2278">
                            
                            Master B.

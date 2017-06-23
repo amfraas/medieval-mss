@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1861">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1861">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,13 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_87-item1"
-                          n="1"
-                          class="#sermones #miscellanea #theologica">
+                  <msItem xml:id="MS_Bodl_87-item1" n="1" class="#sermones #miscellanea #theologica">
                      <title type="desc">Sermons, letters, theological pieces</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_87-item2" n="2">
+                  <msItem xml:id="MS_Bodl_87-item2" n="2" key="work_2124">
                      <author key="person_9865788">
                         
                         Hugh of Saint-Victor
@@ -67,7 +62,7 @@
                      <title>Sermons and treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_87-item3" n="3">
+                  <msItem xml:id="MS_Bodl_87-item3" n="3" key="work_3496">
                      <author key="person_40175167">
                         
                         Peter Comestor
@@ -76,7 +71,7 @@
                      <title>Sermons</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_87-item4" n="4">
+                  <msItem xml:id="MS_Bodl_87-item4" n="4" key="work_2055">
                      <author key="person_282035032">
                         
                         Hildebert of Lavardin
@@ -85,7 +80,7 @@
                      <title>Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_87-item5" n="5">
+                  <msItem xml:id="MS_Bodl_87-item5" n="5" key="work_1742">
                      <author key="person_67781845">
                         
                         Gilbert of Hoyland
@@ -94,7 +89,7 @@
                      <title>Sermons on Matthew</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_87-item6" n="6">
+                  <msItem xml:id="MS_Bodl_87-item6" n="6" key="work_4618">
                      <author key="person_7385506">
                         
                         Stephen Langton

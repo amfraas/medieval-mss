@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3690">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_3690">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -52,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_12-item1" n="1">
+                  <msItem xml:id="MS_Canon_Pat_Lat_12-item1" n="1" key="work_1057">
                      <author key="person_59875293">
                         
                         Bernard of Clairvaux (?)
@@ -61,7 +58,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_12-item2" n="2">
+                  <msItem xml:id="MS_Canon_Pat_Lat_12-item2" n="2" key="work_3952">
                      <author key="person_306415749">
                         
                         Ps.-Bernard
@@ -70,7 +67,7 @@
                      <title>Meditationes piissimae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_12-item3" n="3">
+                  <msItem xml:id="MS_Canon_Pat_Lat_12-item3" n="3" key="work_1190">
                      <author key="person_102305735">
                         
                         Caesarius of Arles
@@ -79,7 +76,7 @@
                      <title>Sermons</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_12-item4" n="4">
+                  <msItem xml:id="MS_Canon_Pat_Lat_12-item4" n="4" key="work_1914">
                      <author key="person_268708272">
                         
                         Guigo II
@@ -88,7 +85,7 @@
                      <title>Scala claustralium</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_12-item5" n="5">
+                  <msItem xml:id="MS_Canon_Pat_Lat_12-item5" n="5" key="work_5094">
                      <author key="person_100227023">
                         
                         William of Saint-Thierry
@@ -97,7 +94,7 @@
                      <title>De amore dei</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_12-item6" n="6">
+                  <msItem xml:id="MS_Canon_Pat_Lat_12-item6" n="6" key="work_2125">
                     
                      <author key="person_9865788">
                         

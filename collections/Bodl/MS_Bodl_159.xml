@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1219">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1219">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_159-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_159-part1-item1" n="1" key="work_820">
                         <author key="person_66806872">
                            
                            Augustine
@@ -87,7 +84,7 @@
                         <title>Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_159-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_159-part1-item2" n="2" key="work_823">
                         <author key="person_66806872">
                            
                            Augustine
@@ -106,7 +103,7 @@
                         <note>(Latin translation)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_159-part1-item4" n="4">
+                     <msItem xml:id="MS_Bodl_159-part1-item4" n="4" key="work_2426">
                         <author key="person_95147024">
                            
                            Jerome
@@ -142,7 +139,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_159-part2-item1" n="1">
+                     <msItem xml:id="MS_Bodl_159-part2-item1" n="1" key="work_2426">
                         <author key="person_95147024">
                            
                            Jerome
@@ -151,7 +148,7 @@
                         <title>Letters</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_159-part2-item2" n="2">
+                     <msItem xml:id="MS_Bodl_159-part2-item2" n="2" key="work_2431">
                         <author key="person_95147024">
                            
                            Jerome
@@ -160,7 +157,7 @@
                         <title>Vita S. Malchi</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_159-part2-item3" n="3">
+                     <msItem xml:id="MS_Bodl_159-part2-item3" n="3" key="work_2651">
                         <author key="person_297475745">
                            
                            John Chrysostom
@@ -171,7 +168,7 @@
                         <note>(Latin translation)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_159-part2-item4" n="4">
+                     <msItem xml:id="MS_Bodl_159-part2-item4" n="4" key="work_823">
                         <author key="person_66806872">
                            
                            Augustine
@@ -205,7 +202,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_159-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_159-part3-item1" n="1" key="work_1055">
                         <author key="person_59875293">
                            
                            Bernard of
@@ -215,7 +212,7 @@
                         <title>Treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_159-part3-item2" n="2">
+                     <msItem xml:id="MS_Bodl_159-part3-item2" n="2" key="work_3501">
                         <author key="person_50018008">
                            
                            Peter Damian
@@ -224,7 +221,7 @@
                         <title>Sermon</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_159-part3-item3" n="3">
+                     <msItem xml:id="MS_Bodl_159-part3-item3" n="3" key="work_1445">
                         <author key="person_185316237">
                            
                            Edmund (?) Stourton
@@ -260,7 +257,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_159-part4-item1" n="1">
+                     <msItem xml:id="MS_Bodl_159-part4-item1" n="1" key="work_3549">
                         <author key="person_89860148">
                            
                            Peter the

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4571">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_4571">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -60,7 +57,7 @@
                      <title>Le chevalier de Dieu (Del chevaler Dé)</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_210-item3" n="3">
+                  <msItem xml:id="MS_Douce_210-item3" n="3" key="work_4411">
                      <author key="person_66899957">
                         
                         Robert of Greatham
@@ -69,7 +66,7 @@
                      <title>Corset</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_210-item4" n="4">
+                  <msItem xml:id="MS_Douce_210-item4" n="4" key="work_1446">
                      <author key="person_315944519">
                         
                         Edmund of Abingdon
@@ -87,7 +84,7 @@
                      <note>French adaptation</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_210-item7" n="7">
+                  <msItem xml:id="MS_Douce_210-item7" n="7" key="work_4567">
                      <author key="person_7526514">
                         
                         Simund de Freine

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1631">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1631">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,13 +71,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_625-part1-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Bodl_625-part1-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Astrological treatises</title>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_625-part1-item2" n="2">
+                     <msItem xml:id="MS_Bodl_625-part1-item2" n="2" key="work_2126">
                         <author key="person_19170254">Hugh of Santalla</author>
                         <title>Super artem geomantie</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -111,9 +106,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_625-part2-item1"
-                             n="1"
-                             class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Bodl_625-part2-item1" n="1" class="#astrologia_astronomia">
                         <title type="desc">Astronomical treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -176,7 +169,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_625-part4-item1" n="1">
+                     <msItem xml:id="MS_Bodl_625-part4-item1" n="1" key="work_2085">
                         <author key="person_100201145">Honorius Augustodunensis</author>
                         <title>Imago mundi</title>
                         <textLang mainLang="la">Latin</textLang>

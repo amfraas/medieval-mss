@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_687">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_687">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,7 +75,7 @@
                
                   
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_16-part1-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_5_16-part1-item1" n="1" key="work_2057">
                         <author key="person_282035032">
                            Hildebert of Lavardin
                         </author>
@@ -156,7 +153,7 @@
                   
                   
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_16-part3-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_5_16-part3-item1" n="1" key="work_317">
                         <author key="person_267277950">
                            Alberic of London
                         </author>
@@ -194,14 +191,14 @@
                   
                   
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_16-part4-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_5_16-part4-item1" n="1" key="work_2831">
                         <author key="person_90635912">
                            John of Garland
                         </author>
                         <title>Integumenta Ouidii</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_16-part4-item2" n="1">
+                     <msItem xml:id="MS_Auct_F_5_16-part4-item2" n="1" key="work_3979">
                         <author key="person_100251470">
                            Ps.-Clement of Rome
                         </author>

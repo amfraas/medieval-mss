@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1808">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../bodley-msDesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1808">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -64,9 +61,7 @@
                      <title type="desc">Prayers</title>
                      <textLang mainLang="fr" otherLangs="la">French and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_82-item4"
-                          n="4"
-                          class="#theologica #sacramenta #virtutes_et_vitia">
+                  <msItem xml:id="MS_Bodl_82-item4" n="4" class="#theologica #sacramenta #virtutes_et_vitia">
                      <title type="desc">Theological treatises</title>
                      <note>(on the sacraments, confession, and the seven deadly sins)</note>
                      <textLang mainLang="fr">French</textLang>
