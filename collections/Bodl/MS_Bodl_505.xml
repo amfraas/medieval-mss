@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_505-item1" n="1" class="#theologica #devotiones">
+                  <msItem xml:id="MS_Bodl_505-item1" n="1" class="#theologica #devotiones" key="work_10903 ">
                      <title>The Chastising of God's Children</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_505-item2" n="2" class="#devotiones #theologica">
+                  <msItem xml:id="MS_Bodl_505-item2" n="2" class="#devotiones #theologica" key="work_13328">
                      <title>The Mirror of Simple Souls</title>
                      <note>(translation by <persName role="translator" key="person_5">'M.N.'</persName> of Margarita Porete, <hi rend="italic">Speculum simplicium animarum</hi>)</note>
                      <bibl type="related">

@@ -76,16 +76,16 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_41-part1-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Digby_41-part1-item1" n="1" class="#medica" key="work_13209">
 						                  <title type="desc">Medical recipes</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_41-part1-item2" n="2" class="#satirica #monastica">
+                     <msItem xml:id="MS_Digby_41-part1-item2" n="2" class="#satirica #monastica" key="work_11955 ">
                         <title>Friar Daw's Reply</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_41-part1-item3" n="3" class="#monastica #satirica">
+                     <msItem xml:id="MS_Digby_41-part1-item3" n="3" class="#monastica #satirica" key="work_12435 ">
                         <title>Jack Upland's Rejoinder</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -149,7 +149,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_41-part3-item1" n="1" class="#astrologia_astronomia #computistica">
+                     <msItem xml:id="MS_Digby_41-part3-item1" n="1" class="#astrologia_astronomia #computistica" key="work_10378 ">
 						                  <title type="desc">Astronomical calendar including tables of <persName role="author" key="person_93439642">
                               Nicholas of Lynn
                            </persName>
@@ -186,7 +186,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_41-part4-item1" n="1" class="#ecclesiastica">
+                     <msItem xml:id="MS_Digby_41-part4-item1" n="1" class="#ecclesiastica" key="work_11688 ">
                         <title>Ecclestiastical notes partly relating to <orgName key="org_156864169">Durham Cathedral</orgName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_32-item1" n="1" class="#miscellanea">
+                  <msItem xml:id="MS_Douce_32-item1" n="1" class="#miscellanea" key="work_10125">
                      <title type="desc" rend="italic">Album amicorum</title>
                      <note>written in
               <placeName key="place_7005090">Bonn</placeName>, <placeName key="place_7018159">Venice</placeName>

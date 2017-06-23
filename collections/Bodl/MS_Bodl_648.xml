@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_648-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Bodl_648-item1" n="1" class="#medica" key="work_15194">
                      <title type="desc">Treatise on urines</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_648-item2" n="2" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Bodl_648-item2" n="2" class="#astrologia_astronomia" key="work_10342 ">
                      <title type="desc">Astrological treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -66,11 +66,11 @@
                      <title>Epistola Manueli Comneno imperatori Graecorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_648-item4" n="4" class="#historica #topographica">
+                  <msItem xml:id="MS_Bodl_648-item4" n="4" class="#historica #topographica" key="work_12233 ">
                      <title type="desc">Historical and geographical texts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_648-item5" n="5" class="#historica">
+                  <msItem xml:id="MS_Bodl_648-item5" n="5" class="#historica" key="work_10975 ">
                      <title type="desc">Chronicle of <placeName key="place_7002445">England</placeName> to 1461</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -83,7 +83,7 @@
                      <title>De doctrina dicendi et tacendi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_648-item7" n="7" class="#exempla">
+                  <msItem xml:id="MS_Bodl_648-item7" n="7" class="#exempla" key="work_11760 ">
                      <title type="desc">Exempla</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

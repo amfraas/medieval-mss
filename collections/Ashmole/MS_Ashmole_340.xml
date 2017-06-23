@@ -83,11 +83,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_340-part1-item1" n="1" class="#computistica #astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_340-part1-item1" n="1" class="#computistica #astrologia_astronomia" key="work_10374 ">
                         <title type="desc">Astronomical calendar</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_340-part1-item2" n="2" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_340-part1-item2" n="2" class="#astrologia_astronomia" key="work_10392 ">
                         <title type="desc">Astronomical tables</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
@@ -117,7 +117,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_340-part2-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_340-part2-item1" n="1" class="#astrologia_astronomia" key="work_14955">
                         <title type="desc">Treatise on the astrolabe</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -143,7 +143,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_340-part3-item1" n="1" class="#astrologia_astronomia #medica">
+                     <msItem xml:id="MS_Ashmole_340-part3-item1" n="1" class="#astrologia_astronomia #medica" key="work_10349 ">
                         <title type="desc">Astrological treatises (medical astrology)</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -172,7 +172,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_340-part4-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_340-part4-item1" n="1" class="#astrologia_astronomia" key="work_10396 ">
                         <title type="desc">Astronomical tables</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -201,7 +201,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_340-part5-item1" n="1" class="#astrologia_astronomia #medica">
+                     <msItem xml:id="MS_Ashmole_340-part5-item1" n="1" class="#astrologia_astronomia #medica" key="work_10320 ">
                         <title type="desc">Astrological and medical texts</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>

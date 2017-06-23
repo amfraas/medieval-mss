@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_168-item1" n="1" class="#auctoritates #theologica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_168-item1" n="1" class="#auctoritates #theologica" key="work_13730 ">
                      <title type="desc">Patristic extracts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_168-item2" n="2" class="#biblia #commentarii">
+                  <msItem xml:id="MS_Canon_Pat_Lat_168-item2" n="2" class="#biblia #commentarii" key="work_13747">
                      <title type="desc">Pauline Epistles, with gloss</title>
                      <textLang mainLang="la">Latin</textLang>
                      <bibl type="bible">

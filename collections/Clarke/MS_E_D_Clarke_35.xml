@@ -49,14 +49,14 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_E_D_Clarke_35-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_E_D_Clarke_35-item1" n="1" class="#biblia" key="work_12085">
                      <title rend="roman">Gospel of St. Matthew with gloss.</title>
                      <bibl type="bible">
                         <title>Bible, Matthew</title>
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_E_D_Clarke_35-item2" n="2" class="#biblia">
+                  <msItem xml:id="MS_E_D_Clarke_35-item2" n="2" class="#biblia" key="work_11511 ">
                      <title rend="roman">Deuteronomy with gloss</title>
                      <bibl type="bible">
                         <title>Bible, Deuteronomy</title>

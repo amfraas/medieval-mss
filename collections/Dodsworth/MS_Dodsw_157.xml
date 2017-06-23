@@ -70,7 +70,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Dodsw_157-part1-item1" n="1" class="#historica">
+                     <msItem xml:id="MS_Dodsw_157-part1-item1" n="1" class="#historica" key="work_12273 ">
                         <title type="desc">History of the <orgName>Lacy family</orgName>
                         </title>
                         <rubric>Historia fundationum diversorum monasteriorum et
@@ -102,7 +102,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Dodsw_157-part2-item1" n="1" class="#historica">
+                     <msItem xml:id="MS_Dodsw_157-part2-item1" n="1" class="#historica" key="work_13495">
                         <title type="desc">Notes by <persName role="author" key="person_47697855">Roger
                            Dodsworth</persName>.</title>
                         <textLang mainLang="la">Latin and other</textLang>

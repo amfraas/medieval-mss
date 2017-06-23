@@ -52,7 +52,7 @@
                   <hi rend="smallcaps">Tracts Against the Latins</hi>
                   14th cent.</head>
                <msContents>
-                  <msItem xml:id="MS_Barocci_101-item1" n="1">
+                  <msItem xml:id="MS_Barocci_101-item1" n="1" key="work_15575 ">
                      
                      <locus>(fols. 7r–86v)</locus> 
                      <title>διάλεξιϲ μεταξὺ Ῥωμαίων καὶ Λατίνων περὶ
@@ -67,7 +67,7 @@
                   </msItem>
                   
                   
-                  <msItem xml:id="MS_Barocci_101-item2" n="2">
+                  <msItem xml:id="MS_Barocci_101-item2" n="2" key="work_15593">
                      
                      <locus>(fols. 86v–88r)</locus> 
                      <title>ἐκ τῶν ἁγίου Μεθοδίου διατάξεων</title>
@@ -135,7 +135,7 @@
                   </msItem>
                   
                   
-                  <msItem xml:id="MS_Barocci_101-item7" n="7">
+                  <msItem xml:id="MS_Barocci_101-item7" n="7" key="work_15589 ">
                      
                      <locus>(fol. 100r)</locus>
                      <title>πῶϲ εἰκὼν τοῦ υἱοῦ τὸ πνεῦμα</title> 
@@ -156,7 +156,7 @@
                   </msItem>
                   
                   
-                  <msItem xml:id="MS_Barocci_101-item9" n="9">
+                  <msItem xml:id="MS_Barocci_101-item9" n="9" key="work_11751 ">
                      
                      <locus>(fol. 100rv)</locus> 
                      <title>excerpts</title>
@@ -170,7 +170,7 @@
                   </msItem>
                   
                   
-                  <msItem xml:id="MS_Barocci_101-item10" n="10">
+                  <msItem xml:id="MS_Barocci_101-item10" n="10" key="work_11751 ">
                      
                      <locus>(fol. 100v)</locus> 
                      <title>excerpts</title>
@@ -183,7 +183,7 @@
                   </msItem>
                   
                   
-                  <msItem xml:id="MS_Barocci_101-item11" n="11">
+                  <msItem xml:id="MS_Barocci_101-item11" n="11" key="work_11751 ">
                      
                      <locus>(fol. 100v)</locus> 
                      <title>excerpts</title>
@@ -195,7 +195,7 @@
                   </msItem>
                   
                   
-                  <msItem xml:id="MS_Barocci_101-item12" n="12">
+                  <msItem xml:id="MS_Barocci_101-item12" n="12" key="work_11751 ">
                      
                      <locus>(fol. 100v)</locus> 
                      <title>excerpts</title>
@@ -206,7 +206,7 @@
                   </msItem>
                   
                   
-                  <msItem xml:id="MS_Barocci_101-item13" n="13">
+                  <msItem xml:id="MS_Barocci_101-item13" n="13" key="work_11751 ">
                      
                      <locus>(fol. 100v)</locus> 
                      <title>excerpts</title>

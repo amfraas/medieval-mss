@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_312-item1" n="1" class="#legalia">
+                  <msItem xml:id="MS_Douce_312-item1" n="1" class="#legalia" key="work_14734">
                      <title type="desc">Statutes of <placeName key="place_7002445">England</placeName>, 1327 to 1445</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

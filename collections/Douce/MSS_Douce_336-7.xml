@@ -58,18 +58,18 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MSS_Douce_336-7-item1" n="1" class="#historica">
+                  <msItem xml:id="MSS_Douce_336-7-item1" n="1" class="#historica" key="work_13323 ">
                      <title>Miroir des histoires du monde</title>
                      <note>(universal
               history from the Creation to the birth of Christ)</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MSS_Douce_336-7-item2" n="2" class="#historica #romances">
+                  <msItem xml:id="MSS_Douce_336-7-item2" n="2" class="#historica #romances" key="work_14647">
                      <title>The Siege of Jerusalem</title>
                      <note>(French prose version)</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MSS_Douce_336-7-item3" n="3" class="#apocrypha">
+                  <msItem xml:id="MSS_Douce_336-7-item3" n="3" class="#apocrypha" key="work_10249 ">
                      <title type="desc">Apocryphal pieces</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>

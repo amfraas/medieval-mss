@@ -81,7 +81,7 @@
                         <title>Elementa</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_28-part1-item2" n="1" class="#mathematica">
+                     <msItem xml:id="MS_Auct_F_5_28-part1-item2" n="1" class="#mathematica" key="work_13156 ">
                         <title type="desc">Mathematical treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -113,7 +113,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_28-part2-item1" n="1" class="#theologica #philosophica">
+                     <msItem xml:id="MS_Auct_F_5_28-part2-item1" n="1" class="#theologica #philosophica" key="work_15244">
                         <title type="desc">Theological and
               philosophical treatises.</title>
                         <textLang mainLang="la">Latin</textLang>

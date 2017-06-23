@@ -49,15 +49,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Gr_21-item1" n="1">
+                  <msItem xml:id="MS_Canon_Gr_21-item1" n="1" key="work_15007">
                      <title>Treatises on controversies with the Latin church</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_21-item2" n="2">
+                  <msItem xml:id="MS_Canon_Gr_21-item2" n="2" key="work_14578 ">
                      <title>Sermons.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_21-item3" n="3">
+                  <msItem xml:id="MS_Canon_Gr_21-item3" n="3" key="work_10420 ">
                      <title>Athanasian Creed.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

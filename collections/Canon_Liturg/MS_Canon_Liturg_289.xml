@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_289-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_289-item1" n="1" class="#liturgica" key="work_14144">
                      <title type="desc">Psalter, Use of Rome</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

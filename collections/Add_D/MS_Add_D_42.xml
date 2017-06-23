@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_D_42-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Add_D_42-item1" n="1" class="#documenta" key="work_10051">
                      <title type="desc">Account of <persName key="person_97107753">Queen Elizabeth I</persName>'s demisable revenue</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

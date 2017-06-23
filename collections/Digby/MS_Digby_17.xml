@@ -77,7 +77,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_17-part1-item1" n="1" class="#ecclesiastica #liturgica">
+                     <msItem xml:id="MS_Digby_17-part1-item1" n="1" class="#ecclesiastica #liturgica" key="work_11537 ">
                         <title type="desc">Dialogue on the significance of church services between
 									Septuagesima and Advent.</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -104,7 +104,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_17-part2-item1" n="1" class="#computistica #astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_17-part2-item1" n="1" class="#computistica #astrologia_astronomia" key="work_14960">
 						                  <title type="desc">Texts on astronomy and calendar</title>
                         
                         <textLang mainLang="la">Latin</textLang>

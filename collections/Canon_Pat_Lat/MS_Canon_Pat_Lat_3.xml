@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_3-item1" n="1" class="#sermones">
+                  <msItem xml:id="MS_Canon_Pat_Lat_3-item1" n="1" class="#sermones" key="work_14551">
                      <title type="desc">Sermon collection</title>
                      <note>('Romanus')</note>
                      <note>(Schneyer VII.659-65)</note>

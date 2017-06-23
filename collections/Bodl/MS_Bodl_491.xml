@@ -67,11 +67,11 @@
                      <title>Tractatus de sphaera</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_491-item3" n="3" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Bodl_491-item3" n="3" class="#astrologia_astronomia" key="work_15343">
                      <title>Theorica planetarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_491-item4" n="4" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Bodl_491-item4" n="4" class="#astrologia_astronomia" key="work_14867 ">
                      <title>Tabulae Alphonsi regis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -84,7 +84,7 @@
                      <title>Liber introductorius</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_491-item6" n="6" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Bodl_491-item6" n="6" class="#astrologia_astronomia" key="work_10335 ">
                      <title type="desc">Astrological tables and notes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

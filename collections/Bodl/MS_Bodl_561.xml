@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_561-part1-item1" n="1" class="#legalia">
+                     <msItem xml:id="MS_Bodl_561-part1-item1" n="1" class="#legalia" key="work_11477 ">
                         <title type="desc">Decretals</title>
                         <note>(Canon law collection, preceded by <persName role="author" key="person_84971682">Ivo of Chartres</persName>, Prologus (to Decretum or Panormia))</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -115,11 +115,11 @@
                         <note>(with the reply, 'Responsio cuiusdam pro monachis')</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_561-part2-item2" n="2" class="#satirica #versus #ecclesiastica">
+                     <msItem xml:id="MS_Bodl_561-part2-item2" n="2" class="#satirica #versus #ecclesiastica" key="work_13837 ">
                         <title type="desc">Poem against the luxury of priests</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_561-part2-item3" n="3" class="#monastica">
+                     <msItem xml:id="MS_Bodl_561-part2-item3" n="3" class="#monastica" key="work_15100 ">
                         <title type="desc">Treatise on monasticism</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -148,7 +148,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_561-part3-item1" n="1" class="#sermones #theologica">
+                     <msItem xml:id="MS_Bodl_561-part3-item1" n="1" class="#sermones #theologica" key="work_14594 ">
                         <title type="desc">Sermons and theological notes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -177,7 +177,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_561-part4-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Bodl_561-part4-item1" n="1" class="#theologica" key="work_10169 ">
                         <title type="desc">Allegorical discourse</title>
                         <msItem xml:id="MS_Bodl_561-part4-item1-item1">
                            <rubric>De aratro et carro</rubric>
@@ -197,7 +197,7 @@
                         </msItem>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_561-part4-item2" n="2" class="#theologica"> 
+                     <msItem xml:id="MS_Bodl_561-part4-item2" n="2" class="#theologica" key="work_15266"> 
                         <title type="desc">Theological extracts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

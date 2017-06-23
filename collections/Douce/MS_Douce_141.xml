@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_141-item1" n="1" class="#theologica #devotiones">
+                  <msItem xml:id="MS_Douce_141-item1" n="1" class="#theologica #devotiones" key="work_13981 ">
                      <title>The Prick of Conscience</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_141-item2" n="2" class="#devotiones #versus">
+                  <msItem xml:id="MS_Douce_141-item2" n="2" class="#devotiones #versus" key="work_14350">
                      <title type="desc">Religious poems and treatises</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

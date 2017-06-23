@@ -58,19 +58,19 @@
                      <title>Sermones dominicales</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_857-item2" n="2" class="#sermones">
+                  <msItem xml:id="MS_Bodl_857-item2" n="2" class="#sermones" key="work_14583 ">
                      <title type="desc">Sermons</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_857-item3" n="3" class="#theologica">
+                  <msItem xml:id="MS_Bodl_857-item3" n="3" class="#theologica" key="work_15308">
                      <title type="desc">Theological pieces</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_857-item4" n="4" class="#romances #exempla">
+                  <msItem xml:id="MS_Bodl_857-item4" n="4" class="#romances #exempla" key="work_12023 ">
                      <title>Gesta romanorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_857-item5" n="5" class="#sermones">
+                  <msItem xml:id="MS_Bodl_857-item5" n="5" class="#sermones" key="work_14583 ">
                      <title type="desc">Sermons</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

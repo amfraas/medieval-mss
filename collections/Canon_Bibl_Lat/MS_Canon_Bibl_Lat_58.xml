@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Bibl_Lat_58-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Canon_Bibl_Lat_58-item1" n="1" class="#biblia" key="work_13607">
                      <title rend="roman">Old Testament (Genesis - Malachi)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

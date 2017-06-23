@@ -59,7 +59,7 @@
                      <note>(English translation)</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1396-item2" n="2" class="#medica">
+                  <msItem xml:id="MS_Ashmole_1396-item2" n="2" class="#medica" key="work_13203">
                      <title type="desc">Medical recipes.</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

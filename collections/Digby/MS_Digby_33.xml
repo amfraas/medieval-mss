@@ -174,7 +174,7 @@
                         <title>Epistola ad filios</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_33-part3-item2" n="2" class="#sermones">
+                     <msItem xml:id="MS_Digby_33-part3-item2" n="2" class="#sermones" key="work_14561 ">
 						                  <title type="desc">Sermon on Galatians vi.2</title>
                         
                         <bibl type="bible">
@@ -213,7 +213,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_33-part4-item1" n="1" class="#contemplationes">
+                     <msItem xml:id="MS_Digby_33-part4-item1" n="1" class="#contemplationes" key="work_15005">
                         <title type="desc">Treatise on contemplation</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

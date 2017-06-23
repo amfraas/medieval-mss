@@ -49,15 +49,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_623-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Bodl_623-item1" n="1" class="#liturgica" key="work_10676 ">
                      <title type="desc">Calendar (London)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_623-item2" n="2" class="#prognostica #historica">
+                  <msItem xml:id="MS_Bodl_623-item2" n="2" class="#prognostica #historica" key="work_14037">
                      <title type="desc">Prophecies relating to English history</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_623-item3" n="3" class="#historica">
+                  <msItem xml:id="MS_Bodl_623-item3" n="3" class="#historica" key="work_11018 ">
                      <title type="desc">Chronological and historical notes to 1470</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

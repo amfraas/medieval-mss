@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_64-item1" n="1" class="#auctoritates">
+                  <msItem xml:id="MS_Digby_64-item1" n="1" class="#auctoritates" key="work_11846 ">
                      <title type="desc">Florilegium</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -64,7 +64,7 @@
                      <title>Poetria nova</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_64-item3" n="3" class="#dictamen">
+                  <msItem xml:id="MS_Digby_64-item3" n="3" class="#dictamen" key="work_15014">
 						               <title type="desc">Treatise on dictamen</title>
                      
                      <note>(incomplete)</note>

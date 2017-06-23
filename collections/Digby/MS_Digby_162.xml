@@ -51,21 +51,21 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_162-item1" n="1" class="#alchimia">
+                  <msItem xml:id="MS_Digby_162-item1" n="1" class="#alchimia" key="work_10154 ">
 						               <title type="desc">Alchemical treatises</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_162-item2" n="2" class="#medica">
+                  <msItem xml:id="MS_Digby_162-item2" n="2" class="#medica" key="work_13232">
 						               <title type="desc">Medical treatise</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_162-item3" n="3" class="#scientifica"><!-- check? -->
+                  <msItem xml:id="MS_Digby_162-item3" n="3" class="#scientifica" key="work_13131 "><!-- check? -->
                      <title>Mappae Clauicula</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_162-item4" n="4" class="#alchimia">
+                  <msItem xml:id="MS_Digby_162-item4" n="4" class="#alchimia" key="work_12806 ">
                      <!-- add morienus romanus as author? -->
                      <title>Liber Morieni</title>
                      <note>(two translations, one anonymous, the other by <persName role="translator" key="person_32794419"><!-- but note, this entry confounds him with Robert of Ketton -->

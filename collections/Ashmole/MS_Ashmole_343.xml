@@ -109,11 +109,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_343-part1-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_343-part1-item1" n="1" class="#astrologia_astronomia" key="work_10337 ">
                         <title type="desc">Astrological treatises</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_343-part1-item2" n="2" class="#medica">
+                     <msItem xml:id="MS_Ashmole_343-part1-item2" n="2" class="#medica" key="work_13202 ">
                         <title type="desc">Medical recipes</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
@@ -142,7 +142,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_343-part2-item1" n="1" class="#versus #devotiones">
+                     <msItem xml:id="MS_Ashmole_343-part2-item1" n="1" class="#versus #devotiones" key="work_14342">
                         <title type="desc">Religious poem</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

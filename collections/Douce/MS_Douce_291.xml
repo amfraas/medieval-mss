@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_291-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Douce_291-item1" n="1" class="#historica" key="work_13759">
                      <title type="desc">Pedigree of <persName key="person_688">Chalons family</persName> to 
                            John Chalons (d. 1447)
                         
@@ -70,7 +70,7 @@
                      </note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_291-item3" n="3" class="#lapidaria">
+                  <msItem xml:id="MS_Douce_291-item3" n="3" class="#lapidaria" key="work_12503 ">
                      <title type="desc">Lapidary</title>
                      <note>'The boke of Stones'.</note>
                      <textLang mainLang="en">English</textLang>

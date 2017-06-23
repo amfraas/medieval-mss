@@ -58,7 +58,7 @@
                      <title>Homilies on Genesis and Acts</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Arch_Selden_B_22-item2" n="2" class="#liturgica">
+                  <msItem xml:id="MS_Arch_Selden_B_22-item2" n="2" class="#liturgica" key="work_13294">
                      <title type="desc">Menologion for November </title>
                      <note>(fragment)</note>
                      <textLang mainLang="grc">Greek</textLang>

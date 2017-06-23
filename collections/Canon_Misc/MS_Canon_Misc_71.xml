@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_71-item1" n="1" class="#grammatica">
+                  <msItem xml:id="MS_Canon_Misc_71-item1" n="1" class="#grammatica" key="work_12151">
                      <title type="desc">Grammatical treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -62,12 +62,12 @@
                      <title>Compotus de arte astronomiae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_71-item3" n="3" class="#mathematica">
+                  <msItem xml:id="MS_Canon_Misc_71-item3" n="3" class="#mathematica" key="work_10277 ">
 						               <title type="desc">Arithmetical texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_71-item4" n="4" class="#astrologia_astronomia #computistica">
+                  <msItem xml:id="MS_Canon_Misc_71-item4" n="4" class="#astrologia_astronomia #computistica" key="work_10364 ">
 						               <title type="desc">Astronomical and calendrial texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>

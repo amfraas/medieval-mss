@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_263-item1" n="1" class="#theologica #devotiones">
+                  <msItem xml:id="MS_Douce_263-item1" n="1" class="#theologica #devotiones" key="work_14358 ">
                      <title type="desc">Religious treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -58,7 +58,7 @@
                      <note>(manual for mass and other services)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_263-item3" n="3" class="#ecclesiastica">
+                  <msItem xml:id="MS_Douce_263-item3" n="3" class="#ecclesiastica" key="work_14832">
                      <title type="desc">Synodal statutes</title>
                      <note>(extracts; diocese of <placeName key="place_7008456">Cambrai</placeName> (?))</note>
                      <textLang mainLang="fr">French</textLang>

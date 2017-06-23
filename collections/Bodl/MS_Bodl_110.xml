@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_110-part1-item1" n="1" class="#apocrypha">
+                     <msItem xml:id="MS_Bodl_110-part1-item1" n="1" class="#apocrypha" key="work_11737 ">
                         <title>Euangelium Nicodemi</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -119,11 +119,11 @@
                         <title>Speculum ecclesiae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_110-part2-item3" n="3" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_Bodl_110-part2-item3" n="3" class="#vitae_sanctorum" key="work_11819 ">
                         <title type="desc">Festial (saints' lives)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_110-part2-item4" n="4" class="#theologica">
+                     <msItem xml:id="MS_Bodl_110-part2-item4" n="4" class="#theologica" key="work_14683">
                         <title>Speculum peccatorum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -136,7 +136,7 @@
                         <title>Speculum sacerdotis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_110-part2-item6" n="6" class="#theologica">
+                     <msItem xml:id="MS_Bodl_110-part2-item6" n="6" class="#theologica" key="work_13403 ">
                         <title type="desc">Moral dialogue or disputation</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -158,11 +158,11 @@
                         <title>Form of living</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_110-part2-item9" n="9" class="#theologica">
+                     <msItem xml:id="MS_Bodl_110-part2-item9" n="9" class="#theologica" key="work_13124 ">
                         <title type="desc">Manual of theology for a parish priest</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_110-part2-item10" n="10" class="#miracula">
+                     <msItem xml:id="MS_Bodl_110-part2-item10" n="10" class="#miracula" key="work_11408 ">
                         <title>Cronica mirabilia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

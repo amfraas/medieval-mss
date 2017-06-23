@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_50-item1" n="1" class="#collectiones">
+                  <msItem xml:id="MS_Canon_Ital_50-item1" n="1" class="#collectiones" key="work_11313">
                      <title type="desc">Common-place book (zibaldone) of <persName role="scribe" key="person_80">Antonio di Cecco Rosso de' Petrucci da
                         Siena</persName>
                      </title>

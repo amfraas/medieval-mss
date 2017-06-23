@@ -106,7 +106,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_133-part1-item1" n="">
+                     <msItem xml:id="MS_Barocci_133-part1-item1" n="" key="work_12190 ">
                         <locus>(fols. 1rv, 228rv)</locus> 
                         <title>Heirmologion</title> 
                         <note>Fragments, with the texts of heirmoi 286
@@ -244,7 +244,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part3-item2" n="2">
+                     <msItem xml:id="MS_Barocci_133-part3-item2" n="2" key="work_13492 ">
                         
                             <locus>(fol. 2ov)</locus> 
                         <title>notes</title> 
@@ -332,7 +332,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_133-part5-item1" n="">
+                     <msItem xml:id="MS_Barocci_133-part5-item1" n="" key="work_13480 ">
                         <locus>(fol. 25rv)</locus> 
                         <title>Note on methods of calculating Easter dates</title> 
                         <incipit> ὅταν μὲν γὰρ κατὰ λῆψιν.</incipit>
@@ -555,7 +555,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item3" n="3">
+                     <msItem xml:id="MS_Barocci_133-part8-item3" n="3" key="work_15586">
                         
                             <locus>(fols. 161v–162r)</locus> 
                         <title>ποῖα καὶ πόϲα εἰϲὶ τὰ τοῦ Ἐλιϲϲαιὲ
@@ -678,7 +678,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item11" n="11">
+                     <msItem xml:id="MS_Barocci_133-part8-item11" n="11" key="work_10201 ">
                         
                             <locus>(fols. 179r–181v)</locus> 
                         <title>Anthology from various patristic
@@ -695,7 +695,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item12" n="12">
+                     <msItem xml:id="MS_Barocci_133-part8-item12" n="12" key="work_14900 ">
                         
                             <locus>(fols. 182r–205v)</locus> 
                         <title>Testaments of the 12 Patriarchs</title>
@@ -706,7 +706,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item13" n="13">
+                     <msItem xml:id="MS_Barocci_133-part8-item13" n="13" key="work_11237 ">
                         
                             <locus>(fols. 206r–210v)</locus> 
                         <title>Commentary on the minor
@@ -733,7 +733,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item15" n="15">
+                     <msItem xml:id="MS_Barocci_133-part8-item15" n="15" key="work_10669 ">
                         
                         <locus>(fol. 212v)</locus> 
                         <title>brief quotations from <persName role="author" key="person_106970843">Maximus Confessor</persName> and <persName role="author" key="person_24941326">Eulogius Alexandrinus</persName>. 
@@ -755,7 +755,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item17" n="17">
+                     <msItem xml:id="MS_Barocci_133-part8-item17" n="17" key="work_10869 ">
                         
                             <locus>(fols. 214r–219r)</locus> 
                         <title>chapters on logic</title> 
@@ -778,7 +778,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item19" n="19">
+                     <msItem xml:id="MS_Barocci_133-part8-item19" n="19" key="work_14505 ">
                         
                         <locus>(fols. 220r–221v)</locus> 
                         <title>scholia on <supplied>Demosthenes, <title>oratio Olynthiaca
@@ -828,7 +828,7 @@
                      </msItem>
             
         
-                     <msItem xml:id="MS_Barocci_133-part8-item23" n="23">
+                     <msItem xml:id="MS_Barocci_133-part8-item23" n="23" key="work_10674 ">
                         
                             <locus>(fol. 227v)</locus> 
                         <title>calculations of the date of Easter</title> 

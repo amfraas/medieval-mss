@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Misc_179-part1-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Canon_Misc_179-part1-item1" n="1" class="#astrologia_astronomia" key="work_10396 ">
 						                  <title type="desc">Astronomical tables.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -118,12 +118,12 @@
                         <title>De inquisitione euis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Misc_179-part2-item3" n="3" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Canon_Misc_179-part2-item3" n="3" class="#astrologia_astronomia" key="work_10409 ">
 						                  <title type="desc">Astronomical treatises.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Misc_179-part2-item4" n="4" class="#versus">
+                     <msItem xml:id="MS_Canon_Misc_179-part2-item4" n="4" class="#versus" key="work_13833">
 						                  <title type="desc">Poem</title>
                         
                         <textLang mainLang="it">Italian</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ash_Rolls_11-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Ash_Rolls_11-item1" n="1" class="#documenta" key="work_12759">
                      <title type="desc">Letters patent of <persName key="person_96926832">Henry VI</persName>, with 
                         Great Seal,
                         granting a

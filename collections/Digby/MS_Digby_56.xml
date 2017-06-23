@@ -112,7 +112,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_56-part2-item1" n="1" class="#versus #biblia #commentarii">
+                     <msItem xml:id="MS_Digby_56-part2-item1" n="1" class="#versus #biblia #commentarii" key="work_10467 ">
 						                  <title type="desc">Biblical commentary in verse</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -163,7 +163,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_56-part3-item1" n="1" class="#computistica #liturgica">
+                     <msItem xml:id="MS_Digby_56-part3-item1" n="1" class="#computistica #liturgica" key="work_10690 ">
 						                  <title type="desc">Calendar and computistical tables.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -178,7 +178,7 @@
                         <note>(with commentary)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_56-part3-item3" n="3" class="#computistica">
+                     <msItem xml:id="MS_Digby_56-part3-item3" n="3" class="#computistica" key="work_14992">
 						                  <title type="desc">Treatises on compotus</title>
                         
                         <textLang mainLang="la">Latin</textLang>

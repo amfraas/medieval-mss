@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_361-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Bodl_361-item1" n="1" class="#medica" key="work_13232 ">
                      <title type="desc">Medical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -98,7 +98,7 @@
                      <title>Practica</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_361-item7" n="7" class="#medica">
+                  <msItem xml:id="MS_Bodl_361-item7" n="7" class="#medica" key="work_15392">
                      <title>Trotula maior</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

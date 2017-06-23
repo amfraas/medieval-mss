@@ -152,7 +152,7 @@
                         <title>Sermo de aduentu domini</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_T_2_23-part3-item2" n="1" class="#prognostica">
+                     <msItem xml:id="MS_Auct_T_2_23-part3-item2" n="1" class="#prognostica" key="work_14038">
                         <title type="desc">Prophecy</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -190,7 +190,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_T_2_23-part4-item1" n="1" class="#scientifica">
+                     <msItem xml:id="MS_Auct_T_2_23-part4-item1" n="1" class="#scientifica" key="work_13820 ">
                  
                         <title type="desc">Physiologus</title>
                         <textLang mainLang="la">Latin</textLang>

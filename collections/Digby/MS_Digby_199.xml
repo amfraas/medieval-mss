@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_199-item1" n="1" class="#romances">
+                  <msItem xml:id="MS_Digby_199-item1" n="1" class="#romances" key="work_14446">
                      <title>Romuleon.</title>
                      <note>(Italian translation)</note>
                      <textLang mainLang="it">Italian</textLang>

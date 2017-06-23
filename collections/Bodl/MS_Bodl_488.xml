@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_488-item1" n="1" class="#monastica">
+                  <msItem xml:id="MS_Bodl_488-item1" n="1" class="#monastica" key="work_14766">
                      <title type="desc">Statutes of the <orgName key="org_138255873">Hospital of S. Maria Nuova, Florence</orgName>
                      </title>
                      <note>(preceded by an address to 

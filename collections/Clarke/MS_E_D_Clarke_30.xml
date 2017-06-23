@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_E_D_Clarke_30-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_E_D_Clarke_30-item1" n="1" class="#liturgica" key="work_10589">
 						               <title type="desc">Book of Hours, Use of Utrecht</title>
                      
                      <textLang mainLang="nl" otherLangs="la">Dutch and Latin</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_136-item1" n="1" class="#romances #historica">
+                  <msItem xml:id="MS_Canon_Ital_136-item1" n="1" class="#romances #historica" key="work_12526">
                      <title>Le Cesarie Batalie</title>
                      <note>(Italian version of <hi rend="italic">Li faits des romains</hi>)</note>
                      <bibl type="related">

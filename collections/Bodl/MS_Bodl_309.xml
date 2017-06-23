@@ -58,11 +58,11 @@
                      <title>De ratione temporum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_309-item2" n="2" class="#computistica">
+                  <msItem xml:id="MS_Bodl_309-item2" n="2" class="#computistica" key="work_14916">
                      <title type="desc">Treatises and notes on calendar</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_309-item3" n="3" class="#historica">
+                  <msItem xml:id="MS_Bodl_309-item3" n="3" class="#historica" key="work_12248 ">
                      <title type="desc">Historical notes 734-1075, with additions to 1346</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

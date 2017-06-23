@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_272-item1" n="1" class="#liturgica #biblia">
+                  <msItem xml:id="MS_Douce_272-item1" n="1" class="#liturgica #biblia" key="work_14098">
                      <title type="desc">Psalter (Dominican)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

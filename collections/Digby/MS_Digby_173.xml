@@ -106,7 +106,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_173-part2-item1" n="1" class="#decem_praecepta #commentarii">
+                     <msItem xml:id="MS_Digby_173-part2-item1" n="1" class="#decem_praecepta #commentarii" key="work_11296">
 						                  <title type="desc">Commentary on Ten Commandments.</title>
                         
                         <bibl type="related">

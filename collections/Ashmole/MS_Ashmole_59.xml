@@ -116,23 +116,23 @@
                         <title>poems</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_59-part1-item3" n="3" class="#versus">
+                     <msItem xml:id="MS_Ashmole_59-part1-item3" n="3" class="#versus" key="work_13875 ">
                         <title type="desc">Poems</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_59-part1-item4" n="4" class="#theologica #devotiones">
+                     <msItem xml:id="MS_Ashmole_59-part1-item4" n="4" class="#theologica #devotiones" key="work_14353 ">
                         <title type="desc">Religious texts</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_59-part1-item5" n="5" class="#prognostica">
+                     <msItem xml:id="MS_Ashmole_59-part1-item5" n="5" class="#prognostica" key="work_14030 ">
                         <title type="desc">Prophecies</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_59-part1-item6" n="6" class="#historica">
+                     <msItem xml:id="MS_Ashmole_59-part1-item6" n="6" class="#historica" key="work_12253 ">
                         <title type="desc">Historical texts</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_59-part1-item7" n="7" class="#romances">
+                     <msItem xml:id="MS_Ashmole_59-part1-item7" n="7" class="#romances" key="work_15347">
                         <title>The Three Kings of Cologne</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

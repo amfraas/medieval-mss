@@ -113,7 +113,7 @@
                      <title>Meditationes piissimae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_798-item8" n="8" class="#sacramenta">
+                  <msItem xml:id="MS_Bodl_798-item8" n="8" class="#sacramenta" key="work_14999">
                      <title type="desc">Treatise on confession</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

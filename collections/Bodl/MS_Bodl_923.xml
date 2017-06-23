@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_923-item1" n="1" class="#devotiones">
+                  <msItem xml:id="MS_Bodl_923-item1" n="1" class="#devotiones" key="work_11044">
                      <title>The Cleansing of Man's Soul</title>
                      <note>(devotional treatise)</note>
                      <textLang mainLang="en">English</textLang>

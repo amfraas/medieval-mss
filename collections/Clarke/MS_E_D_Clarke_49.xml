@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_E_D_Clarke_49-item1" n="1" class="#vitae_sanctorum"><!-- check -->
+                  <msItem xml:id="MS_E_D_Clarke_49-item1" n="1" class="#vitae_sanctorum" key="work_12825"><!-- check -->
                      <title type="desc">Life of Barlaam and Joasaph</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

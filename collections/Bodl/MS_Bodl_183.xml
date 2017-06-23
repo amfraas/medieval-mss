@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_183-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Bodl_183-item1" n="1" class="#biblia" key="work_13440 ">
                      <title rend="roman">New Testament</title>
                      <note>(later Wycliffite version).</note>
                      <bibl type="bible">
@@ -57,7 +57,7 @@
                      </bibl>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_183-item2" n="2" class="#biblia">
+                  <msItem xml:id="MS_Bodl_183-item2" n="2" class="#biblia" key="work_13621">
                      <title rend="roman">Old Testament, Tobit to Esther and Proverbs to Ecclesiasticus</title>
                      <textLang mainLang="en">English</textLang>
                      <bibl type="bible">

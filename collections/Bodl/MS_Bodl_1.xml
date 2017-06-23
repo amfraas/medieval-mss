@@ -67,11 +67,11 @@
                      <title>De XII abusiuis saeculi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_1-item3" n="3" class="#theologica">
+                  <msItem xml:id="MS_Bodl_1-item3" n="3" class="#theologica" key="work_15308">
                      <title type="desc">Theological treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_1-item4" n="4" class="#sermones">
+                  <msItem xml:id="MS_Bodl_1-item4" n="4" class="#sermones" key="work_14583 ">
                      <title type="desc">Sermons</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

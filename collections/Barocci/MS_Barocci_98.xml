@@ -81,7 +81,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_98-item4" n="4">
+                  <msItem xml:id="MS_Barocci_98-item4" n="4" key="work_15303">
                      <title type="desc">Theological treatises.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

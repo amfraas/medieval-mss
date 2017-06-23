@@ -58,7 +58,7 @@
                      <title>Distinctiones</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_46-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Bodl_46-item2" n="2" class="#theologica" key="work_15283">
                      <title type="desc">Theological notes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -59,11 +59,11 @@
                      <note>(English translation)</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_114-item2" n="2" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Douce_114-item2" n="2" class="#vitae_sanctorum" key="work_12848 ">
                      <title type="desc">Life of St. Christina Mirabilis of Saint Trudons</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_114-item3" n="3" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Douce_114-item3" n="3" class="#vitae_sanctorum" key="work_12897">
                      <title type="desc">Life of St. Mary of Oignies</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

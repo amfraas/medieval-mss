@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_106-item1" n="1" class="#computistica #liturgica">
+                  <msItem xml:id="MS_Digby_106-item1" n="1" class="#computistica #liturgica" key="work_14970">
 						               <title type="desc">Treatise on calendar</title>
                      
                      <textLang mainLang="it">Italian</textLang>

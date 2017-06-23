@@ -59,7 +59,7 @@
                      <note>(English translation)</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1498-item2" n="2" class="#medica">
+                  <msItem xml:id="MS_Ashmole_1498-item2" n="2" class="#medica" key="work_12119 ">
                      <title>The Governaile of Health</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
@@ -73,7 +73,7 @@
                      <note>(English translation)</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1498-item4" n="4" class="#medica">
+                  <msItem xml:id="MS_Ashmole_1498-item4" n="4" class="#medica" key="work_13221">
                      <title type="desc">Medical texts</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_42-item1" n="1" class="#romances"><!-- check -->
+                  <msItem xml:id="MS_Canon_Ital_42-item1" n="1" class="#romances" key="work_10184"><!-- check -->
                      <title>Altobello e re Trojano</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

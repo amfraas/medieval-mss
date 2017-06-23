@@ -49,15 +49,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Gr_19-item1" n="1">
+                  <msItem xml:id="MS_Canon_Gr_19-item1" n="1" key="work_12284 ">
                      <title>Homilies.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_19-item2" n="2">
+                  <msItem xml:id="MS_Canon_Gr_19-item2" n="2" key="work_13056 ">
                      <title>Lives of Saints</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_19-item3" n="3">
+                  <msItem xml:id="MS_Canon_Gr_19-item3" n="3" key="work_15303">
                      <title>Theological treatises.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

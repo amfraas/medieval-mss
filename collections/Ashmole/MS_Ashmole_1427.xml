@@ -55,11 +55,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1427-item1" n="1" class="#veterinaria">
+                  <msItem xml:id="MS_Ashmole_1427-item1" n="1" class="#veterinaria" key="work_15451">
                      <title type="desc">Veterinary treatises (Practica equorum, Practica canum)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1427-item2" n="2" class="#medica">
+                  <msItem xml:id="MS_Ashmole_1427-item2" n="2" class="#medica" key="work_15391 ">
                      <title>Trotula</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

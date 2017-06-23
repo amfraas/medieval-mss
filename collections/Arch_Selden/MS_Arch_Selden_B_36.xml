@@ -143,7 +143,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_36-part3-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Arch_Selden_B_36-part3-item1" n="1" class="#biblia" key="work_10618 ">
                         <title>Breviarium Veteris Testamenti</title>
                         <bibl type="bible">
                            <title>Bible, Old Testament</title>
@@ -179,7 +179,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_36-part4-item1" n="1" class="#commentarii #biblia">
+                     <msItem xml:id="MS_Arch_Selden_B_36-part4-item1" n="1" class="#commentarii #biblia" key="work_11249">
 						                  <title type="desc">Commentary on the Pentateuch</title>
                         
                         <bibl type="commentedOn">

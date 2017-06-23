@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_277-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Bodl_277-item1" n="1" class="#biblia" key="work_10453">
                      <title rend="roman">Bible</title>
                      <note>(later Wycliffite version, revised text)</note>
                      <textLang mainLang="en">English</textLang>

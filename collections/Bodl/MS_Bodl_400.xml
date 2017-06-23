@@ -76,7 +76,7 @@
                      <title>Summa de abstinentia</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_400-item4" n="4" class="#theologica">
+                  <msItem xml:id="MS_Bodl_400-item4" n="4" class="#theologica" key="work_15308">
                      <title type="desc">Theological treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -49,15 +49,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_218-item1" n="1" class="#philosophica">
+                  <msItem xml:id="MS_Canon_Misc_218-item1" n="1" class="#philosophica" key="work_13818 ">
                      <title type="desc">Philosophical texts.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_218-item2" n="2" class="#auctoritates">
+                  <msItem xml:id="MS_Canon_Misc_218-item2" n="2" class="#auctoritates" key="work_11041 ">
                      <title type="desc">Classical extracts</title>
                      <textLang mainLang="la" otherLangs="it">Latin and Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_218-item3" n="3" class="#prognostica"><!-- check? -->
+                  <msItem xml:id="MS_Canon_Misc_218-item3" n="3" class="#prognostica" key="work_15018"><!-- check? -->
                      <title type="desc">Treatise on dreams</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

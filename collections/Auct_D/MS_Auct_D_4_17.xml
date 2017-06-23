@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_D_4_17-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Auct_D_4_17-item1" n="1" class="#biblia" key="work_10227">
                      <title rend="roman">Apocalypse</title>
                      <bibl type="bible">
                         <title rend="roman">Bible, Apocalypse</title>

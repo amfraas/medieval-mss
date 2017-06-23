@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_51-part1-item1" n="1" class="#liturgica #computistica">
+                     <msItem xml:id="MS_Douce_51-part1-item1" n="1" class="#liturgica #computistica" key="work_10687">
                         <title type="desc">Calendar</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -104,7 +104,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_51-part2-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_51-part2-item1" n="1" class="#liturgica" key="work_10565 ">
                         <title type="desc">Book of Hours, Use of Rome</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_Rolls_4-item1" n="1" class="#prognostica">
+                  <msItem xml:id="MS_Digby_Rolls_4-item1" n="1" class="#prognostica" key="work_15118">
                      <title type="desc">Treatise on palmistry.</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

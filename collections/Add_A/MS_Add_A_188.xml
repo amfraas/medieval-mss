@@ -70,7 +70,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Add_A_188-part1-item1" n="1" class="#legalia">
+                     <msItem xml:id="MS_Add_A_188-part1-item1" n="1" class="#legalia" key="work_11477 ">
                         <title>Decretals</title>
                         <note type="extent">(fragment).</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -140,7 +140,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Add_A_188-part2-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Add_A_188-part2-item1" n="1" class="#liturgica" key="work_12561">
                         <title type="desc">Lectionary converted into a
               Missal.</title>
                         <textLang mainLang="la">Latin</textLang>

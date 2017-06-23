@@ -96,7 +96,7 @@
                         <title>Calendar</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_210-part1-item2" n="2" class="#versus #medica">
+                     <msItem xml:id="MS_Ashmole_210-part1-item2" n="2" class="#versus #medica" key="work_13843">
                         <title type="desc">Poem on blood-letting</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -131,7 +131,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_210-part2-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_210-part2-item1" n="1" class="#astrologia_astronomia" key="work_10338 ">
                         <title type="desc">Astrological treatises</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -160,7 +160,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_210-part3-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_210-part3-item1" n="1" class="#astrologia_astronomia" key="work_10342 ">
                         <title type="desc">Astrological treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -188,7 +188,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_210-part4-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_210-part4-item1" n="1" class="#astrologia_astronomia" key="work_10338 ">
                         <title type="desc">Astrological
               treatise.</title>
                         <textLang mainLang="en">English</textLang>

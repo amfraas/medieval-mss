@@ -69,7 +69,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Add_A_103-part1-item1" n="1" class="#computistica #astrologia_astronomia">
+                     <msItem xml:id="MS_Add_A_103-part1-item1" n="1" class="#computistica #astrologia_astronomia" key="work_10707 ">
                         <title type="desc">Calendarial and astrological notes.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -98,7 +98,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Add_A_103-part2-item1" n="1" class="#lapidaria">
+                     <msItem xml:id="MS_Add_A_103-part2-item1" n="1" class="#lapidaria" key="work_15038">
                         <title type="desc">Treatises on gems.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -127,7 +127,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Add_A_103-part3-item1" n="1" class="#lapidaria #versus">
+                     <msItem xml:id="MS_Add_A_103-part3-item1" n="1" class="#lapidaria #versus" key="work_15037 ">
                         <title type="desc">Treatise on gems (in verse)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

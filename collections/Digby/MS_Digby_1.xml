@@ -61,18 +61,18 @@
                      <note>(incomplete)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_1-item2" n="2" class="#computistica #liturgica">
+                  <msItem xml:id="MS_Digby_1-item2" n="2" class="#computistica #liturgica" key="work_10687 ">
 						               <title type="desc">Calendar</title>
                      
                      <note>(fragment)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_1-item3" n="3" class="#computistica #liturgica">
+                  <msItem xml:id="MS_Digby_1-item3" n="3" class="#computistica #liturgica" key="work_14971">
 						               <title type="desc">Treatise on calendar</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_1-item4" n="4" class="#medica">
+                  <msItem xml:id="MS_Digby_1-item4" n="4" class="#medica" key="work_13209 ">
 						               <title type="desc">Medical recipes.</title>
                      
                      <textLang mainLang="la">Latin</textLang>

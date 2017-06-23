@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_344-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Canon_Misc_344-item1" n="1" class="#medica" key="work_10205 ">
                      <title>Antidotarium Nicholai</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_344-item2" n="2" class="#medica">
+                  <msItem xml:id="MS_Canon_Misc_344-item2" n="2" class="#medica" key="work_13209">
 						               <title type="desc">Medical recipes.</title>
                      
                      <textLang mainLang="la">Latin</textLang>

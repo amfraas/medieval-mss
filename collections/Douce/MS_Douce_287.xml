@@ -69,11 +69,11 @@
                      <title>Vita S. Thomae Becket</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_287-item3" n="3" class="#legalia">
+                  <msItem xml:id="MS_Douce_287-item3" n="3" class="#legalia" key="work_11349 ">
                      <title type="desc">Constitutions of Clarendon</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_287-item4" n="4" class="#documenta #miscellanea">
+                  <msItem xml:id="MS_Douce_287-item4" n="4" class="#documenta #miscellanea" key="work_12732">
                      <title type="desc">Letters</title>
                      <note>mostly by or addressed to <persName role="author" key="person_100187947">Thomas Becket</persName> and <persName role="author" key="person_79147743">Gilbert Foliot</persName>
                      </note>

@@ -56,7 +56,7 @@
                      <title>Life of S. Gregory I</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_526-item2" n="2" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_DOrville_526-item2" n="2" class="#vitae_sanctorum" key="work_13066">
 						               <title type="desc">Lives of Saints Syrus and Eventius</title>
                      
                      <textLang mainLang="la">Latin</textLang>

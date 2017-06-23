@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_268-item1" n="1" class="#distinctiones">
+                  <msItem xml:id="MS_Bodl_268-item1" n="1" class="#distinctiones" key="work_11568">
                      <title type="desc">Distinctiones theologicae</title>
                      <note>(part 2, M-Z)</note>
                      <rubric>Tabula theologiae per Peregrinum</rubric>

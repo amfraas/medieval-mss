@@ -76,7 +76,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_3-part1-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Digby_3-part1-item1" n="1" class="#liturgica" key="work_10631">
 						                  <title type="desc">Breviary (Gilbertine)</title>
                         
                         <textLang mainLang="la">Latin</textLang>

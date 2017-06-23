@@ -74,7 +74,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_793-part1-item1" n="1" class="#vitae_sanctorum #miracula">
+                     <msItem xml:id="MS_Bodl_793-part1-item1" n="1" class="#vitae_sanctorum #miracula" key="work_13044 ">
                         <title type="desc">Lives and miracles of St Germain of Auxerre</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -112,7 +112,7 @@
                         <title>Vita S. Martini</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_793-part2-item2" n="2" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_Bodl_793-part2-item2" n="2" class="#vitae_sanctorum" key="work_13713">
                         <title type="desc">Passion of St Clement</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -140,7 +140,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_793-part3-item1" n="1" class="#miracula">
+                     <msItem xml:id="MS_Bodl_793-part3-item1" n="1" class="#miracula" key="work_13320 ">
                         <title type="desc">Miracles of St Nicholas</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

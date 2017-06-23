@@ -49,25 +49,25 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_25-item1" n="1" class="#biblia #commentarii">
+                  <msItem xml:id="MS_Canon_Pat_Lat_25-item1" n="1" class="#biblia #commentarii" key="work_12063 ">
                      <title type="desc">Gospel commentary according to the church year</title>
                      <textLang mainLang="la">Latin</textLang>
                      <bibl type="commentedOn">
                         <title rend="roman">Bible, Gospels</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_25-item2" n="2" class="#biblia">
+                  <msItem xml:id="MS_Canon_Pat_Lat_25-item2" n="2" class="#biblia" key="work_10468 ">
                      <title type="desc">Biblical concordance</title>
                      <textLang mainLang="la">Latin</textLang>
                      <bibl type="bible">
                         <title rend="roman">Bible</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_25-item3" n="3" class="#theologica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_25-item3" n="3" class="#theologica" key="work_15284">
                      <title type="desc">Theological notes and extracts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_25-item4" n="4" class="#sermones">
+                  <msItem xml:id="MS_Canon_Pat_Lat_25-item4" n="4" class="#sermones" key="work_14583 ">
                      <title type="desc">Sermons.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -58,7 +58,7 @@
                      <title>Lumen confessorum siue Lumen penitentiarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_67-item2" n="2" class="#sacramenta">
+                  <msItem xml:id="MS_Canon_Pat_Lat_67-item2" n="2" class="#sacramenta" key="work_14935">
                      <title type="desc">Treatise on absolution</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -79,39 +79,39 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_750-item1" n="1" class="#grammatica">
+                  <msItem xml:id="MS_Ashmole_750-item1" n="1" class="#grammatica" key="work_12151 ">
                      <title type="desc">Grammatical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_750-item2" n="2" class="#sacramenta">
+                  <msItem xml:id="MS_Ashmole_750-item2" n="2" class="#sacramenta" key="work_13641 ">
                      <title type="desc">Order for visitation of the sick</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_750-item3" n="3" class="#rhetorica">
+                  <msItem xml:id="MS_Ashmole_750-item3" n="3" class="#rhetorica" key="work_15145 ">
                      <title type="desc">Treatises on prosody</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_750-item4" n="4" class="#sermones">
+                  <msItem xml:id="MS_Ashmole_750-item4" n="4" class="#sermones" key="work_14574 ">
                      <title type="desc">Sermons</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_750-item5" n="5" class="#legalia">
+                  <msItem xml:id="MS_Ashmole_750-item5" n="5" class="#legalia" key="work_14973 ">
                      <title type="desc">Treatise on canon law</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_750-item6" n="6" class="#theologica">
+                  <msItem xml:id="MS_Ashmole_750-item6" n="6" class="#theologica" key="work_15239">
                      <title type="desc">Theological and other notes</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_750-item7" n="7" class="#versus">
+                  <msItem xml:id="MS_Ashmole_750-item7" n="7" class="#versus" key="work_13873 ">
                      <title type="desc">Poems.</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_750-item8" n="8" class="#medica #scientifica">
+                  <msItem xml:id="MS_Ashmole_750-item8" n="8" class="#medica #scientifica" key="work_13182 ">
                      <title type="desc">Medical and other recipes.</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_750-item9" n="9" class="#romances">
+                  <msItem xml:id="MS_Ashmole_750-item9" n="9" class="#romances" key="work_12417 ">
                      <title>Ipotis</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

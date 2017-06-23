@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_D_4_20-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Auct_D_4_20-item1" n="1" class="#biblia" key="work_14702">
                      <title rend="roman">St. Paul, Epistles, with gloss
               'pro altercatione'.</title>
                      <bibl type="bible">

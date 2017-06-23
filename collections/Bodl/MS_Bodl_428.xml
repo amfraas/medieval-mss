@@ -58,12 +58,12 @@
                      <title>Poenitentiale</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_428-item2" n="2" class="#sacramenta">
+                  <msItem xml:id="MS_Bodl_428-item2" n="2" class="#sacramenta" key="work_15129">
                      <title type="desc">Treatise on penance</title>
                      <note>(imperfect)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_428-item3" n="3" class="#apocrypha">
+                  <msItem xml:id="MS_Bodl_428-item3" n="3" class="#apocrypha" key="work_11737 ">
                      <title>Euangelium Nicodemi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -74,7 +74,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_180-part1-item1" n="1">
+                     <msItem xml:id="MS_Barocci_180-part1-item1" n="1" key="work_14475">
                         <title type="desc">Saints' Lives.</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -107,7 +107,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_180-part2-item1" n="1">
+                     <msItem xml:id="MS_Barocci_180-part2-item1" n="1" key="work_14475">
                         <title type="desc">Saints' Lives.</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>

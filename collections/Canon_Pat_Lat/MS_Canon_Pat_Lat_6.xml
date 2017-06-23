@@ -76,7 +76,7 @@
                      <title>Confessionale (Interrogatorium)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_6-item4" n="4" class="#sacramenta">
+                  <msItem xml:id="MS_Canon_Pat_Lat_6-item4" n="4" class="#sacramenta" key="work_15091">
                      <title type="desc">Treatise on the Mass</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

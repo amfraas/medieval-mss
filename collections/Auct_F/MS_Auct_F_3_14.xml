@@ -135,7 +135,7 @@
                         <title>Compotus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_3_14-part2-item5" n="5" class="#computistica">
+                     <msItem xml:id="MS_Auct_F_3_14-part2-item5" n="5" class="#computistica" key="work_10719 ">
                         <title type="desc">Calendrical treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -164,7 +164,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_3_14-part3-item1" n="1" class="#computistica">
+                     <msItem xml:id="MS_Auct_F_3_14-part3-item1" n="1" class="#computistica" key="work_11677">
                         <title type="desc">Easter tables</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -200,7 +200,7 @@
                         <title>Excerptio de chronica Mariani</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_3_14-part4-item2" n="2" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Auct_F_3_14-part4-item2" n="2" class="#astrologia_astronomia" key="work_10409 ">
                         <title type="desc">Astronomical treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

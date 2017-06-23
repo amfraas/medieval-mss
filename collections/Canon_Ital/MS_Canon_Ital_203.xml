@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_203-item1" n="1" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Ital_203-item1" n="1" class="#vitae_sanctorum" key="work_11829">
                      <title>Fioretti Novelli della Vita di San Francesco</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

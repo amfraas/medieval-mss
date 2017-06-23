@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_48-part1-item1" n="1" class="#liturgica #biblia">
+                     <msItem xml:id="MS_Douce_48-part1-item1" n="1" class="#liturgica #biblia" key="work_14114">
                         <title type="desc">Psalter</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -105,7 +105,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_48-part2-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_48-part2-item1" n="1" class="#liturgica" key="work_10548 ">
                         <title type="desc">Book of Hours, Use of Metz</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

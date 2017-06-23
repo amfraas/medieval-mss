@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_A_373-item1" n="1" class="#sacramenta #ecclesiastica">
+                  <msItem xml:id="MS_Add_A_373-item1" n="1" class="#sacramenta #ecclesiastica" key="work_15156">
                      <title type="desc">Treatise on the rites and offices and on the sacraments of
               the Church, chiefly by question and answer.</title>
                      <textLang mainLang="la">Latin</textLang>

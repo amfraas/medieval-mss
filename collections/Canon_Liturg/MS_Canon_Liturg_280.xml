@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_280-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_280-item1" n="1" class="#liturgica" key="work_10908">
                      <title type="desc">Choir book (Benedictine) </title>
                      <note>(imperfect)</note>
                      <textLang mainLang="la">Latin</textLang>

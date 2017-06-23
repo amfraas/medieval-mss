@@ -69,7 +69,7 @@
                      <title>Exempla</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_16-item3" n="3" class="#apocrypha">
+                  <msItem xml:id="MS_Digby_16-item3" n="3" class="#apocrypha" key="work_11737">
                      <title>Evangelium Nicodemi.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

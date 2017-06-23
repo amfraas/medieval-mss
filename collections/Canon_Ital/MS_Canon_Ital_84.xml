@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_84-item1" n="1" class="#theologica #devotiones">
+                  <msItem xml:id="MS_Canon_Ital_84-item1" n="1" class="#theologica #devotiones" key="work_14331">
 						               <title type="desc">Religious extracts</title>
                      
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>

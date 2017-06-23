@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_44-part1-item1" n="1" class="#commentarii #biblia">
+                     <msItem xml:id="MS_Bodl_44-part1-item1" n="1" class="#commentarii #biblia" key="work_11273 ">
                         <title type="desc">Commentary on the Psalter</title>
                         <bibl type="commentedOn">
                            <title type="desc">Bible, Psalms</title>
@@ -106,7 +106,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_44-part2-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Bodl_44-part2-item1" n="1" class="#theologica" key="work_15308">
                         <title type="desc">Theological texts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -138,7 +138,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_44-part3-item1" n="1" class="#commentarii #biblia">
+                     <msItem xml:id="MS_Bodl_44-part3-item1" n="1" class="#commentarii #biblia" key="work_11225 ">
                         <title type="desc">Commentary on Kings</title>
                         <bibl type="commentedOn">
                            <title type="desc">Bible, Kings</title>
@@ -237,7 +237,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_44-part6-item1" n="1" class="#biblia #commentarii">
+                     <msItem xml:id="MS_Bodl_44-part6-item1" n="1" class="#biblia #commentarii" key="work_11288 ">
                         <title type="desc">Commentary on Song of Songs</title>
                         <bibl type="commentedOn">
                            <title type="desc">Bible, Song of Songs</title>

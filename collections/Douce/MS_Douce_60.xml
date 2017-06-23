@@ -59,7 +59,7 @@
                      <title>Instructions for parish priests</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_60-item3" n="3" class="#sermones">
+                  <msItem xml:id="MS_Douce_60-item3" n="3" class="#sermones" key="work_14544 ">
                      <title type="desc">Sermon</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
@@ -69,7 +69,7 @@
               Deadly Sins</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_60-item5" n="5" class="#sacramenta">
+                  <msItem xml:id="MS_Douce_60-item5" n="5" class="#sacramenta" key="work_14994">
                      <title type="desc">Treatise on confession</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

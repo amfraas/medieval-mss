@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_DOrville_147-item1" n="1" class="#auctoritates"><!-- check -->
+                  <msItem xml:id="MS_DOrville_147-item1" n="1" class="#auctoritates" key="work_11038 "><!-- check -->
                      <title>Classical and humanistic texts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -58,7 +58,7 @@
                      <title>De fluminibus, fontibus, lacubus, nemoribus, paludibus, montibus, gentibus per litteras libellus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_147-item3" n="3" class="#historica #documenta"><!-- OK? check -->
+                  <msItem xml:id="MS_DOrville_147-item3" n="3" class="#historica #documenta" key="work_13543"><!-- OK? check -->
                      <title>Notitia
               dignitatum</title>
                      <note>(brief abstract)</note>

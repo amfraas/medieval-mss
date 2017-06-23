@@ -59,7 +59,7 @@
                      <note>(English translation: 'Oon of Four')</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_978-item2" n="2" class="#biblia">
+                  <msItem xml:id="MS_Bodl_978-item2" n="2" class="#biblia" key="work_11996">
                      <title rend="roman">General Epistles, Acts, and Revelation</title>
                      <note>(later Wycliffite version)</note>
                      <textLang mainLang="en">English</textLang>

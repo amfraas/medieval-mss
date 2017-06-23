@@ -108,7 +108,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_24-part2-item1" n="1" class="#logica">
+                     <msItem xml:id="MS_Digby_24-part2-item1" n="1" class="#logica" key="work_13085">
                         <title type="desc">Logical treatise ('Fallaciae')</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -121,7 +121,7 @@
                         <title>De consequentiis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_24-part2-item3" n="3" class="#logica">
+                     <msItem xml:id="MS_Digby_24-part2-item3" n="3" class="#logica" key="work_13084 ">
                         <title type="desc">Logical treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -134,7 +134,7 @@
                         <title>Abstractiones</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_24-part2-item5" n="5" class="#grammatica">
+                     <msItem xml:id="MS_Digby_24-part2-item5" n="5" class="#grammatica" key="work_12151 ">
 						                  <title type="desc">Grammatical treatise</title>
                         
                         <note>(fragment)</note>

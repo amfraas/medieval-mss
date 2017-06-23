@@ -57,7 +57,7 @@
                         <title>Constitutiones Clementinae</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_247-item2" n="2" class="#legalia">
+                  <msItem xml:id="MS_Bodl_247-item2" n="2" class="#legalia" key="work_11343">
                      <title>Constitutiones Clementinae</title>
                      <note>with gloss of <persName role="author" key="person_24629057">Iohannes Andreae</persName>
                      </note>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_413-item1" n="1" class="#sermones">
+                  <msItem xml:id="MS_Canon_Liturg_413-item1" n="1" class="#sermones" key="work_12292">
                      <title type="desc">Homilies of <persName role="author" key="person_297475745">
                            John Chrysostom
                         </persName>, <persName role="author" key="person_69730041">

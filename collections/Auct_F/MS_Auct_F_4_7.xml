@@ -56,7 +56,7 @@
                      <title>Loci communes</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_4_7-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Auct_F_4_7-item2" n="2" class="#theologica" key="work_15303">
                      <title type="desc">Theological treatise</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

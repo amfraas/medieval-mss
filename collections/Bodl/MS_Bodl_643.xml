@@ -92,7 +92,7 @@
                      <title>Memoriale iuniorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_643-item5" n="5" class="#logica #grammatica">
+                  <msItem xml:id="MS_Bodl_643-item5" n="5" class="#logica #grammatica" key="work_13082">
                      <title type="desc">Logical and grammatical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

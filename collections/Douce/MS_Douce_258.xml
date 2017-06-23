@@ -62,12 +62,12 @@
                      </bibl>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_258-item2" n="2" class="#credo">
+                  <msItem xml:id="MS_Douce_258-item2" n="2" class="#credo" key="work_10419 ">
                      <title rend="roman">Athanasian Creed</title>
                      <note>Wycliffite translation and commentary</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_258-item3" n="3" class="#biblia">
+                  <msItem xml:id="MS_Douce_258-item3" n="3" class="#biblia" key="work_12095">
                      <title rend="roman">Gospels</title>
                      <note>for Easter day, Ascension Eve and Day, and St Thomas's Day; later Wycliffite version</note>
                      <textLang mainLang="en">English</textLang>
@@ -75,7 +75,7 @@
                         <title rend="roman">Bible, Gospels</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Douce_258-item4" n="4" class="#biblia">
+                  <msItem xml:id="MS_Douce_258-item4" n="4" class="#biblia" key="work_11994 ">
                      <title rend="roman">General Epistles</title>
                      <note>later Wycliffite version</note>
                      <bibl type="bible">

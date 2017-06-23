@@ -109,7 +109,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Ital_135-part2-item1" n="1" class="#commentarii">
+                     <msItem xml:id="MS_Canon_Ital_135-part2-item1" n="1" class="#commentarii" key="work_11174">
                         <title type="desc">Commentary on Boethius, <hi rend="italic">de consolatione philosophiae</hi>
                         </title>
                         <textLang mainLang="it">Italian</textLang>

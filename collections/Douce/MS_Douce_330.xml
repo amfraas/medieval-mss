@@ -70,7 +70,7 @@
                      </note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_330-item3" n="3" class="#sermones #biblia">
+                  <msItem xml:id="MS_Douce_330-item3" n="3" class="#sermones #biblia" key="work_14563">
                      <title type="desc">Sermon on Ps. xciii (xciv)</title>
                      <textLang mainLang="la">Latin</textLang>
                      <bibl type="commentedOn">

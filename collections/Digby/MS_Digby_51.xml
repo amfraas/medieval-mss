@@ -72,7 +72,7 @@
                      <title>De compositione astrolabii</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_51-item5" n="5" class="#astrologia_astronomia #scientifica">
+                  <msItem xml:id="MS_Digby_51-item5" n="5" class="#astrologia_astronomia #scientifica" key="work_10370">
 						               <title type="desc">Astronomical and scientific texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>

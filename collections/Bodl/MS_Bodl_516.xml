@@ -124,7 +124,7 @@
                         <title>Poenitentiale</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_516-part2-item2" n="2" class="#auctoritates">
+                     <msItem xml:id="MS_Bodl_516-part2-item2" n="2" class="#auctoritates" key="work_11754">
                         <title type="desc">Excerpts from <persName role="author" key="person_297475745">
                               John Chrysostom
                            </persName> and <persName role="author" key="person_66806872">

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_242-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Bodl_242-item1" n="1" class="#documenta" key="work_10901">
                      <title type="desc">Chartulary of <orgName key="org_313492968">Langley Abbey, Norfolk</orgName> with
                            14th-, 15th- and early 16th century additions</title>
                      <textLang mainLang="la">Latin</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_627-item1" n="1" class="#tabulae #biblia">
+                  <msItem xml:id="MS_Bodl_627-item1" n="1" class="#tabulae #biblia" key="work_12364">
                      <title type="desc">Index or tabula to the Bible</title>
                      <bibl type="bible">
                         <title type="desc">Bible</title>

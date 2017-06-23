@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barocci_44-item1" n="1">
+                  <msItem xml:id="MS_Barocci_44-item1" n="1" key="work_11793 ">
                      <title type="desc">Extracts from works by Fathers of the Church</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
@@ -65,12 +65,12 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_44-item3" n="3">
+                  <msItem xml:id="MS_Barocci_44-item3" n="3" key="work_12265">
                      <title type="desc">History of the church of St. Sophia
 				  in Constantinople</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_44-item4" n="4">
+                  <msItem xml:id="MS_Barocci_44-item4" n="4" key="work_11021 ">
                      <title type="desc">
                 Chronology of Roman and Byzantine emperors, 
                 to Michael

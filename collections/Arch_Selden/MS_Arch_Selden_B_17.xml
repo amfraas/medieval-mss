@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Arch_Selden_B_17-item1" n="1" class="#astrologia_astronomia #musica">
+                  <msItem xml:id="MS_Arch_Selden_B_17-item1" n="1" class="#astrologia_astronomia #musica" key="work_10367">
 						               <title type="desc">Astronomical and musical treatises.</title>
                      
                      <textLang mainLang="grc">Greek</textLang>

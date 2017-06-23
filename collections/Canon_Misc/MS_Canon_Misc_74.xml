@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_74-item1" n="1" class="#versus #vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Misc_74-item1" n="1" class="#versus #vitae_sanctorum" key="work_13065">
 						               <title type="desc">Lives of Saints in verse.</title>
                      
                      <textLang mainLang="pro">Provencal</textLang>

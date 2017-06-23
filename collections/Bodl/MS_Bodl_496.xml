@@ -82,7 +82,7 @@
                         <title>Historia Alexandri magni</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_496-part1-item2" n="2" class="#satirica #versus">
+                     <msItem xml:id="MS_Bodl_496-part1-item2" n="2" class="#satirica #versus" key="work_10240 ">
                         <title>Apocalypsis Goliae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -123,11 +123,11 @@
                         <title>Metrificatio super uersus Ricardi Flemyng</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_496-part1-item7" n="7" class="#versus">
+                     <msItem xml:id="MS_Bodl_496-part1-item7" n="7" class="#versus" key="work_13886">
                         <title type="desc">Poems</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_496-part1-item8" n="8" class="#miscellanea">
+                     <msItem xml:id="MS_Bodl_496-part1-item8" n="8" class="#miscellanea" key="work_13332 ">
                         <title type="desc">Miscellanea</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

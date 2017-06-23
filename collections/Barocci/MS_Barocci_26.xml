@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barocci_26-item1" n="1">
+                  <msItem xml:id="MS_Barocci_26-item1" n="1" key="work_10746 ">
                      <title type="desc">Canons of Church councils</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_26-item2" n="2">
+                  <msItem xml:id="MS_Barocci_26-item2" n="2" key="work_13738">
                      <title type="desc">Patristic texts.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

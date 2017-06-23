@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_295-item1" n="1" class="#theologica">
+                  <msItem xml:id="MS_Douce_295-item1" n="1" class="#theologica" key="work_11578">
                      <title>Dives and Pauper</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

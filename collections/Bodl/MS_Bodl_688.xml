@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_688-item1" n="1" class="#biblia #miscellanea">
+                  <msItem xml:id="MS_Bodl_688-item1" n="1" class="#biblia #miscellanea" key="work_10465">
                      <title type="desc">Biblical and other notes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

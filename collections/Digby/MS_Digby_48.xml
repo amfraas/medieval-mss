@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_48-item1" n="1" class="#astrologia_astronomia #computistica #liturgica">
+                  <msItem xml:id="MS_Digby_48-item1" n="1" class="#astrologia_astronomia #computistica #liturgica" key="work_10689 ">
 						               <title type="desc">Calendar and astronomical tables</title>
                      
                      <note>(including those of <persName role="author" key="person_79450930">
@@ -59,7 +59,7 @@
                         </persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item2" n="2" class="#computistica">
+                  <msItem xml:id="MS_Digby_48-item2" n="2" class="#computistica" key="work_14992">
 						               <title type="desc">Treatise on compotus</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -79,7 +79,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item4" n="4" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_48-item4" n="4" class="#astrologia_astronomia" key="work_10321 ">
 						               <title type="desc">Astrological and other notes</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -120,7 +120,7 @@
                      <title>Descriptio instrumenti pro equatione planetarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_48-item9" n="9" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_48-item9" n="9" class="#astrologia_astronomia" key="work_10416 ">
 						               <title type="desc">Astronomical treatises and tables</title>
                      
                      <textLang mainLang="la">Latin</textLang>

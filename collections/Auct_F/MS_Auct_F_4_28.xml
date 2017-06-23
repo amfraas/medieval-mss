@@ -56,7 +56,7 @@
                      <title>Fasti</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_4_28-item2" n="2" class="#versus">
+                  <msItem xml:id="MS_Auct_F_4_28-item2" n="2" class="#versus" key="work_13163">
                      <title>Mecenas Maronis</title>
                      <note>part of Appendix Virgiliana</note>
                      <bibl type="related">

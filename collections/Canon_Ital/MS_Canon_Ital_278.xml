@@ -59,7 +59,7 @@
               Siena</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_278-item2" n="2" class="#historica #monastica">
+                  <msItem xml:id="MS_Canon_Ital_278-item2" n="2" class="#historica #monastica" key="work_13053">
                      <title type="desc">Lives of members of the order of Jesuats or Gesuati (C.A.S.H.)</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

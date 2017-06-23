@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_18-item1" n="1" class="#computistica #liturgica">
+                  <msItem xml:id="MS_Digby_18-item1" n="1" class="#computistica #liturgica" key="work_10687 ">
 						               <title type="desc">Calendar.</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -78,7 +78,7 @@
                         <title>Bible, Psalms</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Digby_18-item4" n="4" class="#liturgica">
+                  <msItem xml:id="MS_Digby_18-item4" n="4" class="#liturgica" key="work_13008">
                      <title type="desc">Litany</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

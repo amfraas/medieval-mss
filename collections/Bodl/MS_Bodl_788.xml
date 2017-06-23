@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_788-item1" n="1" class="#liturgica #computistica">
+                  <msItem xml:id="MS_Bodl_788-item1" n="1" class="#liturgica #computistica" key="work_10687 ">
                      <title type="desc">Calendar</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_788-item2" n="2" class="#theologica #sermones">
+                  <msItem xml:id="MS_Bodl_788-item2" n="2" class="#theologica #sermones" key="work_15548">
                      <title type="desc">Wycliffite sermons and treatise</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

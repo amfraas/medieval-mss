@@ -49,23 +49,23 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_117-item1" n="1" class="#miscellanea">
+                  <msItem xml:id="MS_Canon_Pat_Lat_117-item1" n="1" class="#miscellanea" key="work_12732 ">
                      <title type="desc">Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_117-item2" n="2" class="#oratio">
+                  <msItem xml:id="MS_Canon_Pat_Lat_117-item2" n="2" class="#oratio" key="work_13950 ">
                      <title type="desc">Prayers</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_117-item3" n="3" class="#apocrypha">
+                  <msItem xml:id="MS_Canon_Pat_Lat_117-item3" n="3" class="#apocrypha" key="work_11737 ">
                      <title>Euangelium Nicodemii</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_117-item4" n="4" class="#theologica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_117-item4" n="4" class="#theologica" key="work_15240">
                      <title type="desc">Theological and other notes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_117-item5" n="5" class="#versus #devotiones">
+                  <msItem xml:id="MS_Canon_Pat_Lat_117-item5" n="5" class="#versus #devotiones" key="work_14327 ">
                      <title type="desc">Religious and other verse</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

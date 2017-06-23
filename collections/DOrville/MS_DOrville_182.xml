@@ -101,7 +101,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_DOrville_182-part2-item1" n="1" class="#grammatica">
+                     <msItem xml:id="MS_DOrville_182-part2-item1" n="1" class="#grammatica" key="work_12144">
 						                  <title type="desc">Grammatical notes</title>
                         
                         <textLang mainLang="la">Latin</textLang>

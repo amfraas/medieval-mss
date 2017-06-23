@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_93-item1" n="1" class="#biblia #sermones">
+                  <msItem xml:id="MS_Canon_Pat_Lat_93-item1" n="1" class="#biblia #sermones" key="work_12293">
                      <title type="desc">Homilies on Gospels according to the church year</title>
                      <textLang mainLang="la">Latin</textLang>
                      <bibl type="commentedOn">

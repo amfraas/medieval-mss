@@ -49,16 +49,16 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Carte_176-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Carte_176-item1" n="1" class="#documenta" key="work_11646 ">
 						               <title type="desc">Documents relating to the history and private affairs of the <orgName key="org_35558301">Butler family of Ormonde</orgName> from 1427.</title>
                      
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Carte_176-item2" n="2" class="#documenta"><!-- not indexed -->
+                  <msItem xml:id="MS_Carte_176-item2" n="2" class="#documenta" key="work_14249"><!-- not indexed -->
                      <title type="desc">Records and papers concerning the administration of affairs in <placeName key="place_1000078">Ireland</placeName> by the earl of Strafford, 1635-1640.</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Carte_176-item3" n="3"><!-- not indexed -->
+                  <msItem xml:id="MS_Carte_176-item3" n="3" key="work_13693 "><!-- not indexed -->
                      <title type="desc">Papers concerning the Duke of Ormond's negotiations with the Irish confederates, 1641-1650.</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>

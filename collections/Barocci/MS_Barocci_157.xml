@@ -173,7 +173,7 @@
                   </msIdentifier>
                   <msContents>
                      <textLang mainLang="grc">Greek</textLang>
-                     <msItem xml:id="MS_Barocci_157-part1-item1">
+                     <msItem xml:id="MS_Barocci_157-part1-item1" key="work_13277">
                         <locus>(fols. iii-xi)</locus>
                         <title>Menaion for September</title>
                         
@@ -223,7 +223,7 @@
                   </msIdentifier>
                   <msContents>
                      <textLang mainLang="grc">Greek</textLang>
-                     <msItem xml:id="MS_Barocci_157-part2-item1">
+                     <msItem xml:id="MS_Barocci_157-part2-item1" key="work_12367 ">
                         <locus>(fols. 402-3)</locus>
                         <title>Index to the main part of the manuscript</title>
                         

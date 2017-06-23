@@ -52,7 +52,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_753-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Ashmole_753-item1" n="1" class="#biblia" key="work_10226">
                      <title type="desc">Apocalypse.</title>
                      <note>(Latin text with French metrical translation)</note>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>

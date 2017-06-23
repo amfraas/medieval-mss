@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_d_11-item1" n="1" class="#miscellanea">
+                  <msItem xml:id="MS_Douce_d_11-item1" n="1" class="#miscellanea" key="work_10127">
                      <title type="desc">
                         <hi rend="italic">Album amicorum</hi> of <persName key="person_931">Paul van
                         Dale</persName>

@@ -73,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_361-part1-item1" n="1" class="#medica #astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_361-part1-item1" n="1" class="#medica #astrologia_astronomia" key="work_13174 ">
                         <title type="desc">Medical and astronomical notes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -99,15 +99,15 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_361-part2-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_361-part2-item1" n="1" class="#astrologia_astronomia" key="work_15343">
                         <title type="desc">Theorica planetarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_361-part2-item2" n="2" class="#computistica #mathematica">
+                     <msItem xml:id="MS_Ashmole_361-part2-item2" n="2" class="#computistica #mathematica" key="work_14951 ">
                         <title type="desc">Treatises on arithmetic and compotus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_361-part2-item3" n="3" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_361-part2-item3" n="3" class="#astrologia_astronomia" key="work_10416 ">
                         <title type="desc">Astronomical treatises and tables</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -78,7 +78,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1480-part1-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Ashmole_1480-part1-item1" n="1" class="#alchimia" key="work_10149 ">
                         <title type="desc">Alchemical texts</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -107,7 +107,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1480-part2-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Ashmole_1480-part2-item1" n="1" class="#alchimia" key="work_10154">
                         <title type="desc">Alchemical texts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -133,7 +133,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1480-part3-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Ashmole_1480-part3-item1" n="1" class="#alchimia" key="work_10148 ">
                         <title type="desc">Alchemical texts</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>

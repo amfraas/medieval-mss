@@ -59,7 +59,7 @@
                      </title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_89-item2" n="2" class="#theologica #devotiones">
+                  <msItem xml:id="MS_Canon_Ital_89-item2" n="2" class="#theologica #devotiones" key="work_15226">
 						               <title type="desc">Theological and devotional treatises</title>
                      
                      <textLang mainLang="it">Italian</textLang>

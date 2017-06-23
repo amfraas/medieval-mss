@@ -113,7 +113,7 @@
                         <title>Poetarius siue scintillarium poetarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_571-part1-item5" n="5">
+                     <msItem xml:id="MS_Bodl_571-part1-item5" n="5" key="work_11243 ">
                         <title>Commentary on Ovid, Metamorphoses</title>
                         <bibl type="commentedOn">
                            <author key="person_88342447">Ovid</author>
@@ -147,7 +147,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_571-part2-item1" n="1" class="#scientifica">
+                     <msItem xml:id="MS_Bodl_571-part2-item1" n="1" class="#scientifica" key="work_12793">
                         <title>Liber de natura rerum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

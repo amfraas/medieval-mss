@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_315-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_315-item1" n="1" class="#liturgica" key="work_13566">
                      <title type="desc">Office for the dead</title>
                      <note>for a nun</note>
                      <textLang mainLang="la">Latin</textLang>

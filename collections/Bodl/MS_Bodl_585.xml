@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_585-part1-item1" n="1" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_Bodl_585-part1-item1" n="1" class="#vitae_sanctorum" key="work_13067 ">
                         <title type="desc">Lives of SS. Alban and Amphibalus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -113,7 +113,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_585-part2-item1" n="1" class="#monastica">
+                     <msItem xml:id="MS_Bodl_585-part2-item1" n="1" class="#monastica" key="work_14459">
                         <title>Rule of St. Clare</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

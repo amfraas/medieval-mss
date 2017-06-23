@@ -58,7 +58,7 @@
                      <title>Meditationes uitae Christi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Liturg_226-item2" n="2" class="#mariologica">
+                  <msItem xml:id="MS_Canon_Liturg_226-item2" n="2" class="#mariologica" key="work_15109">
                      <title type="desc">Treatises on the Nativity and Assumption of the Virgin Mary</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

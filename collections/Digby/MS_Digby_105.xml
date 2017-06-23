@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_105-item1" n="1" class="#commentarii">
+                  <msItem xml:id="MS_Digby_105-item1" n="1" class="#commentarii" key="work_14179">
                      <title type="desc">Quaestiones on Galen, <hi rend="italic">Tegni</hi>
                      </title>
                      <textLang mainLang="la">Latin</textLang>

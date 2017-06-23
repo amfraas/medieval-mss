@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barlow_41-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Barlow_41-item1" n="1" class="#liturgica" key="work_10636">
                      <title type="desc">Breviary (pars hiemalis).</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

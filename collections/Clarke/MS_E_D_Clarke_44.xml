@@ -103,7 +103,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_E_D_Clarke_44-part2-item1" n="1" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_E_D_Clarke_44-part2-item1" n="1" class="#vitae_sanctorum" key="work_13063 ">
 						                  <title type="desc">Lives of Saints commemorated in March
               </title>
                         
@@ -136,7 +136,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_E_D_Clarke_44-part3-item1" n="1" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_E_D_Clarke_44-part3-item1" n="1" class="#vitae_sanctorum" key="work_13062 ">
 						                  <title type="desc">Lives of Saints commemorated in April </title>
                         
                         <note>(fragment).</note>
@@ -167,7 +167,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_E_D_Clarke_44-part4-item1" n="1" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_E_D_Clarke_44-part4-item1" n="1" class="#vitae_sanctorum" key="work_11455 ">
                         <title>De S. Ioanne baptista</title>
                         <note> (fragment)</note>
                         <textLang mainLang="grc">Greek</textLang>
@@ -194,7 +194,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_E_D_Clarke_44-part5-item1" n="1" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_E_D_Clarke_44-part5-item1" n="1" class="#vitae_sanctorum" key="work_13064">
 						                  <title type="desc">Lives of Saints commemorated in May and June</title>
                         
                         <note>(fragment)</note>

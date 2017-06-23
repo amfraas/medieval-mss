@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_243-item1" n="1">
+                  <msItem xml:id="MS_Bodl_243-item1" n="1" key="work_12078">
                      <title>Gospel of St. Luke (Wycliffite translation with gloss)</title>
                      <bibl type="bible">
                         <title>Bible, Luke</title>
@@ -64,7 +64,7 @@
                      </bibl>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_243-item2" n="2">
+                  <msItem xml:id="MS_Bodl_243-item2" n="2" key="work_12076 ">
                      <title> Gospel of  St. John with gloss</title>
                      <bibl type="bible">
                         <title>Bible, John</title>

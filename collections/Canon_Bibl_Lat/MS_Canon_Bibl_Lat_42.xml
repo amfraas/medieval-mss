@@ -73,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Bibl_Lat_42-part1-item1" n="1" class="#biblia #liturgica">
+                     <msItem xml:id="MS_Canon_Bibl_Lat_42-part1-item1" n="1" class="#biblia #liturgica" key="work_14114 ">
                         <title type="desc">Psalter</title>
                         <bibl type="bible">
                            <title>Bible, Psalms</title>
@@ -102,7 +102,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Bibl_Lat_42-part2-item1" n="1" class="#topographica">
+                     <msItem xml:id="MS_Canon_Bibl_Lat_42-part2-item1" n="1" class="#topographica" key="work_12006 ">
                         <title type="desc">Geographical tables</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
@@ -128,7 +128,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Bibl_Lat_42-part3-item1" n="1" class="#theologica #virtutes_et_vitia">
+                     <msItem xml:id="MS_Canon_Bibl_Lat_42-part3-item1" n="1" class="#theologica #virtutes_et_vitia" key="work_14184">
                         <title type="desc">Quaestiones on the theological virtues.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

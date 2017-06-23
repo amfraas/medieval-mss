@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_283-item1" n="1" class="#theologica #virtutes_et_vitia #pastoralia">
+                  <msItem xml:id="MS_Bodl_283-item1" n="1" class="#theologica #virtutes_et_vitia #pastoralia" key="work_13331">
                      <title>Mirroure of the Worlde</title>
                      <note>(ed. from this the unique MS. by <bibl type="edition">R. Raymo and E. Whitaker, <title>The Mirroure of the Worlde</title> (Medieval Academy/University of Toronto Press, 2003</bibl>) </note>
                      <textLang mainLang="en">English</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Gr_64-item1" n="1">
+                  <msItem xml:id="MS_Canon_Gr_64-item1" n="1" key="work_15387">
                      <title>Triodion with synaxaria of <persName role="author" key="person_29698295">Nicephorus Callistus</persName>.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

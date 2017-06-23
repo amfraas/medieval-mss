@@ -59,18 +59,18 @@
                      <note>(extract)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_803-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Bodl_803-item2" n="2" class="#theologica" key="work_14449 ">
                      <title>Rosarium theologie</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_803-item3" n="3" class="#biblia">
+                  <msItem xml:id="MS_Bodl_803-item3" n="3" class="#biblia" key="work_10477 ">
                      <title type="desc">Biblical lists</title>
                      <textLang mainLang="la">Latin</textLang>
                      <bibl type="bible">
                         <title type="desc">Bible</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_803-item4" n="4" class="#sermones">
+                  <msItem xml:id="MS_Bodl_803-item4" n="4" class="#sermones" key="work_14583">
                      <title type="desc">Sermons</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

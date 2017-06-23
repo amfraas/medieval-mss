@@ -60,7 +60,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_221-item2" n="2">
+                  <msItem xml:id="MS_Barocci_221-item2" n="2" key="work_11107">
                      
                      <title type="desc">Commentaries on Aristenos</title>
                      <textLang mainLang="grc">Greek</textLang>

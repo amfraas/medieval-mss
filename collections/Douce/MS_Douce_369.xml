@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_369-part1-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Douce_369-part1-item1" n="1" class="#biblia" key="work_13609">
                         <title rend="roman">Old Testament</title>
                         <note>(part)(earlier Wycliffite version)</note>
                         <bibl type="bible">
@@ -104,7 +104,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_369-part2-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Douce_369-part2-item1" n="1" class="#biblia" key="work_10461 ">
                         <title rend="roman">Bible,
               Isiah to the end </title>
                         <note>(earlier Wycliffite version)</note>

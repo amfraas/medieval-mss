@@ -119,7 +119,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_23-part2-item1" n="1" class="#romances">
+                     <msItem xml:id="MS_Digby_23-part2-item1" n="1" class="#romances" key="work_10865">
                         <title>Chanson de Roland.</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>

@@ -177,7 +177,7 @@
                      <title>Meditatio de humanitate Christi (medit. 9)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_630-item15" n="15" class="#sermones">
+                  <msItem xml:id="MS_Bodl_630-item15" n="15" class="#sermones" key="work_15135">
                      <title type="desc">Treatise on preaching</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

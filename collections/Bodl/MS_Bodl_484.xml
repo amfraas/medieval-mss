@@ -75,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_484-part1-item1" n="1">
+                     <msItem xml:id="MS_Bodl_484-part1-item1" n="1" key="work_11264 ">
                         <title>Commentary on Ps.-Albertus Magnus, <hi rend="italic">De secretis mulierum</hi>
                         </title>
                         <bibl type="commentedOn">
@@ -119,7 +119,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_484-part2-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Bodl_484-part2-item1" n="1" class="#medica" key="work_11456 ">
                         <title>De spermate</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -157,7 +157,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_484-part3-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Bodl_484-part3-item1" n="1" class="#medica" key="work_13197 ">
                         <title type="desc">Medical notes and recipes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -186,7 +186,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_484-part4-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Bodl_484-part4-item1" n="1" class="#medica" key="work_15076">
                         <title type="desc">Treatise on leprosy</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -215,7 +215,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_484-part5-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Bodl_484-part5-item1" n="1" class="#alchimia" key="work_10154 ">
                         <title type="desc">Alchemical treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -244,7 +244,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_484-part6-item1" n="1" class="#sacramenta">
+                     <msItem xml:id="MS_Bodl_484-part6-item1" n="1" class="#sacramenta" key="work_15002 ">
                         <title type="desc">Treatise on confession and sin</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -273,7 +273,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_484-part7-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Bodl_484-part7-item1" n="1" class="#alchimia" key="work_10136 ">
                         <title type="desc">Alchemical extracts and notes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -311,7 +311,7 @@
                         <title>Tractatus de venenis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_484-part8-item2" n="2" class="#medica">
+                     <msItem xml:id="MS_Bodl_484-part8-item2" n="2" class="#medica" key="work_13232 ">
                         <title type="desc">Medical treatise</title>
                         <rubric>Secretum Ypocratis de prognosticacione infirmorum</rubric>
                         <textLang mainLang="la">Latin</textLang>

@@ -88,7 +88,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_831-item1" n="1" class="#musica">
+                  <msItem xml:id="MS_Ashmole_831-item1" n="1" class="#musica" key="work_13096">
                      <note>(fols. 260-1)</note>
                      <title type="desc">Madrigals</title>
                      <note>(bound with 16th- and 17th-century heraldric, genealogical and administrative materials)</note>

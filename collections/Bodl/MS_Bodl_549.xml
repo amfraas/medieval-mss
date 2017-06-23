@@ -110,7 +110,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_549-part2-item1" n="1" class="#monastica">
+                     <msItem xml:id="MS_Bodl_549-part2-item1" n="1" class="#monastica" key="work_14979">
                         <title type="desc">Treatises on the <orgName key="org_129184449">Carthusian</orgName> order</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -168,7 +168,7 @@
                         <title>Manuale sacerdotis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_549-part2-item8" n="8" class="#contemplationes #oratio">
+                     <msItem xml:id="MS_Bodl_549-part2-item8" n="8" class="#contemplationes #oratio" key="work_13957 ">
                         <title type="desc">Prayers and meditations</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -60,12 +60,12 @@
                      <note>('extract form')</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_279-item2" n="2" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Canon_Class_Lat_279-item2" n="2" class="#astrologia_astronomia" key="work_10383 ">
                      <title type="desc">Astronomical excerpts from <persName role="author" key="person_39387062">Macrobius</persName> and
                         <persName role="author" key="person_100219162">Pliny</persName>.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_279-item3" n="3" class="#grammatica">
+                  <msItem xml:id="MS_Canon_Class_Lat_279-item3" n="3" class="#grammatica" key="work_12151">
                      <title type="desc">Grammatical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

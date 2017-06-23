@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barocci_38-item1" n="1">
+                  <msItem xml:id="MS_Barocci_38-item1" n="1" key="work_14503 ">
                      
                      <title>Scholia on 
                         Aristides, 
@@ -63,7 +63,7 @@
                      </bibl>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_38-item2" n="2">
+                  <msItem xml:id="MS_Barocci_38-item2" n="2" key="work_14504 ">
                      
                      <title>Scholia on 
                         Aristophanes, 
@@ -81,7 +81,7 @@
                      </bibl>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_38-item3" n="3">
+                  <msItem xml:id="MS_Barocci_38-item3" n="3" key="work_14510">
                      
                      <title>Scholia on 
                         Oppian,

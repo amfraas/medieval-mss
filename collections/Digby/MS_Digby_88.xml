@@ -51,22 +51,22 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_88-item1" n="1" class="#theologica">
+                  <msItem xml:id="MS_Digby_88-item1" n="1" class="#theologica" key="work_15279">
 						               <title type="desc">Theological notes</title>
                      
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_88-item2" n="2" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_88-item2" n="2" class="#astrologia_astronomia" key="work_10405 ">
 						               <title type="desc">Astronomical texts</title>
                      
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_88-item3" n="3" class="#medica #scientifica">
+                  <msItem xml:id="MS_Digby_88-item3" n="3" class="#medica #scientifica" key="work_13185 ">
 						               <title type="desc">Medical and scientific texts</title>
                      
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_88-item4" n="4" class="#prognostica">
+                  <msItem xml:id="MS_Digby_88-item4" n="4" class="#prognostica" key="work_14020 ">
                      <title type="desc">Prognostications</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>

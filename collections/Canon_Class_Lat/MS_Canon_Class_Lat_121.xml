@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Class_Lat_121-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Canon_Class_Lat_121-item1" n="1" class="#historica" key="work_15543">
                      <title type="desc">Writings connected with Sibyls.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

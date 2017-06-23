@@ -60,11 +60,11 @@
                      <note>(Italian translation)</note>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_163-item2" n="2" class="#oratio">
+                  <msItem xml:id="MS_Canon_Ital_163-item2" n="2" class="#oratio" key="work_13950 ">
                      <title type="desc">Prayers</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_163-item3" n="3" class="#sermones">
+                  <msItem xml:id="MS_Canon_Ital_163-item3" n="3" class="#sermones" key="work_14549">
 						               <title type="desc">Sermon</title>
                      
                      <textLang mainLang="la">Latin</textLang>

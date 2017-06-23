@@ -112,11 +112,11 @@
                      <title>De coitu</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1471-item4" n="4" class="#medica #alchimia #mathematica">
+                  <msItem xml:id="MS_Ashmole_1471-item4" n="4" class="#medica #alchimia #mathematica" key="work_13166">
                      <title type="desc">Medical, alchemical and mathematical treatises</title>
                      <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1471-item5" n="5" class="#medica">
+                  <msItem xml:id="MS_Ashmole_1471-item5" n="5" class="#medica" key="work_12208 ">
                      <title type="desc">Herbal</title>
                      <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                   </msItem>

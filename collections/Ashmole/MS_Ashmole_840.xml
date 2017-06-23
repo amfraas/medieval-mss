@@ -100,7 +100,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_840-part1-item1" n="1" class="#heraldica">
+                     <msItem xml:id="MS_Ashmole_840-part1-item1" n="1" class="#heraldica" key="work_12925">
                         <title type="desc">List of badges of the nobility and gentry</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -129,7 +129,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_840-part2-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_840-part2-item1" n="1" class="#documenta" key="work_11595 ">
                         <title type="desc">Document relating to the <orgName><!-- not found -->Knights of the Bath</orgName>
                         </title>
                         <textLang mainLang="en">English</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_675-item1" n="1" class="#scientifica">
+                  <msItem xml:id="MS_Bodl_675-item1" n="1" class="#scientifica" key="work_13491">
                      <title type="desc">Notes ('conclusiones') from several of the physical treatises
                            (including the Parva Naturalia) of <persName role="author" key="person_7524651">
                            Aristotle

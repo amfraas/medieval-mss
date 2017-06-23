@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_C_188-item1" n="1" class="#legalia">
+                  <msItem xml:id="MS_Add_C_188-item1" n="1" class="#legalia" key="work_14712">
                      <title type="desc">Statutes and legal documents</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

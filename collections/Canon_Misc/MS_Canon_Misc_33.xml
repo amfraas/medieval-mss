@@ -58,12 +58,12 @@
                      <title>Elegantiae linguae latinae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_33-item2" n="2" class="#historica">
+                  <msItem xml:id="MS_Canon_Misc_33-item2" n="2" class="#historica" key="work_15157">
 						               <title type="desc">Treatises on Roman history</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_33-item3" n="3" class="#topographica">
+                  <msItem xml:id="MS_Canon_Misc_33-item3" n="3" class="#topographica" key="work_12008 ">
                      <title type="desc">Geographical treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

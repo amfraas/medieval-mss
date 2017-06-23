@@ -44,7 +44,7 @@
 				
                
                <msContents>
-                 <msItem xml:id="MS_Buchanan_e_8-item1" class="#liturgica">
+                 <msItem xml:id="MS_Buchanan_e_8-item1" class="#liturgica" key="work_10551 ">
 						               <title type="desc">Book of Hours, Use of Paris</title> 
                      <textLang mainLang="la" otherLangs="fr">Latin, French</textLang>
                      <msItem xml:id="MS_Buchanan_e_8-item1-item1" n="1"><locus>[Item 1 occupies quire I] </locus>
@@ -174,7 +174,7 @@
                     
                     
                  </msItem>
-                 <msItem xml:id="MS_Buchanan_e_8-item1-item12" n="12">
+                 <msItem xml:id="MS_Buchanan_e_8-item1-item12" n="12" key="work_11514 ">
                         <locus>(fols. 136v-137v)</locus> 
                         <title type="sub">Devotion</title>
                         <note>with a heading in French</note>
@@ -217,7 +217,7 @@
 			 1521, (xiii) 1384a, (xvi) 3134, and (xvii) 1293.</note>
                       </msItem>
                    
-                  <msItem xml:id="MS_Buchanan_e_8-item1-item14" n="14"><locus>[Item 14 occupies the last leaf of quire XXII, which was
+                  <msItem xml:id="MS_Buchanan_e_8-item1-item14" n="14" key="work_12334"><locus>[Item 14 occupies the last leaf of quire XXII, which was
                         originally ruled, otherwise blank, and an added leaf]</locus>
                         <locus>(fols. 151r-152v)</locus> 
                         <title type="sub">Hymns</title>

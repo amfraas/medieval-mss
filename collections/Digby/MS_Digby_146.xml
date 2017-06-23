@@ -62,7 +62,7 @@
                      <title>Epistola ad Ehfridum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_146-item3" n="3" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Digby_146-item3" n="3" class="#vitae_sanctorum" key="work_13714">
                      <title type="desc">Passion of St. Edward king and martyr</title>
                      <note>(later addition)</note>
                      <textLang mainLang="la">Latin</textLang>

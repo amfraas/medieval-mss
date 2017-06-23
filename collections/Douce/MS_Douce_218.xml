@@ -108,7 +108,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_218-part2-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_218-part2-item1" n="1" class="#liturgica" key="work_13372">
                         <title type="desc">Missal, Use of Sarum</title>
                         <note>(fragment)</note>
                         <textLang mainLang="la">Latin</textLang>

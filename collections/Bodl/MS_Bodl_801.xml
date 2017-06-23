@@ -152,7 +152,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_801-part3-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Bodl_801-part3-item1" n="1" class="#theologica" key="work_15273">
                         <title type="desc">Theological manual</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -165,7 +165,7 @@
                         <title>De cura pastorali</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_801-part3-item3" n="3" class="#virtutes_et_vitia">
+                     <msItem xml:id="MS_Bodl_801-part3-item3" n="3" class="#virtutes_et_vitia" key="work_12403 ">
                         <title type="desc">'Interrogaciones' on mortal sins</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

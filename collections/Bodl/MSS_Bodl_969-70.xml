@@ -58,7 +58,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MSS_Bodl_969-70-item1" n="1" class="#biblia">
+                  <msItem xml:id="MSS_Bodl_969-70-item1" n="1" class="#biblia" key="work_10454">
                      <title rend="roman">Bible </title>
                      <note>(in two volumes)</note>
                      <textLang mainLang="de">German</textLang>

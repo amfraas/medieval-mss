@@ -71,11 +71,11 @@
                      <title>Vita S. Hilarionis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_351-item3" n="3" class="#vitas_patrum">
+                  <msItem xml:id="MS_Douce_351-item3" n="3" class="#vitas_patrum" key="work_12231 ">
                      <title>Historia monachorum in Aegypto</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_351-item4" n="4" class="#sermones">
+                  <msItem xml:id="MS_Douce_351-item4" n="4" class="#sermones" key="work_14583">
                      <title type="desc">Sermons</title>
                      <finalRubric>Sermones sanctorum patrum interpretati de greco in latino a Pelagio diacono sancte Romane ecclesie &amp; Johannes subdiaconus</finalRubric>
                      <textLang mainLang="la">Latin</textLang>

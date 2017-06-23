@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barlow_14-item1" n="1" class="#auctoritates">
+                  <msItem xml:id="MS_Barlow_14-item1" n="1" class="#auctoritates" key="work_13727">
                      <title type="desc">Patristic, classical, and humanistic pieces.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

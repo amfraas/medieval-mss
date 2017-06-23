@@ -96,7 +96,7 @@
                      <title>De ingenuis moribus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_130-item5" n="5" class="#apocrypha">
+                  <msItem xml:id="MS_Digby_130-item5" n="5" class="#apocrypha" key="work_11714">
                      <title>Epistolae Lentuli et Pilati</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

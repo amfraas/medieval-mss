@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_D_83-item1" n="1" class="#documenta #theologica">
+                  <msItem xml:id="MS_Add_D_83-item1" n="1" class="#documenta #theologica" key="work_12568">
                      <title type="desc">Ledger of <orgName>Amcotts, wine and fish merchant of London</orgName>, 1557 -
               1564, with added theological extracts and notes</title>
                      <textLang mainLang="en">English</textLang>

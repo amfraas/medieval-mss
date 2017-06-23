@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_820-part1-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_820-part1-item1" n="1" class="#documenta" key="work_14774">
                         <title type="desc">Statutes of the <orgName key="org_168089114">Order of the Garter</orgName>, 1552-3</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -101,7 +101,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_820-part2-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_820-part2-item1" n="1" class="#documenta" key="work_13662 ">
                         <title type="desc">Ordinance relating to officers of arms</title>
                         <note>(printed broadside)</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -131,7 +131,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_820-part3-item1" n="1" class="#miscellanea">
+                     <msItem xml:id="MS_Ashmole_820-part3-item1" n="1" class="#miscellanea" key="work_11671 ">
                         <title type="desc">Drawings copied by <persName role="author" key="person_64901269">Simon Forman</persName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>

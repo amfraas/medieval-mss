@@ -128,7 +128,7 @@
                         <title>Commendatio lamentabilis in transitu magni Edwardi regis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_912-part2-item3" n="3" class="#historica">
+                     <msItem xml:id="MS_Bodl_912-part2-item3" n="3" class="#historica" key="work_10190">
                         <title type="desc">Annals, 1307-56</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

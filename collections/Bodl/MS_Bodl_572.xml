@@ -78,7 +78,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_572-part1-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Bodl_572-part1-item1" n="1" class="#liturgica" key="work_13344 ">
                         <title type="desc" rend="italic">Missa propria Germani episcopi</title>
                         <note> (fragment)</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -116,7 +116,7 @@
                         <title>Expositio missae </title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_572-part2-item2" n="2" class="#biblia">
+                     <msItem xml:id="MS_Bodl_572-part2-item2" n="2" class="#biblia" key="work_15353">
                         <title rend="roman">Tobit</title>
                         <note>with Jerome's prologue</note>
                         <note>(with Cornish glosses)</note>
@@ -199,7 +199,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_572-part4-item1" n="1" class="#grammatica #miscellanea">
+                     <msItem xml:id="MS_Bodl_572-part4-item1" n="1" class="#grammatica #miscellanea" key="work_11432 ">
                         <title>De aliquibus raris fabulis </title>
                         <note>(colloquy, with glosses in Welsh, Cornish, etc.)</note>
                         <note>Additions including a strophe on <persName key="person_13667918">Augustine of Canterbury</persName> and two-part polyphony with letter-notation</note>
@@ -241,7 +241,7 @@
                         <title>Poenitentiale</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_572-part5-item2" n="2" class="#sacramenta">
+                     <msItem xml:id="MS_Bodl_572-part5-item2" n="2" class="#sacramenta" key="work_15131 ">
                         <title type="desc">Treatise on penitance</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -269,7 +269,7 @@
                         <note>(part)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_572-part5-item5" n="5" class="#sermones">
+                     <msItem xml:id="MS_Bodl_572-part5-item5" n="5" class="#sermones" key="work_14549 ">
                         <title type="desc">Sermon</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

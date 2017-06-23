@@ -76,7 +76,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_264-part1-item1" n="1" class="#romances">
+                     <msItem xml:id="MS_Bodl_264-part1-item1" n="1" class="#romances" key="work_14437">
                         <title>Romance of Alexander</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
@@ -109,7 +109,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_264-part2-item1" n="1" class="#romances">
+                     <msItem xml:id="MS_Bodl_264-part2-item1" n="1" class="#romances" key="work_10164 ">
                         <title>Alexander and Dindimus</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

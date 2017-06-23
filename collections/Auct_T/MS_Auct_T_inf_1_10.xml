@@ -51,7 +51,7 @@
                      Ebnerianus</msName>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_T_inf_1_10-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Auct_T_inf_1_10-item1" n="1" class="#biblia" key="work_13442">
                      <title rend="roman">New Testament</title>
                      <note>lacking Revelation ('Codex
               Ebnerianus').</note>

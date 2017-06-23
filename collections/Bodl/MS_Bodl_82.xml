@@ -49,24 +49,24 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_82-item1" n="1" class="#proverbia">
+                  <msItem xml:id="MS_Bodl_82-item1" n="1" class="#proverbia" key="work_14073 ">
                      <title type="desc">Proverbs of Solomon</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_82-item2" n="2" class="#theologica #miscellanea">
+                  <msItem xml:id="MS_Bodl_82-item2" n="2" class="#theologica #miscellanea" key="work_11505 ">
                      <title type="desc">Description of purgatory</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_82-item3" n="3" class="#devotiones">
+                  <msItem xml:id="MS_Bodl_82-item3" n="3" class="#devotiones" key="work_13945 ">
                      <title type="desc">Prayers</title>
                      <textLang mainLang="fr" otherLangs="la">French and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_82-item4" n="4" class="#theologica #sacramenta #virtutes_et_vitia">
+                  <msItem xml:id="MS_Bodl_82-item4" n="4" class="#theologica #sacramenta #virtutes_et_vitia" key="work_15302">
                      <title type="desc">Theological treatises</title>
                      <note>(on the sacraments, confession, and the seven deadly sins)</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_82-item5" n="5" class="#apocrypha">
+                  <msItem xml:id="MS_Bodl_82-item5" n="5" class="#apocrypha" key="work_10246 ">
                      <title type="desc">Apocryphal legend of events before the birth of Christ</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>

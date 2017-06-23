@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_E_D_Clarke_40-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_E_D_Clarke_40-item1" n="1" class="#liturgica" key="work_13284">
                      <title type="desc">Menologion</title>
                      <note>(part)</note>
                      <textLang mainLang="grc">Greek</textLang>

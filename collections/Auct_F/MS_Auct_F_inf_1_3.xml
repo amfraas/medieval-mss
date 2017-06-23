@@ -70,15 +70,15 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_inf_1_3-part1-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Auct_F_inf_1_3-part1-item1" n="1" class="#liturgica" key="work_12564 ">
                         <title type="desc">Lections</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_inf_1_3-part1-item2" n="2" class="#exempla">
+                     <msItem xml:id="MS_Auct_F_inf_1_3-part1-item2" n="2" class="#exempla" key="work_11760 ">
                         <title type="desc">Exempla</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_inf_1_3-part1-item3" n="2" class="#sermones">
+                     <msItem xml:id="MS_Auct_F_inf_1_3-part1-item3" n="2" class="#sermones" key="work_14583">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

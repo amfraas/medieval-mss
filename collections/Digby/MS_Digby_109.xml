@@ -60,7 +60,7 @@
                      <title>Passio S. Edmundi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_109-item2" n="2" class="#liturgica">
+                  <msItem xml:id="MS_Digby_109-item2" n="2" class="#liturgica" key="work_13579">
                      <title type="desc">Office of St. Edmund</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -59,7 +59,7 @@
                      <note>(Italian translation)</note>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_137-item2" n="2" class="#liturgica #biblia">
+                  <msItem xml:id="MS_Canon_Ital_137-item2" n="2" class="#liturgica #biblia" key="work_12073">
                      <title type="desc">Gospel lections</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

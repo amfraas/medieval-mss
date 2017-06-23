@@ -117,7 +117,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_794-part2-item1" n="1" class="#ecclesiastica">
+                     <msItem xml:id="MS_Bodl_794-part2-item1" n="1" class="#ecclesiastica" key="work_11355">
                         <title type="desc">Constitutions of <placeName key="place_7002445">English</placeName> church councils, 1261-1343</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -146,7 +146,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_794-part3-item1" n="1" class="#ecclesiastica">
+                     <msItem xml:id="MS_Bodl_794-part3-item1" n="1" class="#ecclesiastica" key="work_11353 ">
                         <title type="desc">Constitutions of <placeName key="place_7002445">English</placeName> church councils, 1222-1398</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

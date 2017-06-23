@@ -58,7 +58,7 @@
                      <title>sermons</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_93-item2" n="2" class="#sermones">
+                  <msItem xml:id="MS_Bodl_93-item2" n="2" class="#sermones" key="work_14583">
                      <title type="desc">Sermons</title>
                      <note>attributed here to <persName role="author" cert="low" key="person_66806872">Augustine</persName>, <persName role="author" key="person_100227669" cert="low">Ambrose</persName>, and <persName role="author" key="person_95147024" cert="low">Jerome</persName>.</note>
                      <textLang mainLang="la">Latin</textLang>

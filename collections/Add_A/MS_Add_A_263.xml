@@ -69,7 +69,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Add_A_263-part1-item1" n="1" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_Add_A_263-part1-item1" n="1" class="#vitae_sanctorum" key="work_12612">
                         <title type="desc">Legends of <persName key="person_264344179">St. 
                      Thomas Aquinas.</persName>
                         </title>

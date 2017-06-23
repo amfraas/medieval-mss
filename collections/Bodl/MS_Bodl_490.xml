@@ -74,7 +74,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_490-part1-item1" n="1" class="#sacramenta">
+                     <msItem xml:id="MS_Bodl_490-part1-item1" n="1" class="#sacramenta" key="work_15091">
                         <title type="desc">Treatise on the Mass</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -113,7 +113,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_490-part2-item1" n="1" class="#dictamen">
+                     <msItem xml:id="MS_Bodl_490-part2-item1" n="1" class="#dictamen" key="work_15077 ">
                         <title type="desc">Treatise on letter-writing</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -142,7 +142,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_490-part3-item1" n="1" class="#sacramenta">
+                     <msItem xml:id="MS_Bodl_490-part3-item1" n="1" class="#sacramenta" key="work_13122 ">
                         <title type="desc">Manual of questions to be asked by a priest at confession</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

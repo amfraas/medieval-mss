@@ -70,7 +70,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_6_9-part1-item1" n="1">
+                     <msItem xml:id="MS_Auct_F_6_9-part1-item1" n="1" key="work_11224">
                         <title>Commentary on Juvenal.</title>
                         <bibl type="commentedOn">
                            <author key="person_83985148">

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_156-item1" n="1" class="#devotiones">
+                  <msItem xml:id="MS_Canon_Ital_156-item1" n="1" class="#devotiones" key="work_11525 ">
                      <title type="desc">Devotional treatises</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
@@ -92,7 +92,7 @@
                      <note>(Italian translation)</note>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_156-item6" n="6" class="#theologica">
+                  <msItem xml:id="MS_Canon_Ital_156-item6" n="6" class="#theologica" key="work_15282">
 						               <title type="desc">Theological notes</title>
                      
                      <textLang mainLang="it">Italian</textLang>

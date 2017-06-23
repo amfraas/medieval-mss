@@ -69,7 +69,7 @@
                      <title>De decem mandatis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_163-item3" n="3" class="#theologica">
+                  <msItem xml:id="MS_Digby_163-item3" n="3" class="#theologica" key="work_15270">
 						               <title type="desc">Theological glossary</title>
                      
                      <textLang mainLang="la">Latin</textLang>

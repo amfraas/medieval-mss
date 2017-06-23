@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="Dep_c_686-item1" n="1" class="#documenta">
+                  <msItem xml:id="Dep_c_686-item1" n="1" class="#documenta" key="work_13694">
                      <title type="desc">Papers from <orgName key="org_243886719">Snowshill Manor</orgName>.</title>
                      <textLang mainLang="la" otherLangs="en es">Latin, English, and Spanish</textLang>
                   </msItem>

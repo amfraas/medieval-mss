@@ -56,11 +56,11 @@
                      <title>Life of St. Cuthbert</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_59-item2" n="2" class="#vitae_sanctorum #miracula">
+                  <msItem xml:id="MS_Digby_59-item2" n="2" class="#vitae_sanctorum #miracula" key="work_15373">
                      <title type="desc">Translation and miracles of St. Cuthbert</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_59-item3" n="3" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Digby_59-item3" n="3" class="#vitae_sanctorum" key="work_12827 ">
                      <title type="desc">Life of Bede</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

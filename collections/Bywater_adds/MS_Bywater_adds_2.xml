@@ -44,7 +44,7 @@
                   
                </head>
                <msContents>
-                  <msItem xml:id="MS_Bywater_adds_2-item1" class="#liturgica">
+                  <msItem xml:id="MS_Bywater_adds_2-item1" class="#liturgica" key="work_13346">
                      <title type="desc">Missal (Cistercian) for major feasts</title> 
                      <msItem xml:id="MS_Bywater_adds_2-item1-item1">
                         <locus>(fol. 1r)</locus> 

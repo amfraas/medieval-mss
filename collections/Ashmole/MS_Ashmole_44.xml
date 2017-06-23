@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_44-item1" n="1" class="#romances">
+                  <msItem xml:id="MS_Ashmole_44-item1" n="1" class="#romances" key="work_15500">
                      <title>The Wars of Alexander</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

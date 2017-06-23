@@ -113,7 +113,7 @@
                                  by two brief scholia on <hi rend="italic">privata</hi> and <hi rend="italic">largitiones</hi>.</note>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_173-part1-item2" n="2">
+                     <msItem xml:id="MS_Barocci_173-part1-item2" n="2" key="work_11082 ">
                         
                         <locus>(fols. 20r–57v)</locus> 
                         <title>collection of Justinian’s novels on canon law in
@@ -145,7 +145,7 @@
                         <note>pr. <title>PG</title> 138. 1077–1228.</note>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_173-part1-item5" n="5">
+                     <msItem xml:id="MS_Barocci_173-part1-item5" n="5" key="work_11068 ">
                         
                         <locus>(fols. 97r–101r)</locus> 
                         <title>collection from the Digest and Institutes</title> 
@@ -224,7 +224,7 @@
                                  off at the words φόνον, Τιμοθέου, 44C6.</note>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_173-part1-item10" n="">
+                     <msItem xml:id="MS_Barocci_173-part1-item10" n="" key="work_13547 ">
                         <locus>(fol. 351rv)</locus> 
                         <title>novel of <persName key="person_74643668">Alexios Comnenus</persName> of 1082</title> 
                         <note>
@@ -277,7 +277,7 @@
                   </msIdentifier>
                   <msContents>
                      <textLang mainLang="grc">Greek</textLang>
-                     <msItem xml:id="MS_Barocci_173-part2-item1" n="1">
+                     <msItem xml:id="MS_Barocci_173-part2-item1" n="1" key="work_14835">
                         
                         <locus>(fols. 157r–295v)</locus> 
                         <title>synopsis
@@ -287,7 +287,7 @@
                               see p. 8 on no. 11.</note>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_173-part2-item2" n="2">
+                     <msItem xml:id="MS_Barocci_173-part2-item2" n="2" key="work_12396 ">
                         
                         <locus>(fols. 296v–301r)</locus> 
                         <title>Institutes</title> 
@@ -302,7 +302,7 @@
                            accompanied by explanatory text.</note>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_173-part2-item3" n="3">
+                     <msItem xml:id="MS_Barocci_173-part2-item3" n="3" key="work_11689 ">
                         
                         <locus>(fols. 301r–325v, 327r)</locus> 
                         <title>ecloga legum

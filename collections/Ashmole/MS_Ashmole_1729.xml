@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1729-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Ashmole_1729-item1" n="1" class="#documenta" key="work_11091">
                      <title type="desc">Collection of state papers and historical documents</title>
                      <textLang mainLang="en" otherLangs="fr la">English, French and Latin</textLang>
                   </msItem>

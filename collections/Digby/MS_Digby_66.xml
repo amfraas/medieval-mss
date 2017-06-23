@@ -51,12 +51,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_66-item1" n="1" class="#ecclesiastica">
+                  <msItem xml:id="MS_Digby_66-item1" n="1" class="#ecclesiastica" key="work_10103 ">
                      <title type="desc">Acts of the <orgName key="org_147193963">Council of Basel</orgName>
                      </title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_66-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Digby_66-item2" n="2" class="#theologica" key="work_15240">
 						               <title type="desc">Theological and other notes</title>
                      
                      <textLang mainLang="la">Latin</textLang>

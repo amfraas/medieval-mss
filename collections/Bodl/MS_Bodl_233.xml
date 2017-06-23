@@ -58,7 +58,7 @@
                      <title>Historia regum Britanniae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_233-item2" n="2" class="#historica #miscellanea">
+                  <msItem xml:id="MS_Bodl_233-item2" n="2" class="#historica #miscellanea" key="work_12235">
                      <title type="desc">Historical and other notes</title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                   </msItem>

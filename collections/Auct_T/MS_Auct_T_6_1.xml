@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_T_6_1-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Auct_T_6_1-item1" n="1" class="#liturgica" key="work_10124">
                      <title type="desc">Akolouthiai from liturgical texts of the Greek
               church.</title>
                      <textLang mainLang="grc">Greek</textLang>

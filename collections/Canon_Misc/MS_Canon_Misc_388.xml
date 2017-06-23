@@ -59,7 +59,7 @@
                      <note>(Latin translation)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_388-item2" n="2" class="#medica">
+                  <msItem xml:id="MS_Canon_Misc_388-item2" n="2" class="#medica" key="work_15160">
                      <title type="desc">Treatise on rosemary</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

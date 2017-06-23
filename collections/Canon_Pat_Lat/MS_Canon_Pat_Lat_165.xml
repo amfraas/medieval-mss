@@ -76,7 +76,7 @@
                      <title>Sermones ad monachos</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_165-item4" n="4" class="#auctoritates #theologica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_165-item4" n="4" class="#auctoritates #theologica" key="work_13725">
                      <title type="desc">Patristic and theological extracts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

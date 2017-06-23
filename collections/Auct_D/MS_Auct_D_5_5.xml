@@ -102,7 +102,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_D_5_5-part2-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Auct_D_5_5-part2-item1" n="1" class="#biblia" key="work_12085">
                         <title rend="roman">Gospel of St.
               Matthew with gloss.</title>
                         <bibl type="bible">

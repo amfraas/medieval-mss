@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_534-part1-item1" n="1" class="#virtutes_et_vitia">
+                     <msItem xml:id="MS_Bodl_534-part1-item1" n="1" class="#virtutes_et_vitia" key="work_15167 ">
                         <title type="desc">Treatise on the seven deadly sins</title>
                         <note>(<persName role="author" key="person_47">Alexander of Stainsby</persName>, De septem criminibus (?))</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -105,7 +105,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_534-part2-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Bodl_534-part2-item1" n="1" class="#theologica" key="work_15273">
                         <title type="desc">Theological manual</title>
                         <note>(imperfect)</note>
                         <note>(<persName role="author" key="person_47">Alexander of Stainsby</persName>, De confessionibus (?))</note>

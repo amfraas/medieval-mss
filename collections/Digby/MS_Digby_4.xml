@@ -109,7 +109,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_4-part2-item1" n="1" class="#versus">
+                     <msItem xml:id="MS_Digby_4-part2-item1" n="1" class="#versus" key="work_13886 ">
 						                  <title type="desc">Poems.</title>
                         
                         <note>(by <persName role="author" key="person_100212859">
@@ -139,7 +139,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_4-part3-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Digby_4-part3-item1" n="1" class="#theologica" key="work_15283">
 						                  <title type="desc">Theological notes.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -197,12 +197,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_4-part5-item1" n="1" class="#versus #pastoralia"><!-- check -->
+                     <msItem xml:id="MS_Digby_4-part5-item1" n="1" class="#versus #pastoralia" key="work_13872 "><!-- check -->
 						                  <title type="desc">Poema morale.</title>
                         
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_4-part5-item2" n="2" class="#versus">
+                     <msItem xml:id="MS_Digby_4-part5-item2" n="2" class="#versus" key="work_13886 ">
 						                  <title type="desc">Poems</title>
                         
                         <textLang mainLang="la">Latin</textLang>

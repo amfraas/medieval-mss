@@ -58,7 +58,7 @@
                      <note>(extracts)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_C_72-item2" n="2" class="#astrologia_astronomia #computistica">
+                  <msItem xml:id="MS_Add_C_72-item2" n="2" class="#astrologia_astronomia #computistica" key="work_10363">
                      <title type="desc">Astronomical and calendrial tables and notes.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

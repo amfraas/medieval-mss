@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Class_Lat_140-item1" n="1" class="#miscellanea">
+                  <msItem xml:id="MS_Canon_Class_Lat_140-item1" n="1" class="#miscellanea" key="work_12750 ">
                      <title type="desc">Letters of <persName role="author" key="person_95283478">
                            Leonardo Bruni
                         </persName>, <persName role="author" key="person_19722038">
@@ -57,15 +57,15 @@
                         </persName> and others</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_140-item2" n="2" class="#auctoritates">
+                  <msItem xml:id="MS_Canon_Class_Lat_140-item2" n="2" class="#auctoritates" key="work_11790 ">
                      <title type="desc">Extracts from classical authors.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_140-item3" n="3" class="#rhetorica #grammatica">
+                  <msItem xml:id="MS_Canon_Class_Lat_140-item3" n="3" class="#rhetorica #grammatica" key="work_14928">
                      <title type="desc">Treatises mostly on grammar and rhetoric</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_140-item4" n="4" class="#rhetorica">
+                  <msItem xml:id="MS_Canon_Class_Lat_140-item4" n="4" class="#rhetorica" key="work_13630 ">
                      <title type="desc">Orations</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_918-item1" n="1" class="#theologica #oratio">
+                  <msItem xml:id="MS_Bodl_918-item1" n="1" class="#theologica #oratio" key="work_11664">
                      <title>Donatus devocionis</title>
                      <note>(treatise on prayer)</note>
                      <textLang mainLang="la">Latin</textLang>

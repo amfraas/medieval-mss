@@ -59,7 +59,7 @@
                      <note>(to 1327)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_341-item2" n="2" class="#romances">
+                  <msItem xml:id="MS_Bodl_341-item2" n="2" class="#romances" key="work_12226">
                      <title>Historia de proeliis Alexandri magni</title>
                      <note>(version J2)</note>
                      <textLang mainLang="la">Latin</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_42-item1" n="1" class="#sermones">
+                  <msItem xml:id="MS_Ashmole_42-item1" n="1" class="#sermones" key="work_13460">
                      <title>Northern Homily Cycle.</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

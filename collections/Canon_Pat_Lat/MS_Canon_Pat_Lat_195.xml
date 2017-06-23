@@ -58,7 +58,7 @@
                      <title>Liber de quattuordecim articulis catholicae fidei</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_195-item2" n="2" class="#theologica #astrologia_astronomia #miscellanea">
+                  <msItem xml:id="MS_Canon_Pat_Lat_195-item2" n="2" class="#theologica #astrologia_astronomia #miscellanea" key="work_10347">
                      <title type="desc">Astrological, theological and other notes</title>
                      <textLang mainLang="la" otherLangs="it">Latin and Italian</textLang>
                   </msItem>

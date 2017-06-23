@@ -81,7 +81,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_191-part1-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_191-part1-item1" n="1" class="#astrologia_astronomia" key="work_10343 ">
                         <title type="desc">Astrological texts and extracts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -119,7 +119,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_191-part2-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_191-part2-item1" n="1" class="#astrologia_astronomia" key="work_10342 ">
                         <title type="desc">Astrological treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -148,7 +148,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_191-part3-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_191-part3-item1" n="1" class="#astrologia_astronomia" key="work_10342 ">
                         <title type="desc">Astrological treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -177,11 +177,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_191-part4-item1" n="1" class="#versus #musica">
+                     <msItem xml:id="MS_Ashmole_191-part4-item1" n="1" class="#versus #musica" key="work_13901">
                         <title type="desc">Poems with music.</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_191-part4-item2" n="2" class="#astrologia_astronomia #computistica">
+                     <msItem xml:id="MS_Ashmole_191-part4-item2" n="2" class="#astrologia_astronomia #computistica" key="work_10375 ">
                         <title type="desc">Astronomical calendar.</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

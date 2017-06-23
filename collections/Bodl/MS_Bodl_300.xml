@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_300-item1" n="1" class="#astrologia_astronomia #musica #scientifica #rhetorica">
+                  <msItem xml:id="MS_Bodl_300-item1" n="1" class="#astrologia_astronomia #musica #scientifica #rhetorica" key="work_10325">
                      <title type="desc">Astrological, musical, rhetorical and scientific treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

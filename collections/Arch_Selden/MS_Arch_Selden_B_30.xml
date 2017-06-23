@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Arch_Selden_B_30-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Arch_Selden_B_30-item1" n="1" class="#liturgica" key="work_15386">
                      <title type="desc">Triodion</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

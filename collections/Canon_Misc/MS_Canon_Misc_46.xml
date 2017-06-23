@@ -85,17 +85,17 @@
                      <title>De urina non uisa</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_46-item5" n="5" class="#medica">
+                  <msItem xml:id="MS_Canon_Misc_46-item5" n="5" class="#medica" key="work_13232">
 						               <title type="desc">Medical texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_46-item6" n="6" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Canon_Misc_46-item6" n="6" class="#astrologia_astronomia" key="work_10409 ">
 						               <title type="desc">Astronomical text</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_46-item7" n="7" class="#prognostica">
+                  <msItem xml:id="MS_Canon_Misc_46-item7" n="7" class="#prognostica" key="work_12010 ">
                      <title type="desc">Geomantic text</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

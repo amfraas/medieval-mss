@@ -58,7 +58,7 @@
                      <title>Summa dictaminis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_816-item2" n="2" class="#miscellanea #dictamen">
+                  <msItem xml:id="MS_Bodl_816-item2" n="2" class="#miscellanea #dictamen" key="work_12732">
                      <title type="desc">Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

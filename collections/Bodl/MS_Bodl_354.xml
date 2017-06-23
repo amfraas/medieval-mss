@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_354-item1" n="1" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Bodl_354-item1" n="1" class="#vitae_sanctorum" key="work_13060">
                      <title type="desc">Lives of Saints</title>
                      <note>commemorated between 9th October and 31st December, with additions</note>
                      <textLang mainLang="la">Latin</textLang>

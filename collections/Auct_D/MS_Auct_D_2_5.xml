@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_D_2_5-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Auct_D_2_5-item1" n="1" class="#liturgica" key="work_10703 ">
                      <title type="desc">Calendar, use of Sarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_D_2_5-item2" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Auct_D_2_5-item2" n="1" class="#liturgica" key="work_14152">
                      <title type="desc">Psalter with canticles.</title>
                      <bibl type="bible">
                         <title type="desc">Bible, Psalms</title>

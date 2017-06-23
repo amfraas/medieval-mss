@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Don_e_247-item1" n="1" class="#theologica #devotiones">
+                  <msItem xml:id="MS_Don_e_247-item1" n="1" class="#theologica #devotiones" key="work_10903">
                      <title>The Chastising of God's Children</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

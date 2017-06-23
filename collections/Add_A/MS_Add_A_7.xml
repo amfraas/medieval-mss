@@ -123,7 +123,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Add_A_7-part2-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Add_A_7-part2-item1" n="1" class="#medica" key="work_13239">
                         <title type="desc">Medical treatise (antidotary)</title>
                         <incipit>Aurea Alexandrina faciens ad reuma</incipit>
                         <textLang mainLang="la">Latin</textLang>

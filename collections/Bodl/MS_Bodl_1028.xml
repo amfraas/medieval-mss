@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_1028-item1" n="1" class="#devotiones">
+                  <msItem xml:id="MS_Bodl_1028-item1" n="1" class="#devotiones" key="work_12781">
                      <title>Li trenta gradi della Celestiale Scala</title>
                      <note>(devotional treatise, here attributed to <persName role="author" key="person_95147024" cert="low">
                            Jerome

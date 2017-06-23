@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_92-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Douce_92-item1" n="1" class="#historica" key="work_15175">
                      <title type="desc">Treatise on <orgName key="org_126179587">St. Denis</orgName> and the Kings of <placeName key="place_1000070">France</placeName>
                      </title>
                      <rubric>Pelerinaiges, processions, prieres et oraisons faictes 

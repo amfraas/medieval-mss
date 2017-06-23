@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_D_1_3-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Auct_D_1_3-item1" n="1" class="#biblia" key="work_12115">
                      <title rend="roman">Gospels of St. Matthew and St. Mark</title> 
                      <note>with glosses</note>
                      <textLang mainLang="la">Latin</textLang>

@@ -58,11 +58,11 @@
                      <title>Historia regum Britanniae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_115-item2" n="2" class="#historica">
+                  <msItem xml:id="MS_Douce_115-item2" n="2" class="#historica" key="work_10959 ">
                      <title type="desc">Chronicle of <placeName key="place_7002445">England</placeName>, Brutus to 1245</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_115-item3" n="3" class="#historica #ecclesiastica">
+                  <msItem xml:id="MS_Douce_115-item3" n="3" class="#historica #ecclesiastica" key="work_12922">
                      <title type="desc">List of the archbishops of <placeName key="place_7012044">Canterbury</placeName> to
               c.1315</title>
                      <note>fol.

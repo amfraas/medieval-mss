@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_216-item1" n="1" class="#theologica">
+                  <msItem xml:id="MS_Digby_216-item1" n="1" class="#theologica" key="work_15327">
 						               <title type="desc">Theological treatises and quaestiones</title>
                      
                      <textLang mainLang="la">Latin</textLang>

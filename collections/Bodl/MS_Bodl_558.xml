@@ -67,7 +67,7 @@
                      <title>Epistle to Petrarch</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_558-item3" n="3" class="#historica #miscellanea">
+                  <msItem xml:id="MS_Bodl_558-item3" n="3" class="#historica #miscellanea" key="work_13527">
                      <title type="desc">Notes on <persName key="person_39382430">Petrarch</persName>'s tomb and his Eclogues</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

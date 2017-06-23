@@ -141,7 +141,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_563-part3-item1" n="1" class="#theologica #tabulae">
+                     <msItem xml:id="MS_Bodl_563-part3-item1" n="1" class="#theologica #tabulae" key="work_12361 ">
                         <title type="desc">Index of subjects (D- end) to a theological treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -168,7 +168,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_563-part4-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Bodl_563-part4-item1" n="1" class="#sermones" key="work_14583">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

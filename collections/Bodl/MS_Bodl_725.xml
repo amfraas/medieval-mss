@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_725-item1" n="1" class="#commentarii #biblia">
+                  <msItem xml:id="MS_Bodl_725-item1" n="1" class="#commentarii #biblia" key="work_13749">
                      <title type="desc">Pauline Epistles, with gloss of 
                            Peter Lombard</title>
                      <bibl type="bible">

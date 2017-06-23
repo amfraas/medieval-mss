@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_223-item1" n="1" class="#romances">
+                  <msItem xml:id="MS_Digby_223-item1" n="1" class="#romances" key="work_12494">
                      <title type="desc">Lancelot Cycle, branches 3, 4, 5</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>

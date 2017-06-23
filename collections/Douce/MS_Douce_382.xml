@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_382-item1" n="1" class="#devotiones">
+                  <msItem xml:id="MS_Douce_382-item1" n="1" class="#devotiones" key="work_15152">
                      <title type="desc">Treatise on religious life compiled from <persName role="author" key="person_89657091">
                            Bonaventure
                         </persName>

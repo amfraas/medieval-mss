@@ -109,7 +109,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_865-part2-item1" n="1" class="#miscellanea #grammatica">
+                     <msItem xml:id="MS_Bodl_865-part2-item1" n="1" class="#miscellanea #grammatica" key="work_11098">
                         <title>Colloquium hispericum</title>
                         <note>(dialogue on the advantages of Latin language and learning)</note>
                         <textLang mainLang="la">Latin</textLang>

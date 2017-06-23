@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_302-part1-item1" n="1" class="#distinctiones">
+                     <msItem xml:id="MS_Bodl_302-part1-item1" n="1" class="#distinctiones" key="work_11568 ">
                         <title type="desc">Distinctiones theologicae</title>
                         <note>(part)</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -145,7 +145,7 @@
                         <title>Ecclesiastical history</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_302-part3-item2" n="2" class="#historica">
+                     <msItem xml:id="MS_Bodl_302-part3-item2" n="2" class="#historica" key="work_12239">
                         <title type="desc">Historical extracts</title>
                         <note>(mostly relating to <placeName key="place_7002444">Scotland</placeName>)</note>
                         <textLang mainLang="la">Latin</textLang>

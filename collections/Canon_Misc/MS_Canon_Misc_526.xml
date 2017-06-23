@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_526-item1" n="1" class="#biblia #grammatica">
+                  <msItem xml:id="MS_Canon_Misc_526-item1" n="1" class="#biblia #grammatica" key="work_12042">
                      <title>Glossary of mostly Biblical terms</title>
                      <bibl type="bible">
                         <title>Bible</title>

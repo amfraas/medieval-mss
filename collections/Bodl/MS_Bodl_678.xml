@@ -108,7 +108,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_678-part2-item1" n="1" class="#biblia #auctoritates">
+                     <msItem xml:id="MS_Bodl_678-part2-item1" n="1" class="#biblia #auctoritates" key="work_11037">
                         <title type="desc">Classical and Biblical extracts </title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

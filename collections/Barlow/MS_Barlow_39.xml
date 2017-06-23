@@ -58,7 +58,7 @@
                      <title>Historia ecclesiastica</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barlow_39-item2" n="2" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Barlow_39-item2" n="2" class="#vitae_sanctorum" key="work_12827">
                      <title type="desc">Life of Bede.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

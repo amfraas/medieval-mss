@@ -58,12 +58,12 @@
                      <title>Sermones de tempore</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_187-item2" n="2" class="#sermones">
+                  <msItem xml:id="MS_Bodl_187-item2" n="2" class="#sermones" key="work_11808 ">
                      <title>Fasciculus morum</title>
                      <note>(handbook for preachers)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_187-item3" n="3" class="#theologica">
+                  <msItem xml:id="MS_Bodl_187-item3" n="3" class="#theologica" key="work_15256">
                      <title type="desc">Theological compilation</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

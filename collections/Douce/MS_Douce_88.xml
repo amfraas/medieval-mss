@@ -73,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_88-part1-item1" n="1" class="#liturgica #computistica">
+                     <msItem xml:id="MS_Douce_88-part1-item1" n="1" class="#liturgica #computistica" key="work_10687 ">
                         <title type="desc">Calendar</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -102,11 +102,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_88-part2-item1" n="1" class="#animalia">
+                     <msItem xml:id="MS_Douce_88-part2-item1" n="1" class="#animalia" key="work_10448 ">
                         <title type="desc">Bestiary</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_88-part2-item2" n="2" class="#apocrypha">
+                     <msItem xml:id="MS_Douce_88-part2-item2" n="2" class="#apocrypha" key="work_12263 ">
                         <title type="desc">Histories of the Holy Cross</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -119,11 +119,11 @@
                         <title>Parabolae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_88-part2-item4" n="4" class="#virtutes_et_vitia">
+                     <msItem xml:id="MS_Douce_88-part2-item4" n="4" class="#virtutes_et_vitia" key="work_15167">
                         <title type="desc">Treatise on seven deadly sins</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_88-part2-item5" n="5" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_Douce_88-part2-item5" n="5" class="#vitae_sanctorum" key="work_12893 ">
                         <title type="desc">Life of St. Mary Magdalene</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -155,7 +155,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_88-part3-item1" n="1" class="#veterinaria">
+                     <msItem xml:id="MS_Douce_88-part3-item1" n="1" class="#veterinaria" key="work_14978 ">
                         <title type="desc">Treatise on the care of horses</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -187,11 +187,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_88-part4-item1" n="1" class="#animalia">
+                     <msItem xml:id="MS_Douce_88-part4-item1" n="1" class="#animalia" key="work_10448 ">
                         <title type="desc">Bestiary</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_88-part4-item2" n="2" class="#miscellanea">
+                     <msItem xml:id="MS_Douce_88-part4-item2" n="2" class="#miscellanea" key="work_13341 ">
                         <title type="desc">Miscellaneous texts and extracts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

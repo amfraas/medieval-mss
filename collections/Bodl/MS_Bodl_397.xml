@@ -75,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_397-part1-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Bodl_397-part1-item1" n="1" class="#biblia" key="work_12400">
                         <title>Interpretationes nominum hebraicorum</title>
                         <note>(here attributed to <persName role="author" key="person_803890">
                               Isidore of Seville

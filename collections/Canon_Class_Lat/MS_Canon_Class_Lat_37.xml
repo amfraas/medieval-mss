@@ -60,7 +60,7 @@
                            glosses)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_37-item2" n="2" class="#miscellanea #astrologia_astronomia">
+                  <msItem xml:id="MS_Canon_Class_Lat_37-item2" n="2" class="#miscellanea #astrologia_astronomia" key="work_13423">
                      <title type="desc">Mythological, moral and astronomical notes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

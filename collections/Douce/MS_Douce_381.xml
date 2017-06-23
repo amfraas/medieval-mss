@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part1-item1" n="1" class="#versus #vitae_sanctorum">
+                     <msItem xml:id="MS_Douce_381-part1-item1" n="1" class="#versus #vitae_sanctorum" key="work_12878 ">
                         <title type="desc">Life of
               St. Juliana</title>
                         <note>(metrical)</note>
@@ -131,7 +131,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part3-item1" n="1" class="#romances">
+                     <msItem xml:id="MS_Douce_381-part3-item1" n="1" class="#romances" key="work_11508 ">
                         <title>The Destruction of
                            Troy</title>
                         <note>(fragment)</note>
@@ -159,7 +159,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part4-item1" n="1" class="#prognostica">
+                     <msItem xml:id="MS_Douce_381-part4-item1" n="1" class="#prognostica" key="work_10870 ">
                         <title type="desc">Characters of first eighteen days of the month in relation to good and
                            ill fortune</title>
                         <note>(fragment)</note>
@@ -223,7 +223,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part6-item1" n="1" class="#romances">
+                     <msItem xml:id="MS_Douce_381-part6-item1" n="1" class="#romances" key="work_14438 ">
                         <title>Romance of Garin de
                         Montglane (?)</title>
                         <note>(fragment)</note>
@@ -251,7 +251,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part7-item1" n="1" class="#versus">
+                     <msItem xml:id="MS_Douce_381-part7-item1" n="1" class="#versus" key="work_14665 ">
                         <title type="desc">Songs</title>
                         <note>(fragment)</note>
                         <textLang mainLang="fr">French</textLang>
@@ -278,7 +278,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part8-item1" n="1" class="#versus #musica">
+                     <msItem xml:id="MS_Douce_381-part8-item1" n="1" class="#versus #musica" key="work_14667">
                         <title type="desc">Songs with music</title>
                         <note>(fragment)</note>
                         <textLang mainLang="en" otherLangs="fr">English and French</textLang>
@@ -305,7 +305,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part9-item1" n="1" class="#romances">
+                     <msItem xml:id="MS_Douce_381-part9-item1" n="1" class="#romances" key="work_10864 ">
                         <title>Chanson de Jérusalem</title>
                         <note>(fragment)</note>
                         <textLang mainLang="fr">French</textLang>
@@ -332,7 +332,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part10-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part10-item1" n="1" class="#liturgica" key="work_11062 ">
                         <title type="desc">Collectar and Hymnal</title>
                         <note>(fragment)</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -360,7 +360,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part11-item1" n="1" class="#liturgica #biblia">
+                     <msItem xml:id="MS_Douce_381-part11-item1" n="1" class="#liturgica #biblia" key="work_14161 ">
                         <locus>(fols. 63v-65v)</locus>
                         <title type="desc">Psalter/Hours and Calendar</title>
                         <note>(cuttings, see also MS. Douce d. 19 fols. 10-39)</note>
@@ -396,7 +396,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part12-item1" n="1" class="#liturgica #biblia">
+                     <msItem xml:id="MS_Douce_381-part12-item1" n="1" class="#liturgica #biblia" key="work_14114 ">
                         <locus>fols. 66-82v</locus>
                         <title type="desc">Psalter</title>
                         <note>(cuttings)</note>
@@ -430,7 +430,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part13-item1" n="1" class="#liturgica"> 
+                     <msItem xml:id="MS_Douce_381-part13-item1" n="1" class="#liturgica" key="work_10505 "> 
                         <locus>fols. 78-88</locus>
                         <title type="desc">Book of Hours</title>
                         <note>(fragment, see also MS. Douce d. 19 fol. 71v)</note>
@@ -468,7 +468,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part14-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part14-item1" n="1" class="#liturgica" key="work_10509 ">
                         <locus>(fols. 89-103)</locus>
                         <title type="desc">Book of Hours</title>
                         <note>(cuttings)</note>
@@ -503,7 +503,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part15-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part15-item1" n="1" class="#liturgica" key="work_10507 ">
                         <locus>(fols. 106-20)</locus>
                         <title type="desc">Book of Hours</title>
                         <note>(fragments)</note>
@@ -537,7 +537,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part16-item1" n="1" class="#liturgica #biblia">
+                     <msItem xml:id="MS_Douce_381-part16-item1" n="1" class="#liturgica #biblia" key="work_14114 ">
                         <locus>(fols. 122-4)</locus>
                         <title type="desc">Psalter</title>
                         <note>(fragments of illustrations)</note>
@@ -572,7 +572,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part17-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part17-item1" n="1" class="#liturgica" key="work_12122 ">
                         <locus>(fol. 125)</locus>
                         <title type="desc">Gradual</title>
                         <note>(cutting)</note>
@@ -606,7 +606,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part18-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part18-item1" n="1" class="#liturgica" key="work_12122 ">
                         <locus>(fol. 127)</locus>
                         <title type="desc">Gradual</title>
                         <note>(cutting)</note>
@@ -640,7 +640,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part19-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part19-item1" n="1" class="#liturgica" key="work_12122 ">
                         <locus>(fols. 128-48)</locus>
                         <title type="desc">Gradual</title>
                         <note>(cuttings)</note>
@@ -673,7 +673,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part20-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part20-item1" n="1" class="#liturgica" key="work_12122 ">
                         <locus>(fol. 152)</locus>
                         <title type="desc">Gradual</title>
                         <note>(fragment)</note>
@@ -706,7 +706,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part21-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part21-item1" n="1" class="#liturgica" key="work_10507 ">
                         <locus>(fols. 157r-158v, 169)</locus>
                         <title type="desc">Book of Hours</title>
                         <note>(fragments)</note>
@@ -836,7 +836,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part25-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part25-item1" n="1" class="#liturgica" key="work_10507 ">
                         <locus>(fol. 163a)</locus>
                         <title type="desc">Book of Hours</title>
                         <note>(cutting)</note>
@@ -902,7 +902,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part27-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part27-item1" n="1" class="#liturgica" key="work_10507 ">
                         <locus>(fol. 163c)</locus>
                         <title type="desc">Book of Hours</title>
                         <note>(fragment)</note>
@@ -937,7 +937,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part28-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part28-item1" n="1" class="#liturgica" key="work_10507 ">
                         <locus>(fols. 164-6)</locus>
                         <title type="desc">Book of Hours</title>
                         <note>(cuttings)</note>
@@ -972,7 +972,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part29-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part29-item1" n="1" class="#liturgica" key="work_13776 ">
                         <locus>(fols. 170-3)</locus>
                         <title type="desc">Pericope, prayers</title>
                         <note>(fragments)</note>
@@ -1006,7 +1006,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part30-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part30-item1" n="1" class="#liturgica" key="work_10507 ">
                         <locus>(fol. 174b)</locus>
                         <title type="desc">Book of Hours</title>
                         <note>(cutting)</note>
@@ -1040,7 +1040,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part31-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part31-item1" n="1" class="#liturgica" key="work_10507 ">
                         <locus>(fols. 175-9)</locus>
                         <title type="desc">Book of Hours</title>
                         <note>(cuttings)</note>
@@ -1074,7 +1074,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_381-part32-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_381-part32-item1" n="1" class="#liturgica" key="work_12122 ">
                         <locus>(fol. 180)</locus>
                         <title type="desc">Gradual</title>
                         <note>(cutting)</note>

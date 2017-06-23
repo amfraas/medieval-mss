@@ -63,28 +63,28 @@
                            <title>Lamenti storici dei secoli XIV, XV e XVI</title>, ed. A. Medin &amp; L. Frati, II (Bologna, 1888), 195-229</bibl>)</note>
                      <textLang mainLang="it">Italian</textLang>   
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_263-item3" n="3" class="#romances">
+                  <msItem xml:id="MS_Canon_Ital_263-item3" n="3" class="#romances" key="work_13548 ">
                      <title type="desc">Novella di Tebaldino</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_263-item4" n="4" class="#versus">
+                  <msItem xml:id="MS_Canon_Ital_263-item4" n="4" class="#versus" key="work_13881 ">
 						               <title type="desc">Poems</title>
                      
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_263-item5" n="5" class="#oratio">
+                  <msItem xml:id="MS_Canon_Ital_263-item5" n="5" class="#oratio" key="work_13947 ">
                      <title type="desc">Prayers</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_263-item6" n="6" class="#historica">
+                  <msItem xml:id="MS_Canon_Ital_263-item6" n="6" class="#historica" key="work_12430 ">
                     <title>Istoria di Attila</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_263-item7" n="7" class="#lapidaria">
+                  <msItem xml:id="MS_Canon_Ital_263-item7" n="7" class="#lapidaria" key="work_12504 ">
                      <title type="desc">Lapidary</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_263-item8" n="8" class="#prognostica">
+                  <msItem xml:id="MS_Canon_Ital_263-item8" n="8" class="#prognostica" key="work_14032">
                      <title type="desc">Prophecies</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

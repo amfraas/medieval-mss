@@ -87,7 +87,7 @@
                      <title>Liber introductorius</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item5" n="5" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_47-item5" n="5" class="#astrologia_astronomia" key="work_10409 ">
 						               <title type="desc">Astronomical texts.</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -137,7 +137,7 @@
                      <title>Quinquaginta praecepta</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item11" n="11" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_47-item11" n="11" class="#astrologia_astronomia" key="work_12808">
                      <title>Liber nouem iudicum</title>
                      <note>(part)</note>
                      <textLang mainLang="la">Latin</textLang>

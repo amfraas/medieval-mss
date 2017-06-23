@@ -59,7 +59,7 @@
                      <note>(English translation)</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_789-item2" n="2" class="#pastoralia">
+                  <msItem xml:id="MS_Bodl_789-item2" n="2" class="#pastoralia" key="work_12524 ">
                      <title>Lay Folks' Catechism</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
@@ -81,7 +81,7 @@
                      <title>Formula honestae uitae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_789-item5" n="5" class="#devotiones #pastoralia">
+                  <msItem xml:id="MS_Bodl_789-item5" n="5" class="#devotiones #pastoralia" key="work_14353">
                      <title type="desc">Religious treatises</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

@@ -49,15 +49,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_614-item1" n="1" class="#computistica #liturgica">
+                  <msItem xml:id="MS_Bodl_614-item1" n="1" class="#computistica #liturgica" key="work_10687 ">
                      <title type="desc">Calendar</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_614-item2" n="2" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Bodl_614-item2" n="2" class="#astrologia_astronomia" key="work_14959">
                      <title type="desc">Treatise on astronomy</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_614-item3" n="3" class="#topographica">
+                  <msItem xml:id="MS_Bodl_614-item3" n="3" class="#topographica" key="work_13143 ">
                      <title type="desc">Marvels of the East</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

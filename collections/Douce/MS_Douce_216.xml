@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_216-item1" n="1" class="#romances">
+                  <msItem xml:id="MS_Douce_216-item1" n="1" class="#romances" key="work_10251">
                      <title>Apollonius of Tyre</title>
                      <note>(two fragments of a Middle English verse translation:  about
                            140 lines in quatrains)</note>

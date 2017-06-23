@@ -58,7 +58,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_125-item2" n="2" class="#versus">
+                  <msItem xml:id="MS_Canon_Class_Lat_125-item2" n="2" class="#versus" key="work_13886">
                      <title type="desc">Poems</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

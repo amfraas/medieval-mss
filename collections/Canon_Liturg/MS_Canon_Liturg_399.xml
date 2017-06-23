@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_399-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_399-item1" n="1" class="#liturgica" key="work_10570">
                      <title type="desc">Book of Hours, Use of Rouen</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

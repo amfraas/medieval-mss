@@ -117,7 +117,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Class_Lat_22-part2-item1" n="1" class="#versus #devotiones">
+                     <msItem xml:id="MS_Canon_Class_Lat_22-part2-item1" n="1" class="#versus #devotiones" key="work_14323">
                         <title type="desc">Religious and other poems.</title>
                         <textLang mainLang="la" otherLangs="grc">Latin and Greek</textLang>
                      </msItem>

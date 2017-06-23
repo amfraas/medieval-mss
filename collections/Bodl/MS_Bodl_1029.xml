@@ -49,19 +49,19 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_1029-item1" n="1" class="#sacramenta">
+                  <msItem xml:id="MS_Bodl_1029-item1" n="1" class="#sacramenta" key="work_14997 ">
                      <title type="desc">Treatise on confession</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_1029-item2" n="2" class="#sacramenta">
+                  <msItem xml:id="MS_Bodl_1029-item2" n="2" class="#sacramenta" key="work_15090 ">
                      <title type="desc">Treatise on the Mass</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_1029-item3" n="3" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Bodl_1029-item3" n="3" class="#vitae_sanctorum" key="work_12185 ">
                      <title type="desc">Hagiographical texts</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_1029-item4" n="4" class="#romances">
+                  <msItem xml:id="MS_Bodl_1029-item4" n="4" class="#romances" key="work_15352">
                      <title>Titus and Vespasian</title>
                      <note>(Italian version)</note>
                      <textLang mainLang="it">Italian</textLang>

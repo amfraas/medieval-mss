@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_191-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Bodl_191-item1" n="1" class="#documenta" key="work_10902">
                      <title type="desc">Chartulary of the office of Pittancer of 
                         <orgName key="org_134872490">Malmesbury Abbey</orgName>
                      </title>

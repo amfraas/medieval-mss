@@ -96,7 +96,7 @@
                         <title>Algorismus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_29-part1-item4" n="4" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Auct_F_5_29-part1-item4" n="4" class="#astrologia_astronomia" key="work_10342">
                         <title type="desc">Astrological treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

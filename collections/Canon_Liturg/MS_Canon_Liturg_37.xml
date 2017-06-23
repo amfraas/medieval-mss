@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_37-item1" n="1" class="#liturgica #oratio">
+                  <msItem xml:id="MS_Canon_Liturg_37-item1" n="1" class="#liturgica #oratio" key="work_13588">
                      <title type="desc">Offices and prayers (Premonstratensian)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

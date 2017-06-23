@@ -67,7 +67,7 @@
                      <title>Trattato delle trenta stoltizie</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_232-item3" n="3" class="#sacramenta">
+                  <msItem xml:id="MS_Canon_Ital_232-item3" n="3" class="#sacramenta" key="work_14997">
                      <title type="desc">Treatise on confession</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

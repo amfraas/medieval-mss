@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_553-part1-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Bodl_553-part1-item1" n="1" class="#liturgica" key="work_12121">
                         <title type="desc">Gradual (Cistercian)</title>
                         <note> (fragments used as flyleaves)</note>
                         <textLang mainLang="la">Latin</textLang>

@@ -66,7 +66,7 @@
                      </bibl>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_207-item2" n="2" class="#apocrypha">
+                  <msItem xml:id="MS_Bodl_207-item2" n="2" class="#apocrypha" key="work_11735">
                      <title>Euangelium Nicodemi</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

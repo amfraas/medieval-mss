@@ -58,7 +58,7 @@
                      <title>Life of St Thomas of Canterbury</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_493-item2" n="2" class="#miracula">
+                  <msItem xml:id="MS_Bodl_493-item2" n="2" class="#miracula" key="work_13318">
                      <title type="desc">Miracles of St Augustine of Canterbury</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

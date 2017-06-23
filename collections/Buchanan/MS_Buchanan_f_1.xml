@@ -42,7 +42,7 @@
                </msIdentifier>
                
                <msContents>
-                  <msItem xml:id="MS_Buchanan_f_1-item1" class="#liturgica">
+                  <msItem xml:id="MS_Buchanan_f_1-item1" class="#liturgica" key="work_10501">
 						               <title type="desc">Book of Hours</title>
                   	  <note>mainly in the translation of <persName role="translator" key="person_27074604">Geert Grote</persName>
                      </note>

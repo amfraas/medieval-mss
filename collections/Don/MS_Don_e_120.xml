@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Don_e_120-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Don_e_120-item1" n="1" class="#liturgica" key="work_10572">
 						               <title type="desc">Book of Hours, Use of Sarum ('The Pudsay Hours')</title>
                      
                      <note>(mutilated)</note>

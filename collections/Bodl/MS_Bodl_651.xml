@@ -85,7 +85,7 @@
                         <note>(book iv)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_651-part1-item2" n="2" class="#sermones">
+                     <msItem xml:id="MS_Bodl_651-part1-item2" n="2" class="#sermones" key="work_14583">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -67,7 +67,7 @@
                      <title>Meditations</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_10-item3" n="3" class="#oratio #contemplationes">
+                  <msItem xml:id="MS_Canon_Pat_Lat_10-item3" n="3" class="#oratio #contemplationes" key="work_13957">
                      <title type="desc">Prayers and meditations</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

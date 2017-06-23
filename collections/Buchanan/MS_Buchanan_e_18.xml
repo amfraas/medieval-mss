@@ -42,7 +42,7 @@
 					          </msIdentifier>
 					
 					          <msContents>
-						            <msItem xml:id="MS_Buchanan_e_18-item1" class="#liturgica">
+						            <msItem xml:id="MS_Buchanan_e_18-item1" class="#liturgica" key="work_10563">
 						               <title type="desc">Book of Hours, Use of Rome</title>
 							
 							              <textLang mainLang="la" otherLangs="nl">Latin and Netherlandish</textLang>

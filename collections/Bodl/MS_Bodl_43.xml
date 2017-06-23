@@ -63,7 +63,7 @@
                      <title>Treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_43-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Bodl_43-item2" n="2" class="#theologica" key="work_15308">
                      <title type="desc">Theological treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

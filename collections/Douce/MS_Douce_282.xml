@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_282-item1" n="1" class="#sermones">
+                  <msItem xml:id="MS_Douce_282-item1" n="1" class="#sermones" key="work_14577 ">
                      <title type="desc">Sermons</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_282-item2" n="2" class="#sacramenta">
+                  <msItem xml:id="MS_Douce_282-item2" n="2" class="#sacramenta" key="work_14995">
                      <title type="desc">Treatise on confession</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>

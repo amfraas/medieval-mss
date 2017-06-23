@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_235-item1" n="1" class="#theologica #devotiones">
+                  <msItem xml:id="MS_Canon_Ital_235-item1" n="1" class="#theologica #devotiones" key="work_14295">
                      <title>Regola di Vita</title>
                      <note>(religious treatise)</note>
                      <textLang mainLang="it">Italian</textLang>

@@ -61,7 +61,7 @@
                      <note>(C text)</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_102-item2" n="2" class="#theologica #devotiones #satirica"><!-- check -->
+                  <msItem xml:id="MS_Digby_102-item2" n="2" class="#theologica #devotiones #satirica" key="work_14328"><!-- check -->
 						               <title type="desc">Religious and political poems.</title>
                      
                      <textLang mainLang="en">English</textLang>

@@ -77,7 +77,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Cromwell_27-part1-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Cromwell_27-part1-item1" n="1" class="#liturgica" key="work_12067">
                         <title type="desc">Gospel lectionary.</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -106,7 +106,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Cromwell_27-part2-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Cromwell_27-part2-item1" n="1" class="#liturgica" key="work_11740 ">
                         <title>Evangelia Eothina</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>

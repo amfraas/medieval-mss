@@ -75,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_848-part1-item1" n="1" class="#theologica #miscellanea">
+                     <msItem xml:id="MS_Bodl_848-part1-item1" n="1" class="#theologica #miscellanea" key="work_15241">
                         <title type="desc">Theological and other notes and treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -184,7 +184,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_848-part3-item1" n="1" class="#tabulae">
+                     <msItem xml:id="MS_Bodl_848-part3-item1" n="1" class="#tabulae" key="work_12362 ">
                         <title type="desc">Index of subjects to fols. 1-162</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

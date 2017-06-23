@@ -76,7 +76,7 @@
                      <title>Epistola de transitu beati Hieronymi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_70-item4" n="4" class="#miracula #liturgica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_70-item4" n="4" class="#miracula #liturgica" key="work_13316">
                      <title type="desc">Miracles and office of St. Jerome</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

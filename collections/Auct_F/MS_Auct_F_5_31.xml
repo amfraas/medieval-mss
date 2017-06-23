@@ -116,7 +116,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_31-part2-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Auct_F_5_31-part2-item1" n="1" class="#medica" key="work_13229">
                         <title type="desc">Medical
               texts.</title>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>

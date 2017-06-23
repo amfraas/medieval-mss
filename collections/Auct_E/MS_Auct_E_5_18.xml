@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_E_5_18-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Auct_E_5_18-item1" n="1" class="#liturgica" key="work_12304">
                      <title type="desc">Horologium</title>
                      <note>(abbreviated)</note>
                      <textLang mainLang="grc">Greek</textLang>

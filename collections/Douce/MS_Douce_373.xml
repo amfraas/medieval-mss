@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_373-item1" n="1" class="#versus">
+                  <msItem xml:id="MS_Douce_373-item1" n="1" class="#versus" key="work_13899">
                      <title type="desc">Poems relating to drawings by <persName role="artist" key="person_311822937">Gielis den Hecke</persName>, custos of <orgName key="org_242823650">Zevenborren</orgName> monastery</title>
                      <textLang mainLang="nl" otherLangs="la">Netherlandish and Latin</textLang>
                   </msItem>

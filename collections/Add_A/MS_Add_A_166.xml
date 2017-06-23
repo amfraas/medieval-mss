@@ -56,7 +56,7 @@
                      <title>Satires</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_A_166-item2" n="2" class="#historica #commentarii">
+                  <msItem xml:id="MS_Add_A_166-item2" n="2" class="#historica #commentarii" key="work_13052">
                      <title type="desc">Lives of <persName key="person_83985148">Juvenal</persName>.</title>
                      <note>(three short lives)</note>
                      <textLang mainLang="la">Latin</textLang>

@@ -60,7 +60,7 @@
                      <title>Experimentarius</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_46-item2" n="2" class="#prognostica">
+                  <msItem xml:id="MS_Digby_46-item2" n="2" class="#prognostica" key="work_15044">
                      <title type="desc">Treatise on geomancy</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

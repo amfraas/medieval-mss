@@ -49,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_Rolls_5-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Bodl_Rolls_5-item1" n="1" class="#historica" key="work_11987">
 						               <title type="desc">Genealogy of the kings of England to Richard III.</title>
                      
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_Rolls_5-item2" n="2" class="#historica">
+                  <msItem xml:id="MS_Bodl_Rolls_5-item2" n="2" class="#historica" key="work_10990 ">
 						               <title type="desc">Chronicle of the <orgName><!-- not found -->Percy family</orgName> to 1485.</title>
                      
                      <textLang mainLang="en">English</textLang>

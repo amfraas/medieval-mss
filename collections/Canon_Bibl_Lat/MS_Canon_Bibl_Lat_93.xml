@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Bibl_Lat_93-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Canon_Bibl_Lat_93-item1" n="1" class="#biblia" key="work_14154">
                      <title rend="roman">Psalter, with commentary by Peter Lombard.</title>
                      <bibl type="commentary">
                         <author key="person_51797933">

@@ -96,7 +96,7 @@
                      <title>Trifolium de re medica</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_160-item6" n="6" class="#medica">
+                  <msItem xml:id="MS_Digby_160-item6" n="6" class="#medica" key="work_13232">
 						               <title type="desc">Medical texts.</title>
                      
                      <textLang mainLang="la">Latin</textLang>

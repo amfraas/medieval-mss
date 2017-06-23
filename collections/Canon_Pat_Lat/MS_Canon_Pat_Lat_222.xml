@@ -73,7 +73,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_222-item3" n="3" class="#versus">
+                  <msItem xml:id="MS_Canon_Pat_Lat_222-item3" n="3" class="#versus" key="work_15437">
                      <title type="desc">Verses</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

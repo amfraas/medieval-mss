@@ -58,7 +58,7 @@
                      <title>Anthologium</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_69-item2" n="2">
+                  <msItem xml:id="MS_Canon_Gr_69-item2" n="2" key="work_11845">
                      <title>Florilegium</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

@@ -103,7 +103,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_DOrville_175-part2-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_DOrville_175-part2-item1" n="1" class="#liturgica" key="work_14469">
                         <locus>(lower text)</locus>
                         <title type="desc">Sacramentary</title>
                         <textLang mainLang="la">Latin</textLang>

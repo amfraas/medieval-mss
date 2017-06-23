@@ -61,7 +61,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_84-item2" n="2">
+                  <msItem xml:id="MS_Barocci_84-item2" n="2" key="work_12156">
                      <title type="desc">Grammatical treatises and extracts.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

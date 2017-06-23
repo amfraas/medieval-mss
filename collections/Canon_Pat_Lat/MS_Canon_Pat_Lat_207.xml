@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_207-item1" n="1" class="#legalia">
+                  <msItem xml:id="MS_Canon_Pat_Lat_207-item1" n="1" class="#legalia" key="work_11477">
                      <title type="desc">Decretals</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -58,7 +58,7 @@
                      <title>Corrogationes Promethei</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_550-item2" n="2" class="#biblia #commentarii">
+                  <msItem xml:id="MS_Bodl_550-item2" n="2" class="#biblia #commentarii" key="work_11288 ">
                      <title type="desc">Commentary on Song of Songs</title>
                      <bibl type="commentedOn">
                         <title type="desc">Bible, Song of Songs</title>
@@ -83,7 +83,7 @@
                      <title>Expositio in canone missae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_550-item5" n="5" class="#sacramenta">
+                  <msItem xml:id="MS_Bodl_550-item5" n="5" class="#sacramenta" key="work_15091">
                      <title type="desc">Treatise on Mass</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

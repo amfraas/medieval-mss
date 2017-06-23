@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_287-item1" n="1" class="#vitas_patrum">
+                  <msItem xml:id="MS_Canon_Ital_287-item1" n="1" class="#vitas_patrum" key="work_15483">
                      <title>Vitas patrum</title>
                      <note>(books i-ii, Italian translation by <persName role="translator" key="person_29576537">
                            Domenico Cavalca

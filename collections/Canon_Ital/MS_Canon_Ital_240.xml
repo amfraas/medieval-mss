@@ -83,7 +83,7 @@
                         <note>(Italian translation)</note>
                         <textLang mainLang="it">Italian</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Ital_240-part1-item2" n="2" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_Canon_Ital_240-part1-item2" n="2" class="#vitae_sanctorum" key="work_12888 ">
 						                  <title type="desc">Life of St Margaret</title>
                         
                         <textLang mainLang="it">Italian</textLang>
@@ -97,11 +97,11 @@
                         <title>Laudi</title>
                         <textLang mainLang="it">Italian</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Ital_240-part1-item4" n="4" class="#oratio">
+                     <msItem xml:id="MS_Canon_Ital_240-part1-item4" n="4" class="#oratio" key="work_13950">
                         <title type="desc">Prayers</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Ital_240-part1-item5" n="5" class="#versus">
+                     <msItem xml:id="MS_Canon_Ital_240-part1-item5" n="5" class="#versus" key="work_13881 ">
 						                  <title type="desc">Poems</title>
                         
                         <textLang mainLang="it">Italian</textLang>
@@ -133,7 +133,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Ital_240-part2-item1" n="1" class="#liturgica #mariologica">
+                     <msItem xml:id="MS_Canon_Ital_240-part2-item1" n="1" class="#liturgica #mariologica" key="work_12342 ">
                         <title type="desc">Hymns to the Virgin</title>
                         <textLang mainLang="it">Italian</textLang>
                      </msItem>

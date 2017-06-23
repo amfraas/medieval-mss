@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_73-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Digby_73-item1" n="1" class="#medica" key="work_13234">
 						               <title type="desc">Medical texts and extracts</title>
                      
                      <textLang mainLang="la">Latin</textLang>

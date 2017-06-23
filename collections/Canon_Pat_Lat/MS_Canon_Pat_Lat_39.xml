@@ -70,7 +70,7 @@
                         <title>Bible, Old Testament, Genesis - Kings</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_39-item3" n="3" class="#auctoritates">
+                  <msItem xml:id="MS_Canon_Pat_Lat_39-item3" n="3" class="#auctoritates" key="work_13741">
                      <title type="desc">Patristic texts and extracts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

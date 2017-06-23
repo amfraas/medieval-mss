@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_291-item1" n="1" class="#miscellanea #grammatica">
+                  <msItem xml:id="MS_Canon_Ital_291-item1" n="1" class="#miscellanea #grammatica" key="work_15395">
                      <title type="desc">Tuscan - German dictionary</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

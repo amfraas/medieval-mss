@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ash_Rolls_4-item1" n="1" class="#heraldica">
+                  <msItem xml:id="MS_Ash_Rolls_4-item1" n="1" class="#heraldica" key="work_11050 ">
                      <title type="desc">Coats of arms of sovereigns of <placeName key="place_1000003">Europe</placeName> and <placeName key="place_7002445">English</placeName> nobility</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
@@ -57,7 +57,7 @@
                      <title type="desc">Treatise on heraldry</title>
                      <textLang mainLang="en">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ash_Rolls_4-item3" n="3" class="#historica">
+                  <msItem xml:id="MS_Ash_Rolls_4-item3" n="3" class="#historica" key="work_12970 ">
                      <title type="desc">List of peers and knights</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

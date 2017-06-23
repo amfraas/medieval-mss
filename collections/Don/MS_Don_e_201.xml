@@ -41,7 +41,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents> 
-                  <msItem xml:id="MS_Don_e_201-item1" class="#liturgica">
+                  <msItem xml:id="MS_Don_e_201-item1" class="#liturgica" key="work_10528">
 						               <title type="desc">Book of Hours, Use of Besançon</title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      <msItem xml:id="MS_Don_e_201-item1-item1">

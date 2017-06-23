@@ -67,7 +67,7 @@
                      <title>Massa compoti</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_257-item3" n="3" class="#scientifica">
+                  <msItem xml:id="MS_Douce_257-item3" n="3" class="#scientifica" key="work_12787">
                      <title>Liber cautelarum septem
               scientiarum</title>
                      <textLang mainLang="la">Latin</textLang>

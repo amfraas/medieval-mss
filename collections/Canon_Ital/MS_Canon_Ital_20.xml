@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_20-item1" n="1" class="#animalia">
+                  <msItem xml:id="MS_Canon_Ital_20-item1" n="1" class="#animalia" key="work_15359">
                      <title>Tractato de la natura degli
               uccelli</title>
                      <note>(translation of Albertus Magnus, <hi rend="italic">De animalibus</hi>, bk. xxiii)</note>

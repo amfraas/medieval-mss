@@ -112,7 +112,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_3_15-part2-item1" n="1" class="#computistica">
+                     <msItem xml:id="MS_Auct_F_3_15-part2-item1" n="1" class="#computistica" key="work_14993">
                         <title type="desc">Treatise on computus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

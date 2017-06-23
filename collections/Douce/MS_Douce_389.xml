@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_389-item1" n="1" class="#topographica">
+                  <msItem xml:id="MS_Douce_389-item1" n="1" class="#topographica" key="work_13130">
                      <title type="desc">Map of <placeName key="place_7004540">Palestine</placeName>
                      </title>
                      <textLang mainLang="la">Latin</textLang>

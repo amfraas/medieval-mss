@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_94-item1" n="1" class="#versus #vitae_sanctorum">
+                  <msItem xml:id="MS_Douce_94-item1" n="1" class="#versus #vitae_sanctorum" key="work_12911">
                      <title type="desc">Life of St. Éloi</title>
                      <note>(verse)</note>
                      <textLang mainLang="fr">French</textLang>

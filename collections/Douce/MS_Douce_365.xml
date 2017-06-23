@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_365-item1" n="1" class="#devotiones">
+                  <msItem xml:id="MS_Douce_365-item1" n="1" class="#devotiones" key="work_10002 ">
                      <title>Abbaye du Saint Esprit</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_365-item2" n="2" class="#devotiones">
+                  <msItem xml:id="MS_Douce_365-item2" n="2" class="#devotiones" key="work_15369">
                      <title>Traité sur le service et l'amour de Dieu</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
@@ -62,11 +62,11 @@
                      <title>Jardin de dévotion</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_365-item4" n="4" class="#devotiones">
+                  <msItem xml:id="MS_Douce_365-item4" n="4" class="#devotiones" key="work_11673 ">
                      <title>Du gouvernement quotidien</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_365-item5" n="5">
+                  <msItem xml:id="MS_Douce_365-item5" n="5" key="work_15368 ">
                      <title>Traité des tribulations</title>
                      <note>(French adaptation of <bibl type="adapted">
                            <author key="person_2305">Ps.-Peter of Blois</author>, <title>De XII utilitatibus tribulationis</title></bibl>)</note>
@@ -91,7 +91,7 @@
                      <note>(French translation by <persName role="translator" key="person_79254124">Jean Courtecuisse</persName>)</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_365-item9" n="9">
+                  <msItem xml:id="MS_Douce_365-item9" n="9" key="work_13324 ">
                      <title>Miroir des pecheurs</title>
                      <note>(French adaptation of Ps.-Bernard, <title>Speculum peccatoris</title>)</note>
                      <bibl type="related">

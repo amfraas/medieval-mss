@@ -58,7 +58,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="pr_MSS_Bodl_348_351-item1" n="1" class="#biblia">
+                  <msItem xml:id="pr_MSS_Bodl_348_351-item1" n="1" class="#biblia" key="work_10455">
                      <title rend="roman">Bible</title>
                      <rubric>Prima (-Sexta) pars biblie cum glosa ordinaria expositione lyre
                            litterali morali: necnon additionibus ac replicis</rubric>

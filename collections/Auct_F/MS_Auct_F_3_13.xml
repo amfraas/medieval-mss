@@ -135,7 +135,7 @@
                         <title>Theorica Planetarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_3_13-part2-item2" n="2" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Auct_F_3_13-part2-item2" n="2" class="#astrologia_astronomia" key="work_10409">
                            <title type="desc">Astronomical
                               texts</title>
                         <textLang mainLang="la">Latin</textLang>

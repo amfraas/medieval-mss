@@ -128,7 +128,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bywater_37-part1-item1" class="#documenta">
+                     <msItem xml:id="MS_Bywater_37-part1-item1" class="#documenta" key="work_12677">
                         <locus>(fols. 4r-27r)</locus> 
                         <title type="desc">Letter from <persName key="person_79117675">Nicolaus
                         Sagundinus</persName> to <persName key="person_34526684">Cardinal Bessarion</persName>, asking for his patronage</title> 
@@ -138,7 +138,7 @@
 						Bessarion</title> (Paderborn: 1925-42), III, 647).</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bywater_37-part1-item2" class="#versus">
+                     <msItem xml:id="MS_Bywater_37-part1-item2" class="#versus" key="work_11698 ">
                         <locus>(fol. 27v)</locus>
                         <title type="desc">Epigrams</title>
                         <note>Fragments of two Greek epigrams; fols. 28r-29v are blank.</note>

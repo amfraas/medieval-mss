@@ -49,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_Rolls_23-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Bodl_Rolls_23-item1" n="1" class="#historica" key="work_10974">
 						               <title type="desc">Chronicle of <placeName key="place_7002445">England</placeName> to 1419.</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_Rolls_23-item2" n="2" class="#historica">
+                  <msItem xml:id="MS_Bodl_Rolls_23-item2" n="2" class="#historica" key="work_10920 ">
 						               <title type="desc">Chronicle of the <orgName>Bishops of Winchester<!-- not found --></orgName> to 1419.</title>
                      
                      <note>(back)</note>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Broxb_892-item1" n="1" class="#monastica">
+                  <msItem xml:id="MS_Broxb_892-item1" n="1" class="#monastica" key="work_11035">
                      <title>
                         <orgName key="org_133609618">Cistercian</orgName> statutes and list of abbots.</title>
                      <textLang mainLang="la">Latin</textLang>

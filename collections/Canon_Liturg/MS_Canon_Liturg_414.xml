@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_414-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_414-item1" n="1" class="#liturgica" key="work_12556">
                      <title type="desc">Lectionary</title>
                      <textLang mainLang="cu">Church Slavonic</textLang>
                   </msItem>

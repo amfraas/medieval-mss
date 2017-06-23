@@ -59,7 +59,7 @@
                      <note>(Italian translation) (?)</note>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_174-item2" n="2" class="#devotiones">
+                  <msItem xml:id="MS_Canon_Ital_174-item2" n="2" class="#devotiones" key="work_11520">
                      <title type="desc">Devotional letters</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

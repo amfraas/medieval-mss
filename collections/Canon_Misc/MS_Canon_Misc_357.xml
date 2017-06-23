@@ -59,7 +59,7 @@
                      <title>Canones in motibus planetarum Alphonsico ordine constituti</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_357-item2" n="2" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Canon_Misc_357-item2" n="2" class="#astrologia_astronomia" key="work_10396">
 						               <title type="desc">Astronomical tables</title>
                      
                      <textLang mainLang="la">Latin</textLang>

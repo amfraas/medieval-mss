@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_231-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_231-item1" n="1" class="#liturgica" key="work_13673">
                      <title type="desc" rend="italic">Ordo missalis</title>
                      <note>(fragment)</note>
                      <textLang mainLang="la">Latin</textLang>

@@ -51,13 +51,13 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_Rolls_3-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Digby_Rolls_3-item1" n="1" class="#medica" key="work_13221">
 						               <title type="desc">Medical text</title>
                      
                      <note>(fragment)</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_Rolls_3-item2" n="2" class="#mathematica">
+                  <msItem xml:id="MS_Digby_Rolls_3-item2" n="2" class="#mathematica" key="work_10277 ">
 						               <title type="desc">Arithmetical text</title>
                      
                      <textLang mainLang="la">Latin</textLang>

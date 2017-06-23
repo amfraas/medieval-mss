@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_T_1_4-item1" n="1" class="#commentarii #biblia">
+                  <msItem xml:id="MS_Auct_T_1_4-item1" n="1" class="#commentarii #biblia" key="work_10846">
                      <title type="desc">Catenae on the Gospels of Matthew, John and Luke
                         </title>
                      <bibl type="commentedOn">

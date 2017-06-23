@@ -71,11 +71,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_63-part1-item1" n="1">
+                     <msItem xml:id="MS_Barocci_63-part1-item1" n="1" key="work_10393 ">
                         <title type="desc">Astronomical tables</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_63-part1-item2" n="2">
+                     <msItem xml:id="MS_Barocci_63-part1-item2" n="2" key="work_14690">
                         <title type="desc">Speeches by <persName role="author" key="person_89043754">
                               Aristides
                            </persName> and <persName role="author" key="person_17225859">
@@ -118,7 +118,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_63-part2-item1" n="1">
+                     <msItem xml:id="MS_Barocci_63-part2-item1" n="1" key="work_13406 ">
                         <title type="desc">Moral
 				  poems.</title>
                         <textLang mainLang="el">Modern Greek</textLang>

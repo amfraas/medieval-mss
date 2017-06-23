@@ -52,7 +52,7 @@
                   <summary>Treatises by, or copied by, <persName role="scribe" key="person_1098">Sebaldus Adloff of
                         Breslau</persName>
                   </summary>
-                  <msItem xml:id="MS_Douce_85-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Douce_85-item1" n="1" class="#medica" key="work_13232">
                      <title type="desc">Medical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -65,11 +65,11 @@
                      <title>Secretum secretorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_85-item3" n="3" class="#lapidaria">
+                  <msItem xml:id="MS_Douce_85-item3" n="3" class="#lapidaria" key="work_12505 ">
                      <title type="desc">Lapidary</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_85-item4" n="4" class="#historica">
+                  <msItem xml:id="MS_Douce_85-item4" n="4" class="#historica" key="work_12255 ">
                      <title type="desc">Historical texts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

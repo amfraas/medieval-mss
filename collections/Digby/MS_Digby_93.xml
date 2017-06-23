@@ -88,7 +88,7 @@
                         <title>Flores super saturno</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_93-part1-item2" n="2" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_93-part1-item2" n="2" class="#astrologia_astronomia" key="work_15343">
                         <title>Theorica planetarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -127,7 +127,7 @@
                         <title>Tractatus de sphaera</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_93-part2-item2" n="2" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_93-part2-item2" n="2" class="#astrologia_astronomia" key="work_10342 ">
 						                  <title type="desc">Astrological treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>

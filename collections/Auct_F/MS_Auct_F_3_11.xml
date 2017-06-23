@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_F_3_11-item1" n="1">
+                  <msItem xml:id="MS_Auct_F_3_11-item1" n="1" key="work_14498">
                      <title>Scholastic treatises on Aristotelian logic.</title>
                      <textLang mainLang="la">Latin</textLang>
                      <bibl type="commentedOn">

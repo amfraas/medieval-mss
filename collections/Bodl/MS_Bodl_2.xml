@@ -118,7 +118,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_2-part2-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Bodl_2-part2-item1" n="1" class="#theologica" key="work_15263">
                         <title type="desc">Theological excerpts and notes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

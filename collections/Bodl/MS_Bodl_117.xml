@@ -58,7 +58,7 @@
                      <title>De creatione primi hominis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_117-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Bodl_117-item2" n="2" class="#theologica" key="work_15308">
                      <title type="desc">Theological treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -81,7 +81,7 @@
                      </title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_117-item5" n="5" class="#historica">
+                  <msItem xml:id="MS_Bodl_117-item5" n="5" class="#historica" key="work_12250 ">
                      <title type="desc">Historical notes and extracts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Class_Lat_178-item1" n="1" class="#grammatica #miscellanea">
+                  <msItem xml:id="MS_Canon_Class_Lat_178-item1" n="1" class="#grammatica #miscellanea" key="work_11542">
                      <title type="desc">Dictionary.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -56,12 +56,12 @@
                      <title>Practicella ex dictis Mesue abbreuiatus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_43-item2" n="2" class="#medica">
+                  <msItem xml:id="MS_Digby_43-item2" n="2" class="#medica" key="work_13209 ">
 						               <title type="desc">Medical recipes</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_43-item3" n="3" class="#medica">
+                  <msItem xml:id="MS_Digby_43-item3" n="3" class="#medica" key="work_13232">
 						               <title type="desc">Medical treatises</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -75,7 +75,7 @@
                      <title>De uinis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_43-item5" n="5" class="#medica #commentarii">
+                  <msItem xml:id="MS_Digby_43-item5" n="5" class="#medica #commentarii" key="work_10205 ">
                      <title>Antidotarium Nicholai</title>
                      <note>(with commentary)</note>
                      <textLang mainLang="la">Latin</textLang>

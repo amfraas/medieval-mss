@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_38-item1" n="1" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Canon_Ital_38-item1" n="1" class="#astrologia_astronomia" key="work_10333 ">
 						               <title type="desc">Astrological tables</title>
                      
                      <textLang mainLang="it">Italian</textLang>
@@ -63,7 +63,7 @@
                      <title>L'Acerba Eta</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_38-item3" n="3" class="#versus">
+                  <msItem xml:id="MS_Canon_Ital_38-item3" n="3" class="#versus" key="work_13833">
 						               <title type="desc">Poem</title>
                      
                      <textLang mainLang="it">Italian</textLang>

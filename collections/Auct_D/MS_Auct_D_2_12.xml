@@ -49,14 +49,14 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_D_2_12-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Auct_D_2_12-item1" n="1" class="#biblia" key="work_13312 ">
                      <title rend="roman">Minor Prophets, glossed</title>
                      <bibl type="bible">
                         <title rend="roman">Bible, Minor Prophets</title>
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_D_2_12-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Auct_D_2_12-item2" n="2" class="#theologica" key="work_15308">
                      <title type="desc">Theological
               pieces</title>
                      <textLang mainLang="la">Latin</textLang>

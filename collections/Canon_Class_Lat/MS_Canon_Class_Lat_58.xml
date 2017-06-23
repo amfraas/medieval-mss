@@ -58,7 +58,7 @@
                      <title>Georgics</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_58-item2" n="2" class="#grammatica">
+                  <msItem xml:id="MS_Canon_Class_Lat_58-item2" n="2" class="#grammatica" key="work_12031">
                      <title type="desc">Glossaries
               and treatise on Latin verbs.</title>
                      <textLang mainLang="la" otherLangs="it">Latin and Italian</textLang>

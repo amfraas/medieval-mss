@@ -88,7 +88,7 @@
                         
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_21-part1-item2" n="2">
+                     <msItem xml:id="MS_Barocci_21-part1-item2" n="2" key="work_12302">
                         <title type="desc">Horologion</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -127,7 +127,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_21-part2-item1" n="1">
+                     <msItem xml:id="MS_Barocci_21-part2-item1" n="1" key="work_10084 ">
                         <title type="desc">Acolouthia, canons and stichera</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>

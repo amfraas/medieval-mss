@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_791-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Ashmole_791-item1" n="1" class="#historica" key="work_10945">
                      <title type="desc">Chronicle of <placeName key="place_7002445">England</placeName> (Brut Chronicle) to 1437</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

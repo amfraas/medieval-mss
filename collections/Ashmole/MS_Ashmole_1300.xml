@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1300-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Ashmole_1300-item1" n="1" class="#documenta" key="work_12691">
                      <title type="desc">Letter of attorney of the <orgName><!-- not found -->Dean and Chapter of Windsor</orgName>, 1479</title>
                      <note>(with damaged seal)</note>
                      <textLang mainLang="la">Latin</textLang>

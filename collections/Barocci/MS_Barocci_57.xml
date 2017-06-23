@@ -82,7 +82,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_57-item4" n="4">
+                  <msItem xml:id="MS_Barocci_57-item4" n="4" key="work_14418">
                      <title type="desc">Rhetorical texts.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

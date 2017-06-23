@@ -50,7 +50,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Don_b_5-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Don_b_5-item1" n="1" class="#liturgica" key="work_13373">
 						               <title type="desc">Missal, Use of Sarum, noted ('The Buckland Missal')</title>
                      
                      <textLang mainLang="la">Latin</textLang>

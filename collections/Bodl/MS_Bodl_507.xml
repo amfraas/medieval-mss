@@ -58,11 +58,11 @@
                      <title>Massa compoti</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_507-item2" n="2" class="#computistica">
+                  <msItem xml:id="MS_Bodl_507-item2" n="2" class="#computistica" key="work_11334">
                      <title type="desc" rend="italic">Computus manualis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_507-item3" n="3" class="#computistica">
+                  <msItem xml:id="MS_Bodl_507-item3" n="3" class="#computistica" key="work_10711 ">
                      <title type="desc">Calendarial poem</title>
                      <incipit>Cisio janus</incipit>
                      <textLang mainLang="la">Latin</textLang>

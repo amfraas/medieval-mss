@@ -52,7 +52,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_751-item1" n="1" class="#theologica">
+                  <msItem xml:id="MS_Ashmole_751-item1" n="1" class="#theologica" key="work_15311">
                      <title type="desc">Theological texts and extracts</title>
                      <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                   </msItem>

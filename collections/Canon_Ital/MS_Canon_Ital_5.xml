@@ -59,24 +59,24 @@
                      <note>(part)</note>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_5-item2" n="2" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Ital_5-item2" n="2" class="#vitae_sanctorum" key="work_12859 ">
 						               <title type="desc">Life of St. Eustace</title>
                      
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_5-item3" n="3" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Ital_5-item3" n="3" class="#vitae_sanctorum" key="work_12838 ">
 						               <title type="desc">Life of St. Alessio (Alexis)</title>
                      
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_5-item4" n="4" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Ital_5-item4" n="4" class="#vitae_sanctorum" key="work_12849 ">
 						               <title type="desc">Life of St. Clement</title>
                      
                      <note>(Italian translation by <persName role="translator" key="person_456">Guido da Gonzaga</persName>
                         <!-- not in VIAF -->)</note>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_5-item5" n="5" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Ital_5-item5" n="5" class="#vitae_sanctorum" key="work_12873">
 						               <title type="desc">Life of St. Jerome</title>
                      
                      <textLang mainLang="it">Italian</textLang>

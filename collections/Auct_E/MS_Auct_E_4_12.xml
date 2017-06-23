@@ -56,7 +56,7 @@
                      <title>Canon</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_E_4_12-item2" n="2" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Auct_E_4_12-item2" n="2" class="#vitae_sanctorum" key="work_12864">
                      <title type="desc">Life of St. George</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

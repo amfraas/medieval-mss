@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_131-item1" n="1" class="#medica #legalia">
+                  <msItem xml:id="MS_Digby_131-item1" n="1" class="#medica #legalia" key="work_11535">
                      <title>Dialogue on the merits of medicine and law</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

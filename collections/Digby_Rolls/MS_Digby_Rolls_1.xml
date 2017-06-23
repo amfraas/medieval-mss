@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_Rolls_1-item1" n="1" class="#documenta #monastica #ecclesiastica">
+                  <msItem xml:id="MS_Digby_Rolls_1-item1" n="1" class="#documenta #monastica #ecclesiastica" key="work_14245">
                      <title type="desc">Record of a dispute in the papal court between the <orgName><!-- not found -->Oxford Dominicans</orgName> and the <orgName key="org_142129514">University</orgName>,
 				  1311-1313.</title>
                      <textLang mainLang="la">Latin</textLang>

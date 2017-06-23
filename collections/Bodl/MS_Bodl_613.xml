@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_613-part1-item1" n="1" class="#computistica #grammatica #topographica #philosophica #historica #rhetorica #logica #mathematica #musica">
+                     <msItem xml:id="MS_Bodl_613-part1-item1" n="1" class="#computistica #grammatica #topographica #philosophica #historica #rhetorica #logica #mathematica #musica" key="work_13520">
                         <title type="desc">Notes on measures of time, grammar, geography,
                            philosophy, history, rhetoric, logic, mathematics and music</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -101,7 +101,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_613-part2-item1" n="1" class="#computistica #astrologia_astronomia">
+                     <msItem xml:id="MS_Bodl_613-part2-item1" n="1" class="#computistica #astrologia_astronomia" key="work_10708 ">
                         <title type="desc">Calendarial and astrological tables and treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

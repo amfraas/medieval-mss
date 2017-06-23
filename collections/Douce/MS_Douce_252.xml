@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_252-item1" n="1" class="#devotiones">
+                  <msItem xml:id="MS_Douce_252-item1" n="1" class="#devotiones" key="work_14355">
                      <title type="desc">Religious pieces</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>

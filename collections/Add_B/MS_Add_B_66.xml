@@ -49,20 +49,20 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_B_66-item1" n="1" class="#devotiones #versus">
+                  <msItem xml:id="MS_Add_B_66-item1" n="1" class="#devotiones #versus" key="work_14344 ">
                      <title type="desc">Religious poems</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_B_66-item2" n="2" class="#pastoralia">
+                  <msItem xml:id="MS_Add_B_66-item2" n="2" class="#pastoralia" key="work_15127">
                      <title type="desc">Treatise on Pater Noster</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_B_66-item3" n="3" class="#pastoralia">
+                  <msItem xml:id="MS_Add_B_66-item3" n="3" class="#pastoralia" key="work_14963 ">
                      <title type="desc">Treatise on Ave Maria</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
                  
-                     <msItem xml:id="MS_Add_B_66-item4" n="4" class="#pastoralia #devotiones">
+                     <msItem xml:id="MS_Add_B_66-item4" n="4" class="#pastoralia #devotiones" key="work_13918 ">
                         <title>Poor Caitiff</title>
                      <note>(three tracts)</note>
                         <textLang mainLang="en">English</textLang>

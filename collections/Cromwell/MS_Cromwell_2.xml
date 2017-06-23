@@ -58,7 +58,7 @@
                      <title>Sermones ascetici</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_2-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Cromwell_2-item2" n="2" class="#theologica" key="work_15265">
 						               <title type="desc">Theological extracts</title>
                      
                      <textLang mainLang="grc">Greek</textLang>

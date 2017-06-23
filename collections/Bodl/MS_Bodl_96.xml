@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_96-item1" n="1">
+                  <msItem xml:id="MS_Bodl_96-item1" n="1" key="work_12370 ">
                      <title>Index to Prosper of Aquitaine, <hi rend="italic">De uera innocentia ex operibus S.
                            Augustini</hi>
                      </title>
@@ -87,11 +87,11 @@
                      <title>Variae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_96-item5" n="5" class="#theologica">
+                  <msItem xml:id="MS_Bodl_96-item5" n="5" class="#theologica" key="work_15308">
                      <title type="desc">Theological treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_96-item6" n="6" class="#biblia #tabulae">
+                  <msItem xml:id="MS_Bodl_96-item6" n="6" class="#biblia #tabulae" key="work_12368 ">
                      <title type="desc">Index to Pauline Epistles</title>
                      <bibl type="bible">
                         <title type="desc">Bible, Pauline Epistles</title>

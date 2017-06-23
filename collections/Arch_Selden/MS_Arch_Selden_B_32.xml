@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_32-part1-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Arch_Selden_B_32-part1-item1" n="1" class="#liturgica" key="work_13287">
                         <title type="desc">Menologion for April and July</title>
                         <note>(fragments)</note>
                         <textLang mainLang="grc">Greek</textLang>
@@ -102,7 +102,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_32-part2-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Arch_Selden_B_32-part2-item1" n="1" class="#liturgica" key="work_12562 ">
                         <title type="desc">Lectionary of Old Testament readings</title>
                         <note>(imperfect at the beginning)</note>
                         <textLang mainLang="grc">Greek</textLang>

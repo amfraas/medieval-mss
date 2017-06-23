@@ -86,7 +86,7 @@
                      <title>Sermones paraenetici</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_1-item5" n="5" class="#theologica">
+                  <msItem xml:id="MS_Cromwell_1-item5" n="5" class="#theologica" key="work_10302">
                      <title type="desc">Ascetic texts</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

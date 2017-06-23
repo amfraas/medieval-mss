@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barocci_51-item1" n="1">
+                  <msItem xml:id="MS_Barocci_51-item1" n="1" key="work_14413">
                      <title type="desc">Rhetorical and philosophical texts</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_51-item2" n="2">
+                  <msItem xml:id="MS_Barocci_51-item2" n="2" key="work_13333 ">
                      <title type="desc">Miscellaneous
 				  letters.</title>
                      <textLang mainLang="grc">Greek</textLang>

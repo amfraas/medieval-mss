@@ -58,7 +58,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MSS_Auct_E_inf_1-2-item1" n="1" class="#biblia">
+                  <msItem xml:id="MSS_Auct_E_inf_1-2-item1" n="1" class="#biblia" key="work_10455">
                      <title rend="roman">Bible</title>
                      <note>2 vols.</note>
                      <textLang mainLang="la">Latin</textLang>

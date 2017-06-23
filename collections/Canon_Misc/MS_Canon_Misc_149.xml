@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_149-item1" n="1" class="#vitas_patrum">
+                  <msItem xml:id="MS_Canon_Misc_149-item1" n="1" class="#vitas_patrum" key="work_11834">
                      <title>Flores de vitis patrum.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

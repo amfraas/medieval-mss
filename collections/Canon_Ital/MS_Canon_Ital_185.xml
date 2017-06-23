@@ -49,15 +49,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_185-item1" n="1" class="#alchimia">
+                  <msItem xml:id="MS_Canon_Ital_185-item1" n="1" class="#alchimia" key="work_10162 ">
                      <title type="desc">Alchemical works</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_185-item2" n="2" class="#scientifica #miscellanea">
+                  <msItem xml:id="MS_Canon_Ital_185-item2" n="2" class="#scientifica #miscellanea" key="work_14236 ">
                      <title type="desc">Recipes</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_185-item3" n="3" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Ital_185-item3" n="3" class="#vitae_sanctorum" key="work_15463">
                      <title>Vita beati Gerardi
               Sagredo</title>
                      <textLang mainLang="la">Latin</textLang>

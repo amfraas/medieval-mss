@@ -49,15 +49,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1379-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Ashmole_1379-item1" n="1" class="#medica" key="work_15159">
                      <title type="desc">Treatise on rosemary</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1379-item2" n="2" class="#medica">
+                  <msItem xml:id="MS_Ashmole_1379-item2" n="2" class="#medica" key="work_15159">
                      <title type="desc">Treatise on rosemary</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1379-item3" n="3" class="#versus">
+                  <msItem xml:id="MS_Ashmole_1379-item3" n="3" class="#versus" key="work_10763 ">
                      <title type="desc">Carol</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

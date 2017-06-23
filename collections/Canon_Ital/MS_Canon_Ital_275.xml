@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_275-item1" n="1" class="#christologia">
+                  <msItem xml:id="MS_Canon_Ital_275-item1" n="1" class="#christologia" key="work_13710">
                      <title type="desc">Passion of Christ</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_275-item2" n="2" class="#mariologica">
+                  <msItem xml:id="MS_Canon_Ital_275-item2" n="2" class="#mariologica" key="work_13321 ">
                      <title type="desc">Miracles of the Virgin</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

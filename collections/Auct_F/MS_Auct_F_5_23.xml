@@ -190,7 +190,7 @@
                         <title>De agricultura</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_23-part4-item2" n="1" class="#scientifica">
+                     <msItem xml:id="MS_Auct_F_5_23-part4-item2" n="1" class="#scientifica" key="work_14947 ">
                         <title type="desc">Treatise on architecture</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -221,7 +221,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_23-part5-item1" n="1" class="#logica">
+                     <msItem xml:id="MS_Auct_F_5_23-part5-item1" n="1" class="#logica" key="work_13084 ">
                         <title type="desc">Logical treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -252,11 +252,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_23-part6-item1" n="1" class="#logica">
+                     <msItem xml:id="MS_Auct_F_5_23-part6-item1" n="1" class="#logica" key="work_13084 ">
                         <title type="desc">Logical treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_23-part6-item2" n="2" class="#grammatica">
+                     <msItem xml:id="MS_Auct_F_5_23-part6-item2" n="2" class="#grammatica" key="work_12151 ">
                         <title type="desc">Grammatical treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -329,7 +329,7 @@
                         <title>Tractatus de sphaera</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_23-part8-item2" n="2" class="#mathematica">
+                     <msItem xml:id="MS_Auct_F_5_23-part8-item2" n="2" class="#mathematica" key="work_14950">
                         <title type="desc">Treatise on arithmetic</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

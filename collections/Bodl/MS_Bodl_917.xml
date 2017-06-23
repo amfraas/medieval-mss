@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_917-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Bodl_917-item1" n="1" class="#documenta" key="work_13074">
                      <title>Livre d'Agenais</title>
                      <note>(documents relating to <placeName key="place_7008189">Agen</placeName>, 1238-83</note>
                      <textLang mainLang="la" otherLangs="pro">Latin and Provencal</textLang>

@@ -87,7 +87,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_189-part1-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_189-part1-item1" n="1" class="#astrologia_astronomia" key="work_10490 ">
                         <title>The Book of Astronomy</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -116,11 +116,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_189-part2-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_189-part2-item1" n="1" class="#astrologia_astronomia" key="work_10338 ">
                         <title type="desc">Astrological treatises.</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_189-part2-item2" n="2" class="#devotiones #versus">
+                     <msItem xml:id="MS_Ashmole_189-part2-item2" n="2" class="#devotiones #versus" key="work_14344 ">
                         <title type="desc">Religious
               poems.</title>
                         <textLang mainLang="en">English</textLang>
@@ -150,11 +150,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_189-part3-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Ashmole_189-part3-item1" n="1" class="#medica" key="work_13223 ">
                         <title type="desc">Medical treatises</title>
                         <textLang mainLang="de" otherLangs="la">German and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_189-part3-item2" n="2" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_189-part3-item2" n="2" class="#astrologia_astronomia" key="work_10339 ">
                         <title type="desc">Astrological treatises</title>
                         <textLang mainLang="de" otherLangs="la">German and Latin</textLang>
                      </msItem>
@@ -183,24 +183,24 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_189-part4-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_189-part4-item1" n="1" class="#astrologia_astronomia" key="work_10337 ">
                         <title type="desc">Astrological treatises</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_189-part4-item2" n="2" class="#computistica">
+                     <msItem xml:id="MS_Ashmole_189-part4-item2" n="2" class="#computistica" key="work_10681 ">
                         <title type="desc">Calendar</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_189-part4-item3" n="3" class="#prognostica #versus">
+                     <msItem xml:id="MS_Ashmole_189-part4-item3" n="3" class="#prognostica #versus" key="work_13868 ">
                         <title type="desc">Poem on the tokens of the year</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_189-part4-item4" n="4" class="#prognostica #medica">
+                     <msItem xml:id="MS_Ashmole_189-part4-item4" n="4" class="#prognostica #medica" key="work_14940">
                         <title type="desc">Treatise on the ages and complexions of mankind</title> 
                         <note>(fragments).</note>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_189-part4-item5" n="5" class="#versus #prognostica">
+                     <msItem xml:id="MS_Ashmole_189-part4-item5" n="5" class="#versus #prognostica" key="work_14800 ">
                         <title type="desc">Storia Lune</title>
                         <note>(poem on prognostication)</note>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>

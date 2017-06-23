@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_262-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_262-item1" n="1" class="#liturgica" key="work_15495">
                      <title type="desc">Votive offices, Use of Rome</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

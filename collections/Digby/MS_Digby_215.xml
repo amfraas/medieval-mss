@@ -60,7 +60,7 @@
                      <title>Tractatus de sphera</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_215-item2" n="2" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_215-item2" n="2" class="#astrologia_astronomia" key="work_10409">
 						               <title type="desc">Astronomical treatises.</title>
                      
                      <textLang mainLang="la">Latin</textLang>

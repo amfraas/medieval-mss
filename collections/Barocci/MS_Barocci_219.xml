@@ -353,7 +353,7 @@
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
                   
-                  <msItem xml:id="MS_Barocci_219-item7" n="7">
+                  <msItem xml:id="MS_Barocci_219-item7" n="7" key="work_15432">
                      <locus>(fol. 267v)</locus>
                      <title>Verses</title>
                      <incipit>τὸν ἐκ γραφῆϲ ἄνθρωπε νῦν βλέπων τύπον</incipit>

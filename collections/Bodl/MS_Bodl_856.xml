@@ -58,7 +58,7 @@
                      <title>De adhaerendo Deo</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_856-item2" n="2" class="#contemplationes #theologica">
+                  <msItem xml:id="MS_Bodl_856-item2" n="2" class="#contemplationes #theologica" key="work_11047">
                      <title>Cloud of Unknowing</title>
                      <note>(Latin translation: 'Nubes ignorandi')</note>
                      <textLang mainLang="la">Latin</textLang>

@@ -85,7 +85,7 @@
                      <title>Psychomachia</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_513-item5" n="5" class="#versus">
+                  <msItem xml:id="MS_DOrville_513-item5" n="5" class="#versus" key="work_13866">
 						               <title type="desc">Poem on the Temple of Solomon</title>
                      
                      <textLang mainLang="la">Latin</textLang>

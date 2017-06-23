@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_687-item1" n="1" class="#sermones">
+                  <msItem xml:id="MS_Bodl_687-item1" n="1" class="#sermones" key="work_11808">
                      <title>Fasciculus morum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

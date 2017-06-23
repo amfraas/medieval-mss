@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Don_f_30-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Don_f_30-item1" n="1" class="#biblia" key="work_14068">
                      <title rend="roman">Proverbs, Ecclesiastes, and, Ecclesiasticus.</title>
                      <msItem xml:id="MS_Don_f_30-item1-item1"> 
                         <locus>(fols. 1r-45r)</locus> 

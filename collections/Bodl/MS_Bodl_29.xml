@@ -106,7 +106,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_29-part2-item1" n="1" class="#theologica #sermones">
+                     <msItem xml:id="MS_Bodl_29-part2-item1" n="1" class="#theologica #sermones" key="work_14813">
                         <title type="desc">
                            <hi rend="italic">Summa theologica</hi> or notes for sermons</title>
                         <textLang mainLang="la">Latin</textLang>

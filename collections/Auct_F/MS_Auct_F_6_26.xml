@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_F_6_26-item1" n="1" class="#grammatica">
+                  <msItem xml:id="MS_Auct_F_6_26-item1" n="1" class="#grammatica" key="work_12160 ">
                      <title type="desc">Grammatical works</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_6_26-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Auct_F_6_26-item2" n="2" class="#theologica" key="work_15335">
                      <title type="desc">Theological works</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

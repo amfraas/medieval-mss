@@ -73,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Gr_127-part1-item1" n="1">
+                     <msItem xml:id="MS_Canon_Gr_127-part1-item1" n="1" key="work_11502 ">
                         <title>Description of Jerusalem</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -99,12 +99,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Gr_127-part2-item1" n="1">
+                     <msItem xml:id="MS_Canon_Gr_127-part2-item1" n="1" key="work_15473">
                         <title>Vita S. Mariae Aegypticae</title>
                         <note>(fragment)</note>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Gr_127-part2-item2" n="2">
+                     <msItem xml:id="MS_Canon_Gr_127-part2-item2" n="2" key="work_14578 ">
                         <title>Sermons</title>
                         <note>(fragment)</note>
                         <textLang mainLang="grc">Greek</textLang>

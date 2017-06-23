@@ -49,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_393-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Douce_393-item1" n="1" class="#documenta" key="work_14706">
                      <title type="desc">State papers, 
               1570-1660</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_393-item2" n="2" class="#documenta">
+                  <msItem xml:id="MS_Douce_393-item2" n="2" class="#documenta" key="work_13719 ">
                      <title type="desc">
                         <persName key="person_10646024">Paston</persName> papers, 15th century - 1672</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>

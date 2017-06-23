@@ -126,7 +126,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_4_32-part2-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Auct_F_4_32-part2-item1" n="1" class="#sermones" key="work_12300 ">
                         <title type="desc">Homily on the
               Invention of the Cross</title>
                         <textLang mainLang="en">Old English</textLang>
@@ -156,7 +156,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_4_32-part3-item1" n="1" class="#computistica #liturgica">
+                     <msItem xml:id="MS_Auct_F_4_32-part3-item1" n="1" class="#computistica #liturgica" key="work_12789">
                         <title type="desc">Liber Commonei</title>
                         <textLang mainLang="la" otherLangs="cy grc">Latin, Greek, and Welsh</textLang>
                      </msItem>

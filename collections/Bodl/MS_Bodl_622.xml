@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_622-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Bodl_622-item1" n="1" class="#historica" key="work_12255">
                      <title type="desc">Historical pieces</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

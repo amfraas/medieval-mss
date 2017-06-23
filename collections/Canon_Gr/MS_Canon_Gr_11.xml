@@ -58,7 +58,7 @@
                      <title>Erotemata grammatica</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_11-item2" n="2">
+                  <msItem xml:id="MS_Canon_Gr_11-item2" n="2" key="work_12149">
                      <title>Grammatical treatise</title>
                      <note>(fragment), with
 				  Latin notes.</note>

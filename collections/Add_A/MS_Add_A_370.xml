@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_A_370-item1" n="1" class="#logica #philosophica">
+                  <msItem xml:id="MS_Add_A_370-item1" n="1" class="#logica #philosophica" key="work_10272">
                      <title type="desc">Aristotelian commentaries and logical works</title> 
                      <note>by <persName role="author" key="person_264344179">
                         Thomas

@@ -50,7 +50,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="Dep_d_582-item1" n="1" class="#liturgica">
+                  <msItem xml:id="Dep_d_582-item1" n="1" class="#liturgica" key="work_12559">
                      <title type="desc">Lectionary.</title>
                      <msItem xml:id="Dep_d_582-item1-item1">
                         <locus>(fols. 6-8v)</locus>

@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_255-part1-item1" n="1" class="#monastica #commentarii">
+                     <msItem xml:id="MS_Bodl_255-part1-item1" n="1" class="#monastica #commentarii" key="work_11169">
                         <title type="desc">Commentary on Augustinian rule</title>
                         <bibl type="commentedOn">
                            <title>Regula S. Augustini</title>

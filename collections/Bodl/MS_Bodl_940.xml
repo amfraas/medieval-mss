@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_940-item1" n="1" class="#legalia">
+                  <msItem xml:id="MS_Bodl_940-item1" n="1" class="#legalia" key="work_14289 ">
                      <title type="desc">Register of writs</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_940-item2" n="2" class="#legalia">
+                  <msItem xml:id="MS_Bodl_940-item2" n="2" class="#legalia" key="work_14746">
                      <title type="desc">Statutes of <placeName key="place_7002445">England</placeName>
                      </title>
                      <textLang mainLang="la">Latin</textLang>

@@ -49,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_B_17-item1" n="1" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Add_B_17-item1" n="1" class="#astrologia_astronomia" key="work_13119 ">
                      <title type="desc">
                         Manual of astrology</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_B_17-item2" n="2" class="#astrologia_astronomia #tabulae">
+                  <msItem xml:id="MS_Add_B_17-item2" n="2" class="#astrologia_astronomia #tabulae" key="work_14853">
                      <title type="desc">Tables and notes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

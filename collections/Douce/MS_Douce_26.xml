@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_26-item1" n="1" class="#legalia">
+                  <msItem xml:id="MS_Douce_26-item1" n="1" class="#legalia" key="work_14743">
                      <title type="desc">Statutes of England</title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                   </msItem>

@@ -76,7 +76,7 @@
                      <title>Liber cartulae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_44-item4" n="4" class="#theologica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_44-item4" n="4" class="#theologica" key="work_15308">
                      <title type="desc">Theological treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

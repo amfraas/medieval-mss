@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_626-item1" n="1" class="#theologica">
+                  <msItem xml:id="MS_Bodl_626-item1" n="1" class="#theologica" key="work_14449">
                      <title>Rosarium theologiae</title>
                      <note>(A-M only)</note>
                      <textLang mainLang="la">Latin</textLang>

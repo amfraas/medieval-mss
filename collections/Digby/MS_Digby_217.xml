@@ -239,7 +239,7 @@
                         <title>Logica</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_217-part4-item5" n="5" class="#logica">
+                     <msItem xml:id="MS_Digby_217-part4-item5" n="5" class="#logica" key="work_15082">
                         <title type="desc">Treatise on logic</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

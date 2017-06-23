@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ash_Rolls_1-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Ash_Rolls_1-item1" n="1" class="#documenta" key="work_12761">
                      <title type="desc">Letters patent of inspeximus by <persName key="person_172419710">Henry VIII</persName>, 1510, with Great
                         Seal (imperfect), of grants of <persName key="person_268547728">Henry VII</persName> to the <orgName><!-- not found -->Fraternity of St. Anne of
                  Croscombe, Somerset</orgName>, 1489 and 1496</title>

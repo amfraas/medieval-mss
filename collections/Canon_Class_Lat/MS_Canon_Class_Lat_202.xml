@@ -58,7 +58,7 @@
                      <title>De officiis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_202-item2" n="2" class="#grammatica">
+                  <msItem xml:id="MS_Canon_Class_Lat_202-item2" n="2" class="#grammatica" key="work_12144">
                      <title type="desc">Grammatical notes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

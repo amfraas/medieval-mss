@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_1026-item1" n="1" class="#theologica">
+                  <msItem xml:id="MS_Bodl_1026-item1" n="1" class="#theologica" key="work_15376">
                      <title>Trattato dello compendio de salute</title>
                      <note>(abridged from Niccolò Osimo, <title>Quadriga Spirituale</title>, written in 1442).</note>
                      <bibl type="related">

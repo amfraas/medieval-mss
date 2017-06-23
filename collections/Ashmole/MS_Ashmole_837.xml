@@ -89,7 +89,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_837-part1-item1" n="1" class="#heraldica">
+                     <msItem xml:id="MS_Ashmole_837-part1-item1" n="1" class="#heraldica" key="work_14921">
                         <title type="desc">Text concerning heralds </title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -118,7 +118,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_837-part2-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_837-part2-item1" n="1" class="#documenta" key="work_12383 ">
                         <title type="desc">Inquisition relating to <placeName>Knaresborough forest</placeName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>
@@ -148,7 +148,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_837-part3-item1" n="1" class="#historica">
+                     <msItem xml:id="MS_Ashmole_837-part3-item1" n="1" class="#historica" key="work_10037 ">
                         <title type="desc">Account of the foundation of the abbey of <orgName key="org_144397095">St. Mary, Dore</orgName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>
@@ -178,7 +178,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_837-part4-item1" n="1" class="#historica">
+                     <msItem xml:id="MS_Ashmole_837-part4-item1" n="1" class="#historica" key="work_12943 ">
                         <title type="desc">List of French nobles present at the Field of the Cloth of Gold, 1520 (?)</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
@@ -207,7 +207,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_837-part5-item1" n="1" class="#historica">
+                     <msItem xml:id="MS_Ashmole_837-part5-item1" n="1" class="#historica" key="work_10019 ">
                         <title type="desc">Account of a coronation feast, temp. Henry VIII (?)</title>
                         <textLang mainLang="la">Latin (?)</textLang>
                      </msItem>
@@ -236,7 +236,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_837-part6-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_837-part6-item1" n="1" class="#documenta" key="work_10424 ">
                         <title type="desc">Attainder of <persName key="person_11299173">Edward, duke of Buckingham</persName>
                         </title>
                         <note>(copy)</note>

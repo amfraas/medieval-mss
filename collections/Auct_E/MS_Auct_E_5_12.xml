@@ -56,7 +56,7 @@
                      <title>Pandects</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_E_5_12-item2" n="2" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Auct_E_5_12-item2" n="2" class="#vitae_sanctorum" key="work_14475">
                      <title type="desc">Saints' Lives</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

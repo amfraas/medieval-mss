@@ -83,11 +83,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1486-part1-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Ashmole_1486-part1-item1" n="1" class="#alchimia" key="work_10157 ">
                         <title type="desc">Alchemical texts and recipes</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1486-part1-item2" n="2" class="#medica">
+                     <msItem xml:id="MS_Ashmole_1486-part1-item2" n="2" class="#medica" key="work_13202">
                         <title type="desc">Medical recipes</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
@@ -116,7 +116,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1486-part2-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Ashmole_1486-part2-item1" n="1" class="#alchimia" key="work_10149 ">
                         <title type="desc">Alchemical texts</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -145,7 +145,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1486-part3-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Ashmole_1486-part3-item1" n="1" class="#alchimia" key="work_10148 ">
                         <title type="desc">Alchemical texts</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
@@ -174,7 +174,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1486-part4-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Ashmole_1486-part4-item1" n="1" class="#alchimia" key="work_10148 ">
                         <title type="desc">Alchemical texts</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
@@ -203,7 +203,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1486-part5-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Ashmole_1486-part5-item1" n="1" class="#alchimia" key="work_10132 ">
                         <title type="desc">Alchemical collections of <persName key="person_39386049">John Dee</persName>
                         </title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>

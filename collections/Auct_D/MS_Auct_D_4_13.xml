@@ -73,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_D_4_13-part1-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Auct_D_4_13-part1-item1" n="1" class="#theologica" key="work_15323">
                         <title type="desc">Theological treatise on the Ten Commandments, the Seven
               Deadly Sins, and the Sacraments</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -106,7 +106,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_D_4_13-part2-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Auct_D_4_13-part2-item1" n="1" class="#biblia" key="work_14659 ">
                         <title rend="roman">Song of Songs, Catholic Epistles,
               Apocalypse, glossed.</title>
                         <bibl type="bible">

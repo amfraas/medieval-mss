@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_26-part1-item1" n="1" class="#musica">
+                     <msItem xml:id="MS_Arch_Selden_B_26-part1-item1" n="1" class="#musica" key="work_14528 ">
                         <title type="desc">'The Selden carol-book': carols with polyphonic music.</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
@@ -138,7 +138,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_26-part3-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Arch_Selden_B_26-part3-item1" n="1" class="#theologica" key="work_15551">
                         <title type="desc">Wycliffite pieces.</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -167,7 +167,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_26-part4-item1" n="1" class="#computistica #liturgica">
+                     <msItem xml:id="MS_Arch_Selden_B_26-part4-item1" n="1" class="#computistica #liturgica" key="work_10687 ">
 						                  <title type="desc">Calendar</title>
                         
                         <textLang mainLang="la">Latin</textLang>

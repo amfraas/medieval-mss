@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barocci_91-item1" n="1">
+                  <msItem xml:id="MS_Barocci_91-item1" n="1" key="work_15325">
                      <title type="desc">Theological treatises and extracts.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_219-item1" n="1" class="#scientifica #prognostica"><!-- check -->
+                  <msItem xml:id="MS_Canon_Ital_219-item1" n="1" class="#scientifica #prognostica" key="work_15018"><!-- check -->
                      <title type="desc">Treatise on dreams</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_219-item2" n="2" class="#medica">
+                  <msItem xml:id="MS_Canon_Ital_219-item2" n="2" class="#medica" key="work_13226 ">
 						               <title type="desc">Medical treatises</title>
                      
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>

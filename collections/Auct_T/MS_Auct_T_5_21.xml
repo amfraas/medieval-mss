@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_T_5_21-item1" n="1" class="#romances">
+                  <msItem xml:id="MS_Auct_T_5_21-item1" n="1" class="#romances" key="work_10165">
                      <title type="desc">Alexandri Magni vita et res
               gestae.</title>
                      <textLang mainLang="el">Modern Greek</textLang>

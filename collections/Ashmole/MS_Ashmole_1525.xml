@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1525-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Ashmole_1525-item1" n="1" class="#liturgica" key="work_14114">
                      <title type="desc">Psalter.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1525-item2" n="2" class="#liturgica">
+                  <msItem xml:id="MS_Ashmole_1525-item2" n="2" class="#liturgica" key="work_12325 ">
                      <title type="desc">Hymnal.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

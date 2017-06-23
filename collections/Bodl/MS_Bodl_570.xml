@@ -110,7 +110,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_570-part2-item1" n="1" class="#dictamen">
+                     <msItem xml:id="MS_Bodl_570-part2-item1" n="1" class="#dictamen" key="work_15077 ">
                         <title type="desc">Treatise on letter-writing</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -139,7 +139,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_570-part3-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Bodl_570-part3-item1" n="1" class="#theologica" key="work_15292">
                         <title type="desc">Theological quaestiones</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

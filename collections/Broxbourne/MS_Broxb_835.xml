@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Broxb_835-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Broxb_835-item1" n="1" class="#historica" key="work_11013">
 						               <title type="desc">Chronicles of <placeName key="place_7008546">Genoa</placeName>.</title>
                      
                      <textLang mainLang="la">Latin</textLang>

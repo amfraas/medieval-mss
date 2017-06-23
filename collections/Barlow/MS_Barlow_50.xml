@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barlow_50-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Barlow_50-item1" n="1" class="#documenta" key="work_12355">
                      <title type="desc">Indented agreement between <persName key="person_285">Edmund Audley, bishop of
                         Salisbury</persName>
                         <!-- not in VIAF -->, and <persName key="person_1185">Thomas Drax, rector</persName>

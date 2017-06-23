@@ -75,12 +75,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_39-part1-item1" n="1" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_Digby_39-part1-item1" n="1" class="#vitae_sanctorum" key="work_12905 ">
 						                  <title type="desc">Life of St. Tecla</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_39-part1-item2" n="2" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_Digby_39-part1-item2" n="2" class="#vitae_sanctorum" key="work_12844 ">
 						                  <title type="desc">Life of St. Blaise</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -107,7 +107,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_39-part2-item1" n="1" class="#vitae_sanctorum #miracula">
+                     <msItem xml:id="MS_Digby_39-part2-item1" n="1" class="#vitae_sanctorum #miracula" key="work_12820 ">
                         <title type="desc">Life and miracles of St. Edmund king and martyr</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -142,7 +142,7 @@
                         <title>Sermo de natiuitate beatae Mariae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_39-part3-item2" n="2" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_Digby_39-part3-item2" n="2" class="#vitae_sanctorum" key="work_12870 ">
 						                  <title type="desc">Life of St. James the Great</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -169,7 +169,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_39-part4-item1" n="1" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_Digby_39-part4-item1" n="1" class="#vitae_sanctorum" key="work_12843 ">
 						                  <title type="desc">Life of St. Birinus</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -205,7 +205,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_39-part5-item1" n="1" class="#mariologica">
+                     <msItem xml:id="MS_Digby_39-part5-item1" n="1" class="#mariologica" key="work_13322">
                         <title type="desc">Miracles of the Virgin</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -240,7 +240,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_39-part6-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Digby_39-part6-item1" n="1" class="#biblia" key="work_10438 ">
                         <title rend="roman">Baruch</title>
                         <bibl type="bible">
                            <title>Bible, Baruch</title>

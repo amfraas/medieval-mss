@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Broxb_842-item1" n="1" class="#sermones">
+                  <msItem xml:id="MS_Broxb_842-item1" n="1" class="#sermones" key="work_12285">
                      <title type="desc">Homilies.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -83,11 +83,11 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_153-item5" n="5" class="#alchimia">
+                  <msItem xml:id="MS_Digby_153-item5" n="5" class="#alchimia" key="work_14524">
                      <title>Secreta philosophorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_153-item6" n="6" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_153-item6" n="6" class="#astrologia_astronomia" key="work_14512 ">
 						               <title type="desc">Scientific and astrological texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>

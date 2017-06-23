@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_g_2-item1" n="1" class="#historica #versus">
+                  <msItem xml:id="MS_Douce_g_2-item1" n="1" class="#historica #versus" key="work_10984">
                      <title type="desc">Chronicle of the Kings of <placeName key="place_7002445">England</placeName> from William
               the Conqueror to Henry VI</title>
                      <note>(verse; continued in prose to 1483)</note>

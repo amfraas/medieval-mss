@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_277-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_277-item1" n="1" class="#liturgica" key="work_13390">
                      <title type="desc">Monastic Hours and offices for use in a Benedictine
               Nunnery</title>
                      <textLang mainLang="la">Latin</textLang>

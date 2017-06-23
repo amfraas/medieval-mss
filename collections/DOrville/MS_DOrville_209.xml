@@ -77,7 +77,7 @@
               S. Malchi monachi captiui</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_209-item4" n="4" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_DOrville_209-item4" n="4" class="#vitae_sanctorum" key="work_12892">
 						               <title type="desc">Life of St. Mary the
               Egyptian</title>
                      

@@ -67,7 +67,7 @@
                      <title>Liber Sextus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_655-item3" n="3" class="#mariologica">
+                  <msItem xml:id="MS_Bodl_655-item3" n="3" class="#mariologica" key="work_12916">
                      <title type="desc">Life of the Virgin Mary</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

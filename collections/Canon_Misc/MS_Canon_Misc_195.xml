@@ -59,7 +59,7 @@
                      <note>(ch. 1, De consolatione medicinarum)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_195-item2" n="2" class="#medica">
+                  <msItem xml:id="MS_Canon_Misc_195-item2" n="2" class="#medica" key="work_13192">
 						               <title type="desc">Medical glossary</title>
                      
                      <textLang mainLang="la">Latin</textLang>

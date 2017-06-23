@@ -60,7 +60,7 @@
                      <note>(with continuation to 1493 and index)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_790-item2" n="2" class="#documenta">
+                  <msItem xml:id="MS_Ashmole_790-item2" n="2" class="#documenta" key="work_10895">
                      <title type="desc">Charters relating to the
               church of <placeName key="place_7441798">Winford</placeName>.</title>
                      <textLang mainLang="la">Latin</textLang>

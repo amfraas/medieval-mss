@@ -51,27 +51,27 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_2-item1" n="1" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_2-item1" n="1" class="#astrologia_astronomia" key="work_10396 ">
 						               <title type="desc">Astronomical tables</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_2-item2" n="2" class="#theologica #devotiones">
+                  <msItem xml:id="MS_Digby_2-item2" n="2" class="#theologica #devotiones" key="work_14347 ">
 						               <title type="desc">Religious poems</title>
                      
                      <textLang mainLang="la" otherLangs="en fr">Latin, English and French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_2-item3" n="3" class="#computistica #liturgica">
+                  <msItem xml:id="MS_Digby_2-item3" n="3" class="#computistica #liturgica" key="work_10687 ">
 						               <title type="desc">Calendar</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_2-item4" n="4" class="#computistica #liturgica">
+                  <msItem xml:id="MS_Digby_2-item4" n="4" class="#computistica #liturgica" key="work_14971 ">
 						               <title type="desc">Treatises on calendar</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_2-item5" n="5" class="#logica">
+                  <msItem xml:id="MS_Digby_2-item5" n="5" class="#logica" key="work_13084 ">
                      <title type="desc">Logical treatise</title>
                      <note>('Fallacie')</note>
                      <textLang mainLang="la">Latin</textLang>
@@ -107,7 +107,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_2-item8" n="8" class="#scientifica">
+                  <msItem xml:id="MS_Digby_2-item8" n="8" class="#scientifica" key="work_15150">
                      <title type="desc">Treatise on the quadrant</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -139,12 +139,12 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_2-item11" n="11" class="#dictamen">
+                  <msItem xml:id="MS_Digby_2-item11" n="11" class="#dictamen" key="work_11540 ">
 						               <title type="desc">Dictaminal formulary</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_2-item12" n="12" class="#grammatica">
+                  <msItem xml:id="MS_Digby_2-item12" n="12" class="#grammatica" key="work_12151 ">
 						               <title type="desc">Grammatical treatise</title>
                      
                      <textLang mainLang="la">Latin</textLang>

@@ -75,11 +75,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_462-part1-item1" n="1" class="#documenta #legalia">
+                     <msItem xml:id="MS_Bodl_462-part1-item1" n="1" class="#documenta #legalia" key="work_13706">
                         <title type="desc">Parliament Roll for 1388</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_462-part1-item2" n="2" class="#legalia">
+                     <msItem xml:id="MS_Bodl_462-part1-item2" n="2" class="#legalia" key="work_12522 ">
                         <title type="desc">Laws of <placeName key="place_7017397">Oleron</placeName>
                         </title>
                         <textLang mainLang="fr">French</textLang>

@@ -72,11 +72,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_137-part1-item1" n="1" class="#legali">
+                     <msItem xml:id="MS_Douce_137-part1-item1" n="1" class="#legali" key="work_12597 ">
                         <title type="desc">Legal texts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_137-part1-item2" n="2" class="#legalia #dictamen #documenta">
+                     <msItem xml:id="MS_Douce_137-part1-item2" n="2" class="#legalia #dictamen #documenta" key="work_11872 ">
                         <title type="desc">Formulary</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -110,7 +110,7 @@
                         <title>De legibus et consuetudinibus regni Anglie</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_137-part2-item2" n="2" class="#legalia">
+                     <msItem xml:id="MS_Douce_137-part2-item2" n="2" class="#legalia" key="work_12613 ">
                         <title>Leges Edwardi confessoris</title>
                         <note>(version 1)</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -140,11 +140,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_137-part3-item1" n="1" class="#legalia">
+                     <msItem xml:id="MS_Douce_137-part3-item1" n="1" class="#legalia" key="work_14286">
                         <title type="desc">Register of writs</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_137-part3-item2" n="2" class="#versus">
+                     <msItem xml:id="MS_Douce_137-part3-item2" n="2" class="#versus" key="work_13876 ">
                         <title type="desc">Poems</title>
                         <textLang mainLang="fr" otherLangs="la">French and Latin</textLang>
                      </msItem>

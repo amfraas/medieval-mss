@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_T_5_10-item1" n="1" class="#romances">
+                  <msItem xml:id="MS_Auct_T_5_10-item1" n="1" class="#romances" key="work_10725">
                      <title type="desc">Calila et Dimna</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

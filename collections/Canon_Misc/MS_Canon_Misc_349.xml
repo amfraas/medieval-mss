@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_349-item1" n="1" class="#historica"><!-- check -->
+                  <msItem xml:id="MS_Canon_Misc_349-item1" n="1" class="#historica" key="work_12393"><!-- check -->
                      <title type="desc">Inscriptions in <placeName key="place_1000080">Italy</placeName>.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Bibl_Lat_86-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Canon_Bibl_Lat_86-item1" n="1" class="#biblia" key="work_12359">
                      <title rend="roman">Index of Biblical words and phrases</title>
                      <note>by <persName role="author" key="person_46">Alexander Teretius</persName> (?)</note>
                      <textLang mainLang="la">Latin</textLang>

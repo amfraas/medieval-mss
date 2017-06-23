@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_Rolls_5-item1" n="1" class="#astrologia_astronomia #computistica">
+                  <msItem xml:id="MS_Digby_Rolls_5-item1" n="1" class="#astrologia_astronomia #computistica" key="work_10376">
 						               <title type="desc">Astronomical calendar.</title>
                      
                      <textLang mainLang="la">Latin</textLang>

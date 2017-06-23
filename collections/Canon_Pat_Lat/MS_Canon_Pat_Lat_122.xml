@@ -72,7 +72,7 @@
                      <title>De fide catholica</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_122-item3" n="3" class="#sacramenta">
+                  <msItem xml:id="MS_Canon_Pat_Lat_122-item3" n="3" class="#sacramenta" key="work_15000">
                      <title type="desc">Treatises on confession and penance</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

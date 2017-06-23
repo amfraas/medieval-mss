@@ -138,7 +138,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_20-part3-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Bodl_20-part3-item1" n="1" class="#sermones" key="work_13006">
                         <title type="desc">Lists of texts suitable for sermons on Sundays and Holy days</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -197,7 +197,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_20-part5-item1" n="1" class="#biblia #commentarii">
+                     <msItem xml:id="MS_Bodl_20-part5-item1" n="1" class="#biblia #commentarii" key="work_11238 ">
                         <title type="desc">Commentary on the Minor Prophets</title>
                         <bibl type="commentedOn">
                            <title type="desc">Bible, Minor Prophets</title>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_758-item1" n="1" class="#philosophica">
+                  <msItem xml:id="MS_Ashmole_758-item1" n="1" class="#philosophica" key="work_15102">
                      <title type="desc">Treatise on moral philosophy</title>
                      <note>(Henricus de Frimaria, <hi rend="italic">Sententia totius libri Ethicorum</hi> (?))</note>
                      <textLang mainLang="la">Latin</textLang>

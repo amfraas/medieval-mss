@@ -169,7 +169,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_844-part4-item1" n="1">
+                     <msItem xml:id="MS_Bodl_844-part4-item1" n="1" key="work_11155">
                         <title>Commentary on Aristotle, Parva naturalia</title>
                         <textLang mainLang="la">Latin</textLang>
                         <bibl type="commentedOn">
@@ -201,7 +201,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_844-part5-item1" n="1">
+                     <msItem xml:id="MS_Bodl_844-part5-item1" n="1" key="work_11153 ">
                         <title>Commentary on Aristotle, Meteora</title>
                         <textLang mainLang="la">Latin</textLang>
                         <bibl type="commentedOn">

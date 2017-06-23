@@ -58,7 +58,7 @@
                      <title>Sermones ad fratres in eremo</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_4-item2" n="2" class="#contemplationes">
+                  <msItem xml:id="MS_Canon_Pat_Lat_4-item2" n="2" class="#contemplationes" key="work_13262">
                      <title type="desc">Meditation</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -71,7 +71,7 @@
                      <title>Soliloquia animae ad deum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_4-item4" n="4" class="#apocrypha">
+                  <msItem xml:id="MS_Canon_Pat_Lat_4-item4" n="4" class="#apocrypha" key="work_11711 ">
                      <title>Epistula Lentuli</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

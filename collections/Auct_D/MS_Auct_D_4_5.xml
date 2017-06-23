@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_D_4_5-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Auct_D_4_5-item1" n="1" class="#biblia" key="work_10604 ">
                      <title rend="roman">Book of Psalms</title>
                      <bibl type="bible">
                         <title rend="roman">Bible, Psalms</title>
@@ -57,7 +57,7 @@
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
                   
-                     <msItem xml:id="MS_Auct_D_4_5-item2" n="2" class="#historica">
+                     <msItem xml:id="MS_Auct_D_4_5-item2" n="2" class="#historica" key="work_12251">
                         <title type="desc">Historical notes partly by <persName role="author" key="person_2792858">Thomas Gascoigne</persName>
                      </title>
                         

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_779-item1" n="1" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Bodl_779-item1" n="1" class="#vitae_sanctorum" key="work_14671">
                      <title>South English Legendary</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

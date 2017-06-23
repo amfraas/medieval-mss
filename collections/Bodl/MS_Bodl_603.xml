@@ -67,7 +67,7 @@
                      <title>poems</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_603-item3" n="3" class="#versus #satirica">
+                  <msItem xml:id="MS_Bodl_603-item3" n="3" class="#versus #satirica" key="work_13894">
                      <title type="desc">Poems, many Goliardic</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

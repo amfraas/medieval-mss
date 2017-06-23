@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_F_3_18-item1" n="1" class="#scientifica">
+                  <msItem xml:id="MS_Auct_F_3_18-item1" n="1" class="#scientifica" key="work_12013">
                      <title type="desc">Geoponica</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_18-item2" n="2" class="#scientifica">
+                  <msItem xml:id="MS_Auct_F_3_18-item2" n="2" class="#scientifica" key="work_12011 ">
                      <title type="desc">Geometrical texts</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

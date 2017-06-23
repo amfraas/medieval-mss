@@ -60,7 +60,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_311-item2" n="2" class="#logica">
+                  <msItem xml:id="MS_Canon_Class_Lat_311-item2" n="2" class="#logica" key="work_13084 ">
                      <locus>fols. 7, 33v, 35v</locus>
                      <title type="desc">Logical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
@@ -91,7 +91,7 @@
                      <note>(attrib. Cassiodorus)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_311-item6" n="6" class="#sermones">
+                  <msItem xml:id="MS_Canon_Class_Lat_311-item6" n="6" class="#sermones" key="work_14583">
                      <locus>fol. 43</locus>
                      <title type="desc">Sermons</title>
                      <textLang mainLang="la">Latin</textLang>

@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Add_A_22-part1-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Add_A_22-part1-item1" n="1" class="#liturgica" key="work_10682">
                         <title type="desc">Calendar.</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>

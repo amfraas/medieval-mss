@@ -110,7 +110,7 @@
                      <title>De Assentatoris et Amici Differencia</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_5_26-item8" n="8" class="#miscellanea #grammatica">
+                  <msItem xml:id="MS_Auct_F_5_26-item8" n="8" class="#miscellanea #grammatica" key="work_12037">
                      <title type="desc">Glossary</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

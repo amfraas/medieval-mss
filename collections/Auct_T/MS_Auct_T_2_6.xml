@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_T_2_6-item1" n="1" class="#ecclesiastica #sermones">
+                  <msItem xml:id="MS_Auct_T_2_6-item1" n="1" class="#ecclesiastica #sermones" key="work_10748">
                      <title type="desc">Canons of church councils, letters and sermons.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

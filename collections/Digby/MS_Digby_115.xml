@@ -78,7 +78,7 @@
                      <title>De domo conscientiae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_115-item4" n="4" class="#theologica #devotiones">
+                  <msItem xml:id="MS_Digby_115-item4" n="4" class="#theologica #devotiones" key="work_15003">
                      <title type="desc">Treatises on conscience</title>
                      <note>(sometimes erroneously attributed to <persName role="author" key="person_1186"><!-- not found -->Thomas Fishburn O.S.A.</persName>)</note>
                      <textLang mainLang="la">Latin</textLang>

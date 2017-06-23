@@ -44,7 +44,7 @@
 						Breviary, Use of Rome; Italy, Milan, S. Giovanni in Conca 15th century, dated 1464-5
 					</head>
 					          <msContents>
-						            <msItem xml:id="MS_Buchanan_f_4-item1" class="#liturgica">
+						            <msItem xml:id="MS_Buchanan_f_4-item1" class="#liturgica" key="work_10657">
 						               <title type="desc">Breviary, Use of Rome</title>
 							
 							              <textLang mainLang="la">Latin</textLang>

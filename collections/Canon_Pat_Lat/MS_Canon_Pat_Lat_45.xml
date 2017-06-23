@@ -85,7 +85,7 @@
                      <title>Theologia mystica</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_45-item5" n="5" class="#exempla">
+                  <msItem xml:id="MS_Canon_Pat_Lat_45-item5" n="5" class="#exempla" key="work_11760">
                      <title type="desc">Exempla</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

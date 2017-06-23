@@ -76,19 +76,19 @@
                      <title>Liber scintillarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_443-item4" n="4" class="#theologica">
+                  <msItem xml:id="MS_Bodl_443-item4" n="4" class="#theologica" key="work_13123 ">
                      <title type="desc">Manual of theology and ritual</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_443-item5" n="5" class="#sermones">
+                  <msItem xml:id="MS_Bodl_443-item5" n="5" class="#sermones" key="work_14583">
                      <title type="desc">Sermons</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_443-item6" n="6" class="#liturgica">
+                  <msItem xml:id="MS_Bodl_443-item6" n="6" class="#liturgica" key="work_11369 ">
                      <title type="desc">Consuetudinary, Use of Sarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_443-item7" n="7" class="#versus #devotiones">
+                  <msItem xml:id="MS_Bodl_443-item7" n="7" class="#versus #devotiones" key="work_14348 ">
                      <title type="desc">Religious poems</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

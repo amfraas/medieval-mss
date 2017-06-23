@@ -59,7 +59,7 @@
                      <note>with glosses</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_158-item2" n="2" class="#grammatica #logica #musica">
+                  <msItem xml:id="MS_DOrville_158-item2" n="2" class="#grammatica #logica #musica" key="work_12141">
 						               <title type="desc">Grammatical, logical and musical texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>

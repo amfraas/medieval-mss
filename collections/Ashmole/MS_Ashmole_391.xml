@@ -91,7 +91,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_391-part1-item1" n="1" class="#medica #astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_391-part1-item1" n="1" class="#medica #astrologia_astronomia" key="work_13172 ">
                         <title type="desc">Medical and astrological treatises</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
@@ -196,7 +196,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_391-part4-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_391-part4-item1" n="1" class="#astrologia_astronomia" key="work_13429">
                         <title>The
               Nativity of Sir Robert Holborne of Lincolnes Inn.</title>
                         <textLang mainLang="en">English</textLang>

@@ -69,7 +69,7 @@
                      <title>Liber scintillarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_158-item3" n="3" class="#theologica">
+                  <msItem xml:id="MS_Digby_158-item3" n="3" class="#theologica" key="work_14538">
                      <title>Sententiae Anselmi</title>
                      <bibl type="related">
                         <author key="person_100187025">

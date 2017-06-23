@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_A_185-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Add_A_185-item1" n="1" class="#liturgica" key="work_10549">
                      <title type="desc">Book of Hours, Use of Nantes</title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                   </msItem>

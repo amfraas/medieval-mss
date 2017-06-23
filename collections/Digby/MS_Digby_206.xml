@@ -80,7 +80,7 @@
                      <note>(extracts)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_206-item4" n="4" class="#tabulae">
+                  <msItem xml:id="MS_Digby_206-item4" n="4" class="#tabulae" key="work_14863">
 						               <title type="desc">Tabula to Bernard of Clairvaux, <hi rend="italic">Sermons</hi>
                      </title>
                      

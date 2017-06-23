@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_185-item1" n="1" class="#tabulae #biblia">
+                  <msItem xml:id="MS_Bodl_185-item1" n="1" class="#tabulae #biblia" key="work_14839">
                      <title type="desc">Table of Biblical themes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_185-item2" n="2" class="#distinctiones #biblia">
+                  <msItem xml:id="MS_Bodl_185-item2" n="2" class="#distinctiones #biblia" key="work_11568 ">
                      <title type="desc">Distinctiones theologicae</title>
                      <note>(Stegmüller 10090)</note>
                      <textLang mainLang="la">Latin</textLang>

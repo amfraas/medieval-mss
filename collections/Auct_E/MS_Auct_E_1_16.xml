@@ -56,7 +56,7 @@
                      <title>Thesaurus orthodoxae fidei</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_E_1_16-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Auct_E_1_16-item2" n="2" class="#theologica" key="work_13739">
                      <title type="desc">Patristic
               texts.</title>
                      <textLang mainLang="la" otherLangs="grc">Latin and Greek</textLang>

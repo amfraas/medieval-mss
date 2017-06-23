@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_322-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_322-item1" n="1" class="#liturgica" key="work_13354 ">
                      <title type="desc">Missal (votive)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Liturg_322-item2" n="2" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_322-item2" n="2" class="#liturgica" key="work_14426">
                      <title type="desc">Ritual</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

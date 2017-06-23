@@ -73,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Gr_5-part1-item1" n="1">
+                     <msItem xml:id="MS_Canon_Gr_5-part1-item1" n="1" key="work_13571 ">
                         <title>Office of Baptism.</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -99,7 +99,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Gr_5-part2-item1" n="1">
+                     <msItem xml:id="MS_Canon_Gr_5-part2-item1" n="1" key="work_13578 ">
                         <title>Office of St. Anne</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -125,7 +125,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Gr_5-part3-item1" n="1">
+                     <msItem xml:id="MS_Canon_Gr_5-part3-item1" n="1" key="work_13581">
                         <title>Office of St. John the Evangelist</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -151,7 +151,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Gr_5-part4-item1" n="1">
+                     <msItem xml:id="MS_Canon_Gr_5-part4-item1" n="1" key="work_13577 ">
                         <title>Office of Marriage.</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>

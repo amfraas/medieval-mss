@@ -58,7 +58,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MSS_Douce_273-4-item1" n="1" class="#theologica">
+                  <msItem xml:id="MSS_Douce_273-4-item1" n="1" class="#theologica" key="work_15551">
                      <title type="desc">Wycliffite treatises</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

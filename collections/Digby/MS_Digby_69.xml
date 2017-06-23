@@ -78,7 +78,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_69-part1-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Digby_69-part1-item1" n="1" class="#medica" key="work_13209 ">
 						                  <title type="desc">Medical recipes</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -108,12 +108,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_69-part2-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Digby_69-part2-item1" n="1" class="#medica" key="work_13212">
 						                  <title type="desc">Medical recipes and texts.</title>
                         
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_69-part2-item2" n="2" class="#medica">
+                     <msItem xml:id="MS_Digby_69-part2-item2" n="2" class="#medica" key="work_12215 ">
                         <title type="desc">Herbals</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -144,7 +144,7 @@
                         <title>De uiribus herbarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_69-part2-item6" n="6" class="#topographica">
+                     <msItem xml:id="MS_Digby_69-part2-item6" n="6" class="#topographica" key="work_11501 ">
                         <title type="desc">Description of <placeName key="place_7000208">India</placeName>
                         </title>
                         <textLang mainLang="fr">French</textLang>

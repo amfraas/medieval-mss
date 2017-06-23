@@ -82,7 +82,7 @@
                         <title>Vita metrica S. Mariae Aegyptiacae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_16-part1-item2" n="2" class="#liturgica">
+                     <msItem xml:id="MS_Auct_F_5_16-part1-item2" n="2" class="#liturgica" key="work_14067 ">
                         
                         <title type="desc">Proverbs and moral sayings</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -117,7 +117,7 @@
                   
                   
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_16-part2-item1" n="1" class="#biblia #versus">
+                     <msItem xml:id="MS_Auct_F_5_16-part2-item1" n="1" class="#biblia #versus" key="work_15449">
                    
                         <title type="desc">Versus super notabilia Biblia</title>
                         <textLang mainLang="la">Latin</textLang>

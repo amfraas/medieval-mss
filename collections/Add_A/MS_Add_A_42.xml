@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_A_42-item1" n="1" class="#miscellanea">
+                  <msItem xml:id="MS_Add_A_42-item1" n="1" class="#miscellanea" key="work_11763">
                      <title type="desc">Exhortation addressed to Mary and Anne and other nuns of the
               convent of <orgName>Amesbury</orgName>.</title>
                      <textLang mainLang="en">English</textLang>

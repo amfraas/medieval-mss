@@ -61,7 +61,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_158-item2" n="2">
+                  <msItem xml:id="MS_Barocci_158-item2" n="2" key="work_10746">
                      <title type="desc">Canons of Church Councils</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

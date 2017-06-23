@@ -73,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_D_inf_2_17-part1-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Auct_D_inf_2_17-part1-item1" n="1" class="#biblia" key="work_12096 ">
                         <title rend="roman">Gospels</title>
                         <bibl type="bible">
                            <title rend="roman">Bible, Gospels</title>
@@ -106,15 +106,15 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_D_inf_2_17-part2-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Auct_D_inf_2_17-part2-item1" n="1" class="#liturgica" key="work_14829">
                         <title type="desc">Synaxaria</title>
                         <textLang mainLang="grc">Greek</textLang>
                       </msItem> 
-                     <msItem xml:id="MS_Auct_D_inf_2_17-part2-item2" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Auct_D_inf_2_17-part2-item2" n="1" class="#liturgica" key="work_13278 ">
                            <title type="desc">Menologia</title>
                            <textLang mainLang="grc">Greek</textLang>
                       </msItem>
-                     <msItem xml:id="MS_Auct_D_inf_2_17-part2-item3" n="1" class="#biblia">
+                     <msItem xml:id="MS_Auct_D_inf_2_17-part2-item3" n="1" class="#biblia" key="work_14083 ">
                         <title rend="roman">Psalms
                            </title>
                         <bibl type="bible">
@@ -122,7 +122,7 @@
                         </bibl>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_D_inf_2_17-part2-item4" n="1" class="#biblia #liturgica">
+                     <msItem xml:id="MS_Auct_D_inf_2_17-part2-item4" n="1" class="#biblia #liturgica" key="work_12072 ">
                         <title type="desc">
                            Gospel
                            lections</title>

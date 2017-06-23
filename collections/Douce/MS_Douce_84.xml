@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_84-part1-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Douce_84-part1-item1" n="1" class="#medica" key="work_13203 ">
                         <title type="desc">Medical recipes</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -100,7 +100,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_84-part2-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Douce_84-part2-item1" n="1" class="#medica" key="work_15192">
                         <title type="desc">Treatise on urine</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -129,7 +129,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_84-part3-item1" n="1" class="#prognostica">
+                     <msItem xml:id="MS_Douce_84-part3-item1" n="1" class="#prognostica" key="work_13852 ">
                         <title type="desc">Poem on lucky and
               unlucky days</title>
                         <textLang mainLang="en">English</textLang>

@@ -52,7 +52,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_33-item1" n="1" class="#romances">
+                  <msItem xml:id="MS_Ashmole_33-item1" n="1" class="#romances" key="work_14652">
                      <title>Sir Firumbras.</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

@@ -58,7 +58,7 @@
                      <title>Tabula super sacram scripturam</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_332-item2" n="2" class="#sermones">
+                  <msItem xml:id="MS_Bodl_332-item2" n="2" class="#sermones" key="work_11808">
                      <title>Fasciculus morum</title>
                      <note>(preacher's handbook)</note>
                      <textLang mainLang="la">Latin</textLang>

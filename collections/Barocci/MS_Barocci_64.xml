@@ -61,7 +61,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_64-item2" n="2">
+                  <msItem xml:id="MS_Barocci_64-item2" n="2" key="work_13896">
                      <title type="desc">
                 Poems
                 of <persName role="author" key="person_100213249">
@@ -75,7 +75,7 @@
               </title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_64-item3" n="3">
+                  <msItem xml:id="MS_Barocci_64-item3" n="3" key="work_11559 ">
                      
                         <title>
                            Disticha Catonis

@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_226-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Digby_226-item1" n="1" class="#biblia" key="work_12428">
                      <title rend="roman">Isaiah, Jeremiah and Lamentations, with gloss</title>
                      
                      <bibl type="bible">

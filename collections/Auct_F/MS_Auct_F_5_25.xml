@@ -209,11 +209,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_25-part5-item1" n="1" class="#formularia">
+                     <msItem xml:id="MS_Auct_F_5_25-part5-item1" n="1" class="#formularia" key="work_11876 ">
                         <title type="desc">Formulary of letters</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_25-part5-item2" n="2">
+                     <msItem xml:id="MS_Auct_F_5_25-part5-item2" n="2" key="work_11265 ">
                         <title>Commentary on Ps.-Aristotle, De differentia spiritus et animae</title>
                         <bibl type="commentedOn">
                            <author key="person_2581859">
@@ -223,7 +223,7 @@
                         </bibl>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_25-part5-item3" n="3">
+                     <msItem xml:id="MS_Auct_F_5_25-part5-item3" n="3" key="work_11143 ">
                         <title>Commentary on Aristotle, De anima, i-ii</title>
                         <bibl type="commentedOn">
                            <author key="person_7524651">
@@ -299,7 +299,7 @@
                         <title>De mysterio missae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_25-part7-item2" n="2" class="#versus #biblia #christologia">
+                     <msItem xml:id="MS_Auct_F_5_25-part7-item2" n="2" class="#versus #biblia #christologia" key="work_13855">
                         <title type="desc">Poem on Old Testament types of Christ and the Church</title>
                         <rubric>Liber prefigurationum Christi et ecclesie</rubric>
                         <textLang mainLang="la">Latin</textLang>

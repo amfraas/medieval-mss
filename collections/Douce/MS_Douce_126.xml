@@ -49,15 +49,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_126-item1" n="1" class="#theologica #devotiones">
+                  <msItem xml:id="MS_Douce_126-item1" n="1" class="#theologica #devotiones" key="work_13981 ">
                      <title>The Prick of conscience</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_126-item2" n="2" class="#romances #apocrypha">
+                  <msItem xml:id="MS_Douce_126-item2" n="2" class="#romances #apocrypha" key="work_14645">
                      <title>The Siege of Jerusalem (Titus and Vespasian)</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_126-item3" n="3" class="#versus #devotiones">
+                  <msItem xml:id="MS_Douce_126-item3" n="3" class="#versus #devotiones" key="work_14344 ">
                      <title type="desc">Religious poems</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

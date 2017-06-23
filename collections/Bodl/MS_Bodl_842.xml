@@ -67,7 +67,7 @@
                      <title>Ars cantus mensurabilis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_842-item3" n="3" class="#musica">
+                  <msItem xml:id="MS_Bodl_842-item3" n="3" class="#musica" key="work_10615">
                      <title>Breuiarium regulare musicae</title>
                      <note>(musical treatise)</note>
                      <textLang mainLang="la">Latin</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_275-item1" n="1" class="#liturgica #biblia">
+                  <msItem xml:id="MS_Canon_Liturg_275-item1" n="1" class="#liturgica #biblia" key="work_14104">
                      <title type="desc">Psalter (portable ferial Psalter, Gallican, Ambrosian rite)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -72,7 +72,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_39-item3" n="3">
+                  <msItem xml:id="MS_Barocci_39-item3" n="3" key="work_14537">
                      <title type="desc">
                         <hi rend="italic">Sententiae</hi> and
 				  <hi rend="italic">Florilegium sententiarum</hi> of Greek writers.</title>

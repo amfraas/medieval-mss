@@ -184,7 +184,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_18-part4-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Arch_Selden_B_18-part4-item1" n="1" class="#alchimia" key="work_10163">
 						                  <title type="desc">Alchemical writings</title>
                         
                         <textLang mainLang="grc">Greek</textLang>

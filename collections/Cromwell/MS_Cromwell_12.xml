@@ -94,7 +94,7 @@
                      <title>Hypotyposis</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_12-item6" n="6" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Cromwell_12-item6" n="6" class="#astrologia_astronomia" key="work_10360">
 						               <title type="desc">Astronomical and astrological texts and tables</title>
                      
                      <textLang mainLang="grc">Greek</textLang>

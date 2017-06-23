@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_227-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Digby_227-item1" n="1" class="#liturgica" key="work_13357">
 						               <title type="desc">Missal, Benedictine use</title>
                      
                      <note>('The Abingdon Missal', pars aestiualis)</note>

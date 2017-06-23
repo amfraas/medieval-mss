@@ -57,16 +57,16 @@
                      <note>(fragment)</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_d_6-item2" n="2" class="#romances">
+                  <msItem xml:id="MS_Douce_d_6-item2" n="2" class="#romances" key="work_12482 ">
                      <title>La Folie Tristan d'Oxford</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_d_6-item3" n="3" class="#versus #satirica">
+                  <msItem xml:id="MS_Douce_d_6-item3" n="3" class="#versus #satirica" key="work_11464 ">
                      <title type="desc">Debate between humility and pride</title>
                      <note>(verse)</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_d_6-item4" n="4" class="#apocrypha">
+                  <msItem xml:id="MS_Douce_d_6-item4" n="4" class="#apocrypha" key="work_12602">
                      <title type="desc">Legend of the True
               Cross</title>
                      <textLang mainLang="fr">French</textLang>

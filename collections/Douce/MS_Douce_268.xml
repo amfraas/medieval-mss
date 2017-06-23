@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_268-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Douce_268-item1" n="1" class="#liturgica" key="work_10523">
                      
                      <title type="desc">Book of Hours, Use of Bayeux</title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>

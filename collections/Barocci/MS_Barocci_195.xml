@@ -59,13 +59,13 @@
                      <note>Draft of opening sentences of item 3.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_195-item2" n="2">
+                  <msItem xml:id="MS_Barocci_195-item2" n="2" key="work_10721 ">
                      
                      <locus>(fol. 3v)</locus> 
                      <title>Calendrical tables for the years 1341–54.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_195-item3" n="3">
+                  <msItem xml:id="MS_Barocci_195-item3" n="3" key="work_11961 ">
                      
                      <locus>(fols. 4r–8r)</locus> 
                      <title>Funeral oration on <persName key="person_62"><!-- not found -->Andronicus
@@ -84,7 +84,7 @@
                            Antiochus</persName>.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_195-item4" n="4">
+                  <msItem xml:id="MS_Barocci_195-item4" n="4" key="work_15423">
                      
                      <locus>(fol. 8r)</locus> 
                      <title>verse epitaph in 12-syllable lines for <persName key="person_1392">Ioannes
@@ -107,7 +107,7 @@
                               beatum Job collectore Niceta Heracleae metropolita</hi>, London 1637.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_195-item6" n="6">
+                  <msItem xml:id="MS_Barocci_195-item6" n="6" key="work_10837 ">
                      
                      <locus>(fols. 189r–291v)</locus> 
                      <title>Catena on Proverbs</title> 

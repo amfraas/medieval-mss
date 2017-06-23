@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_36-item1" n="1" class="#vitae_sanctorum #miracula">
+                  <msItem xml:id="MS_Digby_36-item1" n="1" class="#vitae_sanctorum #miracula" key="work_12821">
                      <title type="desc">Life and miracles of St. Gilbert of Sempringham.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

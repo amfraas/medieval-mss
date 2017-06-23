@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_172-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_172-item1" n="1" class="#liturgica" key="work_10632">
                      <title type="desc">Breviary (Glagolithic)</title>
                      <textLang mainLang="cu">Church Slavonic</textLang>
                   </msItem>

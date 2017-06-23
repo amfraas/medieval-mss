@@ -76,12 +76,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_164-part1-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Digby_164-part1-item1" n="1" class="#alchimia" key="work_10153">
 						                  <title type="desc">Alchemical treatises</title>
                         
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_164-part1-item2" n="2" class="#alchimia">
+                     <msItem xml:id="MS_Digby_164-part1-item2" n="2" class="#alchimia" key="work_10142 ">
 						                  <title type="desc">Alchemical recipes</title>
                         
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
@@ -108,12 +108,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_164-part2-item1" n="1" class="#alchimia">
+                     <msItem xml:id="MS_Digby_164-part2-item1" n="1" class="#alchimia" key="work_10153">
 						                  <title type="desc">Alchemical treatises</title>
                         
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_164-part2-item2" n="2" class="#alchimia">
+                     <msItem xml:id="MS_Digby_164-part2-item2" n="2" class="#alchimia" key="work_10142 ">
 						                  <title type="desc">Alchemical recipes</title>
                         
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>

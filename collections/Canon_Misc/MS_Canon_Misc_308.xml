@@ -79,11 +79,11 @@
                         </persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_308-item4" n="4" class="#versus #miscellanea">
+                  <msItem xml:id="MS_Canon_Misc_308-item4" n="4" class="#versus #miscellanea" key="work_11726 ">
                      <title type="desc">Epitaphs</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_308-item5" n="5" class="#versus">
+                  <msItem xml:id="MS_Canon_Misc_308-item5" n="5" class="#versus" key="work_13891">
 						               <title type="desc">Poems by <persName role="author" key="person_219661074">
                            Johannes Marrasius
                      </persName>, <persName role="author" key="person_66573565">
@@ -106,7 +106,7 @@
                         </persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_308-item7" n="7" class="#rhetorica">
+                  <msItem xml:id="MS_Canon_Misc_308-item7" n="7" class="#rhetorica" key="work_13632 ">
                      <title type="desc">Orations by <persName role="author" key="person_316732347"><!-- see also http://viaf.org/viaf/6001234, http://www.mirabileweb.it/calma/constantia-de-varano-n-1428-ca-m-1447-ca-/1256 -->
                            Constantia (Costanza) de Varano<!-- not found -->
                         </persName> and others</title>

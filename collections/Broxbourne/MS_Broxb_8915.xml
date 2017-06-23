@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Broxb_8915-item1" n="1" class="#liturgica #computistica">
+                  <msItem xml:id="MS_Broxb_8915-item1" n="1" class="#liturgica #computistica" key="work_10692">
                      <title type="desc">Calendar, Franciscan</title>
                      <note>(girdle book)</note>
                      <textLang mainLang="la">Latin</textLang>

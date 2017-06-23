@@ -84,7 +84,7 @@
                         <title>Tractatus de periculis nouissimorum temporum</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Digby_113-item4" n="4" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Digby_113-item4" n="4" class="#vitae_sanctorum" key="work_13716">
                      <title type="desc">Passion of Stephen of Hungary O.F.M.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

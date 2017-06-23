@@ -59,7 +59,7 @@
                      <note>(Wycliffite interpolated version)</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_288-item2" n="2" class="#credo">
+                  <msItem xml:id="MS_Bodl_288-item2" n="2" class="#credo" key="work_10419">
                      <title type="desc">Athanasian Creed</title>
                      <note>(Wycliffite translation and commentary)</note>
                      <textLang mainLang="en">English</textLang>

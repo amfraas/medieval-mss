@@ -49,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Cherry_3-item1" n="1" class="#sacramenta">
+                  <msItem xml:id="MS_Cherry_3-item1" n="1" class="#sacramenta" key="work_15060">
                      
                      <title type="desc">Treatise on Holy Communion</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cherry_3-item2" n="2" class="#ecclesiastica">
+                  <msItem xml:id="MS_Cherry_3-item2" n="2" class="#ecclesiastica" key="work_11509 ">
                      <title ref="http://viaf.org/viaf/18017604">Details of proposed foundations of episcopal sees and colleges, 1539</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

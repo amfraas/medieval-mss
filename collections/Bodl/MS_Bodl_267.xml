@@ -58,7 +58,7 @@
                      <title>Homiliae in Ezechielem</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_267-item2" n="2" class="#sermones">
+                  <msItem xml:id="MS_Bodl_267-item2" n="2" class="#sermones" key="work_14583">
                      <title type="desc">Sermons</title>
                      <note>based on Ps.-Paul the Deacon, <hi rend="italic">Homiliarus doctorum</hi> 
                      </note>

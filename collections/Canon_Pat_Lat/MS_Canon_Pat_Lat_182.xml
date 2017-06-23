@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_182-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Canon_Pat_Lat_182-item1" n="1" class="#biblia" key="work_12074">
                      <title rend="roman">Gospel of St. John</title>
                      <bibl type="bible">
                         <title rend="roman">Bible, John</title>

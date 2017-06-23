@@ -67,7 +67,7 @@
                      <title>Tegni</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_272-item3" n="3" class="#medica">
+                  <msItem xml:id="MS_Canon_Class_Lat_272-item3" n="3" class="#medica" key="work_13232">
                      <title type="desc">Medical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

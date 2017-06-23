@@ -103,7 +103,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_150-item6" n="6" class="#medica #scientifica">
+                  <msItem xml:id="MS_Digby_150-item6" n="6" class="#medica #scientifica" key="work_15092">
                      <title type="desc">Texts on medicine and natural philosophy</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

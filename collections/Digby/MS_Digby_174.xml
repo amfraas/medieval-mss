@@ -177,7 +177,7 @@
                         <title>De similibus arcubus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_174-part3-item3" n="3" class="#mathematica">
+                     <msItem xml:id="MS_Digby_174-part3-item3" n="3" class="#mathematica" key="work_13156 ">
 						                  <title type="desc">Mathematical treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -239,7 +239,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_174-part4-item1" n="1" class="#mathematica">
+                     <msItem xml:id="MS_Digby_174-part4-item1" n="1" class="#mathematica" key="work_15144">
                         <title type="desc">Treatises on proportions.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -311,7 +311,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_174-part6-item1" n="1" class="#logica">
+                     <msItem xml:id="MS_Digby_174-part6-item1" n="1" class="#logica" key="work_15082 ">
                         <title type="desc">Treatise on logic.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -340,7 +340,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_174-part7-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Digby_174-part7-item1" n="1" class="#sermones" key="work_14556 ">
 						                  <title type="desc">Sermon notes</title>
                         
                         <textLang mainLang="la">Latin</textLang>

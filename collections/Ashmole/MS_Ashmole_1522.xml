@@ -52,7 +52,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1522-item1" n="1">
+                  <msItem xml:id="MS_Ashmole_1522-item1" n="1" key="work_13151">
                      <title type="desc">Mathematical and optical treatises.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

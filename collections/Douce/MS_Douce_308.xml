@@ -151,7 +151,7 @@
                         <title>Le tournoi de Chauvency</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_308-part3-item2" n="2" class="#versus">
+                     <msItem xml:id="MS_Douce_308-part3-item2" n="2" class="#versus" key="work_15394">
                         <title type="desc">Trouvère poetry</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>

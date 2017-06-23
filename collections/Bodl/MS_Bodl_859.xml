@@ -192,7 +192,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_859-part4-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Bodl_859-part4-item1" n="1" class="#sermones" key="work_14617">
                         <title type="desc">Sermons on the Purification of the Blessed Virgin Mary</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -221,7 +221,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_859-part5-item1" n="1" class="#sermones #miscellanea">
+                     <msItem xml:id="MS_Bodl_859-part5-item1" n="1" class="#sermones #miscellanea" key="work_14588 ">
                         <title type="desc">Sermons and notes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

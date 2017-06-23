@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_676-item1" n="1" class="#scientifica #logica">
+                  <msItem xml:id="MS_Bodl_676-item1" n="1" class="#scientifica #logica" key="work_15111">
                      <title type="desc">Treatises on natural philosophy and logic</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -98,7 +98,7 @@
                      <title>De sphaera</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_676-item7" n="7" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Bodl_676-item7" n="7" class="#astrologia_astronomia" key="work_10409 ">
                      <title type="desc">Astronomical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

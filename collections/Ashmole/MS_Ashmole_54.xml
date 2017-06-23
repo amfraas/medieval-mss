@@ -67,7 +67,7 @@
                      <title>Georgics</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_54-item3" n="3" class="#historica">
+                  <msItem xml:id="MS_Ashmole_54-item3" n="3" class="#historica" key="work_15199">
                      <title type="desc">Texts on <persName key="person_8194433">Virgil</persName>
                      </title>
                      <textLang mainLang="la">Latin</textLang>

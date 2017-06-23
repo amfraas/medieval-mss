@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_293-item1" n="1" class="#animalia">
+                  <msItem xml:id="MS_Canon_Ital_293-item1" n="1" class="#animalia" key="work_15089">
                      <title type="desc">Treatise on marshalsy</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

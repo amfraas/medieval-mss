@@ -160,7 +160,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_d_19-part4-item1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_d_19-part4-item1" class="#liturgica" key="work_13372 ">
                         <locus>(fol. 5c-d)</locus>
                         <title type="desc">Missal, Use of Sarum</title>
                         <note>(cuttings)</note>
@@ -193,7 +193,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_d_19-part5-item1" class="#liturgica #biblia">
+                     <msItem xml:id="MS_Douce_d_19-part5-item1" class="#liturgica #biblia" key="work_14114 ">
                         <locus>(fols. 7-8)</locus>
                         <title type="desc">Psalter</title>
                         <note>(cuttings from a choir psalter)</note>
@@ -225,7 +225,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_d_19-part6-item1" class="#liturgica #biblia">
+                     <msItem xml:id="MS_Douce_d_19-part6-item1" class="#liturgica #biblia" key="work_14158 ">
                         <locus>(fols. 10-39)  </locus>
                         <title type="desc">Psalter with Hours</title>
                         <note>(cuttings; MS. Douce 381, fols. 63v-65v are from the same manuscript, and further cuttings are in Philadelphia Free Library, MS. Lewis 3, fols. 1-28 and MS. Lewis 8, fols. 1-4)</note>
@@ -260,7 +260,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_d_19-part7-item1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_d_19-part7-item1" class="#liturgica" key="work_10507 ">
                         <locus>(fols. 41-62)</locus>
                         <title type="desc">Book of Hours</title>
                         <note>(cuttings from From a Book of Hours containing portions of (fol.41) Offices of the Virgin (Lauds); (fol.48) of the Cross; (fol.55) of the Holy Ghost;  (fol.62) Penitential psalms</note>
@@ -306,7 +306,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_d_19-part8-item1" class="#devotiones">
+                     <msItem xml:id="MS_Douce_d_19-part8-item1" class="#devotiones" key="work_11529 ">
                         <locus>(fol.64)</locus>
                         <title type="desc">Devotional work</title>
                         <note>referred to in the text as a ‘Dietarium’</note>
@@ -347,7 +347,7 @@
                   </msIdentifier>
                  
                   <msContents>
-                     <msItem xml:id="MS_Douce_d_19-part9-item1" class="#legalia">
+                     <msItem xml:id="MS_Douce_d_19-part9-item1" class="#legalia" key="work_12591 ">
                         <locus>(fol.70)</locus>
                         <title type="desc">Legal treatise</title>
                         <note>(cuttings)</note>

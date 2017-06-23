@@ -76,7 +76,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_D_2_16-part1-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Auct_D_2_16-part1-item1" n="1" class="#biblia" key="work_12097">
                         <title rend="roman">Gospels</title>
                         <textLang mainLang="la" otherLangs="en">Latin and Old English</textLang>
                      </msItem>
@@ -109,7 +109,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_D_2_16-part2-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Auct_D_2_16-part2-item1" n="1" class="#biblia" key="work_12097">
                         <title rend="roman">Gospels </title>
                         <note>(additions)</note>
                         <bibl type="bible">

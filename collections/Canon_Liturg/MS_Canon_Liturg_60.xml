@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_60-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_60-item1" n="1" class="#liturgica" key="work_10682 ">
                      <title type="desc">Calendar</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Liturg_60-item2" n="2" class="#liturgica #biblia">
+                  <msItem xml:id="MS_Canon_Liturg_60-item2" n="2" class="#liturgica #biblia" key="work_14114">
                      <title type="desc">Psalter</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -49,20 +49,20 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_535-item1" n="1" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Bodl_535-item1" n="1" class="#vitae_sanctorum" key="work_12819 ">
                      <title type="desc">Lif of St Dionysius the Areopagite</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_535-item2" n="2" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Bodl_535-item2" n="2" class="#vitae_sanctorum" key="work_12899">
                      <title type="desc">Life of St Neot</title>
                      <note>(here attributed to <persName role="author" key="person_220837279">William of Ramsey</persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_535-item3" n="3" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Bodl_535-item3" n="3" class="#vitae_sanctorum" key="work_12893 ">
                      <title type="desc">Life of St Mary Magdalene</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_535-item4" n="4" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Bodl_535-item4" n="4" class="#vitae_sanctorum" key="work_12886 ">
                      <title type="desc">Life of St Malo</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

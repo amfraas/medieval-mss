@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_201-item1" n="1" class="#ecclesiastica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_201-item1" n="1" class="#ecclesiastica" key="work_14962">
                      <title type="desc">Treatises on the authority of Church councils.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

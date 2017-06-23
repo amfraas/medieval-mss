@@ -49,20 +49,20 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_E_15_R-item1" n="1" class="#theologica">
+                  <msItem xml:id="MS_Add_E_15_R-item1" n="1" class="#theologica" key="work_14946">
                      <title type="desc">Treatise on Antichrist</title> 
                      <note>(recto, 13th century)</note>
                      <note>(part)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                     <msItem xml:id="MS_Add_E_15_R-item2" n="2" class="#versus #computistica">
+                     <msItem xml:id="MS_Add_E_15_R-item2" n="2" class="#versus #computistica" key="work_13306 ">
                         <title type="desc">Metrical
                            treatise on the calendar</title>
                      <note>(verso,
                            14th century)</note>
                         <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_E_15_R-item3" n="3" class="#versus #computistica">
+                  <msItem xml:id="MS_Add_E_15_R-item3" n="3" class="#versus #computistica" key="work_13378 ">
                      <title type="desc">Mnemonic poem on the calendarial saints</title>
                      <note>(verso,
                            14th century)</note>

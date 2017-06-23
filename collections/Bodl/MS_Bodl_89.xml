@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_89-item1" n="1" class="#pastoralia">
+                  <msItem xml:id="MS_Bodl_89-item1" n="1" class="#pastoralia" key="work_14675">
                      <title>Speculum Christiani</title>
                      <textLang mainLang="en" otherLangs="la">English and  Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_89-item2" n="2" class="#versus #devotiones">
+                  <msItem xml:id="MS_Bodl_89-item2" n="2" class="#versus #devotiones" key="work_10764 ">
                      <title>Carta Christi</title>
                      <note>(religious poem)</note>
                      <textLang mainLang="en">English</textLang>

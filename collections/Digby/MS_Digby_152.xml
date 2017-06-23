@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_152-item1" n="1" class="#animalia">
+                  <msItem xml:id="MS_Digby_152-item1" n="1" class="#animalia" key="work_12805">
                      <title>Liber Moamin falconarii</title>
                      <note>(treatise on falconry)</note>
                      <textLang mainLang="la">Latin</textLang>

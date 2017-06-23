@@ -56,7 +56,7 @@
                      <title>Compendium ueritatis theologicae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_10-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Auct_F_3_10-item2" n="2" class="#theologica" key="work_15292">
                      <title type="desc">Theological quaestiones</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -69,11 +69,11 @@
                      <note>incomplete</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_10-item4" n="4" class="#sacramenta">
+                  <msItem xml:id="MS_Auct_F_3_10-item4" n="4" class="#sacramenta" key="work_11771 ">
                      <title type="desc">Expositio missae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_10-item5" n="5" class="#ecclesiastica">
+                  <msItem xml:id="MS_Auct_F_3_10-item5" n="5" class="#ecclesiastica" key="work_10752 ">
                      <title type="desc">Canons of the Council of Lyons, 1274</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

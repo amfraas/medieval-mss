@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_222-item1" n="1" class="#devotiones">
+                  <msItem xml:id="MS_Canon_Ital_222-item1" n="1" class="#devotiones" key="work_13269 ">
                      <title type="desc">Meditations on the Passion</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_222-item2" n="2" class="#mariologica"><!-- check: Pseudo Bernard? -->
+                  <msItem xml:id="MS_Canon_Ital_222-item2" n="2" class="#mariologica" key="work_13829"><!-- check: Pseudo Bernard? -->
                      <title>Planctus Mariae</title>
                      <note>(Italian version)</note>
                      <textLang mainLang="it">Italian</textLang>

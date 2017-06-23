@@ -79,7 +79,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_65-part1-item1" n="1" class="#versus #auctoritates">
+                     <msItem xml:id="MS_Digby_65-part1-item1" n="1" class="#versus #auctoritates" key="work_13904">
                         <title type="desc">Poetical anthology</title>
                         <note>(including <persName role="author" key="person_63726052">
                               Godfrey of Winchester

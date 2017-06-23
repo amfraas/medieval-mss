@@ -45,7 +45,7 @@
 
 
 
-						            <msItem xml:id="MS_Buchanan_e_3-item1" class="#liturgica">
+						            <msItem xml:id="MS_Buchanan_e_3-item1" class="#liturgica" key="work_10568">
 						               <title type="desc">Book of Hours, Use of Rouen</title>
 							              <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
 						               <msItem xml:id="MS_Buchanan_e_3-item1-item1">

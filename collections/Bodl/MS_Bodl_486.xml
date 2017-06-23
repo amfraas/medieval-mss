@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_486-part1-item1" n="1" class="#legalia">
+                     <msItem xml:id="MS_Bodl_486-part1-item1" n="1" class="#legalia" key="work_13509 ">
                         <title type="desc">Notes on canon law</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -109,7 +109,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_486-part2-item1" n="1" class="#legalia">
+                     <msItem xml:id="MS_Bodl_486-part2-item1" n="1" class="#legalia" key="work_13512">
                         <title type="desc">Notes on civil law</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

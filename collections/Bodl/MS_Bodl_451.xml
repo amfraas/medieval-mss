@@ -58,7 +58,7 @@
                      <title>Diadema monachorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_451-item2" n="2" class="#virtutes_et_vitia">
+                  <msItem xml:id="MS_Bodl_451-item2" n="2" class="#virtutes_et_vitia" key="work_13409">
                      <title type="desc">Moral treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

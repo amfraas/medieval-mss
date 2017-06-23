@@ -72,11 +72,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_45-part1-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Douce_45-part1-item1" n="1" class="#medica" key="work_13206 ">
                         <title type="desc">Medical recipes</title>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_45-part1-item2" n="2" class="#mathematica">
+                     <msItem xml:id="MS_Douce_45-part1-item2" n="2" class="#mathematica" key="work_10276 ">
                         <title type="desc">Arithmetical terms</title>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>
@@ -109,7 +109,7 @@
                         <title>De quadrante</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_45-part2-item2" n="2" class="#scientifica">
+                     <msItem xml:id="MS_Douce_45-part2-item2" n="2" class="#scientifica" key="work_15150">
                         <title type="desc">Treatise on the quadrant</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -135,11 +135,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_45-part3-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Douce_45-part3-item1" n="1" class="#medica" key="work_13205 ">
                         <title type="desc">Medical recipes</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English </textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_45-part3-item2" n="2" class="#scientifica">
+                     <msItem xml:id="MS_Douce_45-part3-item2" n="2" class="#scientifica" key="work_14241 ">
                         <title type="desc">Recipes for making colours
               for illumination</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English </textLang>
@@ -166,15 +166,15 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_45-part4-item1" n="1" class="#scientifica">
+                     <msItem xml:id="MS_Douce_45-part4-item1" n="1" class="#scientifica" key="work_13528 ">
                         <title type="desc">Notes on physiognomy</title>
                         <textLang mainLang="la">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_45-part4-item2" n="1" class="#medica">
+                     <msItem xml:id="MS_Douce_45-part4-item2" n="1" class="#medica" key="work_14943 ">
                         <title type="desc">Treatise on anatomy</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_45-part4-item3" n="2" class="#prognostica">
+                     <msItem xml:id="MS_Douce_45-part4-item3" n="2" class="#prognostica" key="work_14987 ">
                         <title type="desc">Treatise on chiromancy</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -200,11 +200,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_45-part5-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Douce_45-part5-item1" n="1" class="#astrologia_astronomia" key="work_10342 ">
                         <title type="desc">Astrological treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_45-part5-item2" n="2" class="#versus">
+                     <msItem xml:id="MS_Douce_45-part5-item2" n="2" class="#versus" key="work_13875 ">
                         <title type="desc">Poems</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

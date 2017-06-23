@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_E_14_R-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Add_E_14_R-item1" n="1" class="#historica" key="work_11975">
                      <title type="desc">Genealogy and chronicle of the kings of <placeName key="place_7002445">England</placeName> from Brut to
                         Edward I (1272), with additions to c.
               1301.</title>

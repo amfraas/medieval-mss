@@ -56,7 +56,7 @@
                      <title>Historia destructionis Troiae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_271-item2" n="2" class="#romances">
+                  <msItem xml:id="MS_Canon_Class_Lat_271-item2" n="2" class="#romances" key="work_15537">
                      <title type="desc">Works relating to Alexander the Great</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -75,7 +75,7 @@
               works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_271-item5" n="5" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Class_Lat_271-item5" n="5" class="#vitae_sanctorum" key="work_15470 ">
                      <title>Vita S. Hieronymi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

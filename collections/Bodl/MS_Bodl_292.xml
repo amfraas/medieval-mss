@@ -155,7 +155,7 @@
                         <note>(with commentary)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_292-part2-item3" n="3">
+                     <msItem xml:id="MS_Bodl_292-part2-item3" n="3" key="work_11284">
                         <title>Commentary on Seneca, Declamationes</title>
                         <bibl type="commentedOn">
                            <author key="person_90637919">
@@ -193,7 +193,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_292-part3-item1" n="1">
+                     <msItem xml:id="MS_Bodl_292-part3-item1" n="1" key="work_11158 ">
                         <title>Commentary on Aristotle, Politics</title>
                         <textLang mainLang="la">Latin</textLang>
                         <bibl type="commentedOn">

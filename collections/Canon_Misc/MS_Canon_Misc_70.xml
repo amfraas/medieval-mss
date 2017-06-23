@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_70-item1" n="1" class="#theologica #tabulae">
+                  <msItem xml:id="MS_Canon_Misc_70-item1" n="1" class="#theologica #tabulae" key="work_12374">
 						               <title type="desc">Index to theological treatise.</title>
                      
                      <textLang mainLang="la">Latin</textLang>

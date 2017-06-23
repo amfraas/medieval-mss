@@ -63,7 +63,7 @@
                      <title>Sententiae nonnullae</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_4_6-item3" n="3" class="#scientifica">
+                  <msItem xml:id="MS_Auct_F_4_6-item3" n="3" class="#scientifica" key="work_12794">
                      <title type="desc">Liber de Physiognomia.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

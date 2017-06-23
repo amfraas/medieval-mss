@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_160-item1" n="1" class="#biblia #versus">
+                  <msItem xml:id="MS_Douce_160-item1" n="1" class="#biblia #versus" key="work_11720">
                      <title>Epistre de Ysaac: Enuoyee a sa mere Sarra</title>
                      <note>(verse account of the sacrifice of Isaac)</note>
                      <textLang mainLang="fr">French</textLang>

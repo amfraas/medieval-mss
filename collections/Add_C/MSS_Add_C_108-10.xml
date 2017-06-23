@@ -64,14 +64,14 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MSS_Add_C_108-10-item1" n="1" class="#apocrypha">
+                  <msItem xml:id="MSS_Add_C_108-10-item1" n="1" class="#apocrypha" key="work_14898">
                      <title>Testamenta duodecim
                         patriarcharum</title> 
                      <note>translated by <persName key="person_86920837" role="translator">Robert Grosseteste</persName>
                      </note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MSS_Add_C_108-10-item2" n="2" class="#apocrypha">
+                  <msItem xml:id="MSS_Add_C_108-10-item2" n="2" class="#apocrypha" key="work_12272 ">
                      <title type="desc">History of Joseph and
               Asenath</title>
                      <textLang mainLang="la">Latin</textLang>
@@ -105,7 +105,7 @@
                      <title>Flores sententiarum Thome de Aquino</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MSS_Add_C_108-10-item7" n="7" class="#commentarii #ecclesiastica">
+                  <msItem xml:id="MSS_Add_C_108-10-item7" n="7" class="#commentarii #ecclesiastica" key="work_11294 ">
                      <title type="desc">Commentary on
               the <hi rend="italic">Stella clericorum</hi>
                      </title>

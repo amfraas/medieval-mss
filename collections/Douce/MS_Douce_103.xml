@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_103-part1-item1" n="1" class="#grammatica #miscellanea #liturgica">
+                     <msItem xml:id="MS_Douce_103-part1-item1" n="1" class="#grammatica #miscellanea #liturgica" key="work_11770 ">
                         <title type="desc">Explanation of words used in the Psalter</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -101,7 +101,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_103-part2-item1" n="1" class="#grammatica #liturgica">
+                     <msItem xml:id="MS_Douce_103-part2-item1" n="1" class="#grammatica #liturgica" key="work_14196 ">
                         <title type="desc">Rearrangement
               of words of Latin Hymns to make translation easy for beginners</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -131,7 +131,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_103-part3-item1" n="1" class="#grammatica">
+                     <msItem xml:id="MS_Douce_103-part3-item1" n="1" class="#grammatica" key="work_12148 ">
                         <title type="desc">Grammatical treatise</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -160,11 +160,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_103-part4-item1" n="1" class="#grammatica">
+                     <msItem xml:id="MS_Douce_103-part4-item1" n="1" class="#grammatica" key="work_15074">
                         <title type="desc">Treatise on Latin prosody</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_103-part4-item2" n="2" class="#grammatica">
+                     <msItem xml:id="MS_Douce_103-part4-item2" n="2" class="#grammatica" key="work_14939 ">
                         <title type="desc">Treatise on aequiuoca</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

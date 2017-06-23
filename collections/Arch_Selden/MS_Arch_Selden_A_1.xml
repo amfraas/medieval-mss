@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Arch_Selden_A_1-item1" n="1" class="#legalia #topographica #historica">
+                  <msItem xml:id="MS_Arch_Selden_A_1-item1" n="1" class="#legalia #topographica #historica" key="work_11054">
                      <title type="desc">'Codex Mendoza': Mexican pictorial manuscript</title>
                      <note>Contains (1) a pictorial history of the Aztec empire
                         from 1325 to 1521; (2) an illustrated catalogue of the annual tribute paid by the

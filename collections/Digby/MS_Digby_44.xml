@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_44-item1" n="1" class="#commentarii">
+                  <msItem xml:id="MS_Digby_44-item1" n="1" class="#commentarii" key="work_11111">
 						               <title type="desc">Commentaries on Aristotle, Physics</title>
                      
                      <note>(partly by <persName role="author" key="person_78775033">

@@ -49,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_208-item1" n="1" class="#theologica #scientifica #versus">
+                  <msItem xml:id="MS_Canon_Ital_208-item1" n="1" class="#theologica #scientifica #versus" key="work_15251">
 						               <title type="desc">Theological and scientific works in prose and verse</title>
                      
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_208-item2" n="2" class="#oratio">
+                  <msItem xml:id="MS_Canon_Ital_208-item2" n="2" class="#oratio" key="work_13946 ">
                      <title type="desc">Prayers</title>
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>
                   </msItem>

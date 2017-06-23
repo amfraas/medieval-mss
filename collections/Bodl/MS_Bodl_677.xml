@@ -71,11 +71,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_677-part1-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Bodl_677-part1-item1" n="1" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_677-part1-item2" n="2" class="#sermones">
+                     <msItem xml:id="MS_Bodl_677-part1-item2" n="2" class="#sermones" key="work_13498 ">
                         <title type="desc">Notes for preachers</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -107,7 +107,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_677-part2-item1" n="1" class="#virtutes_et_vitia">
+                     <msItem xml:id="MS_Bodl_677-part2-item1" n="1" class="#virtutes_et_vitia" key="work_15198">
                         <title type="desc">Treatise on vices</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

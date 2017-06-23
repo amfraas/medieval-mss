@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Bibl_Lat_31-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Canon_Bibl_Lat_31-item1" n="1" class="#biblia" key="work_13754">
                      <title rend="roman">Pauline Epistles; Acts of the Apostles; Epistle of James; Proverbs; Ecclesiastes</title>
                      <bibl type="bible">
                         <title rend="roman">Bible, Pauline Epistles</title>

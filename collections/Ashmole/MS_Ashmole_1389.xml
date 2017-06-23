@@ -73,11 +73,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1389-part1-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Ashmole_1389-part1-item1" n="1" class="#medica" key="work_13202 ">
                         <title type="desc">Medical recipes.</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1389-part1-item2" n="2" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_1389-part1-item2" n="2" class="#astrologia_astronomia" key="work_10344 ">
                         <title type="desc">Astrological texts and tables</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
@@ -107,7 +107,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1389-part2-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Ashmole_1389-part2-item1" n="1" class="#medica" key="work_13217">
                         <title type="desc">Medical recipes, notes and glossary</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>

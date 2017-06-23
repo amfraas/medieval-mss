@@ -75,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                  <msContents>
-                    <msItem xml:id="MS_Auct_T_inf_2_12-part1-item1" n="1" class="#biblia">
+                    <msItem xml:id="MS_Auct_T_inf_2_12-part1-item1" n="1" class="#biblia" key="work_13610">
                        <title rend="roman">Old Testament</title>
                        <note> (fragments)</note>
                        <textLang mainLang="grc">Greek</textLang>
@@ -113,7 +113,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_T_inf_2_12-part2-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Auct_T_inf_2_12-part2-item1" n="1" class="#biblia" key="work_13610">
                         <title rend="roman">Old Testament</title>
                         <note> (fragments).</note>
                         <bibl type="bible">
@@ -147,7 +147,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_T_inf_2_12-part3-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Auct_T_inf_2_12-part3-item1" n="1" class="#biblia" key="work_13610">
                         <title rend="roman">Old Testament</title>
                         <note> (fragments).</note>
                         <textLang mainLang="grc">Greek</textLang>

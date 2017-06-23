@@ -74,7 +74,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_860-part1-item1" n="1" class="#versus #biblia #commentarii">
+                     <msItem xml:id="MS_Bodl_860-part1-item1" n="1" class="#versus #biblia #commentarii" key="work_14079">
                         <title rend="roman">Psalm i</title>
                         <note>(Latin hexameter version, with glosses)</note>
                         <textLang mainLang="la">Latin</textLang>

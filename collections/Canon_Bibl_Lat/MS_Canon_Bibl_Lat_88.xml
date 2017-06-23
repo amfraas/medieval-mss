@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Bibl_Lat_88-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Canon_Bibl_Lat_88-item1" n="1" class="#biblia" key="work_14071">
                      <title rend="roman">Proverbs, Ecclesiastes, Song of Songs, and Wisdom, glossed.</title>
                      <bibl type="bible">
                         <title rend="roman">Bible, Proverbs</title>

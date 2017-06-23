@@ -49,15 +49,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1477-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Ashmole_1477-item1" n="1" class="#medica" key="work_13220 ">
                      <title type="desc">Medical treatises</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1477-item2" n="2" class="#medica #miscellanea">
+                  <msItem xml:id="MS_Ashmole_1477-item2" n="2" class="#medica #miscellanea" key="work_13176 ">
                      <title type="desc">Medical and culinary recipes</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1477-item3" n="3" class="#prognostica">
+                  <msItem xml:id="MS_Ashmole_1477-item3" n="3" class="#prognostica" key="work_15139">
                      <title type="desc">Treatise on prognostication</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

@@ -116,7 +116,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Class_Lat_213-part2-item1" n="1" class="#monastica">
+                     <msItem xml:id="MS_Canon_Class_Lat_213-part2-item1" n="1" class="#monastica" key="work_12796">
                         <title>Liber de vita monastica</title>
                         <textLang mainLang="it">Italian</textLang>
                      </msItem>

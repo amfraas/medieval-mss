@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_718-item1" n="1" class="#sacramenta">
+                  <msItem xml:id="MS_Bodl_718-item1" n="1" class="#sacramenta" key="work_13770 ">
                      <title type="desc">Penitential texts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -62,7 +62,7 @@
                      <title>Poenitentiale</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_718-item3" n="3" class="#legalia #sacramenta">
+                  <msItem xml:id="MS_Bodl_718-item3" n="3" class="#legalia #sacramenta" key="work_14172">
                      <title>Quadripartitus</title>
                      <note>(books ii-iv)</note>
                      <!-- classified as both penitential and collectio canonum in Kery, Canonical collections, 167-8 -->

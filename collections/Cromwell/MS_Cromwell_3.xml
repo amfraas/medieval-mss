@@ -111,7 +111,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Cromwell_3-part2-item1" n="1" class="#auctoritates">
+                     <msItem xml:id="MS_Cromwell_3-part2-item1" n="1" class="#auctoritates" key="work_10254 ">
                         <title type="desc">Apophthegmata and other texts</title>
                         <textLang mainLang="cu">Serbian Church Slavonic</textLang>
                      </msItem>
@@ -149,11 +149,11 @@
                         <title>Sermons</title>
                         <textLang mainLang="cu">Serbian Church Slavonic</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Cromwell_3-part3-item2" n="2" class="#vitas_patrum">
+                     <msItem xml:id="MS_Cromwell_3-part3-item2" n="2" class="#vitas_patrum" key="work_15485">
                         <title>Vitas Patrum</title>
                         <textLang mainLang="cu">Serbian Church Slavonic</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Cromwell_3-part3-item3" n="3" class="#auctoritates">
+                     <msItem xml:id="MS_Cromwell_3-part3-item3" n="3" class="#auctoritates" key="work_10256 ">
                         <title>Apophthegmata patrum</title>
                         <textLang mainLang="cu">Serbian Church Slavonic</textLang>
                      </msItem>
@@ -182,7 +182,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Cromwell_3-part4-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Cromwell_3-part4-item1" n="1" class="#sermones" key="work_14550 ">
 						                  <title type="desc">Sermon</title>
                         
                         <note>(fragment)</note>

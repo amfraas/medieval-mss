@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_560-item1" n="1" class="#computistica">
+                  <msItem xml:id="MS_Canon_Misc_560-item1" n="1" class="#computistica" key="work_10724 ">
                      <title>Calendrical texts and extracts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -62,7 +62,7 @@
                      <title>De natura rerum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_560-item3" n="3" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Misc_560-item3" n="3" class="#liturgica" key="work_13140">
                      <title>Martyrology.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

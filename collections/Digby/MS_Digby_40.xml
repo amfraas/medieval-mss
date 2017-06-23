@@ -247,7 +247,7 @@
                         <title>Liber de aggregationibus scientiae stellarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_40-part5-item2" n="2" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_40-part5-item2" n="2" class="#astrologia_astronomia" key="work_10409">
 						                  <title type="desc">Astronomical treatise</title>
                         
                         <textLang mainLang="la">Latin</textLang>

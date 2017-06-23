@@ -51,7 +51,7 @@
                </msIdentifier>
                <msContents>
                   
-                  <msItem xml:id="MS_Add_A_44-item1" n="1" class="#versus #satirica #devotiones #historica">
+                  <msItem xml:id="MS_Add_A_44-item1" n="1" class="#versus #satirica #devotiones #historica" key="work_13890">
                      <title type="desc">Poems and satirical, political and religious pieces,
               with later additions.</title>
                      <textLang mainLang="la">Latin</textLang>

@@ -76,7 +76,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_57-part1-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_57-part1-item1" n="1" class="#astrologia_astronomia" key="work_10345 ">
 						                  <title type="desc">Astrological texts and tables.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -115,7 +115,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_57-part2-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_57-part2-item1" n="1" class="#astrologia_astronomia" key="work_10412">
 						                  <title type="desc">Astronomical texts and tables.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -145,7 +145,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_57-part3-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_57-part3-item1" n="1" class="#astrologia_astronomia" key="work_10409 ">
 						                  <title type="desc">Astronomical texts</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -184,7 +184,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_57-part4-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_57-part4-item1" n="1" class="#astrologia_astronomia" key="work_10342 ">
 						                  <title type="desc">Astrological texts</title>
                         
                         <note>(including extracts from <persName role="author" key="person_86920837">

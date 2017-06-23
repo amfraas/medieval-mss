@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_390-item1" n="1" class="#topographica">
+                  <msItem xml:id="MS_Douce_390-item1" n="1" class="#topographica" key="work_13921">
                      <title type="desc">Portolano of maps of countries bordering the
               Mediterranean</title>
                      <textLang mainLang="it">Italian</textLang>

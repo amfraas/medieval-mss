@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_425-item1" n="1" class="#biblia #liturgica">
+                  <msItem xml:id="MS_Bodl_425-item1" n="1" class="#biblia #liturgica" key="work_14127 ">
                      <title type="desc">Psalter, English metrical version ('Surtees Psalter')</title>
                      <bibl type="bible">
                         <title type="desc">Bible, Psalms</title>
@@ -74,11 +74,11 @@
                      <title>Proverbes de bon enseignement</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_425-item4" n="4" class="#versus #miscellanea">
+                  <msItem xml:id="MS_Bodl_425-item4" n="4" class="#versus #miscellanea" key="work_13897 ">
                      <title type="desc">Poems on courtesy</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_425-item5" n="5" class="#versus #miscellanea">
+                  <msItem xml:id="MS_Bodl_425-item5" n="5" class="#versus #miscellanea" key="work_15407">
                      <title>Urban le courtois</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>

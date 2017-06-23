@@ -70,7 +70,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Add_A_30-part1-item1" n="1" class="#miscellanea">
+                     <msItem xml:id="MS_Add_A_30-part1-item1" n="1" class="#miscellanea" key="work_15216">
                         <title type="desc">Texts relating to the <orgName><!-- no good cluster in viaf -->Order of the Knights Hospitallers of
                            St. 
                            John of Jerusalem</orgName>.</title>
@@ -103,7 +103,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Add_A_30-part2-item1" n="1" class="#sacramenta">
+                     <msItem xml:id="MS_Add_A_30-part2-item1" n="1" class="#sacramenta" key="work_13120 ">
                         <title type="desc">Manual of confession.</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>

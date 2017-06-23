@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1297-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Ashmole_1297-item1" n="1" class="#documenta" key="work_15508">
                      <title type="desc">Will and last testament of <persName key="person_298"><!-- not found -->Emmota Burges</persName> of <placeName key="place_7011919">New Windsor</placeName>, 1447-8</title>
                      <note>(with damaged seal)</note>
                      <note>(now = Ashm. Rolls 5(3)?)</note>

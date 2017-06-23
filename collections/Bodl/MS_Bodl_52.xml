@@ -58,7 +58,7 @@
                      <title>Paruum Iob</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_52-item2" n="2" class="#legalia">
+                  <msItem xml:id="MS_Bodl_52-item2" n="2" class="#legalia" key="work_14969 ">
                      <title type="desc">Treatise on buying, selling and usury</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -80,11 +80,11 @@
                      <title>De modo diuidendi themata</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_52-item5" n="5" class="#monastica">
+                  <msItem xml:id="MS_Bodl_52-item5" n="5" class="#monastica" key="work_14307 ">
                      <title>Regula S. Francisci</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_52-item6" n="6" class="#monastica">
+                  <msItem xml:id="MS_Bodl_52-item6" n="6" class="#monastica" key="work_15093">
                      <title type="desc">Treatises on mendicant friars</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -49,19 +49,19 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_39-item1" n="1" class="#monastica">
+                  <msItem xml:id="MS_Bodl_39-item1" n="1" class="#monastica" key="work_14306 ">
                      <title type="desc">Regula S. Benedicti</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_39-item2" n="2" class="#monastica">
+                  <msItem xml:id="MS_Bodl_39-item2" n="2" class="#monastica" key="work_14301 ">
                      <title type="desc">Regula S. Augustini ad seruos Dei</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_39-item3" n="3" class="#monastica">
+                  <msItem xml:id="MS_Bodl_39-item3" n="3" class="#monastica" key="work_14717">
                      <title type="desc">Statutes of <orgName key="org_169327258">Benedictine</orgName> Chapters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_39-item4" n="4" class="#monastica #documenta #historica">
+                  <msItem xml:id="MS_Bodl_39-item4" n="4" class="#monastica #documenta #historica" key="work_10192 ">
                      <title type="desc">Annals and records relating to the abbey of <orgName key="org_135211427">St. Mary's, York</orgName>
                      </title>
                      <textLang mainLang="la">Latin</textLang>

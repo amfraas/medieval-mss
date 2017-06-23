@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_Rolls_2-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Digby_Rolls_2-item1" n="1" class="#historica" key="work_10987">
 						               <title type="desc">Chronicle of <placeName key="place_7011781">London</placeName>, 1189 - 1511.</title>
                      
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>

@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_21-item1" n="1" class="#animalia">
+                  <msItem xml:id="MS_Canon_Ital_21-item1" n="1" class="#animalia" key="work_14975 ">
                      <title type="desc">Treatise on the care of birds of prey </title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_21-item2" n="2" class="#animalia">
+                  <msItem xml:id="MS_Canon_Ital_21-item2" n="2" class="#animalia" key="work_14976">
                      <title type="desc">Treatise on the care of birds of prey attributed to <persName role="author" key="person_89346441">Dancus Rex</persName>
                      </title>
                      <textLang mainLang="it">Italian</textLang>

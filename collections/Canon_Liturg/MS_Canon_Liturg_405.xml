@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_405-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_405-item1" n="1" class="#liturgica" key="work_14010">
                      <title type="desc">Processional adapted to the Premonstratensian use</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

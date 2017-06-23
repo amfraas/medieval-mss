@@ -53,11 +53,11 @@
                   
                      
                   <msContents>
-                     <msItem xml:id="MS_Barocci_196-item1" n="1">
+                     <msItem xml:id="MS_Barocci_196-item1" n="1" key="work_10746 ">
                         <title type="desc">Canons of Church Councils</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_196-item2" n="2">
+                     <msItem xml:id="MS_Barocci_196-item2" n="2" key="work_15335">
                         <title type="desc">Theological works.</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>

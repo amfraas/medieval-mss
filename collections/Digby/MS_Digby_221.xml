@@ -84,7 +84,7 @@
                      <title>De sex rerum principiis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_221-item4" n="4" class="#miscellanea"><!-- check -->
+                  <msItem xml:id="MS_Digby_221-item4" n="4" class="#miscellanea" key="work_13422"><!-- check -->
                      <title type="desc">Mythographical treatise</title>
                      <note>(De natura deorum)</note>
                      <textLang mainLang="la">Latin</textLang>

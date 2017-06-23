@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barocci_154-item1" n="1">
+                  <msItem xml:id="MS_Barocci_154-item1" n="1" key="work_10832">
                      <title type="desc">Catena in Psalmos i-l.</title>
                      <bibl type="commentedOn">
                         <title ref="http://viaf.org/viaf/175786325">Bible, Psalms</title>

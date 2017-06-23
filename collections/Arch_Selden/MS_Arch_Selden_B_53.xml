@@ -74,7 +74,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_53-part1-item1" n="1" class="#sermones #vitae_sanctorum #liturgica">
+                     <msItem xml:id="MS_Arch_Selden_B_53-part1-item1" n="1" class="#sermones #vitae_sanctorum #liturgica" key="work_12288">
                         <title type="desc">Homilies and Saints' Lives for the year.</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -107,7 +107,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_53-part2-item1" n="1" class="#liturgica #vitae_sanctorum #sermones">
+                     <msItem xml:id="MS_Arch_Selden_B_53-part2-item1" n="1" class="#liturgica #vitae_sanctorum #sermones" key="work_12288">
                         <title type="desc">Homilies and Saints' Lives for the year.</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>

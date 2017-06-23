@@ -58,23 +58,23 @@
                      <title>Gesta pontificum anglorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_956-item2" n="2" class="#historica">
+                  <msItem xml:id="MS_Bodl_956-item2" n="2" class="#historica" key="work_10919 ">
                      <title type="desc">Chronicle from the Creation to 1292</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_956-item3" n="3" class="#historica">
+                  <msItem xml:id="MS_Bodl_956-item3" n="3" class="#historica" key="work_10992 ">
                      <title type="desc">Chronicle of <orgName key="org_137124612">popes</orgName> to 1316</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_956-item4" n="4" class="#historica">
+                  <msItem xml:id="MS_Bodl_956-item4" n="4" class="#historica" key="work_10963 ">
                      <title type="desc">Chronicle of <placeName key="place_7002445">England</placeName> from 349 to 1388</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_956-item5" n="5" class="#historica">
+                  <msItem xml:id="MS_Bodl_956-item5" n="5" class="#historica" key="work_13503 ">
                      <title type="desc">Notes on the archbishops of <orgName key="org_270753550">Canterbury</orgName>, to 1333</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_956-item6" n="6" class="#historica">
+                  <msItem xml:id="MS_Bodl_956-item6" n="6" class="#historica" key="work_13508">
                      <title type="desc">Notes on the bishops of <orgName key="org_137462586">Lichfield</orgName>, to 1347</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

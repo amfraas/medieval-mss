@@ -58,17 +58,17 @@
                      <note>extracts</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_128-item2" n="2">
+                  <msItem xml:id="MS_Canon_Gr_128-item2" n="2" key="work_13056 ">
                      <title>Lives of Saints</title>
                      <note>(fragment)</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_128-item3" n="3">
+                  <msItem xml:id="MS_Canon_Gr_128-item3" n="3" key="work_14578">
                      <title>Sermons</title>
                      <note>(fragments)</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_128-item4" n="4">
+                  <msItem xml:id="MS_Canon_Gr_128-item4" n="4" key="work_10393 ">
                      <title>Astronomical tables.</title>
                      <note>(fragments)</note>
                      <textLang mainLang="grc">Greek</textLang>

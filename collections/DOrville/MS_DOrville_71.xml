@@ -80,7 +80,7 @@
                      <note>with scholia</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_71-item4" n="4" class="#versus">
+                  <msItem xml:id="MS_DOrville_71-item4" n="4" class="#versus" key="work_13879">
 						               <title type="desc">Poems</title>
                      
                      <note>Poems written in the shapes of an

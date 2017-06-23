@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_294-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Canon_Ital_294-item1" n="1" class="#historica" key="work_11014">
 						               <title type="desc">Chronicles of Greek and Roman history</title>
                      
                      <textLang mainLang="it">Italian</textLang>

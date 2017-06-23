@@ -105,7 +105,7 @@
                         <note>with commentary</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_357-part1-item2" n="2" class="#miscellanea">
+                     <msItem xml:id="MS_Ashmole_357-part1-item2" n="2" class="#miscellanea" key="work_14169 ">
                         <title type="desc">Puzzle</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
@@ -172,7 +172,7 @@
                         <title>De proportionibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_357-part1-item9" n="9" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_357-part1-item9" n="9" class="#astrologia_astronomia" key="work_10342 ">
                         <title type="desc">Astrological treatises.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -220,7 +220,7 @@
                         <title>Iudicia astrologia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_357-part2-item2" n="2" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_357-part2-item2" n="2" class="#documenta" key="work_14896">
                         <title type="desc">Terrier of land</title>
                         <textLang mainLang="en">English (?)</textLang>
                      </msItem>

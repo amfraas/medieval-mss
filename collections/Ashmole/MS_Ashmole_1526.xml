@@ -77,7 +77,7 @@
                      <title>De hymno trisagio</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1526-item4" n="4" class="#theologica">
+                  <msItem xml:id="MS_Ashmole_1526-item4" n="4" class="#theologica" key="work_15338">
                      <title type="desc">Theological works.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

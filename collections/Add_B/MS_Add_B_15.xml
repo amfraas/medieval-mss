@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_B_15-item1" n="1" class="#virtutes_et_vitia">
+                  <msItem xml:id="MS_Add_B_15-item1" n="1" class="#virtutes_et_vitia" key="work_14814">
                      <title type="desc">Summae on the virtues and
               vices</title>
                      <textLang mainLang="la">Latin</textLang>

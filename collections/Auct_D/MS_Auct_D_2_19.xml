@@ -51,7 +51,7 @@
                   <msName>Rushworth Gospels</msName>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_D_2_19-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Auct_D_2_19-item1" n="1" class="#biblia" key="work_12099">
                      <title rend="roman">Gospels</title>
                      <bibl type="bible">
                         <title rend="roman">Bible, Gospels</title>

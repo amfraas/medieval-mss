@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_83-item1" n="1" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_83-item1" n="1" class="#astrologia_astronomia" key="work_10342">
 						               <title type="desc">Astrological treatise.</title>
                      
                      <textLang mainLang="la">Latin</textLang>

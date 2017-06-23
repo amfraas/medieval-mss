@@ -64,7 +64,7 @@
                      <title>Memoriale iuniorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_9-item3" n="3" class="#grammatica #versus">
+                  <msItem xml:id="MS_Auct_F_3_9-item3" n="3" class="#grammatica #versus" key="work_12145 ">
                      <title type="desc">Grammatical poem</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -76,7 +76,7 @@
                      <title>Ars minor</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_9-item5" n="5" class="#grammatica">
+                  <msItem xml:id="MS_Auct_F_3_9-item5" n="5" class="#grammatica" key="work_12151">
                      <title type="desc">Grammatical texts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

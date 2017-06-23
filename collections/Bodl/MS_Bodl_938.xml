@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_938-item1" n="1" class="#theologica">
+                  <msItem xml:id="MS_Bodl_938-item1" n="1" class="#theologica" key="work_15301">
                      <title type="desc">Theological treatises</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_938-item2" n="2" class="#theologica #devotiones">
+                  <msItem xml:id="MS_Bodl_938-item2" n="2" class="#theologica #devotiones" key="work_13918 ">
                      <title>Poor Caitiff</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

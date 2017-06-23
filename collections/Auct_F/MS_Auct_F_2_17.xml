@@ -97,7 +97,7 @@
                         <title>works</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_2_17-part1-item4" n="4" class="#documenta">
+                     <msItem xml:id="MS_Auct_F_2_17-part1-item4" n="4" class="#documenta" key="work_12771">
                         <title type="desc">Letters written in Italy
               in 1470-72.</title>
                         <textLang mainLang="la">Latin</textLang>

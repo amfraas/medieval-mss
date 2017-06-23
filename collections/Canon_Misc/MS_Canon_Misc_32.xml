@@ -58,7 +58,7 @@
                      <title>works and extracts from works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_32-item2" n="2" class="#sermones">
+                  <msItem xml:id="MS_Canon_Misc_32-item2" n="2" class="#sermones" key="work_14583 ">
 						               <title type="desc">Sermons</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -90,7 +90,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_32-item6" n="6">
+                  <msItem xml:id="MS_Canon_Misc_32-item6" n="6" key="work_12741 ">
                     
                      <title>Letters between <persName key="person_22675146">S. Anastasia</persName> and <persName key="person_14579632">S. Chrysogonus</persName>
                      </title>
@@ -123,7 +123,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_32-item10" n="10" class="#dictamen">
+                  <msItem xml:id="MS_Canon_Misc_32-item10" n="10" class="#dictamen" key="work_15014">
                      <title type="desc">Treatise on dictamen</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

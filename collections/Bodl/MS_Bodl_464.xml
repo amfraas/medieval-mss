@@ -58,7 +58,7 @@
                      <title>Tabulae almanac</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_464-item2" n="2" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Bodl_464-item2" n="2" class="#astrologia_astronomia" key="work_10316">
                      <title type="desc">Astrological and astronomical treatises and tables</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

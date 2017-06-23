@@ -49,14 +49,14 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Gr_17-item1" n="1">
+                  <msItem xml:id="MS_Canon_Gr_17-item1" n="1" key="work_14119">
                      <title>Psalter and Canticles.</title>
                      <textLang mainLang="grc">Greek</textLang>
                      <bibl type="bible">
                         <title>Bible, Psalms</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Gr_17-item2" n="2">
+                  <msItem xml:id="MS_Canon_Gr_17-item2" n="2" key="work_13561 ">
                      <title>Office and canon</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

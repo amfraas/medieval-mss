@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1504-item1" n="1" class="#miscellanea">
+                  <msItem xml:id="MS_Ashmole_1504-item1" n="1" class="#miscellanea" key="work_13743">
                      <title type="desc">Pattern book.</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

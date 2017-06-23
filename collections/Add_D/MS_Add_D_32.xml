@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_D_32-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Add_D_32-item1" n="1" class="#medica" key="work_14868">
                      <title>Tacuinum sanitatis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

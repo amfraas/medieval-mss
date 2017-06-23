@@ -82,7 +82,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1132-part1-item1" n="1" class="#historica">
+                     <msItem xml:id="MS_Ashmole_1132-part1-item1" n="1" class="#historica" key="work_10040 ">
                         <note>(art. 95, fol. 149)</note>
                         <title type="desc">Account of the induction of <persName key="person_720"><!-- not found -->John Radcliff</persName> into the <orgName key="org_168089114">Order of the Garter</orgName>
                         </title>
@@ -113,7 +113,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1132-part2-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_1132-part2-item1" n="1" class="#documenta" key="work_13793">
                         <note>(art. 97, fol. 151)</note>
                         <title type="desc">Petition of <orgName key="org_2142145857037522921207">Windsor College</orgName> against taxation, with associated documents</title>
                         <textLang mainLang="en">English</textLang>
@@ -143,7 +143,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1132-part3-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_1132-part3-item1" n="1" class="#documenta" key="work_10045 ">
                         <note>(art. 98, fol. 152)</note>
                         <title type="desc">Account of payment to the vicar of <orgName key="org_2142145857037522921207">St. George's College, Windsor</orgName>
                         </title>
@@ -174,7 +174,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1132-part4-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_1132-part4-item1" n="1" class="#documenta" key="work_11481 ">
                         <note>(art. 104, fol. 158)</note>
                         <title type="desc">Deed, 1527</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -207,7 +207,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1132-part5-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_1132-part5-item1" n="1" class="#documenta" key="work_12763 ">
                         <note>(art. 110, fol. 164)</note>
                         <title type="desc">Letters patent of <persName key="person_13099920">Richard III</persName>, 1485</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -237,7 +237,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1132-part6-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_1132-part6-item1" n="1" class="#documenta" key="work_11480 ">
                         <note>(art. 125, fol. 189)</note>
                         <title type="desc">Deed, 1505</title>
                         <textLang mainLang="la">Latin</textLang>

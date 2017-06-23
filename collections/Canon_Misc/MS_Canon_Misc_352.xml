@@ -61,7 +61,7 @@
                         </persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_352-item2" n="2" class="#rhetorica">
+                  <msItem xml:id="MS_Canon_Misc_352-item2" n="2" class="#rhetorica" key="work_13630">
                      <title type="desc">Orations</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

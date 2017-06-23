@@ -111,7 +111,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_186-part2-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_186-part2-item1" n="1" class="#astrologia_astronomia" key="work_10322">
                         <title type="desc">Astrological and other treatises</title>
                         <note>(parts 2-12)</note>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>

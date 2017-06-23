@@ -56,7 +56,7 @@
                      <title> De animalium proprietate</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_E_D_Clarke_16-item2" n="2" class="#grammatica">
+                  <msItem xml:id="MS_E_D_Clarke_16-item2" n="2" class="#grammatica" key="work_12029">
                      <title type="desc">Glossaries</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

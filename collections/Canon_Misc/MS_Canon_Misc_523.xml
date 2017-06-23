@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_523-item1" n="1" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Misc_523-item1" n="1" class="#vitae_sanctorum" key="work_13060 ">
 						               <title type="desc">Lives of Saints</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -63,12 +63,12 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_523-item3" n="3" class="#theologica">
+                  <msItem xml:id="MS_Canon_Misc_523-item3" n="3" class="#theologica" key="work_15326">
 						               <title type="desc">Theological treatises and extracts</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_523-item4" n="4" class="#oratio #liturgica">
+                  <msItem xml:id="MS_Canon_Misc_523-item4" n="4" class="#oratio #liturgica" key="work_13960 ">
                      <title type="desc">Prayers and offices</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -81,7 +81,7 @@
                      <title>Letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_523-item6" n="6" class="#versus">
+                  <msItem xml:id="MS_Canon_Misc_523-item6" n="6" class="#versus" key="work_13884 ">
 						               <title type="desc">Poems.</title>
                      
                      <textLang mainLang="la" otherLangs="it">Latin and Italian</textLang>

@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Bibl_Lat_62-part1-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Canon_Bibl_Lat_62-part1-item1" n="1" class="#biblia" key="work_10230">
                         <locus>(fols. 1-40)</locus>
                         <title rend="roman">Apocalypse, with gloss </title>
                         <bibl type="bible">

@@ -63,7 +63,7 @@
                      <title>Le roman de la rose</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_188-item2" n="2" class="#versus">
+                  <msItem xml:id="MS_Douce_188-item2" n="2" class="#versus" key="work_12533">
                      <title>Le testament maistre <persName key="person_304922354">Jehan de Meun</persName>
                      </title>
                      <textLang mainLang="fr">French</textLang>

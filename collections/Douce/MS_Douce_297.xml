@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_297-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Douce_297-item1" n="1" class="#historica" key="work_12016">
                      <title>Gesta <placeName key="place_1000070">Francorum</placeName>
                      </title>
                      <note>to 1214</note>

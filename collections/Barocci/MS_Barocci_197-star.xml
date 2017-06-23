@@ -89,7 +89,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_197-star-part1-item1" n="1"><locus>(upper script)</locus>
+                     <msItem xml:id="MS_Barocci_197-star-part1-item1" n="1" key="work_13616"><locus>(upper script)</locus>
                         <title type="desc">Old Testament Lectionary</title><note>(fragments)</note>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -115,7 +115,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_197-star-part2-item1" n="1"><locus>(lower script)</locus>
+                     <msItem xml:id="MS_Barocci_197-star-part2-item1" n="1" key="work_12067 "><locus>(lower script)</locus>
                         <title type="desc">Gospel Lectionary</title><note>(fragments)</note>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>

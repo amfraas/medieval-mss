@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_970-item1" n="1" class="#rhetorica">
+                  <msItem xml:id="MS_Ashmole_970-item1" n="1" class="#rhetorica" key="work_15155">
                      <title type="desc">Treatises on rhetoric and prosody</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

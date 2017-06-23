@@ -104,7 +104,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_35-part2-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Arch_Selden_B_35-part2-item1" n="1" class="#medica" key="work_10179">
                         <title type="desc">Alphabetical list of medicinal plants with short descriptions.</title>
                         <textLang mainLang="la" otherLangs="fr en">Latin, English, and French</textLang>
                      </msItem>

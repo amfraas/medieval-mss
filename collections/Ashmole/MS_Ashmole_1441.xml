@@ -52,7 +52,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1441-item1" n="1" class="#medica #alchimia">
+                  <msItem xml:id="MS_Ashmole_1441-item1" n="1" class="#medica #alchimia" key="work_10129">
                      <title type="desc">Alchemical and medical collections</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>

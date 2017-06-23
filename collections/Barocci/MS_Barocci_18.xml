@@ -69,7 +69,7 @@
                         17–23.</note>
                      <textLang xml:lang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_18-item2" n="2">
+                  <msItem xml:id="MS_Barocci_18-item2" n="2" key="work_12936 ">
                      
                      <locus>(fols. 132r–134v)</locus> 
                      <title>List of emperors</title> 
@@ -82,7 +82,7 @@
                            353–5.</note>
                      <textLang xml:lang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_18-item3" n="3">
+                  <msItem xml:id="MS_Barocci_18-item3" n="3" key="work_12963 ">
                      
                      <locus>(fols. 134v–135v)</locus> 
                      <title>List of patriarchs of CP</title> 
@@ -96,7 +96,7 @@
                               πάθουϲ, καὶ ἐπεϲκόπηϲεν.</note>
                      <textLang xml:lang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_18-item4" n="4">
+                  <msItem xml:id="MS_Barocci_18-item4" n="4" key="work_15143">
                      
                      <locus>(fols. 136r–142r, 143v–147v (fols. 142v–143r blank except
                         for pentrials))</locus> 

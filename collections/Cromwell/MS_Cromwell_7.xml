@@ -76,7 +76,7 @@
                      <title>Quaestiones et responsiones</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_7-item4" n="4" class="#theologica">
+                  <msItem xml:id="MS_Cromwell_7-item4" n="4" class="#theologica" key="work_15310">
 						               <title type="desc">Theological texts and extracts</title>
                      
                      <textLang mainLang="grc">Greek</textLang>

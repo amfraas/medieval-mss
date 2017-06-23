@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_36-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Douce_36-item1" n="1" class="#biblia" key="work_10606">
                      <title rend="roman">Book of Tobit</title>
                      <note>(later Wycliffite version)</note>
                      <bibl type="bible">

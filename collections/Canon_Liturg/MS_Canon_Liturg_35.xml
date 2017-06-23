@@ -49,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_35-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_35-item1" n="1" class="#liturgica" key="work_10641 ">
                      <title type="desc">Breviary</title>
                      <note>(part)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Liturg_35-item2" n="2" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_35-item2" n="2" class="#liturgica" key="work_13112">
                      <title type="desc">Manual</title>
                      <note>(extracts)</note>
                      <textLang mainLang="la">Latin</textLang>

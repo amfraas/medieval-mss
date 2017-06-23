@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_213-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Digby_213-item1" n="1" class="#biblia" key="work_13312">
                      <title rend="roman">Minor prophets, with gloss</title>
                      <textLang mainLang="la">Latin</textLang>
                      <bibl type="bible">

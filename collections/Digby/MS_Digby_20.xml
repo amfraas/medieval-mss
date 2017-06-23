@@ -94,7 +94,7 @@
                         <title>Canons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part1-item3" n="3" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_20-part1-item3" n="3" class="#astrologia_astronomia" key="work_10409 ">
 						                  <title type="desc">Astronomical texts.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -141,7 +141,7 @@
                         <note>(xvii.28 - end)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part2-item2" n="2" class="#theologica #pastoralia">
+                     <msItem xml:id="MS_Digby_20-part2-item2" n="2" class="#theologica #pastoralia" key="work_15242">
 						                  <title type="desc">Theological and pastoral texts</title>
                         
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
@@ -183,11 +183,11 @@
                         <title>De poenitentia religiosorum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part2-item7" n="7" class="#documenta">
+                     <msItem xml:id="MS_Digby_20-part2-item7" n="7" class="#documenta" key="work_12766 ">
                         <title type="desc">Letters relating to the election of <persName key="person_736"><!-- not found -->John de Hertford</persName> as abbot of St Albans, 1235</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_20-part2-item8" n="8" class="#documenta">
+                     <msItem xml:id="MS_Digby_20-part2-item8" n="8" class="#documenta" key="work_12726 ">
                         <title type="desc">Letter-book relating to <orgName key="org_148894515">St Albans Abbey</orgName> and <orgName key="org_132788727">Tynemouth Priory</orgName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>

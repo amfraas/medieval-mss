@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1489-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Ashmole_1489-item1" n="1" class="#medica" key="work_13203">
                      <title type="desc">Medical recipes</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

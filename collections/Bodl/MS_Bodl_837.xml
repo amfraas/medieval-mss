@@ -49,20 +49,20 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_837-item1" n="1" class="#grammatica">
+                  <msItem xml:id="MS_Bodl_837-item1" n="1" class="#grammatica" key="work_12153 ">
                      <title type="desc">Grammatical texts including <persName role="author" key="person_95294006">Alexander of Hales</persName>
                      </title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_837-item2" n="2" class="#grammatica #liturgica">
+                  <msItem xml:id="MS_Bodl_837-item2" n="2" class="#grammatica #liturgica" key="work_11768 ">
                      <title type="desc">Explanation of difficult words in Collects, Epistles and Gospels</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_837-item3" n="3" class="#grammatica #miscellanea">
+                  <msItem xml:id="MS_Bodl_837-item3" n="3" class="#grammatica #miscellanea" key="work_12512 ">
                      <title type="desc">Latin-English vocabulary</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_837-item4" n="4" class="#proverbia">
+                  <msItem xml:id="MS_Bodl_837-item4" n="4" class="#proverbia" key="work_14066">
                      <title type="desc">Proverbs</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

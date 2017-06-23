@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_A_106-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Add_A_106-item1" n="1" class="#medica" key="work_13203 ">
                      <title type="desc">Medical recipes.</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_A_106-item2" n="2" class="#versus #devotiones">
+                  <msItem xml:id="MS_Add_A_106-item2" n="2" class="#versus #devotiones" key="work_14344">
                      <title type="desc">Religious poems.</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

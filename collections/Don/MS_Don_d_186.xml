@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Don_d_186-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Don_d_186-item1" n="1" class="#documenta" key="work_15411">
                      <title type="desc">Valuation of benefices and monastic property in the
                         <orgName key="org_134946326">Archdeaconry of Oxford</orgName>, as estimated in the Taxatio Nicholai of 1291.</title>
                      <textLang mainLang="la">Latin</textLang>

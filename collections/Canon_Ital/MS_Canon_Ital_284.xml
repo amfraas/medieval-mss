@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_284-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Canon_Ital_284-item1" n="1" class="#medica" key="work_13226">
 						               <title type="desc">Medical treatises</title>
                      
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>

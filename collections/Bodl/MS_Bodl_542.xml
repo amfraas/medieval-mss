@@ -58,7 +58,7 @@
                      <title>Summa de abstinentia</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_542-item2" n="2" class="#distinctiones">
+                  <msItem xml:id="MS_Bodl_542-item2" n="2" class="#distinctiones" key="work_11568">
                      <title type="desc" rend="italic">Distinctiones theologicae</title>
                      <incipit>Accidiosus siue piger est subtilis</incipit>
                      <textLang mainLang="la">Latin</textLang>

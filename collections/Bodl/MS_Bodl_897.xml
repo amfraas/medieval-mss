@@ -58,7 +58,7 @@
                      <title>De claustro animae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_897-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Bodl_897-item2" n="2" class="#theologica" key="work_13552">
                      <title type="desc" rend="italic">Numerale</title>
                      <note>(theological dictionary organised by numbers)</note>
                      <textLang mainLang="la">Latin</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ash_Rolls_12-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Ash_Rolls_12-item1" n="1" class="#documenta" key="work_10879">
                      <title type="desc">Charter of the executors of
                         <persName key="person_492"><!-- not found -->Henry Blount (commonly known as Warner)</persName> granting property in <placeName key="place_7011919">New Windsor</placeName> to the <orgName key="org_2142145857037522921207">College of St. George, 
                               Windsor

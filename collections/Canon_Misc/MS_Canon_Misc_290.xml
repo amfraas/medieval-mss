@@ -49,16 +49,16 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_290-item1" n="1" class="#liturgica #computistica">
+                  <msItem xml:id="MS_Canon_Misc_290-item1" n="1" class="#liturgica #computistica" key="work_10687 ">
                      <title>Calendar</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_290-item2" n="2" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Canon_Misc_290-item2" n="2" class="#astrologia_astronomia" key="work_10396 ">
 						               <title type="desc">Astronomical tables</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_290-item3" n="3" class="#monastica">
+                  <msItem xml:id="MS_Canon_Misc_290-item3" n="3" class="#monastica" key="work_14721">
                      <title>Statutes of <orgName key="org_129184449">Carthusian Order</orgName>.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

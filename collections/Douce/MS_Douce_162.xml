@@ -59,7 +59,7 @@
                      <note>French/Provencal translation</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_162-item2" n="2" class="#sermones">
+                  <msItem xml:id="MS_Douce_162-item2" n="2" class="#sermones" key="work_14577">
                      <title type="desc">Sermons</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>

@@ -126,7 +126,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Class_Lat_80-part2-item1" n="1" class="#rhetorica">
+                     <msItem xml:id="MS_Canon_Class_Lat_80-part2-item1" n="1" class="#rhetorica" key="work_13925">
                         <title type="desc" rend="italic">Praecepta rhetorica.</title>
                         <textLang mainLang="it">Italian</textLang>
                      </msItem>
@@ -159,7 +159,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Class_Lat_80-part3-item1" n="1" class="#dictamen">
+                     <msItem xml:id="MS_Canon_Class_Lat_80-part3-item1" n="1" class="#dictamen" key="work_11865 ">
                         <title>Formulae ad epistolas
               inscribendas</title>
                         <textLang mainLang="la" otherLangs="it">Latin and Italian</textLang>

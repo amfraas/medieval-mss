@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_326-item1" n="1" class="#romances">
+                  <msItem xml:id="MS_Douce_326-item1" n="1" class="#romances" key="work_10185 ">
                      <title>Amis and Amiloun</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_326-item2" n="2" class="#versus #devotiones">
+                  <msItem xml:id="MS_Douce_326-item2" n="2" class="#versus #devotiones" key="work_14342">
                      <title type="desc">Religious poem</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

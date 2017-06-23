@@ -58,7 +58,7 @@
                      <title>Dialogues</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_111-item2" n="2" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Pat_Lat_111-item2" n="2" class="#vitae_sanctorum" key="work_15462">
                      <title>Vita beati Eusebii Vercellensis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

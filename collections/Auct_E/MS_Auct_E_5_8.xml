@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_E_5_8-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Auct_E_5_8-item1" n="1" class="#liturgica" key="work_14831">
                      <title type="desc">Synaxarium</title>
                      <note>(fragment)</note>
                      <textLang mainLang="grc">Greek</textLang>

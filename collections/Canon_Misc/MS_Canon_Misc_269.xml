@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_269-item1" n="1" class="#sacramenta">
+                  <msItem xml:id="MS_Canon_Misc_269-item1" n="1" class="#sacramenta" key="work_14999">
                      <title type="desc">Treatises on confession</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_269-item2" n="2" class="#sacramenta">
+                  <msItem xml:id="MS_Canon_Misc_269-item2" n="2" class="#sacramenta" key="work_11747 ">
                      <title>Examinatorium peccatorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -74,7 +74,7 @@
                      <title>Dubitabilia</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_269-item6" n="6" class="#legalia">
+                  <msItem xml:id="MS_Canon_Misc_269-item6" n="6" class="#legalia" key="work_12597 ">
                      <title type="desc">Legal texts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

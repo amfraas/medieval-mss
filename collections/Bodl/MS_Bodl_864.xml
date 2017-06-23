@@ -175,7 +175,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_864-part4-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Bodl_864-part4-item1" n="1" class="#biblia" key="work_10092">
                         <title rend="roman">Acts, Catholic Epistles and Apocalypse with gloss</title>
                         <textLang mainLang="la">Latin</textLang>
                         <bibl type="bible">

@@ -61,7 +61,7 @@
                      <title>Exafrenon prognosticationum temporis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_194-item3" n="3" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_194-item3" n="3" class="#astrologia_astronomia" key="work_10342 ">
 						               <title type="desc">Astrological texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -108,11 +108,11 @@
                      <title>De imaginibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_194-item12" n="12" class="#documenta">
+                  <msItem xml:id="MS_Digby_194-item12" n="12" class="#documenta" key="work_10884 ">
                      <title>Charter relating to <placeName key="place_7026623">Elberton</placeName> (Ailburton), Glos.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_194-item13" n="13" class="#scientifica"><!-- check -->
+                  <msItem xml:id="MS_Digby_194-item13" n="13" class="#scientifica" key="work_14643"><!-- check -->
                      <title>Sidrac and Bokkus</title>
                      <note>(fragment)</note>
                      <textLang mainLang="en">English</textLang>

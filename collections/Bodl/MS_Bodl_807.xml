@@ -113,7 +113,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_807-part2-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Bodl_807-part2-item1" n="1" class="#theologica" key="work_15308">
                         <title type="desc">Theological treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -142,7 +142,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_807-part3-item1" n="1" class="#distinctiones">
+                     <msItem xml:id="MS_Bodl_807-part3-item1" n="1" class="#distinctiones" key="work_11568 ">
                         <title type="desc">Distinctiones theologicae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -171,15 +171,15 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_807-part4-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Bodl_807-part4-item1" n="1" class="#liturgica" key="work_13032 ">
                         <title type="desc">Liturgical manual</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_807-part4-item2" n="2" class="#dictamen">
+                     <msItem xml:id="MS_Bodl_807-part4-item2" n="2" class="#dictamen" key="work_15014 ">
                         <title type="desc">Treatise on dictamen</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_807-part4-item3" n="3" class="#sermones">
+                     <msItem xml:id="MS_Bodl_807-part4-item3" n="3" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -208,7 +208,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_807-part5-item1" n="1">
+                     <msItem xml:id="MS_Bodl_807-part5-item1" n="1" key="work_11243 ">
                         <title>Commentary on Ovid, Metamorphoses</title>
                         <textLang mainLang="la">Latin</textLang>
                         <bibl type="commentedOn">
@@ -218,7 +218,7 @@
                            <title>Metamorphoses</title>
                         </bibl>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_807-part5-item2" n="2" class="#sermones">
+                     <msItem xml:id="MS_Bodl_807-part5-item2" n="2" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -247,7 +247,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_807-part6-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Bodl_807-part6-item1" n="1" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -276,7 +276,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_807-part7-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Bodl_807-part7-item1" n="1" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -305,7 +305,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_807-part8-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Bodl_807-part8-item1" n="1" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -334,11 +334,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_807-part9-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Bodl_807-part9-item1" n="1" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_807-part9-item2" n="2" class="#versus">
+                     <msItem xml:id="MS_Bodl_807-part9-item2" n="2" class="#versus" key="work_13886 ">
                         <title type="desc">Poems</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

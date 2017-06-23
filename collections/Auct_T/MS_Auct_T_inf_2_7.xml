@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_T_inf_2_7-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Auct_T_inf_2_7-item1" n="1" class="#liturgica" key="work_12067">
                      <title type="desc">Gospel Lectionary.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

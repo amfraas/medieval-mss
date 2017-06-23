@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1776-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Ashmole_1776-item1" n="1" class="#documenta" key="work_10880">
                      <title type="desc">Charter of <persName key="person_77110636">Henry III</persName> concerning <placeName key="place_7031038">Dunham, Nottinghamshire</placeName>
                      </title>
                      <textLang mainLang="la">Latin</textLang>

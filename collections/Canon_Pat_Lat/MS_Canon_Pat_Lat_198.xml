@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_198-item1" n="1" class="#legalia #ecclesiastica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_198-item1" n="1" class="#legalia #ecclesiastica" key="work_11791">
                      <title type="desc">Extracts from proceedings of early Church councils</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_205-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_205-item1" n="1" class="#liturgica" key="work_11063">
                      <title type="desc">Collectarium (Augustinian)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

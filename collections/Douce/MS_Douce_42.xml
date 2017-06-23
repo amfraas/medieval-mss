@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_42-item1" n="1" class="#devotiones">
+                  <msItem xml:id="MS_Douce_42-item1" n="1" class="#devotiones" key="work_15459">
                      <title>Vision of
                         St. Mawdlen</title>
                      <note>
@@ -57,7 +57,7 @@
                      </note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>  
-                  <msItem xml:id="MS_Douce_42-item2" n="2" class="#devotiones">
+                  <msItem xml:id="MS_Douce_42-item2" n="2" class="#devotiones" key="work_12058 ">
                      <title>Golden Letany of the Lyeff and Passion of Christe</title>
                      <note>
                         <lb/>English translation of <bibl type="translation">

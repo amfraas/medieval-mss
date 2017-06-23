@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_E_12_R-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Add_E_12_R-item1" n="1" class="#liturgica" key="work_12469">
                      <title type="desc">Kontakion
                      </title>
                      <note>(containing part of the Liturgy of St.

@@ -63,7 +63,7 @@
                      <title>De cuculo</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_4_29-item3" n="3" class="#versus">
+                  <msItem xml:id="MS_Auct_F_4_29-item3" n="3" class="#versus" key="work_13839">
                      <title type="desc">Poem in elegiacs</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

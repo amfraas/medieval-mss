@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1154-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Ashmole_1154-item1" n="1" class="#documenta" key="work_11402">
                      <title type="desc">Court book of lordships of the <orgName><!-- not found -->dean and chapter of Wells</orgName>, 1508-1533.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

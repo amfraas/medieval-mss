@@ -103,7 +103,7 @@
                      <title>Sermons</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_6-item7" n="7" class="#theologica">
+                  <msItem xml:id="MS_Cromwell_6-item7" n="7" class="#theologica" key="work_10299 ">
 						               <title type="desc">Ascetic and theological texts</title>
                      
                      <textLang mainLang="grc">Greek</textLang>
@@ -135,7 +135,7 @@
                      <title>De mandatis Domini</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_6-item11" n="11" class="#vitas_patrum">
+                  <msItem xml:id="MS_Cromwell_6-item11" n="11" class="#vitas_patrum" key="work_15030">
                      <title type="desc">Treatise on the Fathers</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

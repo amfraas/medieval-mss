@@ -145,7 +145,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_861-item10" n="10" class="#theologica">
+                  <msItem xml:id="MS_Bodl_861-item10" n="10" class="#theologica" key="work_15308">
                      <title type="desc">Theological pieces</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

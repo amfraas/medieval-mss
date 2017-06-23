@@ -64,12 +64,12 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_262-item2" n="2" class="#legalia">
+                  <msItem xml:id="MS_Canon_Misc_262-item2" n="2" class="#legalia" key="work_12812">
                      <title>Liber sextus decretalium</title>
                      <note>(extracts)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_262-item3" n="3" class="#legalia">
+                  <msItem xml:id="MS_Canon_Misc_262-item3" n="3" class="#legalia" key="work_11343 ">
                      <title>Constitutiones Clementinae</title>
                      <note>(extracts)</note>
                      <textLang mainLang="la">Latin</textLang>

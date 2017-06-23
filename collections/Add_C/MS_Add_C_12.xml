@@ -54,7 +54,7 @@
                      <title>works</title>                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_C_12-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Add_C_12-item2" n="2" class="#theologica" key="work_14634">
                      <title type="desc">Short theological
                   pieces</title>                      
                      <textLang mainLang="la">Latin</textLang>

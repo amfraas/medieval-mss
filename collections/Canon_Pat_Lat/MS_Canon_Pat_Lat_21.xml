@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_21-item1" n="1" class="#commentarii #biblia">
+                  <msItem xml:id="MS_Canon_Pat_Lat_21-item1" n="1" class="#commentarii #biblia" key="work_11199">
                      <title type="desc">Commentary on Epistles and Gospels according to the church
 									year</title>
                      <textLang mainLang="la">Latin</textLang>

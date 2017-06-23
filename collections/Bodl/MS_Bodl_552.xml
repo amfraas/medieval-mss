@@ -49,14 +49,14 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_552-item1" n="1" class="#biblia #distinctiones">
+                  <msItem xml:id="MS_Bodl_552-item1" n="1" class="#biblia #distinctiones" key="work_11565 ">
                      <title type="desc">Distinctiones on Psalms 1-16</title>
                      <textLang mainLang="la">Latin</textLang>
                      <bibl type="commentedOn">
                         <title type="desc">Bible, Psalms</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_552-item2" n="2" class="#grammatica">
+                  <msItem xml:id="MS_Bodl_552-item2" n="2" class="#grammatica" key="work_12151">
                      <title type="desc">Grammatical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

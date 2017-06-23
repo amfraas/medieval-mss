@@ -128,7 +128,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_T_2_16-part2-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Auct_T_2_16-part2-item1" n="1" class="#liturgica" key="work_13774">
                         <title type="desc">Pentekostarion or Euchologion</title>
                         <note>(fragment)</note>
                         <textLang mainLang="grc">Greek</textLang>

@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_T_1_8-part1-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Auct_T_1_8-part1-item1" n="1" class="#liturgica" key="work_15386">
                         <title type="desc">Triodion</title>
                         <note>fragment</note>
                         <textLang mainLang="grc">Greek</textLang>

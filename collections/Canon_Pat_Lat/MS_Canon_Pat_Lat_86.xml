@@ -69,7 +69,7 @@
                      <title>De quadraginta duabus mansionibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_86-item3" n="3" class="#commentarii #versus">
+                  <msItem xml:id="MS_Canon_Pat_Lat_86-item3" n="3" class="#commentarii #versus" key="work_11172">
                      <title type="desc">Commentary on 'Ave maris stella'</title>
                      <note>(fragment)</note>
                      <bibl type="commentedOn">

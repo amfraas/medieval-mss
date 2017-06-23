@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_9-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Digby_9-item1" n="1" class="#biblia" key="work_10455">
                      <title rend="roman">Bible.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_85-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Bodl_85-item1" n="1" class="#liturgica" key="work_10575 ">
                      <title type="desc">Book of Hours, Use of Sarum</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_85-item2" n="2" class="#decem_praecepta">
+                  <msItem xml:id="MS_Bodl_85-item2" n="2" class="#decem_praecepta" key="work_15182">
                      <title type="desc">Treatise on the Ten Commandments</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

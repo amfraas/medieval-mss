@@ -78,7 +78,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1763-part1-item1" n="1" class="#vitae_sanctorum">
+                     <msItem xml:id="MS_Ashmole_1763-part1-item1" n="1" class="#vitae_sanctorum" key="work_14476">
                         <title type="desc">Saints' Lives</title>
                         <note>(bifolium)</note>
                         <textLang mainLang="ga">Irish</textLang>

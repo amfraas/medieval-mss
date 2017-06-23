@@ -42,7 +42,7 @@
                </msIdentifier>
               
                <msContents>
-                  <msItem xml:id="MS_Buchanan_g_2-item1" class="#liturgica #biblia">
+                  <msItem xml:id="MS_Buchanan_g_2-item1" class="#liturgica #biblia" key="work_14114">
 						               <title type="desc">Psalter</title>
                      <textLang mainLang="la">Latin</textLang>
                      <msItem xml:id="MS_Buchanan_g_2-item1-item1">

@@ -106,7 +106,7 @@
                         <title>Chirurgia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1398-part1-item3" n="3" class="#medica">
+                     <msItem xml:id="MS_Ashmole_1398-part1-item3" n="3" class="#medica" key="work_13196 ">
                         <title type="desc">Medical notes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -132,7 +132,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1398-part2-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Ashmole_1398-part2-item1" n="1" class="#medica" key="work_13228 ">
                         <title type="desc">Medical texts</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
@@ -145,7 +145,7 @@
                         <title>De viribus herbarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1398-part2-item3" n="3" class="#versus #devotiones">
+                     <msItem xml:id="MS_Ashmole_1398-part2-item3" n="3" class="#versus #devotiones" key="work_14369 ">
                         <title type="desc">Religious
               verse.</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -175,7 +175,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1398-part3-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Ashmole_1398-part3-item1" n="1" class="#theologica" key="work_15277 ">
                         <title type="desc">Theological miscellany</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -201,7 +201,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1398-part4-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Ashmole_1398-part4-item1" n="1" class="#theologica" key="work_15322">
                         <title type="desc">Theological treatise and notes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

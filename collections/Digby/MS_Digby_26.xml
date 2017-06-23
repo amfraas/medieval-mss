@@ -76,7 +76,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_26-part1-item1" n="1" class="#grammatica">
+                     <msItem xml:id="MS_Digby_26-part1-item1" n="1" class="#grammatica" key="work_12151 ">
 						                  <title type="desc">Grammatical treatise</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -107,7 +107,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_26-part2-item1" n="1" class="#grammatica">
+                     <msItem xml:id="MS_Digby_26-part2-item1" n="1" class="#grammatica" key="work_12151 ">
 						                  <title type="desc">Grammatical treatise</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -137,7 +137,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_26-part3-item1" n="1" class="#miscellanea"><!-- check -->
+                     <msItem xml:id="MS_Digby_26-part3-item1" n="1" class="#miscellanea" key="work_11805 "><!-- check -->
                         <title>Facetus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -200,7 +200,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_26-part5-item1" n="1" class="#grammatica">
+                     <msItem xml:id="MS_Digby_26-part5-item1" n="1" class="#grammatica" key="work_12151 ">
 						                  <title type="desc">Grammatical treatise</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -230,16 +230,16 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_26-part6-item1" n="1" class="#grammatica">
+                     <msItem xml:id="MS_Digby_26-part6-item1" n="1" class="#grammatica" key="work_12152 ">
 						                  <title type="desc">Grammatical treatise</title>
                         
                         <textLang mainLang="pt">Portuguese</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_26-part6-item2" n="2" class="#miscellanea"><!-- check -->
+                     <msItem xml:id="MS_Digby_26-part6-item2" n="2" class="#miscellanea" key="work_11562 "><!-- check -->
                         <title>Disticha Catonis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_26-part6-item3" n="3" class="#versus">
+                     <msItem xml:id="MS_Digby_26-part6-item3" n="3" class="#versus" key="work_13886">
 						                  <title type="desc">Poems</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -287,7 +287,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_26-part7-item1" n="1" class="#miscellanea">
+                     <msItem xml:id="MS_Digby_26-part7-item1" n="1" class="#miscellanea" key="work_13335 ">
                         <title type="desc">Miscellaneous notes</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>

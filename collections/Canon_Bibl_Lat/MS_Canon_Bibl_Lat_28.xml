@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Bibl_Lat_28-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Bibl_Lat_28-item1" n="1" class="#liturgica" key="work_12069">
                      <title type="desc">Gospel Lectionary</title>
                      <note>Companion volume to MS. Canon. Bibl. Lat. 27</note>
                      <textLang mainLang="la">Latin</textLang>

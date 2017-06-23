@@ -86,7 +86,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_188-part1-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_188-part1-item1" n="1" class="#astrologia_astronomia" key="work_10342">
                         <title type="desc">Astrological treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -115,7 +115,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_188-part2-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_188-part2-item1" n="1" class="#astrologia_astronomia" key="work_10340 ">
                         <title type="desc">Astrological treatises.</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
@@ -144,7 +144,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_188-part3-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_188-part3-item1" n="1" class="#astrologia_astronomia" key="work_10342">
                         <title type="desc">Astrological treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -173,7 +173,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_188-part4-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_188-part4-item1" n="1" class="#astrologia_astronomia" key="work_10342">
                         <title type="desc">Astrological treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -202,7 +202,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_188-part5-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Ashmole_188-part5-item1" n="1" class="#astrologia_astronomia" key="work_10338 ">
                         <title type="desc">Astrological treatise</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

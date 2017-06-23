@@ -68,7 +68,7 @@
                      <note>(first part)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_530-item3" n="3" class="#commentarii">
+                  <msItem xml:id="MS_DOrville_530-item3" n="3" class="#commentarii" key="work_11186">
 						               <title type="desc">Commentary on Cicero, Pro Ligario
               </title>
                      

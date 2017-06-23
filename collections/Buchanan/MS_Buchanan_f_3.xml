@@ -118,7 +118,7 @@
                   </msIdentifier>
                	
             	     <msContents>
-            		       <msItem xml:id="MS_Buchanan_f_3-part1-item1" class="#liturgica">
+            		       <msItem xml:id="MS_Buchanan_f_3-part1-item1" class="#liturgica" key="work_10501 ">
 						                  <title type="desc">Book of Hours</title>
             			         <note>mainly in the translation of <persName role="translator" key="person_27074604">Geert Grote</persName>
                         </note>
@@ -609,7 +609,7 @@
                      </altIdentifier>
                   </msIdentifier>
             		    <msContents>
-                     <msItem xml:id="MS_Buchanan_f_3-part2-item1" class="#liturgica"> 
+                     <msItem xml:id="MS_Buchanan_f_3-part2-item1" class="#liturgica" key="work_10639"> 
                         <locus>(fols. 1r-2v)</locus> 
 						                  <title type="desc">Breviary (portable)</title>
             			        

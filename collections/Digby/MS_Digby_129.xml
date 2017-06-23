@@ -60,7 +60,7 @@
                      <title>Liber medicinalis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_129-item2" n="2" class="#versus #medica">
+                  <msItem xml:id="MS_Digby_129-item2" n="2" class="#versus #medica" key="work_13849">
 						               <title type="desc">Poem on the herb 'germandela'</title>
                      
                      <textLang mainLang="la">Latin</textLang>

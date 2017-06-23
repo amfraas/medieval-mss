@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_204-item1" n="1" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Ital_204-item1" n="1" class="#vitae_sanctorum" key="work_13058">
                      <title type="desc">Lives of Saints</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_204-item2" n="2" class="#apocrypha">
+                  <msItem xml:id="MS_Canon_Ital_204-item2" n="2" class="#apocrypha" key="work_11736 ">
                      <title>Euangelium Nicodemi</title>
                      <note>(Italian translation)</note>
                      <textLang mainLang="it">Italian</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_T_2_5-item1" n="1" class="#theologica #historica">
+                  <msItem xml:id="MS_Auct_T_2_5-item1" n="1" class="#theologica #historica" key="work_14317">
                      <title type="desc">Religious and historical texts.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_F_6_24-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Auct_F_6_24-item1" n="1" class="#biblia" key="work_10101">
                      <title rend="roman">Acts of Apostles, Catholic Epistles, Pauline Epistles, and
               related texts.</title>
                      <bibl type="bible">

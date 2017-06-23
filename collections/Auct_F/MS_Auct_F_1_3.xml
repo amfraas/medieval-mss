@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_F_1_3-item1" n="1" class="#musica">
+                  <msItem xml:id="MS_Auct_F_1_3-item1" n="1" class="#musica" key="work_13419">
                      <title type="desc">Musical treatises</title> 
                      <note>(same content as MS. Auct. F. 1.
               4).</note>

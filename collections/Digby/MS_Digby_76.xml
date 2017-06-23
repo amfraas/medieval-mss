@@ -130,7 +130,7 @@
                         <title>De divisione philosophiae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_76-part2-item3" n="3" class="#commentarii">
+                     <msItem xml:id="MS_Digby_76-part2-item3" n="3" class="#commentarii" key="work_11176">
 						                  <title type="desc">Commentary on Boethius, De arithmetica</title>
                         
                         <note>(incomplete)</note>

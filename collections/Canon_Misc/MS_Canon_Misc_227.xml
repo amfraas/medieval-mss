@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_227-item1" n="1" class="#legalia #documenta">
+                  <msItem xml:id="MS_Canon_Misc_227-item1" n="1" class="#legalia #documenta" key="work_14792">
                      <title type="desc">Statutes of <placeName key="place_7003297">Treviso</placeName>.</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

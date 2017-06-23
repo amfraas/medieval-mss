@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_191-item1" n="1" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Canon_Misc_191-item1" n="1" class="#astrologia_astronomia" key="work_10329">
 						               <title type="desc">Astrological quaestiones</title>
                      
                      <textLang mainLang="la">Latin</textLang>

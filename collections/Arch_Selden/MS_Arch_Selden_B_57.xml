@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Arch_Selden_B_57-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Arch_Selden_B_57-item1" n="1" class="#liturgica" key="work_13283">
                      <title type="desc">Menologion (September to January)</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

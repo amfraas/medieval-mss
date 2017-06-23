@@ -68,7 +68,7 @@
                      <title>In Tobiam</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_656-item3" n="3" class="#versus">
+                  <msItem xml:id="MS_Bodl_656-item3" n="3" class="#versus" key="work_13886">
                      <title type="desc">Poems</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

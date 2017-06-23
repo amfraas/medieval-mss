@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ash_Rolls_49-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Ash_Rolls_49-item1" n="1" class="#documenta" key="work_10290">
                      <title type="desc">Articles exhibited by the <orgName key="org_232929480">Poor Knights of Windsor</orgName>, impugning
               the 'Declaration' of the Canons.</title>
                      <textLang mainLang="en">English</textLang>

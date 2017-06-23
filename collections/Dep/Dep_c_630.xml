@@ -53,7 +53,7 @@
                      <note>Table of contents, s. xv<hi rend="super">2</hi>, inside front cover, listing arts. 1–13.</note>
                      <note>The letters in the margins of arts. 2, 4, and 5 are used in the original cross-references, e.g. those concluding arts. 4 and 5; they do not start with <hi rend="italic">A</hi> at the beginning of sermons, nor do they correspond to the columns of this particular copy.</note>
                   </msItem>
-                  <msItem xml:id="Dep_c_630-item2" n="1" class="#tabulae">
+                  <msItem xml:id="Dep_c_630-item2" n="1" class="#tabulae" key="work_14847 ">
                      <locus>(fols. 1-7)</locus>
                      <title type="desc">Table of lections</title>
                      <rubric>Incipitur registrum super epistolas lecciones nec non ewangelia per totum annum omnium dierum cum quotalis (?) est bonum volenti predicare.</rubric>
@@ -72,7 +72,7 @@
                         <hi rend="italic">SOPMA,</hi> no. 2387 [i]; ed. Mainz (1612), i. 1–771. Sermons numbered at head of leaves in ink, or, from f. 54 onwards, in red: 1–136. Note of papal indulgences, f. 166<hi rend="su">v</hi> margin. Fols. 116–117<hi rend="su">v</hi> (10<hi rend="su">11–12</hi>, before Easter Day), 314<hi rend="su">v</hi>–315<hi rend="su">v</hi> blank.</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="Dep_c_630-item4" n="3" class="#sermones">
+                  <msItem xml:id="Dep_c_630-item4" n="3" class="#sermones" key="work_14583 ">
                      <locus>(fols. 316-318v, filling quire 27)</locus>
 						               <title type="desc">Sermons</title>
                      
@@ -135,7 +135,7 @@
                      <note>Described in table of contents at the front as Sermones de beata virgine; ed. Mainz (1612), i. 911–42/14, i.e. ending with the ‘exemplum de quodam rustico’, followed by the <hi rend="italic">explicit</hi> as ibid. i. 944, but here without the words ‘per modum magistri’. Numbered 161–3 (164).</note>
                      <note>The headings of arts. 8 (<hi rend="italic">b, c</hi>) and 9–12 are in ink, repeated immediately in red; the ink form is given below, with any further matter found in the red form in brackets: ( ).</note>
                   </msItem>
-                  <msItem xml:id="Dep_c_630-item9" class="#sermones">
+                  <msItem xml:id="Dep_c_630-item9" class="#sermones" key="work_14583 ">
 						               <title type="desc">Sermons</title>
                      
                      <msItem xml:id="Dep_c_630-item9-item1" n="8a">
@@ -161,7 +161,7 @@
                      <textLang mainLang="la">Latin</textLang>
                      
                   </msItem>
-                  <msItem xml:id="Dep_c_630-item10" n="9" class="#tabulae">
+                  <msItem xml:id="Dep_c_630-item10" n="9" class="#tabulae" key="work_14844 ">
                         <locus>(fols. 391-7)</locus>
                         <title type="desc">Table of exempla</title>
                         <rubric>Incipit tabula de exemplis que habentur in hijs sermonibus et hoc secundum litteras alphabeti et primo de a abstinencia</rubric>

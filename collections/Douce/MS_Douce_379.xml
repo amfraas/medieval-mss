@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_379-part1-item1" n="1" class="#versus">
+                     <msItem xml:id="MS_Douce_379-part1-item1" n="1" class="#versus" key="work_13902">
                         <title type="desc">Poems written for the <orgName>Puy</orgName> of the <orgName>Fraternity of the Immaculate Conception at <placeName key="place_7008929">Rouen</placeName>
                            </orgName>, 1511</title>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
@@ -104,7 +104,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_379-part2-item1" n="1" class="#historica">
+                     <msItem xml:id="MS_Douce_379-part2-item1" n="1" class="#historica" key="work_12020 ">
                         <title>Gesta <placeName key="place_7002886">Normannorum</placeName>
                         </title>
                         <note>(abbreviation)</note>
@@ -135,7 +135,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_379-part3-item1" n="1" class="#romances">
+                     <msItem xml:id="MS_Douce_379-part3-item1" n="1" class="#romances" key="work_12497 ">
                         <title type="desc">Lancelot du lac
               (?)</title>
                         <note>(fragment)</note>

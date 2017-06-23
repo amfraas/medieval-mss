@@ -49,14 +49,14 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_264-item1" n="1" class="#vitas_patrum">
+                  <msItem xml:id="MS_Canon_Ital_264-item1" n="1" class="#vitas_patrum" key="work_15483">
                      <title>Vitas patrum</title>
                      <note>(Italian translation of books i-ii by <persName role="translator" key="person_29576537">
                            Domenico Cavalca
                         </persName>)</note>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_264-item2" n="2" class="#monastica">
+                  <msItem xml:id="MS_Canon_Ital_264-item2" n="2" class="#monastica" key="work_14308 ">
                      <title>Regula S. Pachomii</title>
                      <note>(Italian translation)</note>
                      <textLang mainLang="it">Italian</textLang>

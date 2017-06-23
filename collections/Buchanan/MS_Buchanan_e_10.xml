@@ -45,7 +45,7 @@
                
                <msContents>
                   
-                  <msItem xml:id="MS_Buchanan_e_10-item1" class="#liturgica">
+                  <msItem xml:id="MS_Buchanan_e_10-item1" class="#liturgica" key="work_10551 ">
 						               <title type="desc">Book of Hours, Use of Paris </title>
                      <note>All except item 2 have rubrics in French. </note>
                      <textLang mainLang="la" otherLangs="fr">Latin, French</textLang>
@@ -69,7 +69,7 @@
 				the usual antiphon, versicle, response, and the prayer 'Protector in te
 				sperantium ...' (cf. MS. Buchanan e. 3).</note>
                   </msItem>
-                  <msItem xml:id="MS_Buchanan_e_10-item4">
+                  <msItem xml:id="MS_Buchanan_e_10-item4" key="work_13975">
                      <locus>(fols. 19v-25r)</locus> 
                      <title type="sub">Prayers to the Virgin</title>
                      <msItem xml:id="MS_Buchanan_e_10-item4-item1">

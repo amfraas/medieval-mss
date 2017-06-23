@@ -71,15 +71,15 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_681-part1-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Bodl_681-part1-item1" n="1" class="#theologica" key="work_11554 ">
                         <title type="desc">Disputation between Pope Sylvester and Jews</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_681-part1-item2" n="2" class="#sacramenta">
+                     <msItem xml:id="MS_Bodl_681-part1-item2" n="2" class="#sacramenta" key="work_15091 ">
                         <title type="desc">Treatise on the Mass</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_681-part1-item3" n="3" class="#theologica">
+                     <msItem xml:id="MS_Bodl_681-part1-item3" n="3" class="#theologica" key="work_15138 ">
                         <title type="desc">Treatise on the procession of the Holy Spirit</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -141,7 +141,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_681-part3-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Bodl_681-part3-item1" n="1" class="#theologica" key="work_15191">
                         <title type="desc">Treatise on the Trinity</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Liturg_334-part1-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Canon_Liturg_334-part1-item1" n="1" class="#liturgica" key="work_13672">
                         <title type="desc">Ordinary and Canon of the Mass, followed by select Masses</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -101,7 +101,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Liturg_334-part2-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Canon_Liturg_334-part2-item1" n="1" class="#medica" key="work_13224 ">
                         <title type="desc">Medical treatise</title>
                         <note>(fragment)</note>
                         <textLang mainLang="de">German</textLang>

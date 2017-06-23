@@ -82,7 +82,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1285-part1-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Ashmole_1285-part1-item1" n="1" class="#theologica" key="work_15321">
                         <title type="desc">Theological treatise and extracts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -111,7 +111,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1285-part2-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Ashmole_1285-part2-item1" n="1" class="#theologica" key="work_15266 ">
                         <title type="desc">Theological extracts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -140,7 +140,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1285-part3-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Ashmole_1285-part3-item1" n="1" class="#liturgica" key="work_12801 ">
                         <title>Liber hymnorum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -203,11 +203,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1285-part5-item1" n="1" class="#mathematica">
+                     <msItem xml:id="MS_Ashmole_1285-part5-item1" n="1" class="#mathematica" key="work_10277 ">
                         <title type="desc">Arithmetical texts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1285-part5-item2" n="2" class="#computistica">
+                     <msItem xml:id="MS_Ashmole_1285-part5-item2" n="2" class="#computistica" key="work_14971 ">
                         <title type="desc">Texts on calendar</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -315,7 +315,7 @@
                         <title>De urinis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1285-part7-item4" n="4" class="#medica">
+                     <msItem xml:id="MS_Ashmole_1285-part7-item4" n="4" class="#medica" key="work_13232 ">
                         <title type="desc">Medical treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -374,7 +374,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1285-part8-item1" n="1" class="#monastica">
+                     <msItem xml:id="MS_Ashmole_1285-part8-item1" n="1" class="#monastica" key="work_13391 ">
                         <title type="desc">Monastic rule</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -403,12 +403,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1285-part9-item1" n="1" class="#monastica">
+                     <msItem xml:id="MS_Ashmole_1285-part9-item1" n="1" class="#monastica" key="work_14907 ">
                         <title type="desc">Treatise against <orgName key="org_133609618">Cistercians</orgName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1285-part9-item2" n="2" class="#musica">
+                     <msItem xml:id="MS_Ashmole_1285-part9-item2" n="2" class="#musica" key="work_14664 ">
                         <title type="desc">Song with music</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
@@ -449,15 +449,15 @@
                         <title>Speculum caritatis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1285-part10-item2" n="2" class="#sermones">
+                     <msItem xml:id="MS_Ashmole_1285-part10-item2" n="2" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1285-part10-item3" n="3" class="#legalia">
+                     <msItem xml:id="MS_Ashmole_1285-part10-item3" n="3" class="#legalia" key="work_11476 ">
                         <title type="desc">Decretalia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1285-part10-item4" n="4" class="#theologica">
+                     <msItem xml:id="MS_Ashmole_1285-part10-item4" n="4" class="#theologica" key="work_15308 ">
                         <title type="desc">Theological treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -486,11 +486,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1285-part11-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Ashmole_1285-part11-item1" n="1" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1285-part11-item2" n="2" class="#grammatica">
+                     <msItem xml:id="MS_Ashmole_1285-part11-item2" n="2" class="#grammatica" key="work_12144 ">
                         <title type="desc">Grammatical notes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -519,7 +519,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1285-part12-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Ashmole_1285-part12-item1" n="1" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -548,7 +548,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1285-part13-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Ashmole_1285-part13-item1" n="1" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -577,7 +577,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1285-part14-item1" n="1" class="#sermones #biblia">
+                     <msItem xml:id="MS_Ashmole_1285-part14-item1" n="1" class="#sermones #biblia" key="work_14616 ">
                         <title type="desc">Sermons on Prophets</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

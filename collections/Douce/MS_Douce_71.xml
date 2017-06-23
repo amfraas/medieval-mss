@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_71-item1" n="1" class="#computistica">
+                  <msItem xml:id="MS_Douce_71-item1" n="1" class="#computistica" key="work_10175">
                      <title type="desc">Almanac and runic calendar</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

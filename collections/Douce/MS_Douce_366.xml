@@ -50,7 +50,7 @@
                   
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_366-item1" n="1" class="#liturgica #biblia">
+                  <msItem xml:id="MS_Douce_366-item1" n="1" class="#liturgica #biblia" key="work_14103">
                      <title type="desc">Psalter (Ormesby Psalter)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

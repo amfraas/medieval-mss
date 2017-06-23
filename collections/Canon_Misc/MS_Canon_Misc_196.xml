@@ -67,7 +67,7 @@
                      <title>Regulae rhetoricae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_196-item3" n="3" class="#grammatica">
+                  <msItem xml:id="MS_Canon_Misc_196-item3" n="3" class="#grammatica" key="work_12144">
                      <title type="desc">Grammatical notes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

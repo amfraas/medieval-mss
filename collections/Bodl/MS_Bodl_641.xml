@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_641-part1-item1" n="1" class="#sermones #biblia">
+                     <msItem xml:id="MS_Bodl_641-part1-item1" n="1" class="#sermones #biblia" key="work_14562">
                         <title type="desc">Sermon on Matthew xiii.45</title>
                         <note>(part)</note>
                         <textLang mainLang="la">Latin</textLang>

@@ -62,11 +62,11 @@
                      <note>(bk. ii)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_13-item3" n="3" class="#lapidaria">
+                  <msItem xml:id="MS_Digby_13-item3" n="3" class="#lapidaria" key="work_12501">
                      <title type="desc">Lapidaries</title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_13-item4" n="4" class="#legalia">
+                  <msItem xml:id="MS_Digby_13-item4" n="4" class="#legalia" key="work_12395 ">
                      <title>Instituta Cnuti</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

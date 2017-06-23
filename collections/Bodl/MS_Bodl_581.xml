@@ -49,17 +49,17 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_581-item1" n="1" class="#miscellanea">
+                  <msItem xml:id="MS_Bodl_581-item1" n="1" class="#miscellanea" key="work_11452 ">
                      <title>De Quadripartita Regis Specie</title>
                      <note>(treatise on kingship)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_581-item2" n="2" class="#prognostica">
+                  <msItem xml:id="MS_Bodl_581-item2" n="2" class="#prognostica" key="work_14654">
                      <title>Somniale Danielis</title>
                      <note>(treatise on dreams)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_581-item3" n="3" class="#prognostica">
+                  <msItem xml:id="MS_Bodl_581-item3" n="3" class="#prognostica" key="work_12800 ">
                      <title>Liber geomanciae</title>
                      <note>(treatise on astrology and geomancy compiled in 1391 for <persName key="person_262479505">Richard II</persName>)</note>
                      <textLang mainLang="la">Latin</textLang>

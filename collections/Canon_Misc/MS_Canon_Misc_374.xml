@@ -68,12 +68,12 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_374-item3" n="3" class="#theologica">
+                  <msItem xml:id="MS_Canon_Misc_374-item3" n="3" class="#theologica" key="work_15308">
 						               <title type="desc">Theological treatises</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_374-item4" n="4" class="#ecclesiastica">
+                  <msItem xml:id="MS_Canon_Misc_374-item4" n="4" class="#ecclesiastica" key="work_11623 ">
                      <title>Documents and treatises relating to church councils (notably <orgName key="org_147193963">
                            Basel
                         </orgName>) and the <orgName key="org_137124612">
@@ -97,7 +97,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_374-item6" n="6" class="#commentarii">
+                  <msItem xml:id="MS_Canon_Misc_374-item6" n="6" class="#commentarii" key="work_11259 ">
                      <title type="desc">Commentary on Plato, <hi rend="italic">Timaeus</hi>
                      </title>
                      <bibl type="commentedOn">
@@ -108,7 +108,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_374-item7" n="7" class="#sermones">
+                  <msItem xml:id="MS_Canon_Misc_374-item7" n="7" class="#sermones" key="work_14583 ">
 						               <title type="desc">Sermons.</title>
                      
                      <textLang mainLang="la">Latin</textLang>

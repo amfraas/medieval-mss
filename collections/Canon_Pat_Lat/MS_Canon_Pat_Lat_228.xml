@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_228-item1" n="1" class="#sermones #vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Pat_Lat_228-item1" n="1" class="#sermones #vitae_sanctorum" key="work_14619">
                      <title type="desc">Sermons on Saints according to Church calendar.</title>
                      <!-- ie homiliary? check -->
                      <textLang mainLang="la">Latin</textLang>

@@ -73,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_E_2_8-part1-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Auct_E_2_8-part1-item1" n="1" class="#biblia" key="work_10842">
                         <title rend="roman">Catena on the Song of Songs</title>
                         <bibl type="commentedOn">
                            <title rend="roman">Bible, Song of Songs</title>

@@ -103,7 +103,7 @@
                      <title>Annotationes in Talmut</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_96-item7" n="7" class="#theologica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_96-item7" n="7" class="#theologica" key="work_15308">
                      <title type="desc">Theological treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

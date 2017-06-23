@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_186-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Bodl_186-item1" n="1" class="#biblia" key="work_10473 ">
                      <title type="desc">Biblical glossary</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -72,7 +72,7 @@
                      <note>(book ii)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_186-item4" n="4" class="#grammatica #miscellanea">
+                  <msItem xml:id="MS_Bodl_186-item4" n="4" class="#grammatica #miscellanea" key="work_12775">
                      <title type="desc">Lexicographical treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -115,7 +115,7 @@
                         (?))</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_186-item9" n="9" class="#grammatica">
+                  <msItem xml:id="MS_Bodl_186-item9" n="9" class="#grammatica" key="work_12151 ">
                      <title type="desc">Grammatical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

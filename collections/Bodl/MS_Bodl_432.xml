@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_432-item1" n="1" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Bodl_432-item1" n="1" class="#astrologia_astronomia" key="work_10357">
                      <title type="desc">Astronomical and astrological tables and notes for use in
                            Oxford</title>
                      <textLang mainLang="la">Latin</textLang>

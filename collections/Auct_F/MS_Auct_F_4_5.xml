@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_F_4_5-item1" n="1" class="#rhetorica #philosophica">
+                  <msItem xml:id="MS_Auct_F_4_5-item1" n="1" class="#rhetorica #philosophica" key="work_14414">
                      <title type="desc">Rhetorical and philosophical texts, etc.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_14-item1" n="1" class="#theologica #devotiones"><!-- check -->
+                  <msItem xml:id="MS_Digby_14-item1" n="1" class="#theologica #devotiones" key="work_13981"><!-- check -->
                      <title>The prick of conscience</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

@@ -49,18 +49,18 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barocci_205-item1" n="1">
+                  <msItem xml:id="MS_Barocci_205-item1" n="1" key="work_13458">
                      <title>
                         Nomocanon XIV titulorum
                      </title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_205-item2" n="2">
+                  <msItem xml:id="MS_Barocci_205-item2" n="2" key="work_10746 ">
                      <title type="desc">Canons
 				  of Church Councils</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_205-item3" n="3">
+                  <msItem xml:id="MS_Barocci_205-item3" n="3" key="work_12571 ">
                      <title type="desc">Legal and theological works.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

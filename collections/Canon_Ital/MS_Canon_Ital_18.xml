@@ -59,7 +59,7 @@
                      <note>(Italian translation by <persName role="translator" key="person_29576537">Domenico Cavalca</persName>)</note>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_18-item2" n="2" class="#oratio #liturgica">
+                  <msItem xml:id="MS_Canon_Ital_18-item2" n="2" class="#oratio #liturgica" key="work_14087">
                      <title type="desc">Psalms and prayers to the Virgin Mary</title>
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>
                   </msItem>

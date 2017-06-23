@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_T_4_4-item1" n="1" class="#auctoritates #miscellanea">
+                  <msItem xml:id="MS_Auct_T_4_4-item1" n="1" class="#auctoritates #miscellanea" key="work_13735 ">
                      <title type="desc">Patristic letters</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_T_4_4-item2" n="2" class="#theologica #scientifica #rhetorica">
+                  <msItem xml:id="MS_Auct_T_4_4-item2" n="2" class="#theologica #scientifica #rhetorica" key="work_15297">
                      <title type="desc">Theological, scientific and rhetorical works.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

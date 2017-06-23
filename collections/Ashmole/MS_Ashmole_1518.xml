@@ -104,7 +104,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1518-part2-item1" n="1" class="#commentarii #philosophica">
+                     <msItem xml:id="MS_Ashmole_1518-part2-item1" n="1" class="#commentarii #philosophica" key="work_11134 ">
                         <locus>(endleaves)</locus>
                         <title type="desc">Commentary on a work 'de regimine principum'</title>
                         <note>(fragment)</note>
@@ -135,7 +135,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1518-part3-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_1518-part3-item1" n="1" class="#documenta" key="work_12974">
                         <locus>(endleaves)</locus>
                         <title type="desc">List of persons fined for adultery or fornication in the <placeName>archdeaconry of Chester</placeName>
                         </title>

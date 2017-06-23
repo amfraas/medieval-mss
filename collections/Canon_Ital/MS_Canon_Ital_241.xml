@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_241-item1" n="1" class="#virtutes_et_vitia">
+                  <msItem xml:id="MS_Canon_Ital_241-item1" n="1" class="#virtutes_et_vitia" key="work_14974">
                      <title type="desc">Treatise on the cardinal virtues</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

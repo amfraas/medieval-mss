@@ -73,7 +73,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_732-item3" n="3" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Bodl_732-item3" n="3" class="#vitae_sanctorum" key="work_13060">
                      <title type="desc">Lives of Saints</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

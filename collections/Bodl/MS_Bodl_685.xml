@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_685-item1" n="1" class="#biblia #tabulae">
+                  <msItem xml:id="MS_Bodl_685-item1" n="1" class="#biblia #tabulae" key="work_14861">
                      <title>Tabula septum custodiarum super bibliam</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_124-item1" n="1" class="#alchimia">
+                  <msItem xml:id="MS_Digby_124-item1" n="1" class="#alchimia" key="work_10134">
 						               <title type="desc">Alchemical compilation.</title>
                      
                      <textLang mainLang="la">Latin</textLang>

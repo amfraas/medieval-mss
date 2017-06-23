@@ -56,7 +56,7 @@
                      <title>De Rerum Natura</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_1_13-item2" n="2" class="#versus #scientifica">
+                  <msItem xml:id="MS_Auct_F_1_13-item2" n="2" class="#versus #scientifica" key="work_13870">
                      <title type="desc">
               Poem on the winds.</title>
                      <textLang mainLang="la">Latin</textLang>

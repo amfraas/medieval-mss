@@ -90,7 +90,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_789-part1-item1" n="1" class="#miscellanea">
+                     <msItem xml:id="MS_Ashmole_789-part1-item1" n="1" class="#miscellanea" key="work_15542">
                         <title type="desc">Writing exercises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -122,13 +122,13 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_789-part2-item1" n="1" class="#grammatica">
+                     <msItem xml:id="MS_Ashmole_789-part2-item1" n="1" class="#grammatica" key="work_11561 ">
                         <title type="desc">Disticha
               Catonis.</title>
                         <note>(Latin text with French translation)</note>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_789-part2-item2" n="2" class="#auctoritates">
+                     <msItem xml:id="MS_Ashmole_789-part2-item2" n="2" class="#auctoritates" key="work_14532 ">
                         <title>'Sentences of Sages'.</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
@@ -154,7 +154,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_789-part3-item1" n="1" class="#rhetorica">
+                     <msItem xml:id="MS_Ashmole_789-part3-item1" n="1" class="#rhetorica" key="work_11875 ">
                         <title type="desc">Formulary of letters.</title>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>
@@ -183,7 +183,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_789-part4-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_789-part4-item1" n="1" class="#documenta" key="work_11400 ">
                         <title type="desc">Correspondence and documents of ambassadors to England and France from the Pope
               of Rome, 1374-6</title>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
@@ -210,7 +210,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_789-part5-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_789-part5-item1" n="1" class="#documenta" key="work_11633 ">
                         <title type="desc">Documents relating to Anglo-French treaties, 1395-1410</title>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>
@@ -236,7 +236,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_789-part6-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_789-part6-item1" n="1" class="#documenta" key="work_11631 ">
                         <title type="desc">Documents relating to a meeting
               of the ambassadors of England and France, 1418.</title>
                         <textLang mainLang="la">Latin</textLang>

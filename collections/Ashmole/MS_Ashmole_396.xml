@@ -59,15 +59,15 @@
                      <note>(English translation)</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_396-item2" n="2" class="#mathematica">
+                  <msItem xml:id="MS_Ashmole_396-item2" n="2" class="#mathematica" key="work_14948">
                      <title type="desc">Treatise  on arithmetic</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_396-item3" n="3" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Ashmole_396-item3" n="3" class="#astrologia_astronomia" key="work_10332 ">
                      <title type="desc">Astrological tables</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_396-item4" n="4" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Ashmole_396-item4" n="4" class="#astrologia_astronomia" key="work_10313 ">
                      <title type="desc">Astrological and astronomical treatises</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

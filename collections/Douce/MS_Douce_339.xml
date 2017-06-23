@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_339-item1" n="1" class="#legalia">
+                  <msItem xml:id="MS_Douce_339-item1" n="1" class="#legalia" key="work_14728">
                      <title type="desc">Statutes of the Council of Forty at <placeName key="place_7018159">Venice</placeName> with additions up
               to 1401</title>
                      <textLang mainLang="la">Latin</textLang>

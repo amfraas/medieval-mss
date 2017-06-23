@@ -58,7 +58,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MSS_Douce_5-6-item1" n="1" class="#liturgica #biblia">
+                  <msItem xml:id="MSS_Douce_5-6-item1" n="1" class="#liturgica #biblia" key="work_14142">
                      <title type="desc">Psalter, Use of Ghent</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

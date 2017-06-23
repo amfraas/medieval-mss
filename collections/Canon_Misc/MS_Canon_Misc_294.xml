@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_294-item1" n="1" class="#virtutes_et_vitia">
+                  <msItem xml:id="MS_Canon_Misc_294-item1" n="1" class="#virtutes_et_vitia" key="work_15202">
                      <title>Treatise on virtues</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

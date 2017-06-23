@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_T_6_4-part1-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Auct_T_6_4-part1-item1" n="1" class="#sermones" key="work_14553">
                         <title type="desc">Sermon, etc.</title>
                         <note>fragment</note>
                         <textLang mainLang="grc">Greek</textLang>

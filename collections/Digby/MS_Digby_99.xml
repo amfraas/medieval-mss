@@ -51,11 +51,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_99-item1" n="1" class="#ecclesiastica #legalia"><!-- check -->
+                  <msItem xml:id="MS_Digby_99-item1" n="1" class="#ecclesiastica #legalia" key="work_14718"><!-- check -->
                      <title type="desc">Statutes of the <orgName><!-- not found VIAF -->bishops of Norwich</orgName>, c.1257</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_99-item2" n="2" class="#theologica #devotiones"><!-- check -->
+                  <msItem xml:id="MS_Digby_99-item2" n="2" class="#theologica #devotiones" key="work_13981 "><!-- check -->
                      <title>Prick of conscience</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

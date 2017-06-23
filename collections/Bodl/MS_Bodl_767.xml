@@ -58,7 +58,7 @@
                      <title>Speculum iuniorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_767-item2" n="2" class="#mariologica">
+                  <msItem xml:id="MS_Bodl_767-item2" n="2" class="#mariologica" key="work_15200">
                      <title type="desc">Treatise on the Virgin Mary</title>
                      <rubric>Summa florum ortorum et deliciarum beate Virginis Marie</rubric>
                      <textLang mainLang="la">Latin</textLang>

@@ -44,7 +44,7 @@
 
 
 
-						            <msItem xml:id="MS_Buchanan_e_2-item1" class="#liturgica">
+						            <msItem xml:id="MS_Buchanan_e_2-item1" class="#liturgica" key="work_10551">
 						               <title type="desc">Book of Hours, Use of Paris</title>
 							
 							              <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>

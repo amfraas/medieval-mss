@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_320-part1-item1" n="1" class="#monastica">
+                     <msItem xml:id="MS_Douce_320-part1-item1" n="1" class="#monastica" key="work_14457">
                         <title type="desc">Rule of St. Benedict</title>
                         <note>(French translation)</note>
                         <textLang mainLang="fr">French</textLang>
@@ -101,7 +101,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_320-part2-item1" n="1" class="#liturgica #biblia">
+                     <msItem xml:id="MS_Douce_320-part2-item1" n="1" class="#liturgica #biblia" key="work_14117 ">
                         <title type="desc">Psalter and Canticles (Psalter of
               Montebourg)</title>
                         <note>(French translation)</note>

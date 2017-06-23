@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_264-item1" n="1" class="#devotiones #oratio">
+                  <msItem xml:id="MS_Douce_264-item1" n="1" class="#devotiones #oratio" key="work_13953">
                      <title type="desc">Prayers and devotions for private use</title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                   </msItem>

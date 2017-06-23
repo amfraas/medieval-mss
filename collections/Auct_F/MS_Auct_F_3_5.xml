@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_F_3_5-item1" n="1" class="#theologica">
+                  <msItem xml:id="MS_Auct_F_3_5-item1" n="1" class="#theologica" key="work_11568">
                      <title type="desc">Distinctiones theologicae</title>
                      <note>(imperfect)</note>
                      <textLang mainLang="la">Latin</textLang>

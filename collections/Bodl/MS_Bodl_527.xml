@@ -84,7 +84,7 @@
                         <title>Euangelia metrica</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_527-part1-item2" n="2" class="#theologica">
+                     <msItem xml:id="MS_Bodl_527-part1-item2" n="2" class="#theologica" key="work_11335">
                         <title>Concertatio inter carnem et spiritum (De contemptu mundi)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

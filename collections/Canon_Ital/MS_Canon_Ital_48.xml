@@ -59,11 +59,11 @@
                      <title>De Jerusalem celesti</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_48-item2" n="2" class="#miscellanea #animalia">
+                  <msItem xml:id="MS_Canon_Ital_48-item2" n="2" class="#miscellanea #animalia" key="work_14411">
                      <title>Reynard the Fox</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_48-item3" n="3" class="#versus">
+                  <msItem xml:id="MS_Canon_Ital_48-item3" n="3" class="#versus" key="work_13881 ">
 						               <title type="desc">Poems</title>
                      
                      <textLang mainLang="it">Italian</textLang>

@@ -90,7 +90,7 @@
                         <title>Tractatus generum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part1-item2" n="2" class="#grammatica">
+                     <msItem xml:id="MS_Digby_98-part1-item2" n="2" class="#grammatica" key="work_12151 ">
 						                  <title type="desc">Grammatical treatise</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -113,12 +113,12 @@
                         <title>Carmen de algorismo</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part1-item5" n="5" class="#mathematica">
+                     <msItem xml:id="MS_Digby_98-part1-item5" n="5" class="#mathematica" key="work_13156 ">
 						                  <title type="desc">Mathematical treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part1-item6" n="6" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_98-part1-item6" n="6" class="#astrologia_astronomia" key="work_10342 ">
 						                  <title type="desc">Astrological treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -147,7 +147,7 @@
                         </bibl>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part1-item9" n="9" class="#commentarii">
+                     <msItem xml:id="MS_Digby_98-part1-item9" n="9" class="#commentarii" key="work_11153 ">
 						                  <title type="desc">Commentary on Aristotle, Meteora</title>
                         
                         <bibl type="commentedOn">
@@ -226,7 +226,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_98-part3-item1" n="1" class="#mathematica">
+                     <msItem xml:id="MS_Digby_98-part3-item1" n="1" class="#mathematica" key="work_13156 ">
 						                  <title type="desc">Mathematical texts</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -301,7 +301,7 @@
                         </bibl>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part4-item2" n="2" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_98-part4-item2" n="2" class="#astrologia_astronomia" key="work_10342 ">
 						                  <title type="desc">Astrological treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -339,7 +339,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_98-part5-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_98-part5-item1" n="1" class="#astrologia_astronomia" key="work_10351 ">
 						                  <title type="desc">Astrological treatises and tables</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -386,7 +386,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_98-part6-item1" n="1" class="#theologica #devotiones #ecclesiastica">
+                     <msItem xml:id="MS_Digby_98-part6-item1" n="1" class="#theologica #devotiones #ecclesiastica" key="work_14316 ">
 						                  <title type="desc">Religious and ecclesiastical texts</title>
                         
                         <note>(several relating to friars)</note>
@@ -402,7 +402,7 @@
                         <title>Determinationes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_98-part6-item3" n="3" class="#legalia">
+                     <msItem xml:id="MS_Digby_98-part6-item3" n="3" class="#legalia" key="work_14988">
                         <title>Text on civil law</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -463,7 +463,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_98-part8-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Digby_98-part8-item1" n="1" class="#medica" key="work_13203 ">
 						                  <title type="desc">Medical recipes</title>
                         
                         <textLang mainLang="en">English</textLang>

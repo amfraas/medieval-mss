@@ -117,7 +117,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_E_1_6-part2-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Auct_E_1_6-part2-item1" n="1" class="#theologica" key="work_15303">
                         <title type="desc">Theological texts</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -147,7 +147,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_E_1_6-part3-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Auct_E_1_6-part3-item1" n="1" class="#theologica" key="work_15303">
                         <title type="desc">Theological texts</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -177,7 +177,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_E_1_6-part4-item1" n="1" class="#theologica">
+                     <msItem xml:id="MS_Auct_E_1_6-part4-item1" n="1" class="#theologica" key="work_15303">
                         <title type="desc">Theological texts</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>

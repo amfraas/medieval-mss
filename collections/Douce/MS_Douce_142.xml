@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_142-item1" n="1" class="#exempla #romances">
+                  <msItem xml:id="MS_Douce_142-item1" n="1" class="#exempla #romances" key="work_12023">
                      <title>Gesta Romanorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

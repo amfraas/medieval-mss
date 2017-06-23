@@ -55,12 +55,12 @@
                      <note>(partial Italian translation by <persName role="translator" key="person_22211055">Bono Giamboni</persName>)</note>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_31-item2" n="2" class="#versus">
+                  <msItem xml:id="MS_Canon_Ital_31-item2" n="2" class="#versus" key="work_13886">
 						               <title type="desc">Poems</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_31-item3" n="3" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Canon_Ital_31-item3" n="3" class="#astrologia_astronomia" key="work_10408 ">
 						               <title type="desc">Astronomical treatise</title>
                      
                      <textLang mainLang="it">Italian</textLang>
@@ -71,7 +71,7 @@
                      <note>(Italian translation)</note>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_31-item5" n="5" class="#miscellanea">
+                  <msItem xml:id="MS_Canon_Ital_31-item5" n="5" class="#miscellanea" key="work_13339 ">
                      <title type="desc">Miscellaneous pieces</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

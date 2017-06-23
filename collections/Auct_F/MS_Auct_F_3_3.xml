@@ -112,7 +112,7 @@
               militaris</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_3_3-part2-item2" n="2" class="#romances">
+                     <msItem xml:id="MS_Auct_F_3_3-part2-item2" n="2" class="#romances" key="work_12226">
                         <title>Historia de proeliis Alexandri Magni</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

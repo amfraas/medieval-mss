@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_148-item1" n="1" class="#oratio #devotiones #contemplationes">
+                  <msItem xml:id="MS_Canon_Liturg_148-item1" n="1" class="#oratio #devotiones #contemplationes" key="work_13969">
                      <title type="desc">Prayers, meditations, etc.</title>
                      <textLang mainLang="nl">Dutch</textLang>
                   </msItem>

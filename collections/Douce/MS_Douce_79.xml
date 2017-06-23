@@ -49,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_79-item1" n="1" class="#apocrypha">
+                  <msItem xml:id="MS_Douce_79-item1" n="1" class="#apocrypha" key="work_13045">
                      <title type="desc">Lives of Adam and Eve</title>
                      <note>(fragment)</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_79-item2" n="2" class="#apocrypha">
+                  <msItem xml:id="MS_Douce_79-item2" n="2" class="#apocrypha" key="work_12268 ">
                      <title type="desc">History of the Cross
               </title>
                      <note>(fragments)</note>

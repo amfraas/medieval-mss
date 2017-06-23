@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_607-item1" n="1" class="#astrologia_astronomia #computistica #mathematica">
+                  <msItem xml:id="MS_Bodl_607-item1" n="1" class="#astrologia_astronomia #computistica #mathematica" key="work_10371">
                      <title type="desc">Astronomical, arithmetical and calendrial treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

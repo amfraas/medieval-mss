@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_A_18-item1" n="1" class="#miscellanea">
+                  <msItem xml:id="MS_Add_A_18-item1" n="1" class="#miscellanea" key="work_10021">
                      <title type="desc">Account of a pilgrimage to <placeName key="place_7001371">Jerusalem</placeName>
                      </title>
                      <note>(in Italian; includes Latin text of prayers and offices used on the journey)</note>

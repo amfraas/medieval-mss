@@ -49,14 +49,14 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Bibl_Lat_90-item1" n="1" class="#biblia #liturgica">
+                  <msItem xml:id="MS_Canon_Bibl_Lat_90-item1" n="1" class="#biblia #liturgica" key="work_14130 ">
                      <title type="desc">Psalter, with gloss</title>
                      <bibl type="bible">
                         <title>Bible, Psalms</title>
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Bibl_Lat_90-item2" n="2" class="#versus #musica">
+                  <msItem xml:id="MS_Canon_Bibl_Lat_90-item2" n="2" class="#versus #musica" key="work_14668">
                      <locus>(fol. 2r)</locus>
                      <title type="desc">Songs, with neums </title>
                      

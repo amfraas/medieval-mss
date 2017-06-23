@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_D_33-item1" n="1" class="#legalia">
+                  <msItem xml:id="MS_Add_D_33-item1" n="1" class="#legalia" key="work_14973">
                      <title type="desc">Treatises on Canon Law</title>
                      <note>(three imperfect treatises)</note>
                      <textLang mainLang="la">Latin</textLang>

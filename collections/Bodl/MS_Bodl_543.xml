@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_543-item1" n="1" class="#monastica">
+                  <msItem xml:id="MS_Bodl_543-item1" n="1" class="#monastica" key="work_14306 ">
                      <title>Regula S. Benedicti</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_543-item2" n="2" class="#monastica">
+                  <msItem xml:id="MS_Bodl_543-item2" n="2" class="#monastica" key="work_14300 ">
                      <title>Regula S. Augustini</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -85,7 +85,7 @@
                      <note>(extracts)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_543-item6" n="6" class="#theologica">
+                  <msItem xml:id="MS_Bodl_543-item6" n="6" class="#theologica" key="work_15308">
                      <title type="desc">Theological treatise</title>
                      <note>(part)</note>
                      <textLang mainLang="la">Latin</textLang>

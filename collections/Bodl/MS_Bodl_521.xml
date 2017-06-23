@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_521-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Bodl_521-item1" n="1" class="#historica" key="work_10969">
                      <title type="desc">Chronicle of England to 1154</title>
                      <note>(based on <persName role="author" key="person_57425612">
                            Henry of Huntingdon

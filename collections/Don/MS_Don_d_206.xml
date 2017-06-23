@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Don_d_206-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Don_d_206-item1" n="1" class="#liturgica" key="work_10507">
 						               <title type="desc">Book of Hours</title>
                      
                      <textLang mainLang="la">Latin</textLang>

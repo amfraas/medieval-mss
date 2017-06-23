@@ -49,15 +49,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_556-item1" n="1" class="#apocrypha">
+                  <msItem xml:id="MS_Bodl_556-item1" n="1" class="#apocrypha" key="work_11737 ">
                      <title>Euangelium Nicodemi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_556-item2" n="2" class="#apocrypha">
+                  <msItem xml:id="MS_Bodl_556-item2" n="2" class="#apocrypha" key="work_12599 ">
                      <title type="desc">Legend of the Holy Rood</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_556-item3" n="3" class="#sermones #christologia">
+                  <msItem xml:id="MS_Bodl_556-item3" n="3" class="#sermones #christologia" key="work_14552">
                      <title type="desc">Sermon 'de miraculis Christi'</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

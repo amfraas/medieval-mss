@@ -49,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_379-star-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Douce_379-star-item1" n="1" class="#documenta" key="work_11658">
                      <title type="desc">Documents relating to <placeName key="place_7603545">Thury, Normandy</placeName> 
                      </title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_379-star-item2" n="2" class="#documenta">
+                  <msItem xml:id="MS_Douce_379-star-item2" n="2" class="#documenta" key="work_10056 ">
                      <title type="desc">Account of <persName key="person_1047">Robert Gringore, receiver of Thury</persName>, 1458-9</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>

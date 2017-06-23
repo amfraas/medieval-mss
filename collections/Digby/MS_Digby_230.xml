@@ -69,7 +69,7 @@
                      <title>Troy Book</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_230-item3" n="3" class="#romances #historica"><!-- check -->
+                  <msItem xml:id="MS_Digby_230-item3" n="3" class="#romances #historica" key="work_15351"><!-- check -->
                      <title>Titus and Vespasian</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

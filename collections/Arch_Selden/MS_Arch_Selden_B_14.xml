@@ -107,7 +107,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_14-part2-item1" n="1" class="#musica">
+                     <msItem xml:id="MS_Arch_Selden_B_14-part2-item1" n="1" class="#musica" key="work_13908">
                         <locus>(endleaves)</locus>
                         <title type="desc">Polyphonic fragments </title>
                         

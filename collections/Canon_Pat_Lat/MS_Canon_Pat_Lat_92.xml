@@ -67,7 +67,7 @@
                      <title>De arra animae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_92-item3" n="3" class="#devotiones #contemplationes">
+                  <msItem xml:id="MS_Canon_Pat_Lat_92-item3" n="3" class="#devotiones #contemplationes" key="work_11518">
                      <title type="desc">Devotional and contemplative treatises.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

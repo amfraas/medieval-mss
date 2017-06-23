@@ -103,7 +103,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_975-part2-item1" n="1" class="#legalia">
+                     <msItem xml:id="MS_Bodl_975-part2-item1" n="1" class="#legalia" key="work_12812">
                         <title>Liber Sextus Decretalium</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -130,7 +130,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_975-part3-item1" n="1" class="#legalia">
+                     <msItem xml:id="MS_Bodl_975-part3-item1" n="1" class="#legalia" key="work_11343 ">
                         <title>Constitutiones Clementinae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_210-item1" n="1" class="#satirica">
+                  <msItem xml:id="MS_Douce_210-item1" n="1" class="#satirica" key="work_13867 ">
                      <title type="desc">Poem on the three estates</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_210-item2" n="2" class="#miscellanea">
+                  <msItem xml:id="MS_Douce_210-item2" n="2" class="#miscellanea" key="work_12527 ">
                      <title>Le chevalier de Dieu (Del chevaler Dé)</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
@@ -75,11 +75,11 @@
                      <title>Mirour de seinte eglyse</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_210-item5" n="5" class="#miscellanea">
+                  <msItem xml:id="MS_Douce_210-item5" n="5" class="#miscellanea" key="work_15407">
                      <title>Urban le courtois</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_210-item6" n="6" class="#satirica">
+                  <msItem xml:id="MS_Douce_210-item6" n="6" class="#satirica" key="work_11439 ">
                      <title>De coniuge non ducenda</title>
                      <note>French adaptation</note>
                      <textLang mainLang="fr">French</textLang>

@@ -58,7 +58,7 @@
               Swithun</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_2_14-item2" n="2" class="#biblia">
+                  <msItem xml:id="MS_Auct_F_2_14-item2" n="2" class="#biblia" key="work_10481 ">
                      
                      <title type="desc">Biblical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
@@ -84,7 +84,7 @@
                      <title>Ars de nomine et uerbo</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_2_14-item6" n="6">
+                  <msItem xml:id="MS_Auct_F_2_14-item6" n="6" key="work_11729">
                      
                      <title>Epitome Iliadis</title>
                      <bibl type="related">

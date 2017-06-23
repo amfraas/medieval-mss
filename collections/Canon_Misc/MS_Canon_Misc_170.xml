@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_170-item1" n="1" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Misc_170-item1" n="1" class="#vitae_sanctorum" key="work_13060">
 						               <title type="desc">Lives of saints</title>
                      
                      <textLang mainLang="la">Latin</textLang>

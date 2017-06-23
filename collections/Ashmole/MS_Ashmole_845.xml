@@ -93,7 +93,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_845-part1-item1" n="1" class="#historica">
+                     <msItem xml:id="MS_Ashmole_845-part1-item1" n="1" class="#historica" key="work_11970 ">
                         <title type="desc">Genealogical collections</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -122,7 +122,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_845-part2-item1" n="1" class="#historica #heraldica">
+                     <msItem xml:id="MS_Ashmole_845-part2-item1" n="1" class="#historica #heraldica" key="work_11967 ">
                         <title type="desc">Genealogical and heraldic collections</title>
                         <note>(including printed materials)</note>
                         <textLang mainLang="en" otherLangs="la fr">English, Latin and French</textLang>
@@ -152,7 +152,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_845-part3-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_845-part3-item1" n="1" class="#documenta" key="work_12412 ">
                         <title type="desc">Inventory of the treasury of <orgName key="org_168512946">St. Paul's, London</orgName>, 1295</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -181,7 +181,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_845-part4-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_845-part4-item1" n="1" class="#documenta" key="work_11630 ">
                         <title type="desc">Documents relating to a dispute between the <persName key="person_1312"><!-- not found -->bishop of London</persName> and the dean and chapter of <orgName key="org_168512946">St. Paul's, London</orgName>, 1402</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -210,7 +210,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_845-part5-item1" n="1" class="#documenta">
+                     <msItem xml:id="MS_Ashmole_845-part5-item1" n="1" class="#documenta" key="work_14378 ">
                         <title type="desc">Rental of lands in <placeName key="place_7008143">Herefordshire</placeName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>
@@ -240,7 +240,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_845-part6-item1" n="1" class="#satirica">
+                     <msItem xml:id="MS_Ashmole_845-part6-item1" n="1" class="#satirica" key="work_14493">
                         <title type="desc">Satirical text on the <orgName key="org_263535253">Council of Constance</orgName>, 1417</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -269,7 +269,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_845-part7-item1" n="1" class="#biblia #tabulae">
+                     <msItem xml:id="MS_Ashmole_845-part7-item1" n="1" class="#biblia #tabulae" key="work_12366 ">
                         <title type="desc">Index to the Bible</title>
                         <note>(fragment)</note>
                         <textLang mainLang="la">Latin</textLang>

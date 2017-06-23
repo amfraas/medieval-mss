@@ -67,7 +67,7 @@
                      <title>Tractatus de antichristi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_19-item3" n="3" class="#theologica">
+                  <msItem xml:id="MS_Canon_Pat_Lat_19-item3" n="3" class="#theologica" key="work_15308">
                      <title type="desc">Theological treatise</title>
                      <note>(here attributed to <persName role="author" key="person_264344179">
                            Thomas Aquinas

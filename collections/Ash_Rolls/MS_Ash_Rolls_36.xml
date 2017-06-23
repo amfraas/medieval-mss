@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ash_Rolls_36-item1" n="1" class="#documenta">
+                  <msItem xml:id="MS_Ash_Rolls_36-item1" n="1" class="#documenta" key="work_12407">
                      <title type="desc">Inventory of books, vestments, relics, etc. of the <orgName key="org_141723720">chapel of Windsor castle</orgName>, 1409-10</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

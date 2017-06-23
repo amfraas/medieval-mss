@@ -90,7 +90,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_333-part1-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Ashmole_333-part1-item1" n="1" class="#liturgica" key="work_10663 ">
                         <locus>(fols. 1-11)</locus>
                         <title type="desc">Breviary, Use of Sarum </title>
                         <note>(fragment)</note>
@@ -124,7 +124,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_333-part2-item1" n="1" class="#prognostica">
+                     <msItem xml:id="MS_Ashmole_333-part2-item1" n="1" class="#prognostica" key="work_14023">
                         <note>(parts 2-13, fols. 12-191)</note>
                         <title type="desc">Prognostications, tables, etc of <persName key="person_676"><!-- not found -->John Brooker</persName> 
                         </title>

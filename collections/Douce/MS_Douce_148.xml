@@ -54,7 +54,7 @@
                      <title>Troy Book</title>
                      <textLang mainLang="en" otherLangs="sco">English and Scots</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_148-item2" n="2" class="#romances">
+                  <msItem xml:id="MS_Douce_148-item2" n="2" class="#romances" key="work_14519">
                      <title>Scottish Troy Book</title>
                      <note>(fragments of Scots translation, inserted in Lydgate's text at fols. 290-300 and 307-336)</note>
                      <textLang mainLang="en" otherLangs="sco">English and Scots</textLang>

@@ -73,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_652-part1-item1" n="1" class="#biblia #apocrypha">
+                     <msItem xml:id="MS_Bodl_652-part1-item1" n="1" class="#biblia #apocrypha" key="work_12436 ">
                         <title>Jacob and Joseph</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -171,7 +171,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_652-part4-item1" n="1" class="#musica #versus">
+                     <msItem xml:id="MS_Bodl_652-part4-item1" n="1" class="#musica #versus" key="work_13415">
                         <title type="desc">Motets with polyphonic music (fragments)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

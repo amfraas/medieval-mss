@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_193-item1" n="1" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_193-item1" n="1" class="#astrologia_astronomia" key="work_15343">
                      <title>Theorica planetarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -83,12 +83,12 @@
                      <title>Tractatus de sphaera</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_193-item5" n="5" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_193-item5" n="5" class="#astrologia_astronomia" key="work_10409 ">
 						               <title type="desc">Astronomical texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_193-item6" n="6" class="#mathematica">
+                  <msItem xml:id="MS_Digby_193-item6" n="6" class="#mathematica" key="work_10277 ">
 						               <title type="desc">Arithmetical texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>

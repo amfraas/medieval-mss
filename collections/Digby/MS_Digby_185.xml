@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_185-item1" n="1" class="#historica">
+                  <msItem xml:id="MS_Digby_185-item1" n="1" class="#historica" key="work_10940 ">
 						               <title type="desc">Chronicle of <placeName key="place_7002445">England</placeName> (Brut chronicle) to 1418</title>
                      
                      <textLang mainLang="en">English</textLang>
@@ -83,7 +83,7 @@
                      <title>Tale of Jonathas</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_185-item5" n="5" class="#romances">
+                  <msItem xml:id="MS_Digby_185-item5" n="5" class="#romances" key="work_12463">
                      <title>King Ponthus and the Fair Sidone.</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

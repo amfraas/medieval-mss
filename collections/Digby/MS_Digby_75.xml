@@ -76,16 +76,16 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_75-part1-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Digby_75-part1-item1" n="1" class="#medica" key="work_12210 ">
                         <title type="desc">Herbal</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part1-item2" n="2" class="#medica">
+                     <msItem xml:id="MS_Digby_75-part1-item2" n="2" class="#medica" key="work_13203 ">
 						                  <title type="desc">Medical recipes</title>
                         
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part1-item3" n="3" class="#medica">
+                     <msItem xml:id="MS_Digby_75-part1-item3" n="3" class="#medica" key="work_15391">
                         <title>Trotula</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -99,7 +99,7 @@
                         <note>(incomplete)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part1-item5" n="5" class="#medica #scientifica">
+                     <msItem xml:id="MS_Digby_75-part1-item5" n="5" class="#medica #scientifica" key="work_13186 ">
 						                  <title type="desc">Medical and scientific texts.</title>
                         
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
@@ -113,7 +113,7 @@
                         <title>Centiloquium</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part1-item7" n="7" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_75-part1-item7" n="7" class="#astrologia_astronomia" key="work_10342 ">
 						                  <title type="desc">Astrological treatise</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -148,17 +148,17 @@
                         <title>De ualidis mendicantibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part2-item2" n="2" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_75-part2-item2" n="2" class="#astrologia_astronomia" key="work_10342 ">
 						                  <title type="desc">Astrological treatise</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part2-item3" n="3" class="#mathematica">
+                     <msItem xml:id="MS_Digby_75-part2-item3" n="3" class="#mathematica" key="work_10277 ">
 						                  <title type="desc">Arithmetical treatise</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part2-item4" n="4" class="#theologica">
+                     <msItem xml:id="MS_Digby_75-part2-item4" n="4" class="#theologica" key="work_11551 ">
                         <title>Disputacio corporis et animae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -202,7 +202,7 @@
                         <title>Manuale sacerdotis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part3-item2" n="2" class="#versus #scientifica">
+                     <msItem xml:id="MS_Digby_75-part3-item2" n="2" class="#versus #scientifica" key="work_14515 ">
 						                  <title type="desc">Scientific text in verse</title>
                         
                         <note>(extract from the <hi rend="italic">Legend of St Michael</hi> in the <hi rend="italic">South English Legendary</hi>)</note>
@@ -220,12 +220,12 @@
                         <title>Speculum sacerdotis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part3-item4" n="4" class="#computistica">
+                     <msItem xml:id="MS_Digby_75-part3-item4" n="4" class="#computistica" key="work_14971 ">
 						                  <title type="desc">Treatise on calendar</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_75-part3-item5" n="5" class="#medica">
+                     <msItem xml:id="MS_Digby_75-part3-item5" n="5" class="#medica" key="work_13205 ">
 						                  <title type="desc">Medical recipes</title>
                         
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Don_b_31-item1" n="1" class="#liturgica #musica">
+                  <msItem xml:id="MS_Don_b_31-item1" n="1" class="#liturgica #musica" key="work_10910">
                      <title type="desc">Choirbook</title>
                      <note>(fragment of a choirbook containing polyphonic music)</note>
                      <msItem xml:id="MS_Don_b_31-item1-item1">

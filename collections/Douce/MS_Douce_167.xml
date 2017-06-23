@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_167-item1" n="1" class="#animalia">
+                  <msItem xml:id="MS_Douce_167-item1" n="1" class="#animalia" key="work_10448">
                      <title type="desc">Bestiary</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

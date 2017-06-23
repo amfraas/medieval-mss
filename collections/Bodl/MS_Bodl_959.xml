@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_959-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Bodl_959-item1" n="1" class="#biblia" key="work_13609">
                      <title rend="roman">Old Testament</title>
                      <note>(Wycliffite translation, earlier version, from Genesis to Baruch iii.20, with prologues)</note>
                      <textLang mainLang="en">English</textLang>

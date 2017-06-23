@@ -56,7 +56,7 @@
                      <title>Alexandreis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_205-item2" n="2" class="#grammatica">
+                  <msItem xml:id="MS_DOrville_205-item2" n="2" class="#grammatica" key="work_12151">
 						               <title type="desc">Grammatical texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>

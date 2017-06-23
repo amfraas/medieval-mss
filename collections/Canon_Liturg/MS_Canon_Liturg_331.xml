@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_331-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Canon_Liturg_331-item1" n="1" class="#liturgica" key="work_13365 ">
                      <title type="desc">Missal, Use of Rome</title>
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>
                   </msItem>
@@ -60,11 +60,11 @@
                      <title>Rudimenta ad sciendum</title>
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Liturg_331-item3" n="3" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Canon_Liturg_331-item3" n="3" class="#vitae_sanctorum" key="work_13057 ">
                      <title type="desc">Lives of Saints</title>
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Liturg_331-item4" n="4" class="#versus #devotiones">
+                  <msItem xml:id="MS_Canon_Liturg_331-item4" n="4" class="#versus #devotiones" key="work_14345">
                      <title type="desc">Religious
               poems</title>
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>

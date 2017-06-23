@@ -110,7 +110,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Misc_521-part2-item1" n="1" class="#scientifica">
+                     <msItem xml:id="MS_Canon_Misc_521-part2-item1" n="1" class="#scientifica" key="work_15104">
                         <title type="desc">Treatise on motion </title>
                         <note>('de aquarum ductibus et motibus rotarum')</note>
                         <textLang mainLang="la">Latin</textLang>

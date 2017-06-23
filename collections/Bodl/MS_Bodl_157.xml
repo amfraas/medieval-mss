@@ -75,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_157-part1-item1" n="1" class="#sermones">
+                     <msItem xml:id="MS_Bodl_157-part1-item1" n="1" class="#sermones" key="work_13499 ">
                         <title type="desc">Notes for sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -114,11 +114,11 @@
                         <title>Pharetra</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_157-part2-item2" n="2" class="#mariologica">
+                     <msItem xml:id="MS_Bodl_157-part2-item2" n="2" class="#mariologica" key="work_11459 ">
                         <title>De transitu beatae Mariae uirginis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_157-part2-item3" n="3" class="#sermones">
+                     <msItem xml:id="MS_Bodl_157-part2-item3" n="3" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -156,15 +156,15 @@
                         <title>Templum Domini</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_157-part3-item2" n="2" class="#sacramenta">
+                     <msItem xml:id="MS_Bodl_157-part3-item2" n="2" class="#sacramenta" key="work_15129">
                         <title type="desc">Treatise on penance</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_157-part3-item3" n="3" class="#sacramenta">
+                     <msItem xml:id="MS_Bodl_157-part3-item3" n="3" class="#sacramenta" key="work_15091 ">
                         <title type="desc">Treatises on the Mass</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_157-part3-item4" n="4" class="#sermones">
+                     <msItem xml:id="MS_Bodl_157-part3-item4" n="4" class="#sermones" key="work_14583 ">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

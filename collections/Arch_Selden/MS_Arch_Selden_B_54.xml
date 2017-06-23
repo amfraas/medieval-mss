@@ -110,7 +110,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_54-part2-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Arch_Selden_B_54-part2-item1" n="1" class="#liturgica" key="work_12558">
                         <title type="desc">Lectionary</title>
                         <note>(fragment)</note>
                         <textLang mainLang="grc">Greek</textLang>

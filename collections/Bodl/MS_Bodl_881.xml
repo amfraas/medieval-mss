@@ -105,7 +105,7 @@
                      <title>Consolatio theologiae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_881-item7" n="7" class="#sacramenta">
+                  <msItem xml:id="MS_Bodl_881-item7" n="7" class="#sacramenta" key="work_15161">
                      <title type="desc">Treatise on the sacraments</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

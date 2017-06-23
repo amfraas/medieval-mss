@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Add_A_17-item1" n="1" class="#versus #devotiones">
+                  <msItem xml:id="MS_Add_A_17-item1" n="1" class="#versus #devotiones" key="work_14346 ">
                      <title type="desc">Religious poems.</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_A_17-item2" n="2" class="#drama #christologia">
+                  <msItem xml:id="MS_Add_A_17-item2" n="2" class="#drama #christologia" key="work_15422">
                      <title type="desc">Verse drama of the Life and Death of
               Christ.</title>
                      <textLang mainLang="it">Italian</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1517-item1" n="1" class="#biblia">
+                  <msItem xml:id="MS_Ashmole_1517-item1" n="1" class="#biblia" key="work_13452">
                      <title type="desc">New Testament, Wycliffite version</title>
                      <note>with table of lections</note>
                      <bibl type="bible">

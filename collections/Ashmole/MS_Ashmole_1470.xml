@@ -107,11 +107,11 @@
                         <title>Antidotarium Nicholai</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1470-item4" n="4" class="#medica">
+                  <msItem xml:id="MS_Ashmole_1470-item4" n="4" class="#medica" key="work_10205 ">
                      <title>Antidotarium Nicholai</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1470-item5" n="5" class="#medica">
+                  <msItem xml:id="MS_Ashmole_1470-item5" n="5" class="#medica" key="work_13249">
                      <title type="desc">Medical treatises and recipes.</title>
                      <textLang mainLang="la" otherLangs="en fr">Latin, English and French</textLang>
                   </msItem>

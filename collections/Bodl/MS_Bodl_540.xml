@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_540-item1" n="1" class="#theologica">
+                  <msItem xml:id="MS_Bodl_540-item1" n="1" class="#theologica" key="work_15345">
                      <title type="desc">Thirty-Seven Conclusions of the <orgName key="org_3"><!-- not in VIAF -->Lollards</orgName>
                      </title>
                      <textLang mainLang="en">English</textLang>

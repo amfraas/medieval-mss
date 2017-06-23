@@ -127,7 +127,7 @@
                            <title>Massa compoti</title>
                         </bibl>
                      </msItem>
-                     <msItem xml:id="MS_Digby_81-part1-item5" n="5" class="#versus #mathematica">
+                     <msItem xml:id="MS_Digby_81-part1-item5" n="5" class="#versus #mathematica" key="work_13157 ">
 						                  <title type="desc">Mathematical verses</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -158,7 +158,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_81-part2-item1" n="1" class="#historica">
+                     <msItem xml:id="MS_Digby_81-part2-item1" n="1" class="#historica" key="work_11020 ">
                         <title type="desc">Chronological table to 1256.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -193,7 +193,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_81-part3-item1" n="1" class="#prognostica"><!-- check -->
+                     <msItem xml:id="MS_Digby_81-part3-item1" n="1" class="#prognostica" key="work_14654"><!-- check -->
                         <title>Somniale Danielis.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -250,7 +250,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_81-part5-item1" n="1" class="#computistica #liturgica">
+                     <msItem xml:id="MS_Digby_81-part5-item1" n="1" class="#computistica #liturgica" key="work_10716 ">
 						                  <title type="desc">Calendars.</title>
                         
                         <textLang mainLang="fr">French</textLang>
@@ -284,7 +284,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_81-part6-item1" n="1" class="#computistica">
+                     <msItem xml:id="MS_Digby_81-part6-item1" n="1" class="#computistica" key="work_11677 ">
                         <title type="desc">Easter tables.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

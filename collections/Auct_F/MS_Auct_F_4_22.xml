@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_4_22-part1-item1" n="1" class="#liturgica">
+                     <msItem xml:id="MS_Auct_F_4_22-part1-item1" n="1" class="#liturgica" key="work_14469">
                         <title type="desc">Sacramentary </title>
                         <note>fragment</note>
                         <textLang mainLang="la">Latin</textLang>

@@ -60,7 +60,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_95-item2" n="2">
+                  <msItem xml:id="MS_Barocci_95-item2" n="2" key="work_15229">
                      <title type="desc">Theological and grammatical treatises</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

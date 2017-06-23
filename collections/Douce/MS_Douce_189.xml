@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_189-item1" n="1" class="#romances">
+                  <msItem xml:id="MS_Douce_189-item1" n="1" class="#romances" key="work_12492">
                      <title type="desc">Lancelot cycle, Branch 5</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>

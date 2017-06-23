@@ -60,12 +60,12 @@
                      <title>Algorismus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_22-item2" n="2" class="#mathematica">
+                  <msItem xml:id="MS_Digby_22-item2" n="2" class="#mathematica" key="work_13156 ">
 						               <title type="desc">Mathematical texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_22-item3" n="3" class="#theologica #pastoralia">
+                  <msItem xml:id="MS_Digby_22-item3" n="3" class="#theologica #pastoralia" key="work_15243">
 						               <title type="desc">Theological and pastoral texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -79,7 +79,7 @@
                      <title>Massa compoti</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_22-item5" n="5" class="#computistica #liturgica">
+                  <msItem xml:id="MS_Digby_22-item5" n="5" class="#computistica #liturgica" key="work_10718 ">
 						               <title type="desc">Calendars and chronological notes</title>
                      
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>

@@ -92,7 +92,7 @@
                      <note>book I</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_T_2_20-item5" n="5" class="#grammatica">
+                  <msItem xml:id="MS_Auct_T_2_20-item5" n="5" class="#grammatica" key="work_12151">
                      
                      <title type="desc">Grammatical treatise</title>
                      <textLang mainLang="la">Latin</textLang>

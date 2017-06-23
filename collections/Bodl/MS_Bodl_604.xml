@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_604-item1" n="1" class="#grammatica #miscellanea">
+                  <msItem xml:id="MS_Bodl_604-item1" n="1" class="#grammatica #miscellanea" key="work_12511">
                      <title type="desc">Latin-English vocabulary ('Nominale et Verbale')</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>

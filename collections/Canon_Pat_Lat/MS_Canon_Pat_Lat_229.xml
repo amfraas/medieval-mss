@@ -103,7 +103,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Pat_Lat_229-part2-item1" n="1" class="#liturgica #musica">
+                     <msItem xml:id="MS_Canon_Pat_Lat_229-part2-item1" n="1" class="#liturgica #musica" key="work_12344">
                         <title type="desc">Hymns with music</title>
                         <note>(fragments; other fragments from the same book are in Padua Univ., MSS. 684, 1475)</note>
                         <textLang mainLang="la" otherLangs="it">Latin and Italian</textLang>

@@ -60,7 +60,7 @@
               Syracusanorum et antiquitatum Sicilie libri tres</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_49-item2" n="2" class="#versus">
+                  <msItem xml:id="MS_DOrville_49-item2" n="2" class="#versus" key="work_13881">
 						               <title type="desc">Poems</title>
                      
                      <textLang mainLang="it">Italian</textLang>

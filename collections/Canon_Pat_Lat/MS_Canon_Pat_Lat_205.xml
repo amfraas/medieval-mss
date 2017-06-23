@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_205-item1" n="1" class="#ecclesiastica #documenta">
+                  <msItem xml:id="MS_Canon_Pat_Lat_205-item1" n="1" class="#ecclesiastica #documenta" key="work_10105">
                      <title type="desc">Acts of the <orgName key="org_146685036">Council of Pisa</orgName>.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

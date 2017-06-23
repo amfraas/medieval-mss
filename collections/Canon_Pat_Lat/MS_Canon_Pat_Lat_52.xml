@@ -76,7 +76,7 @@
                      <title>De septem donis spiritus sancti</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_52-item4" n="4" class="#theologica #devotiones">
+                  <msItem xml:id="MS_Canon_Pat_Lat_52-item4" n="4" class="#theologica #devotiones" key="work_14367">
                      <title type="desc">Religious treatises, notes and extracts</title>
                      <textLang mainLang="la" otherLangs="de">Latin and German</textLang>
                   </msItem>

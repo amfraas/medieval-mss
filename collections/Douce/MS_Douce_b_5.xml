@@ -64,7 +64,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_b_5-part1-item1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_b_5-part1-item1" class="#liturgica" key="work_13355 ">
                         <locus>(fol.1)</locus>
                         <title type="desc">Missal</title>
                         <note>Fragments, containing portions of the temporale from the third to the fourth and from the eight to the ninth Sundays after Pentecost with (fol. 3) votive masses</note>
@@ -98,7 +98,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_b_5-part2-item1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_b_5-part2-item1" class="#liturgica" key="work_12559 ">
                         <locus>(fol.4)</locus>
                         <title type="desc">Lectionary</title>
                         <note>(fragment)</note>
@@ -128,7 +128,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_b_5-part3-item1" class="#documenta">
+                     <msItem xml:id="MS_Douce_b_5-part3-item1" class="#documenta" key="work_11483 ">
                         <locus>(fol.5)</locus>
                         <title type="desc">Deed</title>
                         <note>concerning the grant to <persName key="person_1423">John de Malteby</persName>, by <persName key="person_1424">John son of Simon</persName> and <persName key="person_1425">Sybil</persName> his wife, of the manor of <placeName key="place_7030707">West Beckham (Westbecham)</placeName>, dated <placeName key="place_7012005">Norwich</placeName>, 1312</note>
@@ -159,7 +159,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_b_5-part4-item1" class="#liturgica">
+                     <msItem xml:id="MS_Douce_b_5-part4-item1" class="#liturgica" key="work_10641 ">
                         <locus>(fol.6)</locus>
                         <title type="desc">Breviary</title>
                         <note>(leaf from a portable breviary containing part of the office of Sts. Peter and Paul)</note>
@@ -216,7 +216,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_b_5-part6-item1" class="#versus">
+                     <msItem xml:id="MS_Douce_b_5-part6-item1" class="#versus" key="work_13877 ">
                         <locus>(fol.10)</locus>
                         <title type="desc">Poems</title>
                         <note>Sixteen quatrains on death</note>
@@ -245,7 +245,7 @@
                   </msIdentifier>
                   
                   <msContents>
-                     <msItem xml:id="MS_Douce_b_5-part7-item1" class="#versus">
+                     <msItem xml:id="MS_Douce_b_5-part7-item1" class="#versus" key="work_13886">
                         <locus>(fol.19)</locus>
                         <title type="desc">Poems</title>
                         <note>Eight elegiacs, written in the same hand as part 6</note>
@@ -273,7 +273,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_b_5-part8-item1" class="#versus">
+                     <msItem xml:id="MS_Douce_b_5-part8-item1" class="#versus" key="work_13877 ">
                         <locus>(fol.19v)</locus>
                         <title type="desc">Poems</title>
                         <note>Three stanzas, the first of eight, the second and third of nine lines </note>
@@ -302,7 +302,7 @@
                   </msIdentifier>
                   
                   <msContents>
-                     <msItem xml:id="MS_Douce_b_5-part9-item1" class="#documenta">
+                     <msItem xml:id="MS_Douce_b_5-part9-item1" class="#documenta" key="work_13780 ">
                         <locus>(fol.23)</locus>
                         <title type="desc">Petition</title>
                         <note>to the <persName key="person_88545532">Duke of Buckingham, warden of the Cinque Ports</persName> by his chaplain, <persName key="person_1428">John Symmys, vicar of Westerham<!-- orig: Westham -->, Kent</persName>, complaining of assault by <persName key="person_1427">William Weevare</persName>
@@ -335,7 +335,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_b_5-part10-item1" class="#miscellanea">
+                     <msItem xml:id="MS_Douce_b_5-part10-item1" class="#miscellanea" key="work_11669 ">
                         <locus>(fol.24)</locus>
                         <title type="desc">Drawing of Cicero</title>
                         <note>with an elegiac couplet similar to those found in <title type="desc">Icones 24 priorum imperatorum … qui visuntur in horto Tabrotiano</title>, Lingonis, 1592, and a scroll with the words ‘<persName key="person_1429">Bernard Cousin</persName> m'a fait l'an 1590’.</note>

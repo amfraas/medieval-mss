@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barlow_21-item1" n="1" class="#versus #biblia">
+                  <msItem xml:id="MS_Barlow_21-item1" n="1" class="#versus #biblia" key="work_12217">
                      <title>Hexameron</title>
                      <note>Poem on Creation, based on Genesis.</note>
                      <textLang mainLang="la">Latin</textLang>

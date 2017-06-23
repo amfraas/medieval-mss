@@ -59,12 +59,12 @@
                      <note>(extracts)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_784-item2" n="2" class="#legalia">
+                  <msItem xml:id="MS_Bodl_784-item2" n="2" class="#legalia" key="work_11343">
                      <title>Constitutiones Clementinae</title>
                      <note>(and gloss; extracts)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_784-item3" n="3" class="#monastica">
+                  <msItem xml:id="MS_Bodl_784-item3" n="3" class="#monastica" key="work_10203 ">
                      <title type="desc">Anti-fraternal extracts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

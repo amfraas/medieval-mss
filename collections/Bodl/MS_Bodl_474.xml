@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_474-item1" n="1" class="#exempla">
+                  <msItem xml:id="MS_Bodl_474-item1" n="1" class="#exempla" key="work_14681">
                      <title>Speculum laicorum</title>
                      <note>(collection of exempla)</note>
                      <textLang mainLang="la">Latin</textLang>

@@ -59,7 +59,7 @@
               Filostrato</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_39-item2" n="2" class="#romances">
+                  <msItem xml:id="MS_Canon_Ital_39-item2" n="2" class="#romances" key="work_14076">
                      <title>Pruneo degli Astolfi e Giulia de' Castegli</title>
                      <note>(novella)</note>
                      <textLang mainLang="it">Italian</textLang>

@@ -98,7 +98,7 @@
                      <title>Poeniteas cito</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_5_6-item8" n="8">
+                  <msItem xml:id="MS_Auct_F_5_6-item8" n="8" key="work_12052">
                      <title>Glosses on Theodulus, Eclogues</title>
                      <bibl type="commentedOn">
                         <author key="person_56961813">

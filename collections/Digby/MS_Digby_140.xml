@@ -75,12 +75,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_140-part1-item1" n="1" class="#versus #astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_140-part1-item1" n="1" class="#versus #astrologia_astronomia" key="work_13865 ">
 						                  <title type="desc">Poem on stars</title>
                         
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_140-part1-item2" n="2" class="#scientifica">
+                     <msItem xml:id="MS_Digby_140-part1-item2" n="2" class="#scientifica" key="work_15164">
                         <title type="desc">Treatise on seasons</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>

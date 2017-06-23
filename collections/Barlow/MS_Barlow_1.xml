@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Barlow_1-item1" n="1" class="#liturgica">
+                  <msItem xml:id="MS_Barlow_1-item1" n="1" class="#liturgica" key="work_13370">
                      <title type="desc">Missal, Use of Sarum</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>

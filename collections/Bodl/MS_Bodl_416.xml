@@ -49,19 +49,19 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_416-item1" n="1" class="#devotiones">
+                  <msItem xml:id="MS_Bodl_416-item1" n="1" class="#devotiones" key="work_10608 ">
                      <title>Book to a Mother</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_416-item2" n="2" class="#devotiones">
+                  <msItem xml:id="MS_Bodl_416-item2" n="2" class="#devotiones" key="work_14353">
                      <title type="desc">Religious pieces</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_416-item3" n="3" class="#devotiones">
+                  <msItem xml:id="MS_Bodl_416-item3" n="3" class="#devotiones" key="work_13329 ">
                      <title>Mirror of St. Edmund</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_416-item4" n="4" class="#biblia">
+                  <msItem xml:id="MS_Bodl_416-item4" n="4" class="#biblia" key="work_14137 ">
                      <title>Psalter of St. Jerome</title>
                      <note>(abbreviated version of the book of Psalms)</note>
                      <textLang mainLang="en">English</textLang>

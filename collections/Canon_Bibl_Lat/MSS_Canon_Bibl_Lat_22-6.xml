@@ -77,7 +77,7 @@
                   
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MSS_Canon_Bibl_Lat_22-6-item1" n="1" class="#biblia">
+                  <msItem xml:id="MSS_Canon_Bibl_Lat_22-6-item1" n="1" class="#biblia" key="work_10455">
                      <title rend="roman">Bible</title>
                      <note>in five volumes</note>
                      <note>(incomplete)</note>

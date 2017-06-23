@@ -59,7 +59,7 @@
                      <note>(epitome)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_774-item2" n="2" class="#biblia #commentarii">
+                  <msItem xml:id="MS_Bodl_774-item2" n="2" class="#biblia #commentarii" key="work_11292">
                      <title type="desc">Commentary on St. Matthew's Gospel</title>
                      <textLang mainLang="la">Latin</textLang>
                      <bibl type="commentedOn">

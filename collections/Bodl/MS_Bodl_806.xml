@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_806-item1" n="1" class="#sermones">
+                  <msItem xml:id="MS_Bodl_806-item1" n="1" class="#sermones" key="work_14622">
                      <title type="desc">Sermons on the Sunday Gospels throughout the year</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

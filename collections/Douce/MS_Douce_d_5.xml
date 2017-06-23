@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_d_5-item1" n="1" class="#miscellanea #liturgica">
+                  <msItem xml:id="MS_Douce_d_5-item1" n="1" class="#miscellanea #liturgica" key="work_11927">
                      <title type="desc">Fragments and papers, including two leaves from a 12th
               century Missal and notes, lists, and papers of F. Douce</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>

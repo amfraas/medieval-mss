@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_136-item1" n="1" class="#legalia">
+                  <msItem xml:id="MS_Digby_136-item1" n="1" class="#legalia" key="work_10670">
                      <title>Britton</title>
                      <note>(legal treatise)</note>
                      <textLang mainLang="fr">French</textLang>

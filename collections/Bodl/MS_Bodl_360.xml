@@ -82,7 +82,7 @@
                      </note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_360-item4" n="4" class="#medica">
+                  <msItem xml:id="MS_Bodl_360-item4" n="4" class="#medica" key="work_12948">
                      <title type="desc">List of medical substances</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

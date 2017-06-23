@@ -70,7 +70,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_D_2_7-part1-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Auct_D_2_7-part1-item1" n="1" class="#biblia" key="work_11678">
                         <title rend="roman">Ecclesiastes</title>
                         <note>glossed</note>
                         <textLang mainLang="la">Latin</textLang>

@@ -118,7 +118,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_863-part2-item1" n="1" class="#biblia">
+                     <msItem xml:id="MS_Bodl_863-part2-item1" n="1" class="#biblia" key="work_10469">
                         <title type="desc">Biblical dictionary</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -98,7 +98,7 @@
                         <title>Treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_159-part1-item3" n="3" class="#theologica">
+                     <msItem xml:id="MS_Bodl_159-part1-item3" n="3" class="#theologica" key="work_13982">
                         <title>Prick of Conscience</title>
                         <note>(Latin translation)</note>
                         <textLang mainLang="la">Latin</textLang>

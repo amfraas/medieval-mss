@@ -146,7 +146,7 @@
                         <title>De receptionibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Misc_396-part1-item9" n="9" class="#prognostica">
+                     <msItem xml:id="MS_Canon_Misc_396-part1-item9" n="9" class="#prognostica" key="work_15173">
                         <title type="desc">Treatise on spatulomancy (?)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

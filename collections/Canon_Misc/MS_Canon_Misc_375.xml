@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Misc_375-part1-item1" n="1" class="#grammatica #miscellanea">
+                     <msItem xml:id="MS_Canon_Misc_375-part1-item1" n="1" class="#grammatica #miscellanea" key="work_10176">
                         <title type="desc">Alphabet.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

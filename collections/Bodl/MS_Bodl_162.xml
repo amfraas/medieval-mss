@@ -67,7 +67,7 @@
                      <title>Breuiloquium</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_162-item3" n="3" class="#sermones">
+                  <msItem xml:id="MS_Bodl_162-item3" n="3" class="#sermones" key="work_14583">
                      <title type="desc">Sermons</title>
                      <note>(Lenten sermons selected from <persName role="author" key="person_66806872">
                            Augustine

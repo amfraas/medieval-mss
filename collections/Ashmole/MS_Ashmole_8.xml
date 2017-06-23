@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_8-item1" n="1" class="#computistica #prognostica">
+                  <msItem xml:id="MS_Ashmole_8-item1" n="1" class="#computistica #prognostica" key="work_10705">
                      <title type="desc">Calendar with prognosticatory notes</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_8-item2" n="2">
+                  <msItem xml:id="MS_Ashmole_8-item2" n="2" key="work_10389 ">
                      <title type="desc">Astronomical table.</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

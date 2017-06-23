@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Liturg_223-item1" n="1" class="#liturgica #oratio">
+                  <msItem xml:id="MS_Canon_Liturg_223-item1" n="1" class="#liturgica #oratio" key="work_13970">
                      <title type="desc">Prayers, offices, etc. for private use (Franciscan)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -58,7 +58,7 @@
                      <title>De simplicium medicinarum uirtutibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_241-item2" n="2" class="#commentarii">
+                  <msItem xml:id="MS_Canon_Misc_241-item2" n="2" class="#commentarii" key="work_11213">
                      <title type="desc">Commentary on Hippocrates, <hi rend="italic">Aphorismata</hi>
                      </title>
                      <bibl type="commentedOn">

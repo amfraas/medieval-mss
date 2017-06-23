@@ -75,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_161-part1-item1" n="1" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Digby_161-part1-item1" n="1" class="#astrologia_astronomia" key="work_10324 ">
 						                  <title type="desc">Astrological fragments</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -175,7 +175,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_161-part4-item1" n="1" class="#medica">
+                     <msItem xml:id="MS_Digby_161-part4-item1" n="1" class="#medica" key="work_13232">
 						                  <title type="desc">Medical treatise</title>
                         
                         <note>(part)</note>
@@ -203,7 +203,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_161-part5-item1" n="1" class="#commentarii">
+                     <msItem xml:id="MS_Digby_161-part5-item1" n="1" class="#commentarii" key="work_11267 ">
 						                  <title type="desc">Commentary on Ps.-Aristotle, <hi rend="italic">Problemata</hi>
                         </title>
                         
@@ -224,7 +224,7 @@
                         <title>De commixtionibus elementorum libellus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_161-part5-item3" n="3" class="#medica">
+                     <msItem xml:id="MS_Digby_161-part5-item3" n="3" class="#medica" key="work_13232">
 						                  <title type="desc">Medical texts</title>
                         
                         <textLang mainLang="la">Latin</textLang>

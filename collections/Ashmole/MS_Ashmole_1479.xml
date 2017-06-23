@@ -55,7 +55,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1479-item1" n="1" class="#alchimia">
+                  <msItem xml:id="MS_Ashmole_1479-item1" n="1" class="#alchimia" key="work_10133">
                      <title type="desc">Alchemical collections of <persName key="person_1032"><!-- not found -->Richard Walton (b. 1519)</persName>
                      </title>
                      <textLang mainLang="en">English</textLang>

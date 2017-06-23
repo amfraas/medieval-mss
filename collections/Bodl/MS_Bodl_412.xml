@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_412-item1" n="1" class="#sermones #biblia">
+                  <msItem xml:id="MS_Bodl_412-item1" n="1" class="#sermones #biblia" key="work_14620">
                      <title type="desc">Sermons on St. Luke's Gospel</title>
                      <bibl type="commentedOn">
                         <title type="desc">Bible, Luke</title>

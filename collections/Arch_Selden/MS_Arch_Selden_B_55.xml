@@ -49,16 +49,16 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Arch_Selden_B_55-item1" n="1" class="#ecclesiastica">
+                  <msItem xml:id="MS_Arch_Selden_B_55-item1" n="1" class="#ecclesiastica" key="work_11628 ">
                      <title type="desc">Documents of Church Councils</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Arch_Selden_B_55-item2" n="2" class="#theologica">
+                  <msItem xml:id="MS_Arch_Selden_B_55-item2" n="2" class="#theologica" key="work_13738">
 						               <title type="desc">Patristic texts</title>
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Arch_Selden_B_55-item3" n="3" class="#vitae_sanctorum">
+                  <msItem xml:id="MS_Arch_Selden_B_55-item3" n="3" class="#vitae_sanctorum" key="work_12853 ">
 						               <title type="desc">Life of St. Cyprian and St. Justina</title>
                      
                      <textLang mainLang="grc">Greek</textLang>

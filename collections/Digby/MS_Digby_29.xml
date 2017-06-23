@@ -51,12 +51,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_29-item1" n="1" class="#medica">
+                  <msItem xml:id="MS_Digby_29-item1" n="1" class="#medica" key="work_13245 ">
 						               <title type="desc">Medical treatises and recipes</title>
                      
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_29-item2" n="2" class="#medica">
+                  <msItem xml:id="MS_Digby_29-item2" n="2" class="#medica" key="work_12211 ">
                      <title type="desc">Herbal texts</title>
                      <textLang mainLang="en" otherLangs="la fr">English, French and Latin</textLang>
                   </msItem>
@@ -69,7 +69,7 @@
                      <title>De metris</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_29-item4" n="4" class="#grammatica">
+                  <msItem xml:id="MS_Digby_29-item4" n="4" class="#grammatica" key="work_12151 ">
 						               <title type="desc">Grammatical texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -93,7 +93,7 @@
                      <title>De urinis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_29-item7" n="7" class="#medica">
+                  <msItem xml:id="MS_Digby_29-item7" n="7" class="#medica" key="work_14255 ">
                      <title>Regimen sanitatis Salernitanum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -125,16 +125,16 @@
                      <title>De uiribus herbarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_29-item11" n="11" class="#medica">
+                  <msItem xml:id="MS_Digby_29-item11" n="11" class="#medica" key="work_10205 ">
                      <title>Antidotarium Nicholai</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_29-item12" n="12" class="#astrologia_astronomia">
+                  <msItem xml:id="MS_Digby_29-item12" n="12" class="#astrologia_astronomia" key="work_10342 ">
 						               <title type="desc">Astrological treatises</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_29-item13" n="13" class="#medica">
+                  <msItem xml:id="MS_Digby_29-item13" n="13" class="#medica" key="work_15391">
                      <title>Trotula</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

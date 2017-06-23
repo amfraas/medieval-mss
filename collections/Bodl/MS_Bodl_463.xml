@@ -101,7 +101,7 @@
                         <title>De hiis quae indigent expositione antequam legitur Almagestum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_463-part1-item4" n="4" class="#astrologia_astronomia">
+                     <msItem xml:id="MS_Bodl_463-part1-item4" n="4" class="#astrologia_astronomia" key="work_10342 ">
                         <title type="desc">Astrological treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -132,7 +132,7 @@
                         <title>De imaginibus (?)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_463-part1-item8" n="8" class="#lapidaria">
+                     <msItem xml:id="MS_Bodl_463-part1-item8" n="8" class="#lapidaria" key="work_12505">
                         <title type="desc">Lapidary</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
