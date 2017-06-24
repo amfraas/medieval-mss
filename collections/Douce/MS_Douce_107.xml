@@ -67,7 +67,7 @@
                      <title>Iudica me Deus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_107-item3" n="3" class="#auctoritates" key="work_11832 ">
+                  <msItem xml:id="MS_Douce_107-item3" n="3" class="#auctoritates" key="work_11832">
                      <title>Flores <persName role="author" key="person_66806872">Augustini</persName>
                      </title>
                      <textLang mainLang="la">Latin</textLang>
@@ -82,12 +82,12 @@
                      <title>De conflictu uitiorum et uirtutum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_107-item5" n="5" class="#pastoralia" key="work_14675 ">
+                  <msItem xml:id="MS_Douce_107-item5" n="5" class="#pastoralia" key="work_14675">
                      <title>Speculum Christiani</title>
                      <note>(part)</note>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_107-item6" n="6" class="#sermones" key="work_14544 ">
+                  <msItem xml:id="MS_Douce_107-item6" n="6" class="#sermones" key="work_14544">
                      <title>Sermon</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

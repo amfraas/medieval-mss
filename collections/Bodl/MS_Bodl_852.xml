@@ -110,7 +110,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_852-part2-item1" n="1" class="#vitae_sanctorum" key="work_15476 ">
+                     <msItem xml:id="MS_Bodl_852-part2-item1" n="1" class="#vitae_sanctorum" key="work_15476">
                         <title>Vita S. Philiberti abbatis Gemeticensis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

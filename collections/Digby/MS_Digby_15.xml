@@ -86,12 +86,12 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_15-item5" n="5" class="#computistica #liturgica" key="work_10687 ">
+                  <msItem xml:id="MS_Digby_15-item5" n="5" class="#computistica #liturgica" key="work_10687">
 						               <title type="desc">Calendar</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_15-item6" n="6" class="#mathematica #scientifica" key="work_14513 ">
+                  <msItem xml:id="MS_Digby_15-item6" n="6" class="#mathematica #scientifica" key="work_14513">
 						               <title type="desc">Scientific and mathematical treatises</title>
                      
                      <textLang mainLang="la">Latin</textLang>

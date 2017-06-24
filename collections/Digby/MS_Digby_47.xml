@@ -87,7 +87,7 @@
                      <title>Liber introductorius</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_47-item5" n="5" class="#astrologia_astronomia" key="work_10409 ">
+                  <msItem xml:id="MS_Digby_47-item5" n="5" class="#astrologia_astronomia" key="work_10409">
 						               <title type="desc">Astronomical texts.</title>
                      
                      <textLang mainLang="la">Latin</textLang>

@@ -56,7 +56,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_D_4_4-item2" n="2" class="#liturgica" key="work_10579 ">
+                  <msItem xml:id="MS_Auct_D_4_4-item2" n="2" class="#liturgica" key="work_10579">
                      <title type="desc">Book of Hours,
                         Use of Sarum</title>
                      <textLang mainLang="la">Latin</textLang>

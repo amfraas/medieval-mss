@@ -76,7 +76,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_797-part1-item1" n="1" class="#theologica" key="work_15260 ">
+                     <msItem xml:id="MS_Bodl_797-part1-item1" n="1" class="#theologica" key="work_15260">
                         <title type="desc">Theological discourses</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -115,7 +115,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_797-part2-item1" n="1" class="#contemplationes" key="work_13265 ">
+                     <msItem xml:id="MS_Bodl_797-part2-item1" n="1" class="#contemplationes" key="work_13265">
                         <title type="desc">Meditations</title>
                         <note>(attributed to <persName role="author" key="person_100187025">
                               Anselm

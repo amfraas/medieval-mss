@@ -71,7 +71,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Liturg_348-part1-item1" n="1" class="#liturgica #versus" key="work_12339 ">
+                     <msItem xml:id="MS_Canon_Liturg_348-part1-item1" n="1" class="#liturgica #versus" key="work_12339">
                         <title type="desc">Hymns and sacred songs</title>
                         <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>
                      </msItem>
@@ -100,7 +100,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Liturg_348-part2-item1" n="1" class="#liturgica #oratio" key="work_12336 ">
+                     <msItem xml:id="MS_Canon_Liturg_348-part2-item1" n="1" class="#liturgica #oratio" key="work_12336">
                         <title type="desc">Hymns and prayers</title>
                         <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>
                      </msItem>

@@ -106,7 +106,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_804-part1-item1" n="1" class="#historica" key="work_11970 ">
+                     <msItem xml:id="MS_Ashmole_804-part1-item1" n="1" class="#historica" key="work_11970">
                         <title type="desc">Genealogical collections</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -136,11 +136,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_804-part2-item1" n="1" class="#documenta #legalia" key="work_12576 ">
+                     <msItem xml:id="MS_Ashmole_804-part2-item1" n="1" class="#documenta #legalia" key="work_12576">
                         <title type="desc">Legal documents.</title>
                         <textLang mainLang="fr" otherLangs="en">French and English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_804-part2-item2" n="2" class="#documenta" key="work_11640 ">
+                     <msItem xml:id="MS_Ashmole_804-part2-item2" n="2" class="#documenta" key="work_11640">
                         <title type="desc">Documents relating to the <persName key="person_316577322">dukes of Norfolk</persName>
                         </title>
                         <note>(copies)</note>
@@ -171,7 +171,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_804-part3-item1" n="1" class="#documenta" key="work_13669 ">
+                     <msItem xml:id="MS_Ashmole_804-part3-item1" n="1" class="#documenta" key="work_13669">
                         <title type="desc">Ordinances of the royal household, temp. Henry VII and Henry VIII</title>
                         <note>(copies)</note>
                         <textLang mainLang="en">English</textLang>

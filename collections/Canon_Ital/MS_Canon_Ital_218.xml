@@ -69,7 +69,7 @@
                      <note>(Italian translations)</note>
                      <textLang mainLang="it">Italian </textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_218-item2" n="2" class="#vitae_sanctorum" key="work_12832 ">
+                  <msItem xml:id="MS_Canon_Ital_218-item2" n="2" class="#vitae_sanctorum" key="work_12832">
                      <title type="desc">Life of Jerome</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
@@ -77,7 +77,7 @@
                      <title type="desc">Treatise on the holy spirit</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_218-item4" n="4" class="#sermones" key="work_14549 ">
+                  <msItem xml:id="MS_Canon_Ital_218-item4" n="4" class="#sermones" key="work_14549">
 						               <title type="desc">Sermon</title>
                      
                      <textLang mainLang="la">Latin</textLang>

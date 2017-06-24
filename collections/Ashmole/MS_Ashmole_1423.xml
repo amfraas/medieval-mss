@@ -186,7 +186,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1423-part4-item1" n="1" class="#alchimia" key="work_10141 ">
+                     <msItem xml:id="MS_Ashmole_1423-part4-item1" n="1" class="#alchimia" key="work_10141">
                         <title type="desc">Alchemical recipes</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
@@ -215,7 +215,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1423-part5-item1" n="1" class="#alchimia" key="work_10141 ">
+                     <msItem xml:id="MS_Ashmole_1423-part5-item1" n="1" class="#alchimia" key="work_10141">
                         <title type="desc">Alchemical recipes</title>
                         <note>(transcript, 1593, of manuscript supposedly written c. 1492)</note>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
@@ -249,7 +249,7 @@
                         <title type="desc">Alchemical treatise (Liber Aureus)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1423-part6-item2" n="2" class="#alchimia #versus" key="work_10140 ">
+                     <msItem xml:id="MS_Ashmole_1423-part6-item2" n="2" class="#alchimia #versus" key="work_10140">
                         <title type="desc">Alchemical poems, recipes and notes</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>

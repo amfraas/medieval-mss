@@ -59,7 +59,7 @@
                      <title type="desc">Veterinary treatises (Practica equorum, Practica canum)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1427-item2" n="2" class="#medica" key="work_15391 ">
+                  <msItem xml:id="MS_Ashmole_1427-item2" n="2" class="#medica" key="work_15391">
                      <title>Trotula</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

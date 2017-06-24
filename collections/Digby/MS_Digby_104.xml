@@ -176,7 +176,7 @@
                         <title>Algorismus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_104-part3-item3" n="3" class="#mathematica" key="work_10277 ">
+                     <msItem xml:id="MS_Digby_104-part3-item3" n="3" class="#mathematica" key="work_10277">
 						                  <title type="desc">Arithmetical text</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -203,7 +203,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_104-part4-item1" n="1" class="#historica #astrologia_astronomia" key="work_10318 ">
+                     <msItem xml:id="MS_Digby_104-part4-item1" n="1" class="#historica #astrologia_astronomia" key="work_10318">
 						                  <title type="desc">Astrological and historical notes</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -230,7 +230,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_104-part5-item1" n="1" class="#mathematica" key="work_15046 ">
+                     <msItem xml:id="MS_Digby_104-part5-item1" n="1" class="#mathematica" key="work_15046">
                         <title type="desc">Text on geometry</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -265,12 +265,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_104-part6-item1" n="1" class="#astrologia_astronomia" key="work_10342 ">
+                     <msItem xml:id="MS_Digby_104-part6-item1" n="1" class="#astrologia_astronomia" key="work_10342">
 						                  <title type="desc">Astrological treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_104-part6-item2" n="2" class="#prognostica" key="work_15041 ">
+                     <msItem xml:id="MS_Digby_104-part6-item2" n="2" class="#prognostica" key="work_15041">
                         <title type="desc">Treatise on geomancy</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
@@ -339,7 +339,7 @@
                         <title>De potentiis anime</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_104-part8-item2" n="2" class="#astrologia_astronomia" key="work_10319 ">
+                     <msItem xml:id="MS_Digby_104-part8-item2" n="2" class="#astrologia_astronomia" key="work_10319">
 						                  <title type="desc">Astrological and mathematical notes</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -467,7 +467,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_104-part10-item1" n="1" class="#versus" key="work_13886 ">
+                     <msItem xml:id="MS_Digby_104-part10-item1" n="1" class="#versus" key="work_13886">
 						                  <title type="desc">Poems</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -530,7 +530,7 @@
                         <title>Integumenta Ouidii</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_104-part11-item2" n="2" class="#commentarii" key="work_11200 ">
+                     <msItem xml:id="MS_Digby_104-part11-item2" n="2" class="#commentarii" key="work_11200">
 						                  <title type="desc">Commentary on Evrard de Bethune, Graecismus</title>
                         
                         <note>(part)</note>
@@ -568,14 +568,14 @@
                         <title type="desc">Treatise on weather</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_104-part12-item2" n="2" class="#bibliographica" key="work_12817 ">
+                     <msItem xml:id="MS_Digby_104-part12-item2" n="2" class="#bibliographica" key="work_12817">
                         <title type="desc">Library catalogue of <orgName key="org_311465280">
                               Coventry cathedral priory
                            </orgName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_104-part12-item3" n="3" class="#legalia" key="work_13101 "><!-- check -->
+                     <msItem xml:id="MS_Digby_104-part12-item3" n="3" class="#legalia" key="work_13101"><!-- check -->
                         <title type="desc">Magna Carta and the Charter of the Forest (confirmation, 1225)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

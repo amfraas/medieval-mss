@@ -280,7 +280,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_37-part6-item1" n="1" class="#ecclesiastica" key="work_11679 ">
+                     <msItem xml:id="MS_Digby_37-part6-item1" n="1" class="#ecclesiastica" key="work_11679">
                         <title type="desc">Ecclesiastical constitutions (<placeName key="place_7002445">English</placeName>), c. 1225</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

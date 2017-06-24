@@ -95,7 +95,7 @@
                         <title type="desc">Treatise on urines</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1413-part1-item2" n="2" class="#medica" key="work_13219 ">
+                     <msItem xml:id="MS_Ashmole_1413-part1-item2" n="2" class="#medica" key="work_13219">
                         <title type="desc">Medical texts</title>
                         <textLang mainLang="en">English (?)</textLang>
                      </msItem>
@@ -127,7 +127,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1413-part2-item1" n="1" class="#medica" key="work_13210 ">
+                     <msItem xml:id="MS_Ashmole_1413-part2-item1" n="1" class="#medica" key="work_13210">
                         <title type="desc">Medical recipes and notes</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
@@ -156,7 +156,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1413-part3-item1" n="1" class="#medica" key="work_13203 ">
+                     <msItem xml:id="MS_Ashmole_1413-part3-item1" n="1" class="#medica" key="work_13203">
                         <title type="desc">Medical recipes</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -185,7 +185,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1413-part4-item1" n="1" class="#medica" key="work_13203 ">
+                     <msItem xml:id="MS_Ashmole_1413-part4-item1" n="1" class="#medica" key="work_13203">
                         <title type="desc">Medical recipes</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -214,7 +214,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1413-part5-item1" n="1" class="#medica" key="work_13203 ">
+                     <msItem xml:id="MS_Ashmole_1413-part5-item1" n="1" class="#medica" key="work_13203">
                         <title type="desc">Medical recipes</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

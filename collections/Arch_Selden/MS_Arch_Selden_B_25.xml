@@ -169,7 +169,7 @@
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Arch_Selden_B_25-part4-item2" n="2" class="#documenta" key="work_13684 ">
+                     <msItem xml:id="MS_Arch_Selden_B_25-part4-item2" n="2" class="#documenta" key="work_13684">
                         <title type="desc">Papal bull of <persName key="person_100571068">Pius II</persName>, 1463.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -195,11 +195,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_25-part5-item1" n="1" class="#documenta" key="work_13684 ">
+                     <msItem xml:id="MS_Arch_Selden_B_25-part5-item1" n="1" class="#documenta" key="work_13684">
                         <title type="desc">Papal bull of <persName key="person_100571068">Pius II</persName>, 1463.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Arch_Selden_B_25-part5-item2" n="2" class="#prognostica" key="work_14027 ">
+                     <msItem xml:id="MS_Arch_Selden_B_25-part5-item2" n="2" class="#prognostica" key="work_14027">
                         <title>Pronosticationes euentuum futurorum anni [M.CCCC.] 
                         lxxvi</title>
                         <note>printed text: printed by <persName role="printer" key="person_155155289">John of Westphalia</persName> at <placeName key="place_7007949">Louvain</placeName> in 1476.</note>
@@ -227,7 +227,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Arch_Selden_B_25-part6-item1" n="1" class="#computistica #liturgica" key="work_10713 ">
+                     <msItem xml:id="MS_Arch_Selden_B_25-part6-item1" n="1" class="#computistica #liturgica" key="work_10713">
 						                  <title type="desc">Calendarial tables</title>
                         
                         <note>(unfinished)</note>

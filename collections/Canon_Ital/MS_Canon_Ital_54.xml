@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_54-item1" n="1" class="#miscellanea" key="work_12731 ">
+                  <msItem xml:id="MS_Canon_Ital_54-item1" n="1" class="#miscellanea" key="work_12731">
                      <title type="desc">Letters</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_54-item2" n="2" class="#vitae_sanctorum" key="work_12888 ">
+                  <msItem xml:id="MS_Canon_Ital_54-item2" n="2" class="#vitae_sanctorum" key="work_12888">
 						               <title type="desc">Life of St. Margaret</title>
                      
                      <textLang mainLang="it">Italian</textLang>

@@ -101,7 +101,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_820-part2-item1" n="1" class="#documenta" key="work_13662 ">
+                     <msItem xml:id="MS_Ashmole_820-part2-item1" n="1" class="#documenta" key="work_13662">
                         <title type="desc">Ordinance relating to officers of arms</title>
                         <note>(printed broadside)</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -131,7 +131,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_820-part3-item1" n="1" class="#miscellanea" key="work_11671 ">
+                     <msItem xml:id="MS_Ashmole_820-part3-item1" n="1" class="#miscellanea" key="work_11671">
                         <title type="desc">Drawings copied by <persName role="author" key="person_64901269">Simon Forman</persName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>

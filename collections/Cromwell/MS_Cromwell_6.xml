@@ -103,7 +103,7 @@
                      <title>Sermons</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_6-item7" n="7" class="#theologica" key="work_10299 ">
+                  <msItem xml:id="MS_Cromwell_6-item7" n="7" class="#theologica" key="work_10299">
 						               <title type="desc">Ascetic and theological texts</title>
                      
                      <textLang mainLang="grc">Greek</textLang>

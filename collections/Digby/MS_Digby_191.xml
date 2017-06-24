@@ -85,7 +85,7 @@
                         <title>Elementa</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_191-part1-item2" n="2" class="#mathematica" key="work_14950 ">
+                     <msItem xml:id="MS_Digby_191-part1-item2" n="2" class="#mathematica" key="work_14950">
 						                  <title type="desc">Treatise on arithmetic</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -94,7 +94,7 @@
                         <title type="desc">Treatise on music</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_191-part1-item4" n="4" class="#mathematica" key="work_15046 ">
+                     <msItem xml:id="MS_Digby_191-part1-item4" n="4" class="#mathematica" key="work_15046">
                         <title type="desc">Treatises on geometry</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

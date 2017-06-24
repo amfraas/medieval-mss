@@ -56,7 +56,7 @@
                      <title>Excerptio de chronica Mariani</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_1_9-item2" n="2" class="#computistica" key="work_11324 ">
+                  <msItem xml:id="MS_Auct_F_1_9-item2" n="2" class="#computistica" key="work_11324">
                      <title type="desc">Compotus Garlandi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -78,7 +78,7 @@
                      </note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_1_9-item5" n="5" class="#astrologia_astronomia" key="work_10342 ">
+                  <msItem xml:id="MS_Auct_F_1_9-item5" n="5" class="#astrologia_astronomia" key="work_10342">
                      
                      <title type="desc">Astrological texts</title>
                      <textLang mainLang="la">Latin</textLang>

@@ -52,7 +52,7 @@
                   <summary>Miscellaneous short pieces, chiefly theological or liturgical,
                      collected and written by <persName key="person_1385">Thomas Urmston, chaplain of Lyme, Cheshire</persName> 
                   </summary>
-                  <msItem xml:id="MS_Bodl_123-item1" n="1" class="#ecclesiastica #documenta" key="work_11682 ">
+                  <msItem xml:id="MS_Bodl_123-item1" n="1" class="#ecclesiastica #documenta" key="work_11682">
                      <title type="desc">Ecclesiastical documents</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
@@ -60,16 +60,16 @@
                      <title type="desc">Treatise on the sacraments</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_123-item3" n="3" class="#romances" key="work_12022 ">
+                  <msItem xml:id="MS_Bodl_123-item3" n="3" class="#romances" key="work_12022">
                     <title>Gesta Romanorum</title>
                      <note>(additions in English)</note>
                      <textLang mainLang="la" otherLangs="en">Latin and English </textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_123-item4" n="4" class="#liturgica" key="work_13655 ">
+                  <msItem xml:id="MS_Bodl_123-item4" n="4" class="#liturgica" key="work_13655">
                      <title type="desc">Ordinal or Pye, Use of Sarum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_123-item5" n="5" class="#sermones" key="work_14583 ">
+                  <msItem xml:id="MS_Bodl_123-item5" n="5" class="#sermones" key="work_14583">
                      <title type="desc">Sermons</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

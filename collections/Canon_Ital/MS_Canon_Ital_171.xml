@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_171-item1" n="1" class="#liturgica" key="work_11717 ">
+                  <msItem xml:id="MS_Canon_Ital_171-item1" n="1" class="#liturgica" key="work_11717">
                      <title type="desc">Epistolary</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_171-item2" n="2" class="#vitae_sanctorum" key="work_12865 ">
+                  <msItem xml:id="MS_Canon_Ital_171-item2" n="2" class="#vitae_sanctorum" key="work_12865">
 						               <title type="desc">Life of St. Giustina</title>
                      
                      <textLang mainLang="it">Italian</textLang>

@@ -76,12 +76,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_34-part1-item1" n="1" class="#vitae_sanctorum" key="work_12898 ">
+                     <msItem xml:id="MS_Digby_34-part1-item1" n="1" class="#vitae_sanctorum" key="work_12898">
 						                  <title type="desc">Life of St. Modwenna</title>
                         
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_34-part1-item2" n="2" class="#sermones" key="work_14545 ">
+                     <msItem xml:id="MS_Digby_34-part1-item2" n="2" class="#sermones" key="work_14545">
 						                  <title type="desc">Sermon</title>
                         
                         <note>(verse)</note>
@@ -124,7 +124,7 @@
                         <title>Tractatus de purgatorio S. Patricii</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_34-part2-item2" n="2" class="#historica" key="work_11792 "><!-- check -->
+                     <msItem xml:id="MS_Digby_34-part2-item2" n="2" class="#historica" key="work_11792"><!-- check -->
                         <title type="desc">Extracts from <persName role="author" key="person_205295992">
                               William of Malmesbury
                            </persName> and <persName role="author" key="person_61539765">
@@ -166,7 +166,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_34-part3-item1" n="1" class="#magica" key="work_10875 ">
+                     <msItem xml:id="MS_Digby_34-part3-item1" n="1" class="#magica" key="work_10875">
                         <title type="desc">Charm.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -175,7 +175,7 @@
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_34-part3-item3" n="3" class="#theologica #devotiones" key="work_11664 ">
+                     <msItem xml:id="MS_Digby_34-part3-item3" n="3" class="#theologica #devotiones" key="work_11664">
                         <title>Donatus devocionis</title>
                         <note>(treatise on prayer)</note>
                         <textLang mainLang="la">Latin</textLang>

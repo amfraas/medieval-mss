@@ -92,7 +92,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_342-part1-item1" n="1" class="#topographica" key="work_15062 ">
+                     <msItem xml:id="MS_Ashmole_342-part1-item1" n="1" class="#topographica" key="work_15062">
                         <title type="desc">Text on the Holy Land</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
@@ -100,7 +100,7 @@
                         <title type="desc">Treatises on prognostication and compotus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_342-part1-item3" n="3" class="#theologica" key="work_14358 ">
+                     <msItem xml:id="MS_Ashmole_342-part1-item3" n="3" class="#theologica" key="work_14358">
                         <title type="desc">Religious texts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -126,7 +126,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_342-part2-item1" n="1" class="#astrologia_astronomia" key="work_10396 ">
+                     <msItem xml:id="MS_Ashmole_342-part2-item1" n="1" class="#astrologia_astronomia" key="work_10396">
                         <title type="desc">Astronomical tables.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -152,7 +152,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_342-part3-item1" n="1" class="#scientifica" key="work_14514 ">
+                     <msItem xml:id="MS_Ashmole_342-part3-item1" n="1" class="#scientifica" key="work_14514">
                         <title type="desc">Scientific extracts and notes.</title>
                         <textLang mainLang="la" otherLangs="en fr">Latin, English and French</textLang>
                      </msItem>
@@ -178,11 +178,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_342-part4-item1" n="1" class="#computistica" key="work_10684 ">
+                     <msItem xml:id="MS_Ashmole_342-part4-item1" n="1" class="#computistica" key="work_10684">
                         <title type="desc">Calendar.</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_342-part4-item2" n="2" class="#astrologia_astronomia" key="work_10418 ">
+                     <msItem xml:id="MS_Ashmole_342-part4-item2" n="2" class="#astrologia_astronomia" key="work_10418">
                        
                         <title>Astronomical treatises, notes and tables</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
@@ -209,7 +209,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_342-part5-item1" n="1" class="#astrologia_astronomia #medica" key="work_13189 ">
+                     <msItem xml:id="MS_Ashmole_342-part5-item1" n="1" class="#astrologia_astronomia #medica" key="work_13189">
                      
                         <title>Medical, astronomical and
               astrological treatises and notes</title>
@@ -237,7 +237,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_342-part6-item1" n="1" class="#astrologia_astronomia" key="work_10394 ">
+                     <msItem xml:id="MS_Ashmole_342-part6-item1" n="1" class="#astrologia_astronomia" key="work_10394">
                         <title type="desc">Astronomical tables</title>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>

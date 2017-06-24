@@ -49,16 +49,16 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_95-item1" n="1" class="#versus" key="work_13874 ">
+                  <msItem xml:id="MS_Douce_95-item1" n="1" class="#versus" key="work_13874">
                      <title type="desc">Poems</title>
                      <textLang mainLang="en" otherLangs="la fr">English, Latin, and French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_95-item2" n="2" class="#topographica #historica" key="work_12003 ">
+                  <msItem xml:id="MS_Douce_95-item2" n="2" class="#topographica #historica" key="work_12003">
                      <title type="desc">Geographical and historical notes</title>
                      <note>(including list of churches in <placeName key="place_7011781">London</placeName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_95-item3" n="3" class="#liturgica" key="work_11399 ">
+                  <msItem xml:id="MS_Douce_95-item3" n="3" class="#liturgica" key="work_11399">
                      <title type="desc">Coronation order</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

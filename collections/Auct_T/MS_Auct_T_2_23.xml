@@ -190,7 +190,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_T_2_23-part4-item1" n="1" class="#scientifica" key="work_13820 ">
+                     <msItem xml:id="MS_Auct_T_2_23-part4-item1" n="1" class="#scientifica" key="work_13820">
                  
                         <title type="desc">Physiologus</title>
                         <textLang mainLang="la">Latin</textLang>

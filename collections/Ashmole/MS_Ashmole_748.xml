@@ -73,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_748-part1-item1" n="1" class="#biblia" key="work_10455 ">
+                     <msItem xml:id="MS_Ashmole_748-part1-item1" n="1" class="#biblia" key="work_10455">
                         <title type="desc">Bible.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -59,7 +59,7 @@
                      <note>(part II)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_240-item2" n="2" class="#vitae_sanctorum" key="work_13060 ">
+                  <msItem xml:id="MS_Bodl_240-item2" n="2" class="#vitae_sanctorum" key="work_13060">
                      <title type="desc">Lives of Saints</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -85,7 +85,7 @@
                      <title>Moralitas de scaccario</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_240-item6" n="6" class="#monastica" key="work_15097 ">
+                  <msItem xml:id="MS_Bodl_240-item6" n="6" class="#monastica" key="work_15097">
                      <title type="desc">Treatise on monastic discipline</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -98,11 +98,11 @@
                      <title>De tribus habitaculis animae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_240-item8" n="8" class="#theologica #biblia" key="work_14679 ">
+                  <msItem xml:id="MS_Bodl_240-item8" n="8" class="#theologica #biblia" key="work_14679">
                      <title type="desc">Speculum humanae saluationis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_240-item9" n="9" class="#musica" key="work_15105 ">
+                  <msItem xml:id="MS_Bodl_240-item9" n="9" class="#musica" key="work_15105">
                      <title type="desc">Treatise on music</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

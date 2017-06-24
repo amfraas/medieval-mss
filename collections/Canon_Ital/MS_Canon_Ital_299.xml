@@ -53,11 +53,11 @@
                      <title type="desc">Treatise on mass</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_299-item2" n="2" class="#sacramenta" key="work_14997 ">
+                  <msItem xml:id="MS_Canon_Ital_299-item2" n="2" class="#sacramenta" key="work_14997">
                      <title type="desc">Treatise on confession</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_299-item3" n="3" class="#theologica #devotiones" key="work_14356 ">
+                  <msItem xml:id="MS_Canon_Ital_299-item3" n="3" class="#theologica #devotiones" key="work_14356">
 						               <title type="desc">Religious treatise</title>
                      
                      <textLang mainLang="it">Italian</textLang>

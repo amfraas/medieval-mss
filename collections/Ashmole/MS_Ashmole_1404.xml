@@ -63,7 +63,7 @@
                      <title type="desc">Medical and other recipes</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1404-item3" n="3" class="#mathematica" key="work_10274 ">
+                  <msItem xml:id="MS_Ashmole_1404-item3" n="3" class="#mathematica" key="work_10274">
                      <title type="desc">Arithmetical notes</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

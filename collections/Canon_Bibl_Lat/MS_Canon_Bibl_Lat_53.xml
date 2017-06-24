@@ -68,7 +68,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Bibl_Lat_53-item2" n="2" class="#biblia" key="work_10096 ">
+                  <msItem xml:id="MS_Canon_Bibl_Lat_53-item2" n="2" class="#biblia" key="work_10096">
                      <title rend="roman">Acts, with gloss</title>
                      <bibl type="bible">
                         <title rend="roman">Bible, Acts</title>

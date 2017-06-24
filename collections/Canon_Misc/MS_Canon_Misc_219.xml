@@ -85,7 +85,7 @@
                      <title>Logica</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_219-item8" n="8" class="#commentarii" key="work_11147 ">
+                  <msItem xml:id="MS_Canon_Misc_219-item8" n="8" class="#commentarii" key="work_11147">
                      <title type="desc">Commentary on Aristotle, <hi rend="italic">De caelo et mundo</hi>
                      </title>
                      <bibl type="commentedOn">

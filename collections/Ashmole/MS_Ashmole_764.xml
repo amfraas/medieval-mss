@@ -71,7 +71,7 @@
                      <note>(English translation)</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_764-item2" n="2" class="#historica" key="work_13466 ">
+                  <msItem xml:id="MS_Ashmole_764-item2" n="2" class="#historica" key="work_13466">
                      <title>Note on ancient coins</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -95,7 +95,7 @@
                      <note>(extracts)</note>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_764-item6" n="6" class="#documenta" key="work_14778 ">
+                  <msItem xml:id="MS_Ashmole_764-item6" n="6" class="#documenta" key="work_14778">
                      <title type="desc">Statutes of the <orgName key="org_168089114">Order of the Garter</orgName>
                      </title>
                      <textLang mainLang="fr">French</textLang>

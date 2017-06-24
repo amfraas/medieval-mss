@@ -60,7 +60,7 @@
                      <title type="desc">Translation and miracles of St. Cuthbert</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_59-item3" n="3" class="#vitae_sanctorum" key="work_12827 ">
+                  <msItem xml:id="MS_Digby_59-item3" n="3" class="#vitae_sanctorum" key="work_12827">
                      <title type="desc">Life of Bede</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

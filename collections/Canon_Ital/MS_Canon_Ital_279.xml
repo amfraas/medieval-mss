@@ -95,7 +95,7 @@
                      <note>(Italian translation)</note>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_279-item6" n="6" class="#vitae_sanctorum" key="work_13058 ">
+                  <msItem xml:id="MS_Canon_Ital_279-item6" n="6" class="#vitae_sanctorum" key="work_13058">
                      <title type="desc">Lives of Saints</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
@@ -104,7 +104,7 @@
                      
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_279-item8" n="8" class="#liturgica #computistica" key="work_10683 ">
+                  <msItem xml:id="MS_Canon_Ital_279-item8" n="8" class="#liturgica #computistica" key="work_10683">
                      <title type="desc">Calendar</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

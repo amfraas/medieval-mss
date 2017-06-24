@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_232-item1" n="1" class="#computistica" key="work_10720 ">
+                  <msItem xml:id="MS_Bodl_232-item1" n="1" class="#computistica" key="work_10720">
                      <title type="desc">Calendrical tables and treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_232-item2" n="2" class="#liturgica" key="work_12334 ">
+                  <msItem xml:id="MS_Bodl_232-item2" n="2" class="#liturgica" key="work_12334">
                      <title type="desc">Hymns</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -61,7 +61,7 @@
                      <title type="desc">Medical recipes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_232-item4" n="4" class="#liturgica" key="work_12559 ">
+                  <msItem xml:id="MS_Bodl_232-item4" n="4" class="#liturgica" key="work_12559">
                      <title type="desc">Lectionary</title>
                      <note>(fly-leaf)</note>
                      <textLang mainLang="la">Latin</textLang>

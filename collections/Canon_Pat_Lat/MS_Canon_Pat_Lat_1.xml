@@ -59,11 +59,11 @@
                      <note>MS. B in <title>Hugh Eteriano : Contra Patarenos</title>, ed. J. Hamilton, with S. Hamilton and B. Hamilton (Leiden: Brill, 2004), with description of the MS. at pp. 104-7.</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_1-item2" n="2" class="#pastoralia" key="work_10293 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_1-item2" n="2" class="#pastoralia" key="work_10293">
                      <title type="desc">Articles of the faith</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_1-item3" n="3" class="#vitae_sanctorum #theologica" key="work_11536 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_1-item3" n="3" class="#vitae_sanctorum #theologica" key="work_11536">
                      <title type="desc">Dialogue on saints</title>
                      <note>(imperfect)</note>
                      <textLang mainLang="la">Latin</textLang>
@@ -72,7 +72,7 @@
                      <title>Passio S. Andreae apostoli</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_1-item5" n="5" class="#miscellanea" key="work_11458 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_1-item5" n="5" class="#miscellanea" key="work_11458">
                      <title>De Sybylla</title>
                      <note>(from Isidore, Etymologiae, bk. viii)</note>
                      <bibl type="related">

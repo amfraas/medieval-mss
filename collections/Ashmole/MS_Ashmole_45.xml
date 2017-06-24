@@ -86,7 +86,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_45-part1-item1" n="1" class="#romances" key="work_11674 ">
+                     <msItem xml:id="MS_Ashmole_45-part1-item1" n="1" class="#romances" key="work_11674">
                         <title>The Earl of Toulouse.</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -163,7 +163,7 @@
                         <title>Cook's Tale</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_45-part3-item2" n="2" class="#romances" key="work_11965 ">
+                     <msItem xml:id="MS_Ashmole_45-part3-item2" n="2" class="#romances" key="work_11965">
                         <title>Gamelyn.</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

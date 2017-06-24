@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_27-item1" n="1" class="#vitae_sanctorum" key="work_15176 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_27-item1" n="1" class="#vitae_sanctorum" key="work_15176">
                      <title type="desc">Texts on St. Jerome</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -73,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_596-part1-item1" n="1" class="#apocrypha" key="work_12822 ">
+                     <msItem xml:id="MS_Bodl_596-part1-item1" n="1" class="#apocrypha" key="work_12822">
                         <title type="desc">Life of Adam</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -81,20 +81,20 @@
                         <title type="desc">Religious texts</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_596-part1-item3" n="3" class="#documenta #monastica" key="work_13792 ">
+                     <msItem xml:id="MS_Bodl_596-part1-item3" n="3" class="#documenta #monastica" key="work_13792">
                         <title type="desc">Petition of <orgName key="org_132460849">Westminster Abbey</orgName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_596-part1-item4" n="4" class="#historica" key="work_12245 ">
+                     <msItem xml:id="MS_Bodl_596-part1-item4" n="4" class="#historica" key="work_12245">
                         <title type="desc">Historical lists and notes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_596-part1-item5" n="5" class="#liturgica" key="work_11399 ">
+                     <msItem xml:id="MS_Bodl_596-part1-item5" n="5" class="#liturgica" key="work_11399">
                         <title type="desc">Coronation order</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_596-part1-item6" n="6" class="#historica #documenta" key="work_11497 ">
+                     <msItem xml:id="MS_Bodl_596-part1-item6" n="6" class="#historica #documenta" key="work_11497">
                         <title type="desc">Deposition of <persName key="person_262479505">Richard II</persName>
                         </title>
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
@@ -184,7 +184,7 @@
                         <note>(fragment)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_596-part3-item3" n="3" class="#vitae_sanctorum" key="work_12227 ">
+                     <msItem xml:id="MS_Bodl_596-part3-item3" n="3" class="#vitae_sanctorum" key="work_12227">
                         <title>Historia de sancto Cuthberto</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -197,7 +197,7 @@
                         <title>Life of St. Julian of Le Mans</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_596-part3-item5" n="5" class="#liturgica #musica" key="work_13582 ">
+                     <msItem xml:id="MS_Bodl_596-part3-item5" n="5" class="#liturgica #musica" key="work_13582">
                         <title type="desc">Office of St. Julian</title>
                         <note>(with neums)</note>
                         <textLang mainLang="la">Latin</textLang>

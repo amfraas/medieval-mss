@@ -53,15 +53,15 @@
                      <title type="desc">Writs of <persName key="person_268155547">Edward III</persName> and <persName key="person_42632596">Henry IV</persName>.</title>
                      <textLang mainLang="la">Latin (?)</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1152-item2" n="2" class="#documenta #legalia" key="work_10086 ">
+                  <msItem xml:id="MS_Ashmole_1152-item2" n="2" class="#documenta #legalia" key="work_10086">
                      <title type="desc">Act of Parliament, 1446</title>
                      <textLang mainLang="la">Latin (?)</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1152-item3" n="3" class="#versus" key="work_13831 ">
+                  <msItem xml:id="MS_Ashmole_1152-item3" n="3" class="#versus" key="work_13831">
                      <title type="desc">Poem</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1152-item4" n="4" class="#legalia" key="work_14753 ">
+                  <msItem xml:id="MS_Ashmole_1152-item4" n="4" class="#legalia" key="work_14753">
                      <title type="desc">Statutes of England to 1 Henry IV.</title>
                      <note>(French, table of contents in Latin)</note>
                      <textLang mainLang="fr" otherLangs="la">French and Latin</textLang>

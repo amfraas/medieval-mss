@@ -78,7 +78,7 @@
                         <title>Religious poetry</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Gr_126-part1-item2" n="2" key="work_12284 ">
+                     <msItem xml:id="MS_Canon_Gr_126-part1-item2" n="2" key="work_12284">
                         <title>Homilies</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -106,7 +106,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Gr_126-part2-item1" n="1" key="work_12280 ">
+                     <msItem xml:id="MS_Canon_Gr_126-part2-item1" n="1" key="work_12280">
                         <title>Homiliary</title>
                         <note>(fragment)</note>
                         <textLang mainLang="grc">Greek</textLang>
@@ -164,7 +164,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Gr_126-part4-item1" n="1" key="work_12329 ">
+                     <msItem xml:id="MS_Canon_Gr_126-part4-item1" n="1" key="work_12329">
                         <title>Hymnologion</title>
                         <note>(fragment)</note>
                         <textLang mainLang="grc">Greek</textLang>
@@ -193,7 +193,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Gr_126-part5-item1" n="1" key="work_13056 ">
+                     <msItem xml:id="MS_Canon_Gr_126-part5-item1" n="1" key="work_13056">
                         <title>Lives of Saints</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
@@ -221,7 +221,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Gr_126-part6-item1" n="1" key="work_12284 ">
+                     <msItem xml:id="MS_Canon_Gr_126-part6-item1" n="1" key="work_12284">
                         <title>Homilies</title>
                         <note>(fragment)</note>
                         <textLang mainLang="grc">Greek</textLang>
@@ -250,7 +250,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Gr_126-part7-item1" n="1" key="work_12331 ">
+                     <msItem xml:id="MS_Canon_Gr_126-part7-item1" n="1" key="work_12331">
                         <title>Hymns</title>
                         <note>(fragment)</note>
                         <textLang mainLang="grc">Greek</textLang>
@@ -313,7 +313,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Gr_126-part9-item1" n="1" key="work_12558 ">
+                     <msItem xml:id="MS_Canon_Gr_126-part9-item1" n="1" key="work_12558">
                         <title>Lectionary</title>
                         <note>(fragment)</note>
                         <textLang mainLang="grc">Greek</textLang>

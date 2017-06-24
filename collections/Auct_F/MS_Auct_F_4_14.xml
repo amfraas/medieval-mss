@@ -55,7 +55,7 @@
                      <title>Lexicon</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_4_14-item2" n="2" class="#grammatica" key="work_12773 ">
+                  <msItem xml:id="MS_Auct_F_4_14-item2" n="2" class="#grammatica" key="work_12773">
                      <title type="desc">Lexical texts</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
@@ -72,7 +72,7 @@
                      <title type="desc">Orthographical treatise</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_4_14-item5" n="5" class="#grammatica" key="work_11559 ">
+                  <msItem xml:id="MS_Auct_F_4_14-item5" n="5" class="#grammatica" key="work_11559">
                      <title type="desc">Disticha Catonis</title>
                      <note>tr. <persName role="translator" key="person_9857802">
                            Maximus Planudes

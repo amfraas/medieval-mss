@@ -84,7 +84,7 @@
                         <title>Speculum elementorum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_177-part1-item2" n="2" class="#alchimia" key="work_10139 ">
+                     <msItem xml:id="MS_Bodl_177-part1-item2" n="2" class="#alchimia" key="work_10139">
                         <title type="desc">Alchemical notes and recipes</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
@@ -114,7 +114,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_177-part2-item1" n="1" class="#astrologia_astronomia" key="work_10396 ">
+                     <msItem xml:id="MS_Bodl_177-part2-item1" n="1" class="#astrologia_astronomia" key="work_10396">
                         <title type="desc">Astronomical tables</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -147,16 +147,16 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_177-part3-item1" n="1" class="#medica" key="work_13232 ">
+                     <msItem xml:id="MS_Bodl_177-part3-item1" n="1" class="#medica" key="work_13232">
                         <title type="desc">Medical
                            treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_177-part3-item2" n="2" class="#astrologia_astronomia #prognostica" key="work_10317 ">
+                     <msItem xml:id="MS_Bodl_177-part3-item2" n="2" class="#astrologia_astronomia #prognostica" key="work_10317">
                         <title type="desc">Astrological and chiromantic treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_177-part3-item3" n="3" class="#mathematica" key="work_10277 ">
+                     <msItem xml:id="MS_Bodl_177-part3-item3" n="3" class="#mathematica" key="work_10277">
                         <title type="desc">Arithmetical treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -195,7 +195,7 @@
                         <title>Speculum secretorum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_177-part4-item2" n="2" class="#alchimia" key="work_10152 ">
+                     <msItem xml:id="MS_Bodl_177-part4-item2" n="2" class="#alchimia" key="work_10152">
                         <title type="desc">Alchemical texts</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>

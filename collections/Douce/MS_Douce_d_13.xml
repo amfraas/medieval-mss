@@ -105,7 +105,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_d_13-part2-item1" n="1" class="#liturgica" key="work_10211 ">
+                     <msItem xml:id="MS_Douce_d_13-part2-item1" n="1" class="#liturgica" key="work_10211">
                         <locus>(fols.11, 16, 19, 20-22).</locus>
                         <title type="desc">Antiphonal or Gradual</title>
                         <note>(cuttings)</note>
@@ -141,7 +141,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_d_13-part3-item1" n="1" class="#liturgica" key="work_10211 "> 
+                     <msItem xml:id="MS_Douce_d_13-part3-item1" n="1" class="#liturgica" key="work_10211"> 
                         <locus>(fols.12-15, 18, 23)</locus>
                         <title type="desc">Antiphonal or Gradual</title>
                         <note>(cuttings)</note>
@@ -177,7 +177,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_d_13-part4-item1" n="1" class="#liturgica" key="work_10211 "> 
+                     <msItem xml:id="MS_Douce_d_13-part4-item1" n="1" class="#liturgica" key="work_10211"> 
                         <locus>(fols.24-27) </locus>
                         <title type="desc">Antiphonal or Gradual</title>
                         <note>(cuttings)</note>

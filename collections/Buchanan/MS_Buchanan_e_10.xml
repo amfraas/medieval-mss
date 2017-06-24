@@ -45,7 +45,7 @@
                
                <msContents>
                   
-                  <msItem xml:id="MS_Buchanan_e_10-item1" class="#liturgica" key="work_10551 ">
+                  <msItem xml:id="MS_Buchanan_e_10-item1" class="#liturgica" key="work_10551">
 						               <title type="desc">Book of Hours, Use of Paris </title>
                      <note>All except item 2 have rubrics in French. </note>
                      <textLang mainLang="la" otherLangs="fr">Latin, French</textLang>

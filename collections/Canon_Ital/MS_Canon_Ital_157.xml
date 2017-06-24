@@ -80,7 +80,7 @@
                         <title>Tractatus quadrantis veteris</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Ital_157-part1-item2" n="2" class="#mathematica" key="work_12012 ">
+                     <msItem xml:id="MS_Canon_Ital_157-part1-item2" n="2" class="#mathematica" key="work_12012">
                         <title type="desc">Geometrical treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -109,7 +109,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Ital_157-part2-item1" n="1" class="#mathematica" key="work_12012 ">
+                     <msItem xml:id="MS_Canon_Ital_157-part2-item1" n="1" class="#mathematica" key="work_12012">
                         <title type="desc">Geometrical treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -230,7 +230,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Ital_157-part6-item1" n="1" class="#mathematica" key="work_14950 ">
+                     <msItem xml:id="MS_Canon_Ital_157-part6-item1" n="1" class="#mathematica" key="work_14950">
 						                  <title type="desc">Treatise on arithmetic</title>
                         
                         <textLang mainLang="la">Latin</textLang>

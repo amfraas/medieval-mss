@@ -52,7 +52,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1438-item1" n="1" class="#medica" key="work_13235 ">
+                  <msItem xml:id="MS_Ashmole_1438-item1" n="1" class="#medica" key="work_13235">
                      <title type="desc">Medical texts and recipes.</title>
                      <textLang mainLang="la" otherLangs="en fr">Latin, English and French</textLang>
                   </msItem>
@@ -60,7 +60,7 @@
                      <title type="desc">Queen Isabell's Book of Medicines</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1438-item3" n="3" class="#medica" key="work_12214 ">
+                  <msItem xml:id="MS_Ashmole_1438-item3" n="3" class="#medica" key="work_12214">
                      <title type="desc">Herbals</title>
                      <textLang mainLang="la" otherLangs="en fr">Latin, English and French</textLang>
                   </msItem>

@@ -105,7 +105,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_48-part2-item1" n="1" class="#liturgica" key="work_10548 ">
+                     <msItem xml:id="MS_Douce_48-part2-item1" n="1" class="#liturgica" key="work_10548">
                         <title type="desc">Book of Hours, Use of Metz</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

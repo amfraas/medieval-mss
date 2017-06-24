@@ -112,15 +112,15 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_393-part1-item1" n="1" class="#astrologia_astronomia" key="work_10413 ">
+                     <msItem xml:id="MS_Ashmole_393-part1-item1" n="1" class="#astrologia_astronomia" key="work_10413">
                         <title type="desc">Astronomical texts, tables and extracts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_393-part1-item2" n="2" class="#medica" key="work_13234 ">
+                     <msItem xml:id="MS_Ashmole_393-part1-item2" n="2" class="#medica" key="work_13234">
                         <title type="desc">Medical texts and extracts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_393-part1-item3" n="3" class="#prognostica" key="work_14022 ">
+                     <msItem xml:id="MS_Ashmole_393-part1-item3" n="3" class="#prognostica" key="work_14022">
                         <title type="desc">Prognostications</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -159,11 +159,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_393-part2-item1" n="1" class="#astrologia_astronomia" key="work_10411 ">
+                     <msItem xml:id="MS_Ashmole_393-part2-item1" n="1" class="#astrologia_astronomia" key="work_10411">
                         <title type="desc">Astronomical texts and extracts</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_393-part2-item2" n="2" class="#medica" key="work_13233 ">
+                     <msItem xml:id="MS_Ashmole_393-part2-item2" n="2" class="#medica" key="work_13233">
                         <title type="desc">Medical texts and extracts</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
@@ -192,7 +192,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_393-part3-item1" n="1" class="#astrologia_astronomia" key="work_10409 ">
+                     <msItem xml:id="MS_Ashmole_393-part3-item1" n="1" class="#astrologia_astronomia" key="work_10409">
                         <title type="desc">Astronomical treatise.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -230,7 +230,7 @@
                         <title>Tabulae Oxonienses cum canonibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_393-part4-item2" n="2" class="#astrologia_astronomia" key="work_10358 ">
+                     <msItem xml:id="MS_Ashmole_393-part4-item2" n="2" class="#astrologia_astronomia" key="work_10358">
                         <title type="desc">Astronomical and
               astrological tables, treatises and notes</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
@@ -298,7 +298,7 @@
                         <title type="desc">Rent-roll.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_393-part6-item2" n="2" class="#astrologia_astronomia" key="work_10327 ">
+                     <msItem xml:id="MS_Ashmole_393-part6-item2" n="2" class="#astrologia_astronomia" key="work_10327">
                         <title type="desc">Astrological notes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

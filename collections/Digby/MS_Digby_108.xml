@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_108-item1" n="1" class="#commentarii" key="work_11221 ">
+                  <msItem xml:id="MS_Digby_108-item1" n="1" class="#commentarii" key="work_11221">
 						               <title type="desc">Commentary on Johannitius, <hi rend="italic">Isagoge ad Artem paruam Galeni</hi>
                      </title>
                      
@@ -63,7 +63,7 @@
                         <title>Isagoge ad Artem paruam Galeni</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Digby_108-item2" n="2" class="#commentarii" key="work_11213 ">
+                  <msItem xml:id="MS_Digby_108-item2" n="2" class="#commentarii" key="work_11213">
 						               <title type="desc">Commentary on Hippocrates, <hi rend="italic">Aphorismata</hi>
                      </title>
                      
@@ -87,7 +87,7 @@
                         <title>Liber urinarum</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Digby_108-item4" n="4" class="#commentarii" key="work_11214 ">
+                  <msItem xml:id="MS_Digby_108-item4" n="4" class="#commentarii" key="work_11214">
 						               <title type="desc">Commentary on Hippocrates, <hi rend="italic">Prognostica</hi>
                      </title>
                      
@@ -99,7 +99,7 @@
                         <title>Prognostica</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Digby_108-item5" n="5" class="#commentarii" key="work_11257 ">
+                  <msItem xml:id="MS_Digby_108-item5" n="5" class="#commentarii" key="work_11257">
 						               <title type="desc">Commentary on Philaretus, <hi rend="italic">Liber pulsuum</hi>
                      </title>
                      

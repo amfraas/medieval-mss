@@ -66,7 +66,7 @@
                      <title type="desc">Lapidaries</title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_13-item4" n="4" class="#legalia" key="work_12395 ">
+                  <msItem xml:id="MS_Digby_13-item4" n="4" class="#legalia" key="work_12395">
                      <title>Instituta Cnuti</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

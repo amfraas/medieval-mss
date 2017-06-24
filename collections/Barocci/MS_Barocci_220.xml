@@ -59,7 +59,7 @@
                         of addressees of letters by an unnamed author</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_220-item2" n="2" key="work_11719 ">
+                  <msItem xml:id="MS_Barocci_220-item2" n="2" key="work_11719">
                      <locus>(fol. iv verso)</locus>
                      <title>Epistolary formulae</title>
                      <note>Fols. iii-iv are paper, 16th cent., 160 x 100 mm. Fol. iv recto blank.</note>
@@ -91,7 +91,7 @@
                      <note> 104 verses, written in two columns. Addition, 13th cent.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_220-item5" n="5" key="work_11583 ">
+                  <msItem xml:id="MS_Barocci_220-item5" n="5" key="work_11583">
                      <locus>(fol. 48v)</locus>
                      <title>Document</title>
                      <incipit>οὐ χρόνοϲ ἀλλὰ τρόποϲ</incipit>

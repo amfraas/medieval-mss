@@ -49,15 +49,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_9-item1" n="1" class="#liturgica" key="work_10687 ">
+                  <msItem xml:id="MS_Bodl_9-item1" n="1" class="#liturgica" key="work_10687">
                      <title type="desc">Calendar</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_9-item2" n="2" class="#liturgica #biblia" key="work_14113 ">
+                  <msItem xml:id="MS_Bodl_9-item2" n="2" class="#liturgica #biblia" key="work_14113">
                      <title type="desc">Psalter</title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_9-item3" n="3" class="#devotiones" key="work_13963 ">
+                  <msItem xml:id="MS_Bodl_9-item3" n="3" class="#devotiones" key="work_13963">
                      <title type="desc">Prayers and religious pieces</title>
                      <textLang mainLang="fr" otherLangs="la">French and Latin</textLang>
                   </msItem>

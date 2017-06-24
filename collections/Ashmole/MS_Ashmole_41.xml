@@ -77,7 +77,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_41-part1-item1" n="1" class="#theologica #versus" key="work_13981 ">
+                     <msItem xml:id="MS_Ashmole_41-part1-item1" n="1" class="#theologica #versus" key="work_13981">
                         <title>The Prick of Conscience.</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -109,7 +109,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_41-part2-item1" n="1" class="#versus #devotiones" key="work_13856 ">
+                     <msItem xml:id="MS_Ashmole_41-part2-item1" n="1" class="#versus #devotiones" key="work_13856">
                         <title type="desc">Poem on the Passion</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -118,12 +118,12 @@
                         <note>(imperfect)</note>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_41-part2-item3" n="3" class="#versus #devotiones" key="work_14342 ">
+                     <msItem xml:id="MS_Ashmole_41-part2-item3" n="3" class="#versus #devotiones" key="work_14342">
                         <title type="desc">Religious poem</title>
                         <note>(imperfect)</note>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_41-part2-item4" n="4" class="#theologica #contemplationes" key="work_10903 ">
+                     <msItem xml:id="MS_Ashmole_41-part2-item4" n="4" class="#theologica #contemplationes" key="work_10903">
                         <title>The Chastising of God's Children</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

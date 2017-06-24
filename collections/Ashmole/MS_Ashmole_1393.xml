@@ -81,7 +81,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1393-part1-item1" n="1" class="#alchimia #medica" key="work_10138 ">
+                     <msItem xml:id="MS_Ashmole_1393-part1-item1" n="1" class="#alchimia #medica" key="work_10138">
                         <title type="desc">Alchemical, medical and other recipes</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -110,7 +110,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1393-part2-item1" n="1" class="#miscellanea" key="work_11409 ">
+                     <msItem xml:id="MS_Ashmole_1393-part2-item1" n="1" class="#miscellanea" key="work_11409">
                         <title type="desc">Culinary and other recipes</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
@@ -139,7 +139,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1393-part3-item1" n="1" class="#theologica" key="work_13408 ">
+                     <msItem xml:id="MS_Ashmole_1393-part3-item1" n="1" class="#theologica" key="work_13408">
                         <title type="desc">Moral treatise.</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -168,7 +168,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1393-part4-item1" n="1" class="#versus #pater_noster #devotiones" key="work_14369 ">
+                     <msItem xml:id="MS_Ashmole_1393-part4-item1" n="1" class="#versus #pater_noster #devotiones" key="work_14369">
                         <title type="desc">Religious verse.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -201,12 +201,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1393-part5-item1" n="1" class="#astrologia_astronomia #medica" key="work_13172 ">
+                     <msItem xml:id="MS_Ashmole_1393-part5-item1" n="1" class="#astrologia_astronomia #medica" key="work_13172">
                         <title type="desc">Medical and
               astrological treatises.</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1393-part5-item2" n="2" class="#musica #versus #devotiones" key="work_14325 ">
+                     <msItem xml:id="MS_Ashmole_1393-part5-item2" n="2" class="#musica #versus #devotiones" key="work_14325">
                         <title type="desc">Religious and other verse</title>
                         <note>(some with music)</note>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>

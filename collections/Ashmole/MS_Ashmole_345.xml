@@ -70,7 +70,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_345-item1" n="1" class="#astrologia_astronomia" key="work_10409 ">
+                  <msItem xml:id="MS_Ashmole_345-item1" n="1" class="#astrologia_astronomia" key="work_10409">
                      <title type="desc">Astronomical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -78,7 +78,7 @@
                      <title type="desc">Treatises on prognostication</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_345-item3" n="3" class="#medica" key="work_13232 ">
+                  <msItem xml:id="MS_Ashmole_345-item3" n="3" class="#medica" key="work_13232">
                      <title type="desc">Medical treatises</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

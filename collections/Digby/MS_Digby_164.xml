@@ -81,7 +81,7 @@
                         
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_164-part1-item2" n="2" class="#alchimia" key="work_10142 ">
+                     <msItem xml:id="MS_Digby_164-part1-item2" n="2" class="#alchimia" key="work_10142">
 						                  <title type="desc">Alchemical recipes</title>
                         
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
@@ -113,7 +113,7 @@
                         
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_164-part2-item2" n="2" class="#alchimia" key="work_10142 ">
+                     <msItem xml:id="MS_Digby_164-part2-item2" n="2" class="#alchimia" key="work_10142">
 						                  <title type="desc">Alchemical recipes</title>
                         
                         <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>

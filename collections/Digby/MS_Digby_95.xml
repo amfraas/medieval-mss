@@ -80,7 +80,7 @@
                         <title type="desc">Texts on astrology, physiognomy and palmistry.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_95-part1-item2" n="1" class="#medica" key="work_13209 ">
+                     <msItem xml:id="MS_Digby_95-part1-item2" n="1" class="#medica" key="work_13209">
 						                  <title type="desc">Medical recipes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -122,7 +122,7 @@
                         <note>(English translation)</note>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_95-part2-item2" n="2" class="#medica" key="work_13179 ">
+                     <msItem xml:id="MS_Digby_95-part2-item2" n="2" class="#medica" key="work_13179">
 						                  <title type="desc">Medical and herbal texts and recipes</title>
                         
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
@@ -152,7 +152,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_95-part3-item1" n="1" class="#medica" key="work_13179 ">
+                     <msItem xml:id="MS_Digby_95-part3-item1" n="1" class="#medica" key="work_13179">
 						                  <title type="desc">Medical and herbal texts and recipes</title>
                         
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>

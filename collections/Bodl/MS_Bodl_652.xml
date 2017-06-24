@@ -73,7 +73,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_652-part1-item1" n="1" class="#biblia #apocrypha" key="work_12436 ">
+                     <msItem xml:id="MS_Bodl_652-part1-item1" n="1" class="#biblia #apocrypha" key="work_12436">
                         <title>Jacob and Joseph</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

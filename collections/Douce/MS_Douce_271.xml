@@ -54,7 +54,7 @@
                      </title>
                      <textLang mainLang="fr" otherLangs="en">French and English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_271-item2" n="2" class="#devotiones #theologica" key="work_14354 ">
+                  <msItem xml:id="MS_Douce_271-item2" n="2" class="#devotiones #theologica" key="work_14354">
                      <title type="desc">Religious treatise</title>
                      <textLang mainLang="fr" otherLangs="en">French and English</textLang>
                   </msItem>

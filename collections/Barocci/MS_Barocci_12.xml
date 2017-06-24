@@ -96,7 +96,7 @@
                            N. Theotokos, Leipzig 1770 (inaccessible)</note>
                         <textLang xml:lang="grc">Greek</textLang>
                      </msItem>
-                        <msItem xml:id="MS_Barocci_12-part1-item2" n="2" key="work_11731 ">
+                        <msItem xml:id="MS_Barocci_12-part1-item2" n="2" key="work_11731">
                            
                            <locus>(fols. 124r–135v)</locus> 
                         <title>Erotapokriseis</title>
@@ -139,7 +139,7 @@
                         </msItem>
                         <textLang xml:lang="grc">Greek</textLang>
                      </msItem>
-                        <msItem xml:id="MS_Barocci_12-part1-item4" n="4" key="work_11661 ">
+                        <msItem xml:id="MS_Barocci_12-part1-item4" n="4" key="work_11661">
                            
                            <locus>(fols. 146v–148r)</locus> 
                         <title>Dodecahoron</title>

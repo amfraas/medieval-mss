@@ -76,7 +76,7 @@
                      <title>Ecloga</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>  
-                  <msItem xml:id="MS_Add_A_171-item5" n="5" class="#miscellanea #grammatica" key="work_11805 ">
+                  <msItem xml:id="MS_Add_A_171-item5" n="5" class="#miscellanea #grammatica" key="work_11805">
                      <title>Facetus</title>
                      <incipit>Moribus et uita quisquis uult esse facetus</incipit>
                      <textLang mainLang="la">Latin</textLang>

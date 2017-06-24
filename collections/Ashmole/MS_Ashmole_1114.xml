@@ -74,7 +74,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1114-part1-item1" n="1" class="#documenta" key="work_11651 ">
+                     <msItem xml:id="MS_Ashmole_1114-part1-item1" n="1" class="#documenta" key="work_11651">
                         <title type="desc">Documents relating to the <orgName key="org_168089114">Order of the Garter</orgName>
                         </title>
                         <textLang mainLang="en">English</textLang>
@@ -104,7 +104,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1114-part2-item1" n="1" class="#historica" key="work_10027 ">
+                     <msItem xml:id="MS_Ashmole_1114-part2-item1" n="1" class="#historica" key="work_10027">
                         <title type="desc">Account of ceremonies of the <orgName key="org_168089114">Order of the Garter</orgName>, 1564-7</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -162,7 +162,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1114-part4-item1" n="1" class="#historica #documenta" key="work_11625 ">
+                     <msItem xml:id="MS_Ashmole_1114-part4-item1" n="1" class="#historica #documenta" key="work_11625">
                         <note>(parts V - IX)</note>
                         <title type="desc">Documents collected by (?) <persName key="person_1041"><!-- not found -->Robert Champlayn, Knight of the Garter</persName>, relating to his campaigns in <placeName key="place_7006278">Hungary</placeName> against the Turks and to the <orgName key="org_168089114">Order of the Garter</orgName>
                         </title>
@@ -196,12 +196,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1114-part5-item1" n="1" class="#documenta" key="work_11632 ">
+                     <msItem xml:id="MS_Ashmole_1114-part5-item1" n="1" class="#documenta" key="work_11632">
                         <note>(part X)</note>
                         <title type="desc">Documents relating to Anglo-French diplomacy, 1408-9</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1114-part5-item2" n="2" class="#miscellanea" key="work_12661 ">
+                     <msItem xml:id="MS_Ashmole_1114-part5-item2" n="2" class="#miscellanea" key="work_12661">
                         <title type="desc">Letter from Christ to the King of France</title>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>

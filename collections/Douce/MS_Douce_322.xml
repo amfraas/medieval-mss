@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Douce_322-item1" n="1" class="#versus #devotiones" key="work_14344 ">
+                  <msItem xml:id="MS_Douce_322-item1" n="1" class="#versus #devotiones" key="work_14344">
                      <title type="desc">Religious poems</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_322-item2" n="2" class="#devotiones #theologica" key="work_14353 ">
+                  <msItem xml:id="MS_Douce_322-item2" n="2" class="#devotiones #theologica" key="work_14353">
                      <title type="desc">Religious treatises</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
@@ -93,7 +93,7 @@
                         <!-- no suitable VIAF entry -->)</note>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_322-item7" n="7" class="#theologica #devotiones" key="work_13918 ">
+                  <msItem xml:id="MS_Douce_322-item7" n="7" class="#theologica #devotiones" key="work_13918">
                      <title>Poor Caitiff
               </title>
                      <note>(extract)</note>

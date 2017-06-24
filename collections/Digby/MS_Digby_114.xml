@@ -157,7 +157,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_114-part3-item1" n="1" class="#astrologia_astronomia" key="work_10342 ">
+                     <msItem xml:id="MS_Digby_114-part3-item1" n="1" class="#astrologia_astronomia" key="work_10342">
 						                  <title type="desc">Astrological texts</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -184,7 +184,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_114-part4-item1" n="1" class="#astrologia_astronomia" key="work_10342 ">
+                     <msItem xml:id="MS_Digby_114-part4-item1" n="1" class="#astrologia_astronomia" key="work_10342">
 						                  <title type="desc">Astrological treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>

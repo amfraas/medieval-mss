@@ -77,7 +77,7 @@
                         <title>Summula abbreviata de casibus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Misc_268-part1-item2" n="2" class="#legalia" key="work_11367 ">
+                     <msItem xml:id="MS_Canon_Misc_268-part1-item2" n="2" class="#legalia" key="work_11367">
                         <title type="desc">Constitutions of <orgName>Synod of Spoleto</orgName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>
@@ -175,7 +175,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Misc_268-part4-item1" n="1" class="#liturgica" key="work_13580 ">
+                     <msItem xml:id="MS_Canon_Misc_268-part4-item1" n="1" class="#liturgica" key="work_13580">
                         <title type="desc">Office of St. Jerome</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

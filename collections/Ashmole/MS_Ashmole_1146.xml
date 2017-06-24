@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1146-item1" n="1" class="#ecclesiastica" key="work_11356 ">
+                  <msItem xml:id="MS_Ashmole_1146-item1" n="1" class="#ecclesiastica" key="work_11356">
                      <title type="desc">Constitutions of English church councils</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

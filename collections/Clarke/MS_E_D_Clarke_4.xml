@@ -49,18 +49,18 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_E_D_Clarke_4-item1" n="1" class="#liturgica" key="work_13927 ">
+                  <msItem xml:id="MS_E_D_Clarke_4-item1" n="1" class="#liturgica" key="work_13927">
                      <title type="desc">Praxapostolos</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_E_D_Clarke_4-item2" n="2" class="#biblia" key="work_10098 ">
+                  <msItem xml:id="MS_E_D_Clarke_4-item2" n="2" class="#biblia" key="work_10098">
                      <title rend="roman">Acts of the Apostles</title>
                      <bibl type="bible">
                         <title>Bible, Acts</title>
                      </bibl>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_E_D_Clarke_4-item3" n="3" class="#biblia" key="work_10851 ">
+                  <msItem xml:id="MS_E_D_Clarke_4-item3" n="3" class="#biblia" key="work_10851">
                      <title rend="roman">Catholic Epistles</title>
                      <bibl type="bible">
                         <title>Bible, Catholic Epistles</title>

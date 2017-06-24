@@ -75,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_6_25-part1-item1" n="1" class="#liturgica" key="work_11741 ">
+                     <msItem xml:id="MS_Auct_F_6_25-part1-item1" n="1" class="#liturgica" key="work_11741">
                         <title type="desc">Evangelistary</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>

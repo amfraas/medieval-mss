@@ -154,7 +154,7 @@
                            periculis nouissimorum temporum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_158-part3-item2" n="2" class="#documenta #legalia #monastica" key="work_14003 ">
+                     <msItem xml:id="MS_Bodl_158-part3-item2" n="2" class="#documenta #legalia #monastica" key="work_14003">
                         <title type="desc">Proceedings against <persName key="person_1019">Richard Helmyslay</persName>, friar, 1380</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

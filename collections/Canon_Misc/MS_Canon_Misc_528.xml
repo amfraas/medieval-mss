@@ -58,7 +58,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_528-item2" n="2" class="#vitae_sanctorum" key="work_13060 ">
+                  <msItem xml:id="MS_Canon_Misc_528-item2" n="2" class="#vitae_sanctorum" key="work_13060">
 						               <title type="desc">Lives of saints</title>
                      
                      <note>(extracts)</note>
@@ -78,7 +78,7 @@
                      <title>Epistula de transitu beati Hieronymi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_528-item5" n="5" class="#monastica" key="work_11954 ">
+                  <msItem xml:id="MS_Canon_Misc_528-item5" n="5" class="#monastica" key="work_11954">
                      <title>
                         <orgName key="org_123669614">Franciscan</orgName> texts</title>
                      <textLang mainLang="la">Latin</textLang>

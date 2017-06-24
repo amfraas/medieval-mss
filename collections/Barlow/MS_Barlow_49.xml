@@ -141,7 +141,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barlow_49-part3-item1" n="1" class="#documenta #monastica" key="work_10782 ">
+                     <msItem xml:id="MS_Barlow_49-part3-item1" n="1" class="#documenta #monastica" key="work_10782">
                         <title type="desc">Cartulary of the college of <orgName>Holy Trinity, Pontefract</orgName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>

@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_790-part1-item1" n="1" class="#astrologia_astronomia" key="work_10390 ">
+                     <msItem xml:id="MS_Bodl_790-part1-item1" n="1" class="#astrologia_astronomia" key="work_10390">
                         <title type="desc">Astronomical tables, 1336</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -101,7 +101,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_790-part2-item1" n="1" class="#astrologia_astronomia" key="work_10391 ">
+                     <msItem xml:id="MS_Bodl_790-part2-item1" n="1" class="#astrologia_astronomia" key="work_10391">
                         <title type="desc">Astronomical tables, 1408</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -139,7 +139,7 @@
                         <title>De XII capitulis</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_790-part3-item2" n="2" class="#astrologia_astronomia" key="work_10342 ">
+                     <msItem xml:id="MS_Bodl_790-part3-item2" n="2" class="#astrologia_astronomia" key="work_10342">
                         <title type="desc">Astrological treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -168,7 +168,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_790-part4-item1" n="1" class="#astrologia_astronomia" key="work_10326 ">
+                     <msItem xml:id="MS_Bodl_790-part4-item1" n="1" class="#astrologia_astronomia" key="work_10326">
                         <title type="desc">Astrological notes</title>
                         <textLang mainLang="la" otherLangs="nl">Latin and Dutch</textLang>
                      </msItem>
@@ -231,7 +231,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_790-part6-item1" n="1" class="#versus #computistica" key="work_11322 ">
+                     <msItem xml:id="MS_Bodl_790-part6-item1" n="1" class="#versus #computistica" key="work_11322">
                         <title type="desc">Compotus (in verse)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -289,7 +289,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_790-part8-item1" n="1" class="#computistica" key="work_11323 ">
+                     <msItem xml:id="MS_Bodl_790-part8-item1" n="1" class="#computistica" key="work_11323">
                         <title type="desc">Compotus</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

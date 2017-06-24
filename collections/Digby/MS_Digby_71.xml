@@ -145,7 +145,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_71-part3-item1" n="1" class="#alchimia" key="work_10154 ">
+                     <msItem xml:id="MS_Digby_71-part3-item1" n="1" class="#alchimia" key="work_10154">
 						                  <title type="desc">Alchemical treatises.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -172,7 +172,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_71-part4-item1" n="1" class="#alchimia" key="work_10154 ">
+                     <msItem xml:id="MS_Digby_71-part4-item1" n="1" class="#alchimia" key="work_10154">
 						                  <title type="desc">Alchemical treatise</title>
                         
                         <textLang mainLang="la">Latin</textLang>

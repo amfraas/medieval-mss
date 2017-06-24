@@ -64,11 +64,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_346-item1" n="1" class="#medica" key="work_13233 ">
+                  <msItem xml:id="MS_Ashmole_346-item1" n="1" class="#medica" key="work_13233">
                      <title type="desc">Medical texts and extracts</title>
                      <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_346-item2" n="2" class="#astrologia_astronomia" key="work_10346 ">
+                  <msItem xml:id="MS_Ashmole_346-item2" n="2" class="#astrologia_astronomia" key="work_10346">
                      <title type="desc">Astrological texts, extracts and tables</title>
                      <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                   </msItem>

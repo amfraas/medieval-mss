@@ -77,7 +77,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_801-part1-item1" n="1" class="#documenta" key="work_14377 ">
+                     <msItem xml:id="MS_Ashmole_801-part1-item1" n="1" class="#documenta" key="work_14377">
                         <title type="desc">Rental of lands in <placeName key="place_7011908">Dunstable</placeName>, 1543-4</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -109,7 +109,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_801-part2-item1" n="1" class="#documenta" key="work_14381 ">
+                     <msItem xml:id="MS_Ashmole_801-part2-item1" n="1" class="#documenta" key="work_14381">
                         <title type="desc">Rentals and accounts of <orgName key="org_168512946">St. Paul's Cathedral</orgName>
                         </title>
                         <textLang mainLang="en">English</textLang>
@@ -139,7 +139,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_801-part3-item1" n="1" class="#documenta" key="work_14381 ">
+                     <msItem xml:id="MS_Ashmole_801-part3-item1" n="1" class="#documenta" key="work_14381">
                         <title type="desc">Rentals and accounts of <orgName key="org_168512946">St. Paul's Cathedral</orgName>
                         </title>
                         <textLang mainLang="en">English</textLang>
@@ -169,7 +169,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_801-part4-item1" n="1" class="#documenta" key="work_13479 ">
+                     <msItem xml:id="MS_Ashmole_801-part4-item1" n="1" class="#documenta" key="work_13479">
                         <title type="desc">Note on the lands of <orgName key="org_168512946">St. Paul's Cathedral</orgName>
                         </title>
                         <textLang mainLang="en">English</textLang>
@@ -199,7 +199,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_801-part5-item1" n="1" class="#documenta" key="work_10818 ">
+                     <msItem xml:id="MS_Ashmole_801-part5-item1" n="1" class="#documenta" key="work_10818">
                         <title type="desc">Cartulary of <orgName key="org_168512946">St. Paul's Cathedral</orgName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>
@@ -229,7 +229,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_801-part6-item1" n="1" class="#documenta" key="work_10787 ">
+                     <msItem xml:id="MS_Ashmole_801-part6-item1" n="1" class="#documenta" key="work_10787">
                         <title type="desc">Cartulary of <orgName key="org_158244517">Ely cathedral priory</orgName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>
@@ -260,7 +260,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_801-part7-item1" n="1" class="#documenta #legalia" key="work_12589 ">
+                     <msItem xml:id="MS_Ashmole_801-part7-item1" n="1" class="#documenta #legalia" key="work_12589">
                         <title type="desc">Legal proceedings in the Roman curia relating to <placeName>Appleton-le-Street</placeName>
                         </title>
                         <textLang mainLang="la">Latin</textLang>

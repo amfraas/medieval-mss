@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Liturg_167-part1-item1" n="1" class="#liturgica" key="work_10641 ">
+                     <msItem xml:id="MS_Canon_Liturg_167-part1-item1" n="1" class="#liturgica" key="work_10641">
                         <title type="desc">Breviary</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -103,7 +103,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Liturg_167-part2-item1" n="1" class="#legalia" key="work_10735 ">
+                     <msItem xml:id="MS_Canon_Liturg_167-part2-item1" n="1" class="#legalia" key="work_10735">
                         <title type="desc">Canon Law treatise (?)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

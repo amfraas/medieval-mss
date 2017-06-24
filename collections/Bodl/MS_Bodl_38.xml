@@ -108,11 +108,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_38-part2-item1" n="1" class="#liturgica" key="work_10220 ">
+                     <msItem xml:id="MS_Bodl_38-part2-item1" n="1" class="#liturgica" key="work_10220">
                         <title type="desc">Antiphons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_38-part2-item2" n="2" class="#miscellanea" key="work_13340 ">
+                     <msItem xml:id="MS_Bodl_38-part2-item2" n="2" class="#miscellanea" key="work_13340">
                         <title type="desc">Miscellaneous texts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -182,7 +182,7 @@
                         <title>Psychomachia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_38-part4-item2" n="2" class="#versus" key="work_13835 ">
+                     <msItem xml:id="MS_Bodl_38-part4-item2" n="2" class="#versus" key="work_13835">
                         <title type="desc">Poem</title>
                         <note>(hexameters)</note>
                         <textLang mainLang="la">Latin</textLang>

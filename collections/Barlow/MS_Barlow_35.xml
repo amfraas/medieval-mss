@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barlow_35-part1-item1" n="1" class="#computistica" key="work_10712 ">
+                     <msItem xml:id="MS_Barlow_35-part1-item1" n="1" class="#computistica" key="work_10712">
                         <title type="desc">Calendarial rules.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -135,7 +135,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barlow_35-part3-item1" n="1" class="#grammatica #miscellanea" key="work_12030 ">
+                     <msItem xml:id="MS_Barlow_35-part3-item1" n="1" class="#grammatica #miscellanea" key="work_12030">
                         <title type="desc">Glossaries.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

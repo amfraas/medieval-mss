@@ -70,7 +70,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_T_2_18-part1-item1" n="1" class="#misc" key="work_11431 ">
+                     <msItem xml:id="MS_Auct_T_2_18-part1-item1" n="1" class="#misc" key="work_11431">
                         <title type="desc">De affinitatis gradibus.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -146,7 +146,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_T_2_18-part3-item1" n="1" class="#grammatica" key="work_12508 ">
+                     <msItem xml:id="MS_Auct_T_2_18-part3-item1" n="1" class="#grammatica" key="work_12508">
                         <title type="desc">Latin grammar.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

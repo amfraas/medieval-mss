@@ -63,7 +63,7 @@
                      <title>De diuisione philosophiae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_679-item2" n="2" class="#alchimia" key="work_10154 ">
+                  <msItem xml:id="MS_Bodl_679-item2" n="2" class="#alchimia" key="work_10154">
                      <title type="desc">Alchemical treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -107,7 +107,7 @@
                      <title>De philosophia mundi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_679-item8" n="8" class="#scientifica" key="work_14518 ">
+                  <msItem xml:id="MS_Bodl_679-item8" n="8" class="#scientifica" key="work_14518">
                      <title type="desc">Scientific texts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

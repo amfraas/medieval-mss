@@ -73,12 +73,12 @@
                      <title>Vita S. Cuthberti metrica</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_175-item4" n="4" class="#vitae_sanctorum" key="work_12902 ">
+                  <msItem xml:id="MS_Digby_175-item4" n="4" class="#vitae_sanctorum" key="work_12902">
 						               <title type="desc">Life of St. Oswald</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_175-item5" n="5" class="#vitae_sanctorum" key="work_12837 ">
+                  <msItem xml:id="MS_Digby_175-item5" n="5" class="#vitae_sanctorum" key="work_12837">
 						               <title type="desc">Life of St. Aidan</title>
                      
                      <textLang mainLang="la">Latin</textLang>

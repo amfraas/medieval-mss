@@ -53,7 +53,7 @@
                      <title type="desc">Treatise on humility</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_95-item2" n="2" class="#biblia #commentarii" key="work_11288 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_95-item2" n="2" class="#biblia #commentarii" key="work_11288">
                      <title type="desc">Commentary on the Song of songs</title>
                      <textLang mainLang="la">Latin</textLang>
                      <bibl type="commentedOn">

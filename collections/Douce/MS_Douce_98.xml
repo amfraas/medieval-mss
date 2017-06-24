@@ -72,15 +72,15 @@
                      <title>Husbandry</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_98-item4" n="4" class="#legalia" key="work_12937 ">
+                  <msItem xml:id="MS_Douce_98-item4" n="4" class="#legalia" key="work_12937">
                      <title type="desc">List of English towns</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_98-item5" n="5" class="#legalia" key="work_14289 ">
+                  <msItem xml:id="MS_Douce_98-item5" n="5" class="#legalia" key="work_14289">
                      <title type="desc">Register of writs</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_98-item6" n="6" class="#legalia" key="work_10670 ">
+                  <msItem xml:id="MS_Douce_98-item6" n="6" class="#legalia" key="work_10670">
                      <title>Britton</title>
                      <note>(legal treatise)</note>
                      <textLang mainLang="fr">French</textLang>

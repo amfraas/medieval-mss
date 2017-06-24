@@ -75,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_161-part1-item1" n="1" class="#astrologia_astronomia" key="work_10324 ">
+                     <msItem xml:id="MS_Digby_161-part1-item1" n="1" class="#astrologia_astronomia" key="work_10324">
 						                  <title type="desc">Astrological fragments</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -203,7 +203,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_161-part5-item1" n="1" class="#commentarii" key="work_11267 ">
+                     <msItem xml:id="MS_Digby_161-part5-item1" n="1" class="#commentarii" key="work_11267">
 						                  <title type="desc">Commentary on Ps.-Aristotle, <hi rend="italic">Problemata</hi>
                         </title>
                         

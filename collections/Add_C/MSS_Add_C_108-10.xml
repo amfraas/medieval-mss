@@ -71,7 +71,7 @@
                      </note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MSS_Add_C_108-10-item2" n="2" class="#apocrypha" key="work_12272 ">
+                  <msItem xml:id="MSS_Add_C_108-10-item2" n="2" class="#apocrypha" key="work_12272">
                      <title type="desc">History of Joseph and
               Asenath</title>
                      <textLang mainLang="la">Latin</textLang>
@@ -105,7 +105,7 @@
                      <title>Flores sententiarum Thome de Aquino</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MSS_Add_C_108-10-item7" n="7" class="#commentarii #ecclesiastica" key="work_11294 ">
+                  <msItem xml:id="MSS_Add_C_108-10-item7" n="7" class="#commentarii #ecclesiastica" key="work_11294">
                      <title type="desc">Commentary on
               the <hi rend="italic">Stella clericorum</hi>
                      </title>

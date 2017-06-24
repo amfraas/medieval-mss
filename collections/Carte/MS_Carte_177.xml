@@ -100,7 +100,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Carte_177-part2-item1" n="1" class="#documenta #monastica" key="work_10786 ">
+                     <msItem xml:id="MS_Carte_177-part2-item1" n="1" class="#documenta #monastica" key="work_10786">
                         <locus>(fols. 41-42)</locus>
                         <title type="desc">Cartulary of <orgName key="org_144679410">Durham Priory</orgName>
                         </title>

@@ -42,7 +42,7 @@
                </head>
                <msContents>
                   <summary>Collection of moral sayings</summary>
-                  <msItem xml:id="MS_Bywater_17-item1" class="#proverbia #auctoritates" key="work_10183 "><!-- check class ok -->
+                  <msItem xml:id="MS_Bywater_17-item1" class="#proverbia #auctoritates" key="work_10183"><!-- check class ok -->
 				                 <locus>(fol. 1r)</locus> 
                      <title>Altercatio Adriani et Epicteti</title>
                      <note> beginning
@@ -73,7 +73,7 @@
 				Tibullus.</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_17-item3" class="#auctoritates" key="work_11846 ">
+                  <msItem xml:id="MS_Bywater_17-item3" class="#auctoritates" key="work_11846">
                      <locus>(fol. 67r)</locus>
                      <title type="desc">Florilegium</title> 
                      <rubric>Sententie

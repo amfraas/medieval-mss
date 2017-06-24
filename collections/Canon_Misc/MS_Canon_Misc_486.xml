@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Misc_486-item1" n="1" class="#commentarii" key="work_11261 ">
+                  <msItem xml:id="MS_Canon_Misc_486-item1" n="1" class="#commentarii" key="work_11261">
                      <title type="desc">Commentary on Porphyry, <hi rend="italic">Isagoge</hi>
                      </title>
                      <textLang mainLang="la">Latin</textLang>
@@ -60,7 +60,7 @@
                         <title>Isagoge</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_486-item2" n="2" class="#commentarii" key="work_11160 ">
+                  <msItem xml:id="MS_Canon_Misc_486-item2" n="2" class="#commentarii" key="work_11160">
                      <title type="desc">Commentary on Aristotle, <hi rend="italic">Praedicamenta</hi>
                      </title>
                      <textLang mainLang="la">Latin</textLang>
@@ -71,7 +71,7 @@
                         <title>Praedicamenta</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_486-item3" n="3" class="#commentarii" key="work_11149 ">
+                  <msItem xml:id="MS_Canon_Misc_486-item3" n="3" class="#commentarii" key="work_11149">
                      <title type="desc">Commentary on Aristotle, <hi rend="italic">De interpretatione</hi>
                      </title>
                      <bibl type="commentedOn">
@@ -82,7 +82,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_486-item4" n="4" class="#commentarii" key="work_11141 ">
+                  <msItem xml:id="MS_Canon_Misc_486-item4" n="4" class="#commentarii" key="work_11141">
                      <title type="desc">Commentary on Aristotle, <hi rend="italic">Analytica priora</hi>
                      </title>
                      <textLang mainLang="la">Latin</textLang>
@@ -93,7 +93,7 @@
                         <title>Analytica priora</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_486-item5" n="5" class="#commentarii" key="work_11140 ">
+                  <msItem xml:id="MS_Canon_Misc_486-item5" n="5" class="#commentarii" key="work_11140">
                      <title type="desc">Commentary on Aristotle, <hi rend="italic">Analytica posteriora</hi>
                      </title>
                      <textLang mainLang="la">Latin</textLang>
@@ -104,7 +104,7 @@
                         <title>Analytica posteriora</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_486-item6" n="6" class="#commentarii" key="work_11175 ">
+                  <msItem xml:id="MS_Canon_Misc_486-item6" n="6" class="#commentarii" key="work_11175">
                      <title type="desc">Commentary on Boethius, <hi rend="italic">De diuisione</hi>
                      </title>
                      <textLang mainLang="la">Latin</textLang>
@@ -115,7 +115,7 @@
                         <title>De diuisione</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_486-item7" n="7" class="#commentarii" key="work_11163 ">
+                  <msItem xml:id="MS_Canon_Misc_486-item7" n="7" class="#commentarii" key="work_11163">
                      <title type="desc">Commentary on Aristotle, <hi rend="italic">Topica</hi>
                      </title>
                      <textLang mainLang="la">Latin</textLang>
@@ -126,7 +126,7 @@
                         <title>Topica</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_486-item8" n="8" class="#commentarii" key="work_11162 ">
+                  <msItem xml:id="MS_Canon_Misc_486-item8" n="8" class="#commentarii" key="work_11162">
                      <title type="desc">Commentary on Aristotle, <hi rend="italic">Sophistici elenchi</hi>
                      </title>
                      <textLang mainLang="la">Latin</textLang>
@@ -137,7 +137,7 @@
                         <title>Sophistici elenchi</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_486-item9" n="9" class="#commentarii" key="work_11226 ">
+                  <msItem xml:id="MS_Canon_Misc_486-item9" n="9" class="#commentarii" key="work_11226">
                      <title type="desc">Commentary on <hi rend="italic">Liber sex principiorum</hi>
                      </title>
                      <textLang mainLang="la">Latin</textLang>

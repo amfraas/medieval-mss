@@ -170,7 +170,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_244-part3-item1" n="1" class="#astrologia_astronomia" key="work_10348 ">
+                     <msItem xml:id="MS_Ashmole_244-part3-item1" n="1" class="#astrologia_astronomia" key="work_10348">
                         <title type="desc">Astrological treaties</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>
@@ -296,7 +296,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_244-part7-item1" n="1" class="#astrologia_astronomia" key="work_10338 ">
+                     <msItem xml:id="MS_Ashmole_244-part7-item1" n="1" class="#astrologia_astronomia" key="work_10338">
                         <title type="desc">Astrological texts</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

@@ -67,7 +67,7 @@
                      <title>In Hieroclem</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_T_1_22-item4" n="4" class="#commentarii #biblia" key="work_10842 ">
+                  <msItem xml:id="MS_Auct_T_1_22-item4" n="4" class="#commentarii #biblia" key="work_10842">
                      <title type="desc">Catena on Song of Songs</title>
                      <bibl type="commentedOn">
                         <title type="desc">Bible, Song of Songs</title>

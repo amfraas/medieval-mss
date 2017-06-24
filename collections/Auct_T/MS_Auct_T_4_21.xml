@@ -59,7 +59,7 @@
                         </persName>.</note>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_T_4_21-item2" n="2" class="#liturgica" key="work_12331 ">
+                  <msItem xml:id="MS_Auct_T_4_21-item2" n="2" class="#liturgica" key="work_12331">
                      <title type="desc">Hymns</title>
                      <note>with commentary of <persName role="author" key="person_88071118">
                            Euthymius Zigabenus

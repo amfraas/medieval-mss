@@ -58,7 +58,7 @@
                      <title>Planctus Mariae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_90-item2" n="2" class="#theologica" key="work_13730 ">
+                  <msItem xml:id="MS_Canon_Misc_90-item2" n="2" class="#theologica" key="work_13730">
 						               <title type="desc">Patristic extracts</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -95,7 +95,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Misc_90-item7" n="7" class="#proverbia" key="work_14064 ">
+                  <msItem xml:id="MS_Canon_Misc_90-item7" n="7" class="#proverbia" key="work_14064">
                      <title type="desc">Proverbs</title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                   </msItem>

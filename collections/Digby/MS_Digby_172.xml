@@ -153,12 +153,12 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_172-part3-item1" n="1" class="#vitae_sanctorum" key="work_12847 ">
+                     <msItem xml:id="MS_Digby_172-part3-item1" n="1" class="#vitae_sanctorum" key="work_12847">
 						                  <title type="desc">Life of St. Catherine of Sweden</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_172-part3-item2" n="2" class="#vitae_sanctorum" key="work_12903 ">
+                     <msItem xml:id="MS_Digby_172-part3-item2" n="2" class="#vitae_sanctorum" key="work_12903">
 						                  <title type="desc">Life of St. Petrus Olavi </title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -191,7 +191,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_172-part4-item1" n="1" class="#mariologica" key="work_15200 ">
+                     <msItem xml:id="MS_Digby_172-part4-item1" n="1" class="#mariologica" key="work_15200">
                         <title type="desc">Treatises on the Virgin Mary.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -267,7 +267,7 @@
                         <title>De professione monachorum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_172-part6-item2" n="2" class="#versus" key="work_13886 ">
+                     <msItem xml:id="MS_Digby_172-part6-item2" n="2" class="#versus" key="work_13886">
 						                  <title type="desc">Poems.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -349,7 +349,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_172-part7-item1" n="1" class="#commentarii" key="work_11286 ">
+                     <msItem xml:id="MS_Digby_172-part7-item1" n="1" class="#commentarii" key="work_11286">
 						                  <title type="desc">Commentary on Sidonius, <hi rend="italic">Epistles</hi>
                         </title>
                         
@@ -386,7 +386,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_172-part8-item1" n="1" class="#exempla" key="work_11760 ">
+                     <msItem xml:id="MS_Digby_172-part8-item1" n="1" class="#exempla" key="work_11760">
 						                  <title type="desc">Exempla</title>
                         
                         <textLang mainLang="la">Latin</textLang>

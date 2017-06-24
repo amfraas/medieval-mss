@@ -67,7 +67,7 @@
                      <title>Meditationes piissimae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_750-item3" n="3" class="#sermones" key="work_14583 ">
+                  <msItem xml:id="MS_Bodl_750-item3" n="3" class="#sermones" key="work_14583">
                      <title type="desc">Sermons</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -78,7 +78,7 @@
                         </persName>)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_750-item5" n="5" class="#topographica" key="work_11503 ">
+                  <msItem xml:id="MS_Bodl_750-item5" n="5" class="#topographica" key="work_11503">
                      <title type="desc">Description of <placeName key="place_7001371">Jerusalem</placeName>
                      </title>
                      <textLang mainLang="la">Latin</textLang>

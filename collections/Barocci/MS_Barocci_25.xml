@@ -285,7 +285,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_25-part3-item1" n="1" key="work_11016 ">
+                     <msItem xml:id="MS_Barocci_25-part3-item1" n="1" key="work_11016">
                         
                            <locus>(fols. 233r–242v)</locus> 
                         <title type="supplied">Chronicon</title> 
@@ -346,7 +346,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_25-part4-item1" n="1" key="work_15399 ">
+                     <msItem xml:id="MS_Barocci_25-part4-item1" n="1" key="work_15399">
                         
                             <locus>(fols. 254r–257r)</locus> 
                         <title type="supplied">Typi
@@ -359,7 +359,7 @@
                         (1909), pp. 299–300.</note>
                         <textLang xml:lang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_25-part4-item2" n="2" key="work_12139 ">
+                     <msItem xml:id="MS_Barocci_25-part4-item2" n="2" key="work_12139">
                         
                            <locus>(fol. 257v)</locus> 
                         <title type="supplied">Grammatical excerpts</title>

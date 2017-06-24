@@ -91,7 +91,7 @@
                         <note>cc. 19-23</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Auct_F_5_17-part1-item3" n="3" class="#apocrypha" key="work_11715 ">
+                     <msItem xml:id="MS_Auct_F_5_17-part1-item3" n="3" class="#apocrypha" key="work_11715">
                         
                         <title type="desc">Epistolae Senecae ad Paulum et Pauli ad Senecam</title>
                         <textLang mainLang="la">Latin</textLang>
@@ -146,7 +146,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Auct_F_5_17-part2-item1" n="1" class="#miscellanea" key="work_12732 ">
+                     <msItem xml:id="MS_Auct_F_5_17-part2-item1" n="1" class="#miscellanea" key="work_12732">
                         
                         <title type="desc">Letters</title>
                         <textLang mainLang="la">Latin</textLang>

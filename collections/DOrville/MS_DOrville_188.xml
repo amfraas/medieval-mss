@@ -49,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_DOrville_188-item1" n="1" class="#astrologia_astronomia" key="work_10373 ">
+                  <msItem xml:id="MS_DOrville_188-item1" n="1" class="#astrologia_astronomia" key="work_10373">
 						               <title type="desc">Astronomical calculations, chiefly of eclipses</title>
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_DOrville_188-item2" n="2" class="#commentarii" key="work_12049 ">
+                  <msItem xml:id="MS_DOrville_188-item2" n="2" class="#commentarii" key="work_12049">
                      <title type="desc">Glosses on
               Oppian, Halieutica</title>
                      <bibl type="commentedOn">

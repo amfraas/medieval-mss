@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_90-item1" n="1" class="#sermones" key="work_14577 ">
+                  <msItem xml:id="MS_Bodl_90-item1" n="1" class="#sermones" key="work_14577">
                      <title type="desc">Sermons</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
@@ -57,11 +57,11 @@
                      <title type="desc">Treatise on confession</title>
                      <textLang mainLang="fr">French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_90-item3" n="3" class="#apocrypha" key="work_11737 ">
+                  <msItem xml:id="MS_Bodl_90-item3" n="3" class="#apocrypha" key="work_11737">
                      <title>Euangelium Nicodemi</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_90-item4" n="4" class="#apocrypha" key="work_10248 ">
+                  <msItem xml:id="MS_Bodl_90-item4" n="4" class="#apocrypha" key="work_10248">
                      <title type="desc">Apocryphal pieces about Christ</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

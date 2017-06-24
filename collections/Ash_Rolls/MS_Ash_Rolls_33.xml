@@ -49,12 +49,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ash_Rolls_33-item1" n="1" class="#documenta" key="work_10291 ">
+                  <msItem xml:id="MS_Ash_Rolls_33-item1" n="1" class="#documenta" key="work_10291">
                      <title type="desc">Articles of agreement between <persName key="person_96926832">Henry VI</persName> and <persName key="person_25990278">Richard, Duke of
                         York</persName>, concerning the latter's claim to the throne [1460]</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ash_Rolls_33-item2" n="2" class="#documenta" key="work_12744 ">
+                  <msItem xml:id="MS_Ash_Rolls_33-item2" n="2" class="#documenta" key="work_12744">
                      <title type="desc">Letters missive of
                         <persName key="person_32933558">George, Duke of Clarence</persName> and others, 12 July 1469, against the Woodville
               faction.</title>

@@ -53,7 +53,7 @@
                      <title type="desc">Calendar.</title>
                      <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_6-item2" n="2" class="#astrologia_astronomia" key="work_10401 ">
+                  <msItem xml:id="MS_Ashmole_6-item2" n="2" class="#astrologia_astronomia" key="work_10401">
                      <title type="desc">Astronomical tables and texts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

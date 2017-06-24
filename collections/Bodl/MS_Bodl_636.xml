@@ -120,31 +120,31 @@
                         <title>Visio Eadmundi</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_636-part2-item2" n="2" class="#christologia #devotiones" key="work_15124 ">
+                     <msItem xml:id="MS_Bodl_636-part2-item2" n="2" class="#christologia #devotiones" key="work_15124">
                         <title type="desc">Treatise on the Passion</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_636-part2-item3" n="3" class="#apocrypha" key="work_11737 ">
+                     <msItem xml:id="MS_Bodl_636-part2-item3" n="3" class="#apocrypha" key="work_11737">
                         <title>Euangelium Nichodemi</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_636-part2-item4" n="4" class="#apocrypha" key="work_14901 ">
+                     <msItem xml:id="MS_Bodl_636-part2-item4" n="4" class="#apocrypha" key="work_14901">
                         <title>Testamentum XII Patriarcharum</title>
                         <note>(tr. <persName role="translator" key="person_86920837">
                               Robert Grosseteste
                            </persName>)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_636-part2-item5" n="5" class="#auctoritates" key="work_13730 ">
+                     <msItem xml:id="MS_Bodl_636-part2-item5" n="5" class="#auctoritates" key="work_13730">
                         <title type="desc">Patristic extracts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_636-part2-item6" n="6" class="#monastica" key="work_14306 ">
+                     <msItem xml:id="MS_Bodl_636-part2-item6" n="6" class="#monastica" key="work_14306">
                         <title>Regula S. Benedicti</title>
                         <note>(abbreviated)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_636-part2-item7" n="7" class="#devotiones" key="work_10285 ">
+                     <msItem xml:id="MS_Bodl_636-part2-item7" n="7" class="#devotiones" key="work_10285">
                         <title type="desc" rend="italic">Ars moriendi</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

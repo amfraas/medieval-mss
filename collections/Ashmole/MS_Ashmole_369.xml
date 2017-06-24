@@ -114,7 +114,7 @@
                         <note>(fragment)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_369-part1-item2" n="2" class="#scientifica #astrologia_astronomia" key="work_10330 ">
+                     <msItem xml:id="MS_Ashmole_369-part1-item2" n="2" class="#scientifica #astrologia_astronomia" key="work_10330">
                         <title type="desc">Astrological, scientific and other notes</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -140,7 +140,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_369-part2-item1" n="1" class="#astrologia_astronomia" key="work_10342 ">
+                     <msItem xml:id="MS_Ashmole_369-part2-item1" n="1" class="#astrologia_astronomia" key="work_10342">
                         <title type="desc">Astrological treatises.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -175,7 +175,7 @@
                         <title>Liber introductorius</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_369-part3-item2" n="2" class="#astrologia_astronomia" key="work_10409 ">
+                     <msItem xml:id="MS_Ashmole_369-part3-item2" n="2" class="#astrologia_astronomia" key="work_10409">
                         <title type="desc">Astronomical treatise</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -220,7 +220,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_369-part4-item1" n="1" class="#mathematica" key="work_13149 ">
+                     <msItem xml:id="MS_Ashmole_369-part4-item1" n="1" class="#mathematica" key="work_13149">
                         <title>Mathematica Alexandri</title>
                         <note>(mathematical treatise)</note>
                         <note/>
@@ -359,7 +359,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_369-part8-item1" n="1" class="#astrologia_astronomia" key="work_10352 ">
+                     <msItem xml:id="MS_Ashmole_369-part8-item1" n="1" class="#astrologia_astronomia" key="work_10352">
                        
                         <title> Astrological treatises, canons and figures</title>
                         <textLang mainLang="la">Latin</textLang>

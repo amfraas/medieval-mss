@@ -53,21 +53,21 @@
                      <title type="desc">Theological miscellanies</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_306-item2" n="2" class="#mariologica" key="work_12916 ">
+                  <msItem xml:id="MS_Douce_306-item2" n="2" class="#mariologica" key="work_12916">
                      <title type="desc">Life of the Virgin Mary</title>
                      <!-- cf BHL 5347? -->
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_306-item3" n="3" class="#topographica" key="work_10052 ">
+                  <msItem xml:id="MS_Douce_306-item3" n="3" class="#topographica" key="work_10052">
                      <title type="desc">Account of relics, etc., in the churches of <placeName key="place_7000874">Rome</placeName>
                      </title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_306-item4" n="4" class="#theologica" key="work_11555 ">
+                  <msItem xml:id="MS_Douce_306-item4" n="4" class="#theologica" key="work_11555">
                      <title type="desc">Disputations between Christians and Jews</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_306-item5" n="5" class="#historica" key="work_10994 ">
+                  <msItem xml:id="MS_Douce_306-item5" n="5" class="#historica" key="work_10994">
                      <title type="desc">Chronicle of <placeName key="place_7000874">Rome</placeName>, to 1284</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

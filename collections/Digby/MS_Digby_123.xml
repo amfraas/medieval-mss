@@ -65,7 +65,7 @@
                      <title>Tractatus de morbo epidemiae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_123-item3" n="3" class="#astrologia_astronomia" key="work_10342 ">
+                  <msItem xml:id="MS_Digby_123-item3" n="3" class="#astrologia_astronomia" key="work_10342">
 						               <title type="desc">Astrological treatise</title>
                      
                      <textLang mainLang="la">Latin</textLang>

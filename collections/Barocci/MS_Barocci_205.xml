@@ -55,12 +55,12 @@
                      </title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_205-item2" n="2" key="work_10746 ">
+                  <msItem xml:id="MS_Barocci_205-item2" n="2" key="work_10746">
                      <title type="desc">Canons
 				  of Church Councils</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_205-item3" n="3" key="work_12571 ">
+                  <msItem xml:id="MS_Barocci_205-item3" n="3" key="work_12571">
                      <title type="desc">Legal and theological works.</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

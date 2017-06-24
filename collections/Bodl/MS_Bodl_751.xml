@@ -156,7 +156,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_751-part3-item1" n="1" class="#documenta" key="work_12312 ">
+                     <msItem xml:id="MS_Bodl_751-part3-item1" n="1" class="#documenta" key="work_12312">
                         <title type="desc">Household account of <persName key="person_268155547">Prince Edward of Windsor</persName>, August-September 1325</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

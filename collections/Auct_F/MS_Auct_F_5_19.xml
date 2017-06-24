@@ -56,7 +56,7 @@
                      <title>Excerptio de chronica Mariani</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_5_19-item2" n="2" class="#computistica" key="work_10719 ">
+                  <msItem xml:id="MS_Auct_F_5_19-item2" n="2" class="#computistica" key="work_10719">
                     
                      <title type="desc">Calendrial treatise</title>
                      <textLang mainLang="la">Latin</textLang>

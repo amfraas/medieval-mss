@@ -57,7 +57,7 @@
                      </bibl>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_63-item2" n="2" class="#biblia" key="work_10738 ">
+                  <msItem xml:id="MS_Canon_Ital_63-item2" n="2" class="#biblia" key="work_10738">
                      <title rend="roman">Canonical Epistles</title>
                      <bibl type="bible">
                         <title>Bible, Canonical Epistles</title>
@@ -65,7 +65,7 @@
                      <note>(Italian translation)</note>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_63-item3" n="3" class="#christologia" key="work_12829 ">
+                  <msItem xml:id="MS_Canon_Ital_63-item3" n="3" class="#christologia" key="work_12829">
                      <title type="desc">Life of Christ</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

@@ -62,7 +62,7 @@
                      <title type="desc">Sermons</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_530-item3" n="3" class="#auctoritates" key="work_13730 ">
+                  <msItem xml:id="MS_Bodl_530-item3" n="3" class="#auctoritates" key="work_13730">
                      <title type="desc">Patristic extracts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

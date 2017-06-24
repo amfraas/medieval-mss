@@ -104,7 +104,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_825-part2-item1" n="1" class="#legalia" key="work_13127 ">
+                     <msItem xml:id="MS_Bodl_825-part2-item1" n="1" class="#legalia" key="work_13127">
                         <title type="desc">Manuals of practice in the <placeName key="place_7000874">Roman</placeName> curia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

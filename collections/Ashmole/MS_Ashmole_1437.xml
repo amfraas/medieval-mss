@@ -74,7 +74,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1437-part1-item1" n="1" class="#medica" key="work_13191 ">
+                     <msItem xml:id="MS_Ashmole_1437-part1-item1" n="1" class="#medica" key="work_13191">
                         <title type="desc">Medical extracts and recipes.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -110,7 +110,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1437-part2-item1" n="1" class="#animalia" key="work_10599 ">
+                     <msItem xml:id="MS_Ashmole_1437-part2-item1" n="1" class="#animalia" key="work_10599">
                         <note>(flyleaf)</note>
                         <title type="desc">Book of Marshalsy</title>
                         <note>(fragment)</note>
@@ -172,7 +172,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1437-part4-item1" n="1" class="#documenta" key="work_14376 ">
+                     <msItem xml:id="MS_Ashmole_1437-part4-item1" n="1" class="#documenta" key="work_14376">
                         <note>(endleaf)</note>
                         <title type="desc">Rental of the Dean and Chapter of <orgName key="org_168512946">St. Paul's, London</orgName> (?) (fragment)</title>
                         <textLang mainLang="la">Latin</textLang>

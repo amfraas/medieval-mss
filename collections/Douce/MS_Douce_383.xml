@@ -108,7 +108,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_383-part2-item1" n="1" class="#liturgica" key="work_11060 ">
+                     <msItem xml:id="MS_Douce_383-part2-item1" n="1" class="#liturgica" key="work_11060">
                         <title type="desc">Collectar</title>
                         <note>(fragments)</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -135,7 +135,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_383-part3-item1" n="1" class="#liturgica #computistica" key="work_10687 ">
+                     <msItem xml:id="MS_Douce_383-part3-item1" n="1" class="#liturgica #computistica" key="work_10687">
                         <title type="desc">Calendar</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -117,7 +117,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_633-part2-item1" n="1" class="#auctoritates" key="work_11796 ">
+                     <msItem xml:id="MS_Bodl_633-part2-item1" n="1" class="#auctoritates" key="work_11796">
                         <title type="desc">Extracts on moral subjects from classical authors</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

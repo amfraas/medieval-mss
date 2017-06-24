@@ -49,19 +49,19 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_34-item1" n="1" class="#vitae_sanctorum" key="work_12882 ">
+                  <msItem xml:id="MS_Bodl_34-item1" n="1" class="#vitae_sanctorum" key="work_12882">
                      <title type="desc">Life of St. Katherine of Alexandria</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_34-item2" n="2" class="#vitae_sanctorum" key="work_12889 ">
+                  <msItem xml:id="MS_Bodl_34-item2" n="2" class="#vitae_sanctorum" key="work_12889">
                      <title type="desc">Life of St. Margaret of Antioch</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_34-item3" n="3" class="#vitae_sanctorum" key="work_12879 ">
+                  <msItem xml:id="MS_Bodl_34-item3" n="3" class="#vitae_sanctorum" key="work_12879">
                      <title type="desc">Life of St. Juliana of Nicomedia</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_34-item4" n="4" class="#theologica" key="work_12186 ">
+                  <msItem xml:id="MS_Bodl_34-item4" n="4" class="#theologica" key="work_12186">
                      <title type="desc">Hali Meiðhad</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

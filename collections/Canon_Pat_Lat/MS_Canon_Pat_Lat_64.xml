@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Pat_Lat_64-item1" n="1" class="#theologica #devotiones" key="work_14358 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_64-item1" n="1" class="#theologica #devotiones" key="work_14358">
                      <title type="desc">Religious treatises.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_64-item2" n="2" class="#sermones" key="work_14583 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_64-item2" n="2" class="#sermones" key="work_14583">
                      <title type="desc">Sermons.</title>
                      <note>(attributed to <persName role="author" key="person_59875293">
                            Bernard of Clairvaux

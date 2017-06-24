@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_E_D_Clarke_3-item1" n="1" class="#liturgica" key="work_14627 ">
+                  <msItem xml:id="MS_E_D_Clarke_3-item1" n="1" class="#liturgica" key="work_14627">
                      <title type="desc">Service for third Sunday in Lent</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_E_D_Clarke_3-item2" n="2" class="#grammatica" key="work_12029 ">
+                  <msItem xml:id="MS_E_D_Clarke_3-item2" n="2" class="#grammatica" key="work_12029">
                      <title type="desc">Glossaries</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>

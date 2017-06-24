@@ -110,7 +110,7 @@
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Misc_366-part2-item2" n="2" class="#medica" key="work_13209 ">
+                     <msItem xml:id="MS_Canon_Misc_366-part2-item2" n="2" class="#medica" key="work_13209">
 						                  <title type="desc">Medical recipes.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -171,7 +171,7 @@
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Misc_366-part4-item2" n="2" class="#medica" key="work_10617 ">
+                     <msItem xml:id="MS_Canon_Misc_366-part4-item2" n="2" class="#medica" key="work_10617">
                         <title>Breviarium <persName role="author" key="person_1417"><!-- not found -->Petri de Bisgareto</persName>
                         </title>
                         <note>(1294)</note>

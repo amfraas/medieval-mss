@@ -52,7 +52,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_344-item1" n="1" class="#miscellanea" key="work_14986 ">
+                  <msItem xml:id="MS_Ashmole_344-item1" n="1" class="#miscellanea" key="work_14986">
                      <title type="desc">Treatise on chess.</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
@@ -65,7 +65,7 @@
                      <title>De ludo arithmomachia</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_344-item3" n="3" class="#miscellanea" key="work_14953 ">
+                  <msItem xml:id="MS_Ashmole_344-item3" n="3" class="#miscellanea" key="work_14953">
                      <title type="desc">Treatise on arithmomachia (ludus philosophorum)</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

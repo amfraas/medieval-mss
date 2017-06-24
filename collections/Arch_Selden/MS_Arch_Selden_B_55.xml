@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Arch_Selden_B_55-item1" n="1" class="#ecclesiastica" key="work_11628 ">
+                  <msItem xml:id="MS_Arch_Selden_B_55-item1" n="1" class="#ecclesiastica" key="work_11628">
                      <title type="desc">Documents of Church Councils</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
@@ -58,7 +58,7 @@
                      
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Arch_Selden_B_55-item3" n="3" class="#vitae_sanctorum" key="work_12853 ">
+                  <msItem xml:id="MS_Arch_Selden_B_55-item3" n="3" class="#vitae_sanctorum" key="work_12853">
 						               <title type="desc">Life of St. Cyprian and St. Justina</title>
                      
                      <textLang mainLang="grc">Greek</textLang>

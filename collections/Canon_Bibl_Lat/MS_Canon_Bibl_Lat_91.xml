@@ -56,7 +56,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Bibl_Lat_91-item2" n="2" class="#devotiones" key="work_11526 ">
+                  <msItem xml:id="MS_Canon_Bibl_Lat_91-item2" n="2" class="#devotiones" key="work_11526">
                      <title type="desc">Devotional texts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

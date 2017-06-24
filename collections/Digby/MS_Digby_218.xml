@@ -252,7 +252,7 @@
                         <note>(extracts)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_218-part5-item2" n="2" class="#tabulae" key="work_12372 ">
+                     <msItem xml:id="MS_Digby_218-part5-item2" n="2" class="#tabulae" key="work_12372">
                         <title type="desc">Index to Robert Grosseteste, <hi rend="italic">Dicta CLXVII</hi>
                         </title>
                         <bibl type="related">
@@ -322,7 +322,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_218-part7-item1" n="1" class="#theologica" key="work_10673 "><!-- check -->
+                     <msItem xml:id="MS_Digby_218-part7-item1" n="1" class="#theologica" key="work_10673"><!-- check -->
                         <title type="desc">Cabbalistic (?) fragment</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -351,7 +351,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_218-part8-item1" n="1" class="#ecclesiastica #documenta" key="work_11683 ">
+                     <msItem xml:id="MS_Digby_218-part8-item1" n="1" class="#ecclesiastica #documenta" key="work_11683">
                         <title type="desc">Ecclesiastical documents</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -61,7 +61,7 @@
                      <title>Exafrenon prognosticationum temporis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_194-item3" n="3" class="#astrologia_astronomia" key="work_10342 ">
+                  <msItem xml:id="MS_Digby_194-item3" n="3" class="#astrologia_astronomia" key="work_10342">
 						               <title type="desc">Astrological texts</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -108,7 +108,7 @@
                      <title>De imaginibus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_194-item12" n="12" class="#documenta" key="work_10884 ">
+                  <msItem xml:id="MS_Digby_194-item12" n="12" class="#documenta" key="work_10884">
                      <title>Charter relating to <placeName key="place_7026623">Elberton</placeName> (Ailburton), Glos.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

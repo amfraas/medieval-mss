@@ -261,7 +261,7 @@
                         <title>De somno et uigilia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_190-part7-item2" n="2" class="#astrologia_astronomia" key="work_10384 ">
+                     <msItem xml:id="MS_Digby_190-part7-item2" n="2" class="#astrologia_astronomia" key="work_10384">
 						                  <title type="desc">Astronomical fragments</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -293,7 +293,7 @@
                         <title>Quadripartitum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_190-part8-item2" n="2" class="#mathematica" key="work_15046 ">
+                     <msItem xml:id="MS_Digby_190-part8-item2" n="2" class="#mathematica" key="work_15046">
                         <title type="desc">Treatise on geometry</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -320,7 +320,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_190-part9-item1" n="1" class="#mathematica" key="work_10277 ">
+                     <msItem xml:id="MS_Digby_190-part9-item1" n="1" class="#mathematica" key="work_10277">
 						                  <title type="desc">Arithmetical treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>

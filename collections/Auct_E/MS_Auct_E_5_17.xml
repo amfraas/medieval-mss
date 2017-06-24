@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Auct_E_5_17-item1" n="1" class="#decem_praecepta" key="work_11297 ">
+                  <msItem xml:id="MS_Auct_E_5_17-item1" n="1" class="#decem_praecepta" key="work_11297">
                      <title type="desc">Commentary on the Ten Commandments</title>
                      <textLang mainLang="el">Modern Greek</textLang>
                   </msItem>
@@ -57,7 +57,7 @@
                      <title type="desc">Theological works</title>
                      <textLang mainLang="el">Modern Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_E_5_17-item3" n="3" class="#liturgica" key="work_12335 ">
+                  <msItem xml:id="MS_Auct_E_5_17-item3" n="3" class="#liturgica" key="work_12335">
                      <title type="desc">Hymns</title>
                      <textLang mainLang="el">Modern Greek</textLang>
                   </msItem>

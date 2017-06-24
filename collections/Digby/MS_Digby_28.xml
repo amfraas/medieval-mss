@@ -111,7 +111,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_28-part2-item1" n="1" class="#computistica" key="work_14971 ">
+                     <msItem xml:id="MS_Digby_28-part2-item1" n="1" class="#computistica" key="work_14971">
 						                  <title type="desc">Treatises on calendar</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -125,12 +125,12 @@
                         <title>Epistola de magnete</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_28-part2-item3" n="3" class="#astrologia_astronomia" key="work_10409 ">
+                     <msItem xml:id="MS_Digby_28-part2-item3" n="3" class="#astrologia_astronomia" key="work_10409">
 						                  <title type="desc">Astronomical treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_28-part2-item4" n="4" class="#versus" key="work_13886 ">
+                     <msItem xml:id="MS_Digby_28-part2-item4" n="4" class="#versus" key="work_13886">
 						                  <title type="desc">Poems</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -194,7 +194,7 @@
                         <title>Physiognomia</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_28-part2-item12" n="12" class="#prognostica" key="work_14040 ">
+                     <msItem xml:id="MS_Digby_28-part2-item12" n="12" class="#prognostica" key="work_14040">
                         <title>Prophetia Merlini</title>
                         <note>(Geoffrey of Monmouth, bk. vii)</note>
                         <bibl type="related">

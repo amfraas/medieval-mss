@@ -70,7 +70,7 @@
               Latin translations.</title>
                      <textLang mainLang="la" otherLangs="it">Latin and Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_150-item4" n="4" class="#rhetorica #miscellanea" key="work_14689 ">
+                  <msItem xml:id="MS_Canon_Class_Lat_150-item4" n="4" class="#rhetorica #miscellanea" key="work_14689">
                      <title type="desc">Speeches and letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -216,7 +216,7 @@
                         Philyripolitano (of Lindau)</rubric>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_15-item17" key="work_13977 ">
+                  <msItem xml:id="MS_Bywater_15-item17" key="work_13977">
                      <locus> (fol.209v)</locus>
                      <title type="desc">preface of the translator Athanasius Constantinopolitanus</title>
                      <!-- sic: check -->
@@ -284,12 +284,12 @@
                      <incipit>Contrapunctum est duarum vel plurium vocum</incipit>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_15-item23" class="#virtutes_et_vitia" key="work_14496 ">
+                  <msItem xml:id="MS_Bywater_15-item23" class="#virtutes_et_vitia" key="work_14496">
                      <locus>(fol.246v)</locus>
                      <title type="desc">Scheme of cardinal virtues followed by definitions</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bywater_15-item24" class="#versus" key="work_13878 ">
+                  <msItem xml:id="MS_Bywater_15-item24" class="#versus" key="work_13878">
                      <locus>(fol. 252)</locus>
                      <title type="desc">Poems</title>
                      <note>Three short poems in German, added by a later hand.</note>

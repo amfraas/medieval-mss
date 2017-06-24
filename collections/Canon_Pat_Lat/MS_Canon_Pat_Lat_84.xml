@@ -73,7 +73,7 @@
                         </persName> and other authors</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_84-item4" n="4" class="#auctoritates #theologica #sacramenta" key="work_10428 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_84-item4" n="4" class="#auctoritates #theologica #sacramenta" key="work_10428">
                      <title type="desc">Authorities for the use of unleavened bread in the Eucharist</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

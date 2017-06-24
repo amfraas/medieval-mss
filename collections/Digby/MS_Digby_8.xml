@@ -56,11 +56,11 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_8-item2" n="2" class="#magica" key="work_10875 ">
+                  <msItem xml:id="MS_Digby_8-item2" n="2" class="#magica" key="work_10875">
                      <title type="desc">Charms.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_8-item3" n="3" class="#virtutes_et_vitia #tabulae" key="work_14858 ">
+                  <msItem xml:id="MS_Digby_8-item3" n="3" class="#virtutes_et_vitia #tabulae" key="work_14858">
                      <title type="desc">Tabula of virtues and vices</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

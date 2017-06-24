@@ -56,7 +56,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_292-item2" n="2" class="#biblia" key="work_12080 ">
+                  <msItem xml:id="MS_Douce_292-item2" n="2" class="#biblia" key="work_12080">
                      <title rend="roman">Gospel of St. Mark</title>
                      <bibl type="bible">
                         <title rend="roman">Bible, Mark</title>

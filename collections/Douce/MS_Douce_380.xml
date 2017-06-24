@@ -57,7 +57,7 @@
                      </bibl>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_380-item2" n="2" class="#scientifica" key="work_12043 ">
+                  <msItem xml:id="MS_Douce_380-item2" n="2" class="#scientifica" key="work_12043">
                      <title type="desc">Glossary of plant names</title>
                      <textLang mainLang="la" otherLangs="fr en">Latin, French and English</textLang>
                   </msItem>

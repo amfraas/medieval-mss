@@ -51,12 +51,12 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_63-item1" n="1" class="#computistica #liturgica" key="work_10717 ">
+                  <msItem xml:id="MS_Digby_63-item1" n="1" class="#computistica #liturgica" key="work_10717">
 						               <title type="desc">Calendars</title>
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_63-item2" n="2" class="#computistica" key="work_11333 ">
+                  <msItem xml:id="MS_Digby_63-item2" n="2" class="#computistica" key="work_11333">
                      <title type="desc">Computistical texts</title>
                      <note>(including extracts from <persName role="author" key="person_61539765">
                            Bede

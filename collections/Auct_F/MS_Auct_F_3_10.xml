@@ -69,11 +69,11 @@
                      <note>incomplete</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_10-item4" n="4" class="#sacramenta" key="work_11771 ">
+                  <msItem xml:id="MS_Auct_F_3_10-item4" n="4" class="#sacramenta" key="work_11771">
                      <title type="desc">Expositio missae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Auct_F_3_10-item5" n="5" class="#ecclesiastica" key="work_10752 ">
+                  <msItem xml:id="MS_Auct_F_3_10-item5" n="5" class="#ecclesiastica" key="work_10752">
                      <title type="desc">Canons of the Council of Lyons, 1274</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

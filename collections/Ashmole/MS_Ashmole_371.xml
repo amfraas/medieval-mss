@@ -80,7 +80,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_371-part1-item1" n="1" class="#astrologia_astronomia" key="work_10406 ">
+                     <msItem xml:id="MS_Ashmole_371-part1-item1" n="1" class="#astrologia_astronomia" key="work_10406">
                         <title type="desc">Astronomical treatise</title>
                         <textLang mainLang="en">English</textLang>
                      </msItem>

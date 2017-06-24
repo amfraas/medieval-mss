@@ -60,7 +60,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Class_Lat_311-item2" n="2" class="#logica" key="work_13084 ">
+                  <msItem xml:id="MS_Canon_Class_Lat_311-item2" n="2" class="#logica" key="work_13084">
                      <locus>fols. 7, 33v, 35v</locus>
                      <title type="desc">Logical treatises</title>
                      <textLang mainLang="la">Latin</textLang>

@@ -54,7 +54,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_Rolls_23-item2" n="2" class="#historica" key="work_10920 ">
+                  <msItem xml:id="MS_Bodl_Rolls_23-item2" n="2" class="#historica" key="work_10920">
 						               <title type="desc">Chronicle of the <orgName>Bishops of Winchester<!-- not found --></orgName> to 1419.</title>
                      
                      <note>(back)</note>

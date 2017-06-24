@@ -79,7 +79,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_166-part1-item1" n="1" class="#commentarii" key="work_11220 ">
+                     <msItem xml:id="MS_Digby_166-part1-item1" n="1" class="#commentarii" key="work_11220">
 						                  <title type="desc">Commentary on Johannes de Sacro Bosco, <hi rend="italic">Tractatus de sphaera</hi>
                         </title>
                         
@@ -163,7 +163,7 @@
                         <title>Tractatus de sphaera</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_166-part3-item2" n="2" class="#versus" key="work_13886 ">
+                     <msItem xml:id="MS_Digby_166-part3-item2" n="2" class="#versus" key="work_13886">
 						                  <title type="desc">Poems</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -230,7 +230,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_166-part5-item1" n="1" class="#satirica" key="work_11713 ">
+                     <msItem xml:id="MS_Digby_166-part5-item1" n="1" class="#satirica" key="work_11713">
                         <title>Epistola Satanae</title>
                         <note>(with response)</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -266,7 +266,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_166-part6-item1" n="1" class="#versus" key="work_13886 ">
+                     <msItem xml:id="MS_Digby_166-part6-item1" n="1" class="#versus" key="work_13886">
 						                  <title type="desc">Poems</title>
                         
                         <note>(Goliardic, religious, etc.)</note>
@@ -325,7 +325,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_166-part8-item1" n="1" class="#versus" key="work_13886 ">
+                     <msItem xml:id="MS_Digby_166-part8-item1" n="1" class="#versus" key="work_13886">
 						                  <title type="desc">Poems</title>
                         
                         <note>(some by <persName role="author" key="person_1246"><!-- not found -->
@@ -333,7 +333,7 @@
                            </persName>)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_166-part8-item2" n="2" class="#auctoritates" key="work_14535 ">
+                     <msItem xml:id="MS_Digby_166-part8-item2" n="2" class="#auctoritates" key="work_14535">
                         <title type="desc">Sententiae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

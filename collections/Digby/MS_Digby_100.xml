@@ -61,7 +61,7 @@
                      <title>De ornamentis uerborum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item3" n="3" class="#versus" key="work_13886 ">
+                  <msItem xml:id="MS_Digby_100-item3" n="3" class="#versus" key="work_13886">
 						               <title type="desc">Poems</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -71,7 +71,7 @@
                      <title>De schematibus et tropis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item5" n="5" class="#versus #rhetorica" key="work_15095 ">
+                  <msItem xml:id="MS_Digby_100-item5" n="5" class="#versus #rhetorica" key="work_15095">
                      <title>Treatises on metre and prosody</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -80,7 +80,7 @@
                      <title>Neutrale</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item7" n="7" class="#miscellanea" key="work_11805 "><!-- check -->
+                  <msItem xml:id="MS_Digby_100-item7" n="7" class="#miscellanea" key="work_11805"><!-- check -->
                      <title>Facetus</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -89,7 +89,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item9" n="9" class="#grammatica" key="work_12151 ">
+                  <msItem xml:id="MS_Digby_100-item9" n="9" class="#grammatica" key="work_12151">
 						               <title type="desc">Grammatical treatises</title>
                      
                      <textLang mainLang="la">Latin</textLang>
@@ -105,7 +105,7 @@
                      <title>Deponentiale</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item12" n="12" class="#commentarii" key="work_11135 ">
+                  <msItem xml:id="MS_Digby_100-item12" n="12" class="#commentarii" key="work_11135">
 						               <title type="desc">Commentary on Alexander of Hales, Exoticon</title>
                      
                      <bibl type="commentedOn">
@@ -119,7 +119,7 @@
                      <title>works</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_100-item14" n="14" class="#miscellanea" key="work_11562 "><!-- check -->
+                  <msItem xml:id="MS_Digby_100-item14" n="14" class="#miscellanea" key="work_11562"><!-- check -->
                      <title>Disticha Catonis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -80,7 +80,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_112-part1-item1" n="1" class="#vitae_sanctorum" key="work_13060 ">
+                     <msItem xml:id="MS_Digby_112-part1-item1" n="1" class="#vitae_sanctorum" key="work_13060">
 						                  <title type="desc">Lives of Saints.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -110,7 +110,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_112-part2-item1" n="1" class="#vitae_sanctorum" key="work_13060 ">
+                     <msItem xml:id="MS_Digby_112-part2-item1" n="1" class="#vitae_sanctorum" key="work_13060">
 						                  <title type="desc">Lives of Saints</title>
                         
                         <textLang mainLang="la">Latin</textLang>

@@ -62,7 +62,7 @@
                      </bibl>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_258-item2" n="2" class="#credo" key="work_10419 ">
+                  <msItem xml:id="MS_Douce_258-item2" n="2" class="#credo" key="work_10419">
                      <title rend="roman">Athanasian Creed</title>
                      <note>Wycliffite translation and commentary</note>
                      <textLang mainLang="en">English</textLang>
@@ -75,7 +75,7 @@
                         <title rend="roman">Bible, Gospels</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Douce_258-item4" n="4" class="#biblia" key="work_11994 ">
+                  <msItem xml:id="MS_Douce_258-item4" n="4" class="#biblia" key="work_11994">
                      <title rend="roman">General Epistles</title>
                      <note>later Wycliffite version</note>
                      <bibl type="bible">

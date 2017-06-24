@@ -75,7 +75,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_760-part1-item1" n="1" class="#biblia #commentarii" key="work_11273 ">
+                     <msItem xml:id="MS_Bodl_760-part1-item1" n="1" class="#biblia #commentarii" key="work_11273">
                         <title type="desc">Commentary on Psalms i-xviii</title>
                         <textLang mainLang="la">Latin</textLang>
                         <bibl type="commentedOn">
@@ -176,7 +176,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_760-part4-item1" n="1" class="#legalia" key="work_14973 ">
+                     <msItem xml:id="MS_Bodl_760-part4-item1" n="1" class="#legalia" key="work_14973">
                         <title type="desc">Texts on Canon Law</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

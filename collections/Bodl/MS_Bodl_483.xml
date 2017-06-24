@@ -53,7 +53,7 @@
                      <title type="desc">Medical recipes and treatise</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_483-item2" n="2" class="#medica" key="work_12213 ">
+                  <msItem xml:id="MS_Bodl_483-item2" n="2" class="#medica" key="work_12213">
                      <title type="desc">Herbals</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

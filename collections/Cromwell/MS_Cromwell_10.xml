@@ -97,7 +97,7 @@
                      <title>works</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_10-item6" n="6" class="#historica" key="work_12254 ">
+                  <msItem xml:id="MS_Cromwell_10-item6" n="6" class="#historica" key="work_12254">
 						               <title type="desc">Historical text</title>
                      
                      <textLang mainLang="grc">Greek</textLang>
@@ -129,11 +129,11 @@
                      <title>De paschate</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_10-item10" n="10" class="#theologica" key="work_11533 ">
+                  <msItem xml:id="MS_Cromwell_10-item10" n="10" class="#theologica" key="work_11533">
                      <title type="desc">Dialogue between a Christian and a Jew</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Cromwell_10-item11" n="11" class="#commentarii #biblia" key="work_14077 ">
+                  <msItem xml:id="MS_Cromwell_10-item11" n="11" class="#commentarii #biblia" key="work_14077">
 						               <title type="desc">Psalm 104, with commentary</title>
                      
                      <textLang mainLang="grc">Greek</textLang>

@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_126-item1" n="1" class="#historica #biblia" key="work_10474 ">
+                  <msItem xml:id="MS_Canon_Ital_126-item1" n="1" class="#historica #biblia" key="work_10474">
 						               <title type="desc">Biblical history</title>
                      
                      <textLang mainLang="it">Italian</textLang>
@@ -57,7 +57,7 @@
                         <title>Bible</title>
                      </bibl>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_126-item2" n="2" class="#romances" key="work_10437 ">
+                  <msItem xml:id="MS_Canon_Ital_126-item2" n="2" class="#romances" key="work_10437">
                      <title>Barlaam and Iosaphat</title>
                      <note>(Italian translation)</note>
                      <textLang mainLang="it">Italian</textLang>

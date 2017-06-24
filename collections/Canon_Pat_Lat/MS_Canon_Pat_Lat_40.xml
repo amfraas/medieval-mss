@@ -71,7 +71,7 @@
                      <title type="desc">Sermons.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_40-item4" n="4" class="#devotiones #miscellanea" key="work_10285 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_40-item4" n="4" class="#devotiones #miscellanea" key="work_10285">
                      <title type="desc" rend="italic">Ars moriendi</title>
                      <incipit>Cum de praesentis exilii miseria mortis transitus</incipit>
                      <!-- USTC, etc., and O'Connor, Art of Dying Well -->
@@ -86,7 +86,7 @@
                      <title>Dialogus consolatorius in casibus fortuitis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_40-item6" n="6" class="#auctoritates" key="work_13741 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_40-item6" n="6" class="#auctoritates" key="work_13741">
                      <title type="desc">Patristic texts and extracts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

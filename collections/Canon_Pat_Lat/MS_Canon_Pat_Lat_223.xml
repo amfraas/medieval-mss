@@ -108,15 +108,15 @@
                      <title type="desc">Poems</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_223-item7" n="7" class="#auctoritates #miscellanea" key="work_11043 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_223-item7" n="7" class="#auctoritates #miscellanea" key="work_11043">
                      <title type="desc">Classical extracts and letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_223-item8" n="8" class="#auctoritates #miscellanea #theologica" key="work_13731 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_223-item8" n="8" class="#auctoritates #miscellanea #theologica" key="work_13731">
                      <title type="desc">Patristic extracts and letters</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_223-item9" n="9" class="#auctoritates #miscellanea" key="work_12751 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_223-item9" n="9" class="#auctoritates #miscellanea" key="work_12751">
                      <title type="desc">Letters of <persName role="author" key="person_95283478">
                            Leonardo Bruni
                         </persName> and others</title>

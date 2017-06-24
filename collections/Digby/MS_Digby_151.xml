@@ -51,7 +51,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Digby_151-item1" n="1" class="#biblia" key="work_10096 ">
+                  <msItem xml:id="MS_Digby_151-item1" n="1" class="#biblia" key="work_10096">
                      <title rend="roman">Acts, glossed</title>
                      <textLang mainLang="la">Latin</textLang>
                      <bibl type="bible">
@@ -82,7 +82,7 @@
                      
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Digby_151-item5" n="5" class="#grammatica #miscellanea" key="work_12039 "><!-- check -->
+                  <msItem xml:id="MS_Digby_151-item5" n="5" class="#grammatica #miscellanea" key="work_12039"><!-- check -->
                      <title type="desc">Glossary of Greek or unusual words</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

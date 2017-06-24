@@ -71,11 +71,11 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_52-part1-item1" n="1" class="#proverbia" key="work_14060 ">
+                     <msItem xml:id="MS_Douce_52-part1-item1" n="1" class="#proverbia" key="work_14060">
                         <title type="desc">Proverbs</title>
                         <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Douce_52-part1-item2" n="2" class="#astrologia_astronomia" key="work_14959 ">
+                     <msItem xml:id="MS_Douce_52-part1-item2" n="2" class="#astrologia_astronomia" key="work_14959">
                         <title type="desc">Treatise on astronomy</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -104,7 +104,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Douce_52-part2-item1" n="1" class="#grammatica" key="work_12509 ">
+                     <msItem xml:id="MS_Douce_52-part2-item1" n="1" class="#grammatica" key="work_12509">
                         <title type="desc">Latin sentences</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -54,11 +54,11 @@
               illumination</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_54-item2" n="2" class="#romances" key="work_11803 ">
+                  <msItem xml:id="MS_Douce_54-item2" n="2" class="#romances" key="work_11803">
                      <title>Fabula de rege Arthuro</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_54-item3" n="3" class="#versus" key="work_13886 ">
+                  <msItem xml:id="MS_Douce_54-item3" n="3" class="#versus" key="work_13886">
                      <title type="desc">Poems</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

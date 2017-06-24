@@ -133,12 +133,12 @@
                         <title>Theorica planetarum</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_168-part1-item7" n="7" class="#astrologia_astronomia" key="work_10409 ">
+                     <msItem xml:id="MS_Digby_168-part1-item7" n="7" class="#astrologia_astronomia" key="work_10409">
 						                  <title type="desc">Astronomical treatises</title>
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_168-part1-item8" n="8" class="#mathematica" key="work_12012 ">
+                     <msItem xml:id="MS_Digby_168-part1-item8" n="8" class="#mathematica" key="work_12012">
                         <title type="desc">Geometrical treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -235,7 +235,7 @@
                         
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_168-part4-item2" n="2" class="#sermones" key="work_14583 ">
+                     <msItem xml:id="MS_Digby_168-part4-item2" n="2" class="#sermones" key="work_14583">
 						                  <title type="desc">Sermons.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -268,7 +268,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_168-part5-item1" n="1" class="#theologica #medica" key="work_15234 ">
+                     <msItem xml:id="MS_Digby_168-part5-item1" n="1" class="#theologica #medica" key="work_15234">
 						                  <title type="desc">Theological and medical fragments</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -295,7 +295,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_168-part6-item1" n="1" class="#tabulae" key="work_14843 ">
+                     <msItem xml:id="MS_Digby_168-part6-item1" n="1" class="#tabulae" key="work_14843">
                         <title>Table of contents to Robert de Melun, <hi rend="italic">Summa sententiae theologica</hi>
                         </title>
                         <note>(formerly part of MS. Digby 197)</note>

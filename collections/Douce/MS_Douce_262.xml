@@ -55,7 +55,7 @@
               glosses in Latin and English</note>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_262-item2" n="2" key="work_11269 ">
+                  <msItem xml:id="MS_Douce_262-item2" n="2" key="work_11269">
                      <title>Commentary on Ps.-Dionysius, <hi rend="italic">De mystica theologia</hi>
                      </title>
                      <bibl type="commentedOn">
@@ -77,7 +77,7 @@
                      <title type="desc">Religious treatises</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_262-item5" n="5" class="#devotiones #contemplationes" key="work_10602 ">
+                  <msItem xml:id="MS_Douce_262-item5" n="5" class="#devotiones #contemplationes" key="work_10602">
                      <title>Book of Privy Counselling (Epistle of Privy Counsel)</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

@@ -69,7 +69,7 @@
                      <title>Vita S. Thomae Becket</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_287-item3" n="3" class="#legalia" key="work_11349 ">
+                  <msItem xml:id="MS_Douce_287-item3" n="3" class="#legalia" key="work_11349">
                      <title type="desc">Constitutions of Clarendon</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

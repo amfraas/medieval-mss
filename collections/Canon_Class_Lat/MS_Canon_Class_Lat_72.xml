@@ -109,7 +109,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Canon_Class_Lat_72-part2-item1" n="1" key="work_11243 ">
+                     <msItem xml:id="MS_Canon_Class_Lat_72-part2-item1" n="1" key="work_11243">
                         <title>Commentary on Ovid, Metamorphoses</title>
                         <bibl type="commentedOn">
                            <author key="person_88342447">
@@ -146,7 +146,7 @@
                         <note>(with gloss)</note>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Canon_Class_Lat_72-part3-item2" n="2" class="#grammatica" key="work_11562 ">
+                     <msItem xml:id="MS_Canon_Class_Lat_72-part3-item2" n="2" class="#grammatica" key="work_11562">
                         <title>Disticha Catonis</title>
                         <note>(with gloss)</note>
                         <textLang mainLang="la">Latin</textLang>

@@ -54,7 +54,7 @@
                      <note>(nine items)</note>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Add_C_271-item2" n="2" class="#theologica" key="work_15291 ">
+                  <msItem xml:id="MS_Add_C_271-item2" n="2" class="#theologica" key="work_15291">
                      <title type="desc">Theological pieces by <persName key="person_19730636" role="author">Berengarius
                         Scholasticus</persName> and by <persName key="person_88995118" role="author">Abelard</persName>
                      </title>

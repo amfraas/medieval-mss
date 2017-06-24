@@ -72,7 +72,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_26-part1-item1" n="1" class="#sermones #biblia" key="work_14620 ">
+                     <msItem xml:id="MS_Bodl_26-part1-item1" n="1" class="#sermones #biblia" key="work_14620">
                         <title type="desc">Sermons on St Luke's Gospel</title>
                         <bibl type="commentedOn">
                            <title type="desc">Bible, Luke</title>
@@ -104,7 +104,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_26-part2-item1" n="1" class="#sermones" key="work_14580 ">
+                     <msItem xml:id="MS_Bodl_26-part2-item1" n="1" class="#sermones" key="work_14580">
                         <title type="desc">Sermons</title>
                         <note>(one in English verse)</note>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
@@ -134,7 +134,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_26-part3-item1" n="1" class="#sermones" key="work_14583 ">
+                     <msItem xml:id="MS_Bodl_26-part3-item1" n="1" class="#sermones" key="work_14583">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -163,7 +163,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_26-part4-item1" n="1" class="#sermones" key="work_14583 ">
+                     <msItem xml:id="MS_Bodl_26-part4-item1" n="1" class="#sermones" key="work_14583">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -192,7 +192,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_26-part5-item1" n="1" class="#sermones" key="work_14583 ">
+                     <msItem xml:id="MS_Bodl_26-part5-item1" n="1" class="#sermones" key="work_14583">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -250,7 +250,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_26-part7-item1" n="1" class="#sermones" key="work_14583 ">
+                     <msItem xml:id="MS_Bodl_26-part7-item1" n="1" class="#sermones" key="work_14583">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -279,7 +279,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_26-part8-item1" n="1" class="#sermones" key="work_14583 ">
+                     <msItem xml:id="MS_Bodl_26-part8-item1" n="1" class="#sermones" key="work_14583">
                         <title type="desc">Sermons</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -308,7 +308,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_26-part9-item1" n="1" class="#pastoralia" key="work_14932 ">
+                     <msItem xml:id="MS_Bodl_26-part9-item1" n="1" class="#pastoralia" key="work_14932">
                         <title type="desc">Treatise of moral instruction</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -337,7 +337,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_26-part10-item1" n="1" class="#mathematica #astrologia_astronomia" key="work_10311 ">
+                     <msItem xml:id="MS_Bodl_26-part10-item1" n="1" class="#mathematica #astrologia_astronomia" key="work_10311">
                         <title type="desc">Astrological and arithmetical fragments</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

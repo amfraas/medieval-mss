@@ -106,7 +106,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Cromwell_27-part2-item1" n="1" class="#liturgica" key="work_11740 ">
+                     <msItem xml:id="MS_Cromwell_27-part2-item1" n="1" class="#liturgica" key="work_11740">
                         <title>Evangelia Eothina</title>
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>

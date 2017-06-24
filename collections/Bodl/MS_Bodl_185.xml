@@ -53,7 +53,7 @@
                      <title type="desc">Table of Biblical themes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_185-item2" n="2" class="#distinctiones #biblia" key="work_11568 ">
+                  <msItem xml:id="MS_Bodl_185-item2" n="2" class="#distinctiones #biblia" key="work_11568">
                      <title type="desc">Distinctiones theologicae</title>
                      <note>(Stegmüller 10090)</note>
                      <textLang mainLang="la">Latin</textLang>

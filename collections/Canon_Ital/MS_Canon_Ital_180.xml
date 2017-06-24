@@ -49,7 +49,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Canon_Ital_180-item1" n="1" class="#sermones" key="work_14547 ">
+                  <msItem xml:id="MS_Canon_Ital_180-item1" n="1" class="#sermones" key="work_14547">
 						               <title type="desc">Sermon</title>
                      
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>
@@ -59,7 +59,7 @@
                      
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Ital_180-item3" n="3" class="#theologica #devotiones #versus" key="work_14368 ">
+                  <msItem xml:id="MS_Canon_Ital_180-item3" n="3" class="#theologica #devotiones #versus" key="work_14368">
 						               <title type="desc">Religious verse</title>
                      
                      <textLang mainLang="it" otherLangs="la">Italian and Latin</textLang>

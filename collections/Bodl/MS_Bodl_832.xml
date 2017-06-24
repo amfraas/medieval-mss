@@ -67,7 +67,7 @@
                      <title>Distinctiones rhetoricae</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_832-item3" n="3" class="#versus #rhetorica" key="work_15096 ">
+                  <msItem xml:id="MS_Bodl_832-item3" n="3" class="#versus #rhetorica" key="work_15096">
                      <title type="desc">Treatises on metre and versification</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -93,11 +93,11 @@
                      <title type="desc">Theological notes</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_832-item7" n="7" class="#miscellanea" key="work_15088 ">
+                  <msItem xml:id="MS_Bodl_832-item7" n="7" class="#miscellanea" key="work_15088">
                      <title type="desc">Treatises on manners and nurture</title>
                      <textLang mainLang="en" otherLangs="la">English and Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_832-item8" n="8" class="#astrologia_astronomia" key="work_10342 ">
+                  <msItem xml:id="MS_Bodl_832-item8" n="8" class="#astrologia_astronomia" key="work_10342">
                      <title type="desc">Astrological treatise</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

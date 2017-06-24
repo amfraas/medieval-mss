@@ -108,7 +108,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_91-part2-item1" n="1" class="#animalia" key="work_10448 ">
+                     <msItem xml:id="MS_Bodl_91-part2-item1" n="1" class="#animalia" key="work_10448">
                         <title type="desc">Bestiary</title>
                         <note>(imperfect)</note>
                         <textLang mainLang="la">Latin</textLang>
@@ -137,7 +137,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_91-part3-item1" n="1" key="work_14040 ">
+                     <msItem xml:id="MS_Bodl_91-part3-item1" n="1" key="work_14040">
                         <title>Prophetia Merlini</title>
                         <note>(based on book vii of Geoffrey of Monmouth, <hi rend="italic">Historia regum Brittaniae</hi>)</note>
                         <bibl type="related">
@@ -170,7 +170,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_91-part4-item1" n="1" class="#historica" key="work_11001 ">
+                     <msItem xml:id="MS_Bodl_91-part4-item1" n="1" class="#historica" key="work_11001">
                         <title type="desc">Chronicle to 1280</title>
                         <note>(close to Annals of the priory of
                            Worcester with variations relating to <orgName key="org_151542893">Hyde abbey</orgName> near Winchester)</note>
@@ -228,7 +228,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_91-part6-item1" n="1" class="#documenta" key="work_11642 ">
+                     <msItem xml:id="MS_Bodl_91-part6-item1" n="1" class="#documenta" key="work_11642">
                         <title type="desc">Documents relating to <placeName key="place_7002445">English</placeName> history, 1263-71</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

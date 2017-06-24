@@ -78,7 +78,7 @@
                  
                   <msContents>
                      <textLang mainLang="grc">Greek</textLang>
-                     <msItem xml:id="MS_Barocci_11-part1-item1" n="1" key="work_13501 ">
+                     <msItem xml:id="MS_Barocci_11-part1-item1" n="1" key="work_13501">
                         <locus>(fol. 7r-v)</locus>
                         <title>Notes, including extract from a geronticon</title>
                         <textLang mainLang="grc">Greek</textLang>
@@ -137,7 +137,7 @@
                        
                         <textLang mainLang="grc">Greek</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Barocci_11-part2-item2" n="2" key="work_12835 ">
+                     <msItem xml:id="MS_Barocci_11-part2-item2" n="2" key="work_12835">
                         <locus>(fols. 15r–24v)</locus> 
                         <note>(following the preceding item without
                            interval or heading)</note>   

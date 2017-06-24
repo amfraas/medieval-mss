@@ -52,7 +52,7 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1281-item1" n="1" class="#sermones" key="work_14583 ">
+                  <msItem xml:id="MS_Ashmole_1281-item1" n="1" class="#sermones" key="work_14583">
                      <title type="desc">Sermons.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
@@ -69,7 +69,7 @@
                      <title>De virtutibus et vitiis</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1281-item4" n="4" class="#versus" key="work_13886 ">
+                  <msItem xml:id="MS_Ashmole_1281-item4" n="4" class="#versus" key="work_13886">
                      <title type="desc">Poems</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

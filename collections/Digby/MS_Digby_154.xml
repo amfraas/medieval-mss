@@ -77,7 +77,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_154-part1-item1" n="1" class="#commentarii #sacramenta" key="work_11235 ">
+                     <msItem xml:id="MS_Digby_154-part1-item1" n="1" class="#commentarii #sacramenta" key="work_11235">
 						                  <title type="desc">Commentary on the Mass.</title>
                         
                         <textLang mainLang="la">Latin</textLang>
@@ -91,7 +91,7 @@
                         <title>Compendium in Job</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_154-part1-item3" n="3" class="#biblia" key="work_15163 ">
+                     <msItem xml:id="MS_Digby_154-part1-item3" n="3" class="#biblia" key="work_15163">
                         <title type="desc">Treatise on scripture</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -120,7 +120,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_154-part2-item1" n="1" class="#legalia" key="work_13102 "><!-- check? -->
+                     <msItem xml:id="MS_Digby_154-part2-item1" n="1" class="#legalia" key="work_13102"><!-- check? -->
                         <title type="desc">Magna Carta and the Charter of the Forest (confirmation of 1300)</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -129,15 +129,15 @@
                         <note>(French translation)</note>
                         <textLang mainLang="fr">French</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_154-part2-item3" n="3" class="#monastica #ecclesiastica" key="work_11469 "><!-- check -->
+                     <msItem xml:id="MS_Digby_154-part2-item3" n="3" class="#monastica #ecclesiastica" key="work_11469"><!-- check -->
                         <title type="desc">Decree against the <orgName key="org_152491765">Templars</orgName>, 1309</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_154-part2-item4" n="4" class="#ecclesiastica" key="work_12755 ">
+                     <msItem xml:id="MS_Digby_154-part2-item4" n="4" class="#ecclesiastica" key="work_12755">
                         <title type="desc">Letters on ecclesiastical affairs, 1293-1317.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Digby_154-part2-item5" n="5" class="#legalia" key="work_12598 ">
+                     <msItem xml:id="MS_Digby_154-part2-item5" n="5" class="#legalia" key="work_12598">
 						                  <title type="desc">Legal treatise (?)</title>
                         
                         <note>(fragment)</note>
@@ -221,7 +221,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Digby_154-part4-item1" n="1" class="#legalia" key="work_10670 ">
+                     <msItem xml:id="MS_Digby_154-part4-item1" n="1" class="#legalia" key="work_10670">
                         <title>Britton</title>
                         <note>(legal treatise)</note>
                         <textLang mainLang="fr">French</textLang>

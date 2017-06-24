@@ -62,7 +62,7 @@
                      <title type="desc">Philosophical and theological works</title>
                      <textLang mainLang="grc">Greek</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Barocci_71-item3" n="3" key="work_12747 ">
+                  <msItem xml:id="MS_Barocci_71-item3" n="3" key="work_12747">
                      <title type="desc">Letters of <persName role="author" key="person_89202772">
                            Emperor Marcianus
                         </persName> and <persName role="author" key="person_9875336">

@@ -49,16 +49,16 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Ashmole_1286-item1" n="1" class="#contemplationes" key="work_11370 ">
+                  <msItem xml:id="MS_Ashmole_1286-item1" n="1" class="#contemplationes" key="work_11370">
                      <title type="desc">Contemplations of the Dread and Love of God</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1286-item2" n="2" class="#pastoralia #contemplationes" key="work_13918 ">
+                  <msItem xml:id="MS_Ashmole_1286-item2" n="2" class="#pastoralia #contemplationes" key="work_13918">
                      <title type="desc">Poor
               Caitiff.</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Ashmole_1286-item3" n="3" key="work_14629 ">
+                  <msItem xml:id="MS_Ashmole_1286-item3" n="3" key="work_14629">
                      <title type="desc">The Seven Gifts of the Holy Ghost</title>
                      <note>(translation of second part of <hi rend="italic">Somme le Roi</hi>)</note>
                      <textLang mainLang="en">English</textLang>

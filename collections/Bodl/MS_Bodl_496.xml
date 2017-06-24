@@ -82,7 +82,7 @@
                         <title>Historia Alexandri magni</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_496-part1-item2" n="2" class="#satirica #versus" key="work_10240 ">
+                     <msItem xml:id="MS_Bodl_496-part1-item2" n="2" class="#satirica #versus" key="work_10240">
                         <title>Apocalypsis Goliae</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -127,7 +127,7 @@
                         <title type="desc">Poems</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Bodl_496-part1-item8" n="8" class="#miscellanea" key="work_13332 ">
+                     <msItem xml:id="MS_Bodl_496-part1-item8" n="8" class="#miscellanea" key="work_13332">
                         <title type="desc">Miscellanea</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -79,7 +79,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_579-part1-item1" n="1" class="#liturgica" key="work_13147 ">
+                     <msItem xml:id="MS_Bodl_579-part1-item1" n="1" class="#liturgica" key="work_13147">
                         <title type="desc">Masses, benedictions, exorcisms and
                            similar</title>
                         <textLang mainLang="la" otherLangs="en">Latin and Old English</textLang>
@@ -140,7 +140,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Bodl_579-part3-item1" n="1" class="#computistica" key="work_10698 ">
+                     <msItem xml:id="MS_Bodl_579-part3-item1" n="1" class="#computistica" key="work_10698">
                         <title type="desc">Calendar, Paschal Tables, etc</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

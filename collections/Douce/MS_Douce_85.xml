@@ -65,11 +65,11 @@
                      <title>Secretum secretorum</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_85-item3" n="3" class="#lapidaria" key="work_12505 ">
+                  <msItem xml:id="MS_Douce_85-item3" n="3" class="#lapidaria" key="work_12505">
                      <title type="desc">Lapidary</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Douce_85-item4" n="4" class="#historica" key="work_12255 ">
+                  <msItem xml:id="MS_Douce_85-item4" n="4" class="#historica" key="work_12255">
                      <title type="desc">Historical texts</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

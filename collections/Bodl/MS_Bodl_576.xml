@@ -49,11 +49,11 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_576-item1" n="1" class="#contemplationes #theologica" key="work_11046 ">
+                  <msItem xml:id="MS_Bodl_576-item1" n="1" class="#contemplationes #theologica" key="work_11046">
                      <title>The Cloud of Unknowing</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_576-item2" n="2" class="#theologica #contemplationes" key="work_10602 ">
+                  <msItem xml:id="MS_Bodl_576-item2" n="2" class="#theologica #contemplationes" key="work_10602">
                      <title>The Book of Privy Counselling (Pistle of Private Counsel)</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
@@ -61,7 +61,7 @@
                      <title>Treatise of Discretion of Spirits</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_576-item4" n="4" class="#theologica #contemplationes" key="work_13827 ">
+                  <msItem xml:id="MS_Bodl_576-item4" n="4" class="#theologica #contemplationes" key="work_13827">
                      <title>A Pistle of Prayer</title>
                      <textLang mainLang="en">English</textLang>
                   </msItem>

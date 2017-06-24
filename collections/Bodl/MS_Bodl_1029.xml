@@ -49,15 +49,15 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem xml:id="MS_Bodl_1029-item1" n="1" class="#sacramenta" key="work_14997 ">
+                  <msItem xml:id="MS_Bodl_1029-item1" n="1" class="#sacramenta" key="work_14997">
                      <title type="desc">Treatise on confession</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_1029-item2" n="2" class="#sacramenta" key="work_15090 ">
+                  <msItem xml:id="MS_Bodl_1029-item2" n="2" class="#sacramenta" key="work_15090">
                      <title type="desc">Treatise on the Mass</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_1029-item3" n="3" class="#vitae_sanctorum" key="work_12185 ">
+                  <msItem xml:id="MS_Bodl_1029-item3" n="3" class="#vitae_sanctorum" key="work_12185">
                      <title type="desc">Hagiographical texts</title>
                      <textLang mainLang="it">Italian</textLang>
                   </msItem>

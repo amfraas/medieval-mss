@@ -137,7 +137,7 @@
                   </msIdentifier>
                   <msContents>
                      <textLang mainLang="grc">Greek</textLang>
-                     <msItem xml:id="MS_Barocci_192-part1-item1" n="1" key="work_13288 ">
+                     <msItem xml:id="MS_Barocci_192-part1-item1" n="1" key="work_13288">
                      
                          <locus>(fols. 3r–184v)</locus> 
                         <title>menologion for December 15–31</title>
@@ -576,7 +576,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Barocci_192-part2-item1" n="1" key="work_12558 ">
+                     <msItem xml:id="MS_Barocci_192-part2-item1" n="1" key="work_12558">
                         <title type="desc">Lectionary</title>
                         
                        <note>Fragment, with passages for reading from the Gospels and hymns (stichera and kontakia) for

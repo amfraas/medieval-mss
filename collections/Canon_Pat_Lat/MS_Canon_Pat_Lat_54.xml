@@ -53,7 +53,7 @@
                      <title type="desc">Treatise on ecclesiastical rites</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Canon_Pat_Lat_54-item2" n="2" class="#virtutes_et_vitia" key="work_11795 ">
+                  <msItem xml:id="MS_Canon_Pat_Lat_54-item2" n="2" class="#virtutes_et_vitia" key="work_11795">
                      <title type="desc">Extracts on Christian virtues.</title>
                      <textLang mainLang="la">Latin</textLang>
                   </msItem>

@@ -86,7 +86,7 @@
                         <title type="desc">Medical treatises.</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_399-part1-item2" n="2" class="#mathematica" key="work_10277 ">
+                     <msItem xml:id="MS_Ashmole_399-part1-item2" n="2" class="#mathematica" key="work_10277">
                         <title type="desc">Arithmetical treatises</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
@@ -140,7 +140,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_399-part2-item1" n="1" class="#medica" key="work_13193 ">
+                     <msItem xml:id="MS_Ashmole_399-part2-item1" n="1" class="#medica" key="work_13193">
                         <title type="desc">Medical images </title>
                         <note>(bifolium without text)</note>
                         <textLang mainLang="la">Latin</textLang>

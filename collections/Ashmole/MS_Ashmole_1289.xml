@@ -85,14 +85,14 @@
                         <title type="desc">Theological texts</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1289-part1-item2" n="2" class="#biblia" key="work_10471 ">
+                     <msItem xml:id="MS_Ashmole_1289-part1-item2" n="2" class="#biblia" key="work_10471">
                         <title type="desc">Biblical extracts</title>
                         <textLang mainLang="la">Latin</textLang>
                         <bibl type="bible">
                            <title>Bible</title>
                         </bibl>
                      </msItem>
-                     <msItem xml:id="MS_Ashmole_1289-part1-item3" n="3" class="#vitae_sanctorum" key="work_13060 ">
+                     <msItem xml:id="MS_Ashmole_1289-part1-item3" n="3" class="#vitae_sanctorum" key="work_13060">
                         <title type="desc">Lives of Saints</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>

@@ -54,7 +54,7 @@
                      </title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                   </msItem>
-                  <msItem xml:id="MS_Bodl_985-item2" n="2" class="#legalia" key="work_12595 ">
+                  <msItem xml:id="MS_Bodl_985-item2" n="2" class="#legalia" key="work_12595">
                      <title type="desc">Legal texts</title>
                      <textLang mainLang="la" otherLangs="fr">Latin and French</textLang>
                   </msItem>

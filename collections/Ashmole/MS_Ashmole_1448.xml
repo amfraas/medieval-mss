@@ -78,7 +78,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1448-part1-item1" n="1" class="#alchimia" key="work_10152 ">
+                     <msItem xml:id="MS_Ashmole_1448-part1-item1" n="1" class="#alchimia" key="work_10152">
                         <title type="desc">Alchemical treatises.</title>
                         <textLang mainLang="la" otherLangs="en">Latin and English</textLang>
                      </msItem>
@@ -111,7 +111,7 @@
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                     <msItem xml:id="MS_Ashmole_1448-part2-item1" n="1" class="#computistica" key="work_10687 ">
+                     <msItem xml:id="MS_Ashmole_1448-part2-item1" n="1" class="#computistica" key="work_10687">
                         <title type="desc">Calendar</title>
                         <textLang mainLang="la">Latin</textLang>
                      </msItem>
